@@ -1,0 +1,78 @@
+{
+  "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\bbox_first_transfer_best.pt",
+  "sha256": "67d3d16cc33c52a3b9d9dcf77eb3b1f4df2d172a79245c5472dfb8dfd4ddb09f",
+  "validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.9114597916871027,
+      "metrics/recall(B)": 0.8584987432941793,
+      "metrics/mAP50(B)": 0.9053448136843857,
+      "metrics/mAP50-95(B)": 0.7993121579976038,
+      "fitness": 0.7993121579976038
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "speed_ms": {
+      "preprocess": 0.7662775239057039,
+      "inference": 5.47677603863711,
+      "loss": 0.0005714894620568956,
+      "postprocess": 0.7743753635503828
+    },
+    "box": {
+      "map": 0.7993121579976038,
+      "map50": 0.9053448136843857,
+      "per_class_map": [
+        0.8096497650479015,
+        0.7527159967577735,
+        0.8609709057884893,
+        0.8239570603231732,
+        0.8510830665536832,
+        0.7051873450445861,
+        0.7916209664676207
+      ]
+    }
+  },
+  "config": {
+    "imgsz": 640,
+    "epochs": 100,
+    "patience": 10,
+    "batch": 16,
+    "nbs": 64,
+    "workers": 4,
+    "cache": false,
+    "amp": true,
+    "device": 0,
+    "optimizer": "AdamW",
+    "warmup_bias_lr": 0.0,
+    "warmup_epochs": 1.0,
+    "weight_decay": 0.0005,
+    "lrf": 0.2,
+    "cos_lr": true,
+    "close_mosaic": 0,
+    "mixup": 0.0,
+    "cutmix": 0.0,
+    "copy_paste": 0.0,
+    "flipud": 0.0,
+    "fliplr": 0.5,
+    "seed": 73,
+    "plots": false,
+    "save": true,
+    "verbose": false,
+    "freeze": 10,
+    "lr0": 3e-05,
+    "mosaic": 0.0,
+    "hsv_h": 0.005,
+    "hsv_s": 0.15,
+    "hsv_v": 0.15,
+    "degrees": 3.0,
+    "translate": 0.03,
+    "scale": 0.1
+  },
+  "started_at": "2026-09-13T13:19:25"
+}

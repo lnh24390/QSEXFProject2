@@ -1,0 +1,13 @@
+path: C:/Users/USER/Desktop/trash_detection_project/04_results/baseline_training/runs/imgsz_scan_down
+train: C:/Users/USER/Desktop/trash_detection_project/04_results/baseline_training/runs/imgsz_scan_down/seg_yolo11n_val.txt
+val: C:/Users/USER/Desktop/trash_detection_project/04_results/baseline_training/runs/imgsz_scan_down/seg_yolo11n_val.txt
+test: C:/Users/USER/Desktop/trash_detection_project/04_results/baseline_training/runs/imgsz_scan_down/seg_yolo11n_val.txt
+nc: 7
+names:
+  0: general
+  1: can
+  2: plastic
+  3: paper
+  4: glass
+  5: vinyl
+  6: battery

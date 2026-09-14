@@ -1,0 +1,185 @@
+{
+  "task": "seg",
+  "stage": "final",
+  "input_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\seg_stage3_selected.pt",
+  "input_sha256": "137aea261474ccb4ce5fa5048505d752538c3d66ccbbea66faa47a5240cb1334",
+  "input_validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.8903696826962941,
+      "metrics/recall(B)": 0.833049437736549,
+      "metrics/mAP50(B)": 0.8989521627899654,
+      "metrics/mAP50-95(B)": 0.8486689710797025,
+      "metrics/precision(M)": 0.8884781228566209,
+      "metrics/recall(M)": 0.8287756970115941,
+      "metrics/mAP50(M)": 0.8920373983343485,
+      "metrics/mAP50-95(M)": 0.8057364215007088,
+      "fitness": 1.6544053925804114
+    },
+    "names": {
+      "0": "general",
+      "1": "can",
+      "2": "plastic",
+      "3": "paper",
+      "4": "glass",
+      "5": "vinyl",
+      "6": "battery"
+    },
+    "speed_ms": {
+      "preprocess": 0.8420459860449061,
+      "inference": 3.257907321668149,
+      "loss": 0.0005143835900475401,
+      "postprocess": 1.0005786167066224
+    },
+    "box": {
+      "map": 0.8486689710797025,
+      "map50": 0.8989521627899654,
+      "per_class_map": [
+        0.8680415596586378,
+        0.9207689731586486,
+        0.8295937994554476,
+        0.8508500225383887,
+        0.9073786035804721,
+        0.7600596742763479,
+        0.8039901648899745
+      ]
+    },
+    "seg": {
+      "map": 0.8057364215007088,
+      "map50": 0.8920373983343485,
+      "per_class_map": [
+        0.8019846307492486,
+        0.8948650000604209,
+        0.7747651657978029,
+        0.8225540121464249,
+        0.8714603691434475,
+        0.7157713007556097,
+        0.7587544718520071
+      ]
+    }
+  },
+  "input_score": 1.6544053925804114,
+  "candidate_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\runs\\seg_final\\weights\\best.pt",
+  "candidate_validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.8937376661215025,
+      "metrics/recall(B)": 0.8306429970722167,
+      "metrics/mAP50(B)": 0.8991479415061104,
+      "metrics/mAP50-95(B)": 0.8493328492373098,
+      "metrics/precision(M)": 0.8916008272330079,
+      "metrics/recall(M)": 0.8267894004860453,
+      "metrics/mAP50(M)": 0.8929007356364246,
+      "metrics/mAP50-95(M)": 0.8053939997050973,
+      "fitness": 1.6547268489424072
+    },
+    "names": {
+      "0": "general",
+      "1": "can",
+      "2": "plastic",
+      "3": "paper",
+      "4": "glass",
+      "5": "vinyl",
+      "6": "battery"
+    },
+    "speed_ms": {
+      "preprocess": 0.7832891265534532,
+      "inference": 3.2175842351341086,
+      "loss": 0.0004955446585285114,
+      "postprocess": 1.0399856164200367
+    },
+    "box": {
+      "map": 0.8493328492373098,
+      "map50": 0.8991479415061104,
+      "per_class_map": [
+        0.8666008475742766,
+        0.9195486711916416,
+        0.832118378319785,
+        0.8508699630938971,
+        0.9087445305301534,
+        0.7609063963114797,
+        0.8065411576399356
+      ]
+    },
+    "seg": {
+      "map": 0.8053939997050973,
+      "map50": 0.8929007356364246,
+      "per_class_map": [
+        0.8000496790390079,
+        0.8929856986786099,
+        0.7748130169242956,
+        0.8217533725324031,
+        0.87160358603257,
+        0.7162009754756646,
+        0.7603516692531295
+      ]
+    }
+  },
+  "candidate_score": 1.6547268489424072,
+  "promotion": {
+    "accepted": false,
+    "checks": {
+      "fitness_improved": true,
+      "box_overall_not_lower": true,
+      "box_class_drop_within_1pp": true,
+      "seg_overall_not_lower": false,
+      "seg_class_drop_within_1pp": true
+    },
+    "note": "Validation rule fixed in advance; not a statistical significance claim."
+  },
+  "selected_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\seg_final_selected.pt",
+  "selected_sha256": "137aea261474ccb4ce5fa5048505d752538c3d66ccbbea66faa47a5240cb1334",
+  "selected_validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.8903696826962941,
+      "metrics/recall(B)": 0.833049437736549,
+      "metrics/mAP50(B)": 0.8989521627899654,
+      "metrics/mAP50-95(B)": 0.8486689710797025,
+      "metrics/precision(M)": 0.8884781228566209,
+      "metrics/recall(M)": 0.8287756970115941,
+      "metrics/mAP50(M)": 0.8920373983343485,
+      "metrics/mAP50-95(M)": 0.8057364215007088,
+      "fitness": 1.6544053925804114
+    },
+    "names": {
+      "0": "general",
+      "1": "can",
+      "2": "plastic",
+      "3": "paper",
+      "4": "glass",
+      "5": "vinyl",
+      "6": "battery"
+    },
+    "speed_ms": {
+      "preprocess": 0.8420459860449061,
+      "inference": 3.257907321668149,
+      "loss": 0.0005143835900475401,
+      "postprocess": 1.0005786167066224
+    },
+    "box": {
+      "map": 0.8486689710797025,
+      "map50": 0.8989521627899654,
+      "per_class_map": [
+        0.8680415596586378,
+        0.9207689731586486,
+        0.8295937994554476,
+        0.8508500225383887,
+        0.9073786035804721,
+        0.7600596742763479,
+        0.8039901648899745
+      ]
+    },
+    "seg": {
+      "map": 0.8057364215007088,
+      "map50": 0.8920373983343485,
+      "per_class_map": [
+        0.8019846307492486,
+        0.8948650000604209,
+        0.7747651657978029,
+        0.8225540121464249,
+        0.8714603691434475,
+        0.7157713007556097,
+        0.7587544718520071
+      ]
+    }
+  },
+  "completed_at": "2026-09-14T13:34:54"
+}

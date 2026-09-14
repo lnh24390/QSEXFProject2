@@ -1,0 +1,18 @@
+_analysis_cache_dir: C:\Users\USER\Desktop\trash_detection_project\04_results\model_analysis\evaluations\bbox\external\20260914T092201836071Z_bbox_final_selected_b4e93f81
+_analysis_count: 12
+_analysis_fingerprint: 47c4b143dee6d8107b9a74dac2d9e39000bec0e753d571d15276a4b92989a51a
+channels: 3
+names:
+  '0': paper
+  '1': plastic
+  '2': can
+  '3': glass
+  '4': battery
+  '5': vinyl
+  '6': general
+nc: 7
+path: C:\Users\USER\Desktop\trash_detection_project\01_datasets\finetuning_640\training_640_bbox
+test: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\test.txt
+train: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\test.txt
+val: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\test.txt
+yaml_file: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\bbox.yaml

@@ -1,0 +1,132 @@
+{
+  "task": "bbox",
+  "stage": "stage3",
+  "input_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\bbox_stage2_selected.pt",
+  "input_sha256": "916b5bc4e97e1adac295d37bd14791b5e6bc1d3df212ffc3253925bc5b0af3e1",
+  "input_validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.9161215067954452,
+      "metrics/recall(B)": 0.8685399908994513,
+      "metrics/mAP50(B)": 0.911599359908737,
+      "metrics/mAP50-95(B)": 0.8207441476781537,
+      "fitness": 0.8207441476781537
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "speed_ms": {
+      "preprocess": 0.6394030848369242,
+      "inference": 5.449503531329612,
+      "loss": 0.000263336134294267,
+      "postprocess": 0.6681806398044657
+    },
+    "box": {
+      "map": 0.8207441476781537,
+      "map50": 0.911599359908737,
+      "per_class_map": [
+        0.8466137902986335,
+        0.7812119430201606,
+        0.8685016886478806,
+        0.8320670379138543,
+        0.8550784494083853,
+        0.7395756998484518,
+        0.8221604246097105
+      ]
+    }
+  },
+  "input_score": 0.8207441476781537,
+  "candidate_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\runs\\bbox_stage3\\weights\\best.pt",
+  "candidate_validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.9185323679400405,
+      "metrics/recall(B)": 0.8766139645810463,
+      "metrics/mAP50(B)": 0.9106692343987144,
+      "metrics/mAP50-95(B)": 0.8364510260346927,
+      "fitness": 0.8364510260346927
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "speed_ms": {
+      "preprocess": 0.617294858749449,
+      "inference": 5.4620045907792045,
+      "loss": 0.0002806605914103484,
+      "postprocess": 0.6246194329279532
+    },
+    "box": {
+      "map": 0.8364510260346927,
+      "map50": 0.9106692343987144,
+      "per_class_map": [
+        0.8524600504787477,
+        0.8016916859098208,
+        0.8878646516891131,
+        0.8550776324347051,
+        0.8617119272716259,
+        0.7526266402000766,
+        0.8437245942587589
+      ]
+    }
+  },
+  "candidate_score": 0.8364510260346927,
+  "promotion": {
+    "accepted": true,
+    "checks": {
+      "fitness_improved": true,
+      "box_overall_not_lower": true,
+      "box_class_drop_within_1pp": true
+    },
+    "note": "Validation rule fixed in advance; not a statistical significance claim."
+  },
+  "selected_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\bbox_stage3_selected.pt",
+  "selected_sha256": "bd16689deb35b46dd7c1fd94e9e9702cfee4b8dc04a8b2dd54bcb495bb96368e",
+  "selected_validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.9185323679400405,
+      "metrics/recall(B)": 0.8766139645810463,
+      "metrics/mAP50(B)": 0.9106692343987144,
+      "metrics/mAP50-95(B)": 0.8364510260346927,
+      "fitness": 0.8364510260346927
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "speed_ms": {
+      "preprocess": 0.617294858749449,
+      "inference": 5.4620045907792045,
+      "loss": 0.0002806605914103484,
+      "postprocess": 0.6246194329279532
+    },
+    "box": {
+      "map": 0.8364510260346927,
+      "map50": 0.9106692343987144,
+      "per_class_map": [
+        0.8524600504787477,
+        0.8016916859098208,
+        0.8878646516891131,
+        0.8550776324347051,
+        0.8617119272716259,
+        0.7526266402000766,
+        0.8437245942587589
+      ]
+    }
+  },
+  "completed_at": "2026-09-14T02:29:02"
+}

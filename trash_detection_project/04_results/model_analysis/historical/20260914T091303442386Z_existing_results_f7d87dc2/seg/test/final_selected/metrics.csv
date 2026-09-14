@@ -1,0 +1,17 @@
+﻿model,task,split,metric,class,precision,recall,map50,map50_95
+final_selected,seg,test,box,all,0.8036853006132876,0.765272064727354,0.8162653933433693,0.7422757208256401
+final_selected,seg,test,box,general,,,,0.7458445639503283
+final_selected,seg,test,box,can,,,,0.8339767849685377
+final_selected,seg,test,box,plastic,,,,0.5244176361542935
+final_selected,seg,test,box,paper,,,,0.8377881415764754
+final_selected,seg,test,box,glass,,,,0.6616962506226939
+final_selected,seg,test,box,vinyl,,,,0.6999796016698253
+final_selected,seg,test,box,battery,,,,0.8922270668373276
+final_selected,seg,test,seg,all,0.8101675404037645,0.7493496603688037,0.8053471760028396,0.6871366494877634
+final_selected,seg,test,seg,general,,,,0.6671115491644801
+final_selected,seg,test,seg,can,,,,0.7902661848566904
+final_selected,seg,test,seg,plastic,,,,0.45262316310662387
+final_selected,seg,test,seg,paper,,,,0.7927187292723149
+final_selected,seg,test,seg,glass,,,,0.6183151194278839
+final_selected,seg,test,seg,vinyl,,,,0.642737283066146
+final_selected,seg,test,seg,battery,,,,0.8461845175202047

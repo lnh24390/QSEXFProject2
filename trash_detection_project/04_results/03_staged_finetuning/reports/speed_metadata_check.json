@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-09-13T20:12:00.964236",
+  "training_manifest": "data/bbox_stage3_train.txt",
+  "entries_per_epoch": 54727,
+  "unique_images": 53103,
+  "validation_images": 9628,
+  "metadata_spot_check": {
+    "images": 20,
+    "all_640_jpeg": true,
+    "metadata_found": false,
+    "mean_file_bytes": 81109.6
+  },
+  "gpu_snapshot": {
+    "model": "RTX 4060",
+    "utilization_percent": 99,
+    "used_mib": 5511,
+    "total_mib": 8188
+  },
+  "interpretation": "Full original replay raised per-epoch train exposures from first-transfer 11040 to 54727. JPEG metadata stripping reduces storage/IO, not the number of decoded 640 pixels processed by the model. Single GPU snapshot suggests compute is busy; it is not a full profiler measurement.",
+  "changes": "No training settings or image files changed during this read-only check."
+}

@@ -1,0 +1,12 @@
+{
+  "version": "8.4.146",
+  "defaults": {
+    "mosaic": 1.0,
+    "mixup": 0.0,
+    "cutmix": 0.0,
+    "copy_paste": 0.0,
+    "close_mosaic": 10,
+    "scale": 0.5
+  },
+  "close_mosaic_source": "    def close_mosaic(self, hyp: dict) -> None:\n        \"\"\"Disable mosaic, copy_paste, mixup and cutmix augmentations by setting their values to 0.0.\n\n        Args:\n            hyp (dict): Hyperparameters for transforms.\n        \"\"\"\n        hyp.mosaic = 0.0\n        hyp.copy_paste = 0.0\n        hyp.mixup = 0.0\n        hyp.cutmix = 0.0\n        self.transforms = self.build_transforms(hyp)\n"
+}

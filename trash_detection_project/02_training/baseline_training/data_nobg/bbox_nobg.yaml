@@ -1,0 +1,13 @@
+path: C:/Users/USER/Desktop/trash_detection_project/02_training/baseline_training/data_nobg
+train: C:/Users/USER/Desktop/trash_detection_project/02_training/baseline_training/data_nobg/bbox_train.txt
+val: C:/Users/USER/Desktop/trash_detection_project/02_training/baseline_training/data_nobg/bbox_val.txt
+test: C:/Users/USER/Desktop/trash_detection_project/02_training/baseline_training/data_nobg/bbox_test.txt
+nc: 7
+names:
+  0: paper
+  1: plastic
+  2: can
+  3: glass
+  4: battery
+  5: vinyl
+  6: general

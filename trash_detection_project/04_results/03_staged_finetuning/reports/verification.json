@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "promotion_cases_checked": 5,
+  "class_order_and_checkpoint_hashes_verified": true,
+  "stage3_pixel_only_trials": 100,
+  "changed_images": 9,
+  "label_geometry_unchanged": true,
+  "metadata_spot_checks": 24,
+  "full_prior_image_validation_reused": true,
+  "config_epochs": 100,
+  "patience": 10,
+  "image_files_created": 0
+}

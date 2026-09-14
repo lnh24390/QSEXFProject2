@@ -1,0 +1,25 @@
+==============================================================
+ 학습 설정
+==============================================================
+메모            : seg_nobg 학습 (yolo26s-seg.pt, 배경 이미지 제외)
+시작 시각       : 2026-09-12 21:19:11
+모델            : yolo26s-seg.pt
+데이터          : C:\Users\USER\Desktop\trash_detection_project\02_training\baseline_training\data_nobg\seg_nobg.yaml
+이미지 크기     : 640
+batch           : 16
+workers         : 4
+cache           : False
+AMP             : True
+epochs (최대)   : 100
+patience(조기종료): 10
+optimizer       : auto
+seed            : 0
+--------------------------------------------------------------
+학습 이미지     : 47,473 (배경 0장, 0.0%)
+검증 이미지     : 9,179 (배경 0장, 0.0%)
+클래스 7개    : general, can, plastic, paper, glass, vinyl, battery
+--------------------------------------------------------------
+device          : 0
+torch           : 2.14.0+cu126
+GPU             : NVIDIA GeForce RTX 4060 (8.59 GB)
+==============================================================

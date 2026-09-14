@@ -1,0 +1,962 @@
+[
+  {
+    "id": 0,
+    "source_category": "Aluminium foil",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 1,
+    "source_category": "Battery",
+    "proposed_class": "battery",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "battery",
+      "material_hint": "battery",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 2,
+    "source_category": "Aluminium blister pack",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 3,
+    "source_category": "Carded blister pack",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 4,
+    "source_category": "Other plastic bottle",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 5,
+    "source_category": "Clear plastic bottle",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 6,
+    "source_category": "Glass bottle",
+    "proposed_class": "glass",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "glass",
+      "material_hint": "glass",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 7,
+    "source_category": "Plastic bottle cap",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 8,
+    "source_category": "Metal bottle cap",
+    "proposed_class": "can",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "can",
+      "material_hint": "can",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 9,
+    "source_category": "Broken glass",
+    "proposed_class": "glass",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "glass",
+      "material_hint": "glass",
+      "damage": "broken",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 10,
+    "source_category": "Food Can",
+    "proposed_class": "can",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "can",
+      "material_hint": "can",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 11,
+    "source_category": "Aerosol",
+    "proposed_class": "can",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "can",
+      "material_hint": "can",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 12,
+    "source_category": "Drink can",
+    "proposed_class": "can",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "can",
+      "material_hint": "can",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 13,
+    "source_category": "Toilet tube",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 14,
+    "source_category": "Other carton",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 15,
+    "source_category": "Egg carton",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 16,
+    "source_category": "Drink carton",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 17,
+    "source_category": "Corrugated carton",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 18,
+    "source_category": "Meal carton",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 19,
+    "source_category": "Pizza box",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 20,
+    "source_category": "Paper cup",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 21,
+    "source_category": "Disposable plastic cup",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 22,
+    "source_category": "Foam cup",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 23,
+    "source_category": "Glass cup",
+    "proposed_class": "glass",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "glass",
+      "material_hint": "glass",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 24,
+    "source_category": "Other plastic cup",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 25,
+    "source_category": "Food waste",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 26,
+    "source_category": "Glass jar",
+    "proposed_class": "glass",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "glass",
+      "material_hint": "glass",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 27,
+    "source_category": "Plastic lid",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 28,
+    "source_category": "Metal lid",
+    "proposed_class": "can",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "can",
+      "material_hint": "can",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 29,
+    "source_category": "Other plastic",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 30,
+    "source_category": "Magazine paper",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 31,
+    "source_category": "Tissues",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 32,
+    "source_category": "Wrapping paper",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 33,
+    "source_category": "Normal paper",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 34,
+    "source_category": "Paper bag",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 35,
+    "source_category": "Plastified paper bag",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 36,
+    "source_category": "Plastic film",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 37,
+    "source_category": "Six pack rings",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 38,
+    "source_category": "Garbage bag",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 39,
+    "source_category": "Other plastic wrapper",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 40,
+    "source_category": "Single-use carrier bag",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 41,
+    "source_category": "Polypropylene bag",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 42,
+    "source_category": "Crisp packet",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 43,
+    "source_category": "Spread tub",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 44,
+    "source_category": "Tupperware",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 45,
+    "source_category": "Disposable food container",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 46,
+    "source_category": "Foam food container",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 47,
+    "source_category": "Other plastic container",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 48,
+    "source_category": "Plastic glooves",
+    "proposed_class": "vinyl",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "vinyl",
+      "material_hint": "vinyl",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 49,
+    "source_category": "Plastic utensils",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 50,
+    "source_category": "Pop tab",
+    "proposed_class": "can",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "can",
+      "material_hint": "can",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 51,
+    "source_category": "Rope & strings",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 52,
+    "source_category": "Scrap metal",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 53,
+    "source_category": "Shoe",
+    "proposed_class": "general",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "general",
+      "material_hint": "general",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 54,
+    "source_category": "Squeezable tube",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 55,
+    "source_category": "Plastic straw",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 56,
+    "source_category": "Paper straw",
+    "proposed_class": "paper",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "paper",
+      "material_hint": "paper",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 57,
+    "source_category": "Styrofoam piece",
+    "proposed_class": "plastic",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "plastic",
+      "material_hint": "plastic",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 58,
+    "source_category": "Unlabeled litter",
+    "proposed_class": null,
+    "legacy_change_allowed": false,
+    "attributes": {
+      "recognition_group": null,
+      "material_hint": null,
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "id": 59,
+    "source_category": "Cigarette",
+    "proposed_class": "general",
+    "legacy_change_allowed": true,
+    "attributes": {
+      "recognition_group": "general",
+      "material_hint": "general",
+      "damage": "unknown",
+      "contamination": "unknown",
+      "color": "unknown",
+      "reflection": "unknown",
+      "korea_specific": null,
+      "visual_review": "pending"
+    }
+  }
+]

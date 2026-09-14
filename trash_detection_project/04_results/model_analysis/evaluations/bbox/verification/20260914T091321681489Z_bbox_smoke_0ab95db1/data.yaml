@@ -1,0 +1,15 @@
+channels: 3
+names:
+  '0': paper
+  '1': plastic
+  '2': can
+  '3': glass
+  '4': battery
+  '5': vinyl
+  '6': general
+nc: 7
+path: C:\Users\USER\Desktop\trash_detection_project\01_datasets\finetuning_640\training_640_bbox
+test: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\test.txt
+train: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\test.txt
+val: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\test.txt
+yaml_file: C:\Users\USER\Desktop\trash_detection_project\04_results\directory_refactor\model_analysis_refactor\smoke\bbox.yaml

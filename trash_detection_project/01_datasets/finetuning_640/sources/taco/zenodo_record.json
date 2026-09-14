@@ -1,0 +1,133 @@
+{
+  "created": "2019-12-20T11:17:23.728198+00:00",
+  "modified": "2021-02-05T23:12:28.814701+00:00",
+  "id": 3587843,
+  "conceptrecid": "3242156",
+  "doi": "10.5281/zenodo.3587843",
+  "conceptdoi": "10.5281/zenodo.3242156",
+  "doi_url": "https://doi.org/10.5281/zenodo.3587843",
+  "metadata": {
+    "title": "TACO: Trash Annotations in Context Dataset",
+    "doi": "10.5281/zenodo.3587843",
+    "publication_date": "2019-06-09",
+    "description": "<p>TACO is a growing image dataset of trash in the wild. It contains segmented images of litter taken under diverse environments: woods, roads and beaches. These images are manually labeled according to an hierarchical taxonomy to train and evaluate object detection algorithms.&nbsp;Annotations are provided in a similar&nbsp;format to COCO dataset.</p>\n\n<p>For more information, go to:&nbsp;<a href=\"https://github.com/pedropro/TACO\">http://t</a><a href=\"http://tacodataset.org\">acodataset.org</a></p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Pedro F. Proença",
+        "affiliation": "University of Surrey"
+      },
+      {
+        "name": "Pedro Simões",
+        "affiliation": null
+      }
+    ],
+    "keywords": [
+      "litter",
+      "object detection",
+      "object segmentation",
+      "trash dataset",
+      "image dataset"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/pedropro/TACO/tree/v0.1",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      },
+      {
+        "identifier": "http://tacodataset.org",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ],
+    "version": "v1.0",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 3,
+          "is_last": false,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "3242156"
+          }
+        }
+      ]
+    }
+  },
+  "title": "TACO: Trash Annotations in Context Dataset",
+  "links": {
+    "self": "https://zenodo.org/api/records/3587843",
+    "self_html": "https://zenodo.org/records/3587843",
+    "preview_html": "https://zenodo.org/records/3587843?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.3587843",
+    "self_doi": "https://doi.org/10.5281/zenodo.3587843",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3587843",
+    "reserve_doi": "https://zenodo.org/api/records/3587843/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3242156",
+    "parent_html": "https://zenodo.org/records/3242156",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3242156",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3242156",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3587843/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3587843/sequence/default",
+    "files": "https://zenodo.org/api/records/3587843/files",
+    "media_files": "https://zenodo.org/api/records/3587843/media-files",
+    "archive": "https://zenodo.org/api/records/3587843/files-archive",
+    "archive_media": "https://zenodo.org/api/records/3587843/media-files-archive",
+    "latest": "https://zenodo.org/api/records/3587843/versions/latest",
+    "latest_html": "https://zenodo.org/records/3587843/latest",
+    "versions": "https://zenodo.org/api/records/3587843/versions",
+    "draft": "https://zenodo.org/api/records/3587843/draft",
+    "access_links": "https://zenodo.org/api/records/3587843/access/links",
+    "access_grants": "https://zenodo.org/api/records/3587843/access/grants",
+    "access_users": "https://zenodo.org/api/records/3587843/access/users",
+    "access_request": "https://zenodo.org/api/records/3587843/access/request",
+    "access": "https://zenodo.org/api/records/3587843/access",
+    "communities": "https://zenodo.org/api/records/3587843/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/3587843/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/3587843/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/3587843/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/3587843/quota-increase",
+    "requests": "https://zenodo.org/api/records/3587843/requests"
+  },
+  "updated": "2021-02-05T23:12:28.814701+00:00",
+  "recid": "3587843",
+  "revision": 4,
+  "files": [
+    {
+      "id": "37c384c3-0ccf-4011-b160-f93eefa5c005",
+      "key": "TACO.zip",
+      "size": 2719810615,
+      "checksum": "md5:e9149407d883e21a8d224feef8210920",
+      "links": {
+        "self": "https://zenodo.org/api/records/3587843/files/TACO.zip/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "69277"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 17437,
+    "unique_downloads": 8417,
+    "views": 18235,
+    "unique_views": 16227,
+    "version_downloads": 13302,
+    "version_unique_downloads": 6909,
+    "version_unique_views": 10457,
+    "version_views": 11879
+  },
+  "state": "done",
+  "submitted": true
+}

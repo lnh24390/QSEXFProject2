@@ -1,0 +1,11 @@
+{
+  "ready": true,
+  "checked_at": "2026-09-13T03:23:51.838195",
+  "sequence": [
+    "bbox",
+    "seg"
+  ],
+  "final_validation": "final_training_data_validation.json",
+  "runtime_validation": "runtime_augmentation_validation.json",
+  "note": "640 JPEG only; real general and packaging replay; native Mosaic plus pixel-only blur/compression."
+}

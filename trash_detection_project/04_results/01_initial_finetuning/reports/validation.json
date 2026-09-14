@@ -1,0 +1,42 @@
+{
+  "bbox": {
+    "counts": {
+      "train_images": 53098,
+      "instances": 100861,
+      "new_images": 3224,
+      "val_images": 9628,
+      "test_images": 2734
+    },
+    "class_instances": {
+      "battery": 14821,
+      "general": 11313,
+      "can": 11947,
+      "paper": 13491,
+      "plastic": 24397,
+      "glass": 11233,
+      "vinyl": 13659
+    }
+  },
+  "seg": {
+    "counts": {
+      "train_images": 50173,
+      "instances": 91297,
+      "new_images": 300,
+      "val_images": 9629,
+      "test_images": 2734
+    },
+    "class_instances": {
+      "general": 11319,
+      "battery": 14035,
+      "can": 11385,
+      "paper": 12829,
+      "vinyl": 13644,
+      "plastic": 17299,
+      "glass": 10786
+    }
+  },
+  "errors": [],
+  "passed": true,
+  "semantic_invariants": "material/item preserved; no contamination or regional bin mapping",
+  "limitation": "Structural/source checks are not a full visual material review. Perceptual screening covers known TACO only."
+}

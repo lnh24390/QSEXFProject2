@@ -1,0 +1,102 @@
+{
+  "captured_at": "2026-09-13T00:42:38.912921+09:00",
+  "python": "3.12.14",
+  "packages": {
+    "ultralytics": "8.4.146",
+    "torch": "2.14.0+cu126",
+    "torchvision": "0.29.0+cu126",
+    "psutil": "7.2.2",
+    "pyyaml": "6.0.3"
+  },
+  "files": {
+    "pyproject.toml": {
+      "bytes": 533,
+      "sha256": "580c2125c313782cceb8cf34803b74db53ebb6eaed2bc75b504e53f28032963f"
+    },
+    "uv.lock": {
+      "bytes": 151319,
+      "sha256": "fc9af3bc73e7e908cd406969eeeb93fe028551f844d330bc46f2b84b4ed6a3c6"
+    },
+    "PROJECT_GUIDE.md": {
+      "bytes": 14479,
+      "sha256": "e3a3ef2bc64434b471050508027433a0bc04169c81538e2ea540a09cbb70a66f"
+    },
+    "best_train/compare_bg.py": {
+      "bytes": 13018,
+      "sha256": "187a39db393da50a35d81427a547b1c6a5b4d735946a5374b14b8cd495e5e7b7"
+    },
+    "best_train/imgsz_scan.py": {
+      "bytes": 9485,
+      "sha256": "50bd6b3cea7d3652af5f1cff66e8426ac3a20dfdc149ffd938cde8862a443a79"
+    },
+    "best_train/merge_resume_logs.py": {
+      "bytes": 7678,
+      "sha256": "f76fa86f2b8606e1080b538a7a0e613d716af956b45ec0347e9a61e576dce8d8"
+    },
+    "best_train/metrics_logger.py": {
+      "bytes": 11036,
+      "sha256": "745d26ce3a84ac6e9cfeaf86d2a7c6120870d366cc305c4ae9a06d7945231415"
+    },
+    "best_train/tensorrt_bench.py": {
+      "bytes": 10552,
+      "sha256": "5dff75ae218d1485243c2d63a15e697746a9a1c2cf02e18381ebe738350e120e"
+    },
+    "best_train/test.py": {
+      "bytes": 2462,
+      "sha256": "ab2f26fb2d37053642372751cbb2131f59a208960a13368dbfd08f1060140a9a"
+    },
+    "best_train/train.py": {
+      "bytes": 8598,
+      "sha256": "c83a04a1b9682b516d8a1ae41d3f40c173c1339fee6ebde5b218e6bc221945df"
+    },
+    "best_train/runs/bbox_yolo11n/results.csv": {
+      "bytes": 16461,
+      "sha256": "377939d0b291c11ede4f2a346d8d49dc30c429382329a09a9610e0ec808494f2"
+    },
+    "best_train/runs/bbox_yolo26s_nobg/results.csv": {
+      "bytes": 16467,
+      "sha256": "e08854f5035351f95d719f5efa7a23f821f46b23a9c10c0b9ff19ffd08f73d16"
+    },
+    "best_train/runs/bbox_yolo26s_nobg_aborted_patience30_0912_0045/results.csv": {
+      "bytes": 404,
+      "sha256": "9569be02b8c96efa808bfdf375de152ba17c91401356fe80e0c175b899c0fe6b"
+    },
+    "best_train/runs/seg_yolo11n/results.csv": {
+      "bytes": 21934,
+      "sha256": "78829b7d7109ab0f446112e58612870c2ccf4598ed649cca8bbc8fd3eae03e2f"
+    },
+    "best_train/runs/seg_yolo26s_nobg/results.csv": {
+      "bytes": 1274,
+      "sha256": "b113f9c1a383a74bccabd904abc0bd3fb06c98543aebca53d1abe6285790624d"
+    },
+    "best_train/runs/bbox_yolo11n/weights/best.pt": {
+      "bytes": 5485466,
+      "sha256": "b7b997897c01fb49c80e18fabbf48fcd82a3a31c67ab5a0dec888427f544376c"
+    },
+    "best_train/runs/bbox_yolo26s_nobg/weights/best.pt": {
+      "bytes": 20331845,
+      "sha256": "367f8fca466a1a4a1fda767f7fc3737f5d6decfb2127d87030f9c7ef03501d96"
+    },
+    "best_train/runs/bbox_yolo26s_nobg_aborted_patience30_0912_0045/weights/best.pt": {
+      "bytes": 60247907,
+      "sha256": "ad1ccefbec735369efe6b10f6e94feb385f9ec032cecdf3230d6f02a5cf8dd96"
+    },
+    "best_train/runs/seg_yolo11n/weights/best.pt": {
+      "bytes": 6021412,
+      "sha256": "842238ea3e824efcdf610151fa00dcf2acc8f15d170ab3d8fdb0cd446b2c6794"
+    },
+    "best_train/runs/seg_yolo26s_nobg/weights/best.pt": {
+      "bytes": 69258099,
+      "sha256": "aad8d8984b4ea0bbe7851167d8bc2f399d9ece2e081bfb7440a3f6790294f7c5"
+    },
+    "best_train/runs/compare_bg/compare_result.txt": {
+      "bytes": 6205,
+      "sha256": "4e9ab7d13bbba16f85aae127610a05f983e212ee15cb94b92cbab9c4fb4b604e"
+    },
+    "best_train/runs/compare_bg/compare_result.csv": {
+      "bytes": 7019,
+      "sha256": "7b96c17990ae967177b62e5fad87a35b653fdc9eec06e2008ce0f2d6f30b8429"
+    }
+  },
+  "path_note": "파일명은 현재 명칭으로 표시하며 해시는 captured_at 시점의 내용이다. 원본 기록은 프로젝트 외부 이력 보관소에 유지한다."
+}

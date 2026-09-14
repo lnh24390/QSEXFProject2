@@ -1,0 +1,95 @@
+{
+  "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\seg_stage2_selected.pt",
+  "sha256": "d35f26e44a2ea812237e2a9415f68bd58db0f76ea16e03b1d6f4a01ebe73aa03",
+  "validation": {
+    "metrics": {
+      "metrics/precision(B)": 0.8919946282020581,
+      "metrics/recall(B)": 0.8274787594668076,
+      "metrics/mAP50(B)": 0.8997263095636121,
+      "metrics/mAP50-95(B)": 0.8481381194726583,
+      "metrics/precision(M)": 0.8893665720827876,
+      "metrics/recall(M)": 0.8222548669418746,
+      "metrics/mAP50(M)": 0.8936305541215652,
+      "metrics/mAP50-95(M)": 0.805831599476919,
+      "fitness": 1.6539697189495772
+    },
+    "names": {
+      "0": "general",
+      "1": "can",
+      "2": "plastic",
+      "3": "paper",
+      "4": "glass",
+      "5": "vinyl",
+      "6": "battery"
+    },
+    "speed_ms": {
+      "preprocess": 0.6344675874790061,
+      "inference": 3.2253542838686156,
+      "loss": 0.00026913485969519803,
+      "postprocess": 0.7047489666814167
+    },
+    "box": {
+      "map": 0.8481381194726583,
+      "map50": 0.8997263095636121,
+      "per_class_map": [
+        0.8614152385534458,
+        0.9209934330609624,
+        0.8300944585665111,
+        0.84855820074008,
+        0.908327381212049,
+        0.7566927999554438,
+        0.8108853242201153
+      ]
+    },
+    "seg": {
+      "map": 0.805831599476919,
+      "map50": 0.8936305541215652,
+      "per_class_map": [
+        0.7967789839811962,
+        0.8933933267641553,
+        0.7763547173870703,
+        0.8203606633736611,
+        0.8739027160432261,
+        0.7121630542703731,
+        0.7678677345187501
+      ]
+    }
+  },
+  "config": {
+    "imgsz": 640,
+    "epochs": 100,
+    "patience": 10,
+    "batch": 16,
+    "nbs": 64,
+    "workers": 4,
+    "cache": false,
+    "amp": true,
+    "device": 0,
+    "optimizer": "AdamW",
+    "warmup_bias_lr": 0.0,
+    "warmup_epochs": 1.0,
+    "weight_decay": 0.0005,
+    "lrf": 0.2,
+    "cos_lr": true,
+    "close_mosaic": 0,
+    "mixup": 0.0,
+    "cutmix": 0.0,
+    "copy_paste": 0.0,
+    "flipud": 0.0,
+    "fliplr": 0.5,
+    "seed": 73,
+    "plots": false,
+    "save": true,
+    "verbose": false,
+    "freeze": 0,
+    "lr0": 1e-05,
+    "mosaic": 0.1,
+    "hsv_h": 0.01,
+    "hsv_s": 0.2,
+    "hsv_v": 0.2,
+    "degrees": 5.0,
+    "translate": 0.05,
+    "scale": 0.15
+  },
+  "started_at": "2026-09-14T06:49:53"
+}

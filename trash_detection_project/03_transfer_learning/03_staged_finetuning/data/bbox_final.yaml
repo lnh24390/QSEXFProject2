@@ -1,0 +1,12 @@
+path: C:\Users\USER\Desktop\trash_detection_project\01_datasets\finetuning_640\training_640_bbox
+train: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_final_train.txt
+val: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_val.txt
+test: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_test.txt
+names:
+  0: paper
+  1: plastic
+  2: can
+  3: glass
+  4: battery
+  5: vinyl
+  6: general

@@ -1,0 +1,218 @@
+[
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_001.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_001.jpg",
+    "sha256": "c4f6417ab4e295b5691a3f8861c2b2087c1869628a78c4785183c39828a82099",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_070.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_070.jpg",
+    "sha256": "6b94121cd3600e30caebc9e5b5f1b14138a93d649ab1794df4f512c999c3b5b6",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_139.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_139.jpg",
+    "sha256": "1c6f10425f6c2087f81fc792777af4cef661fe5501873f7c56fc9b83cea10e7b",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_208.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_208.jpg",
+    "sha256": "4fcd6c3ae0481ca566a6861da232eb4cb4ab207d0cb9ac29818513e868513d34",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_277.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_277.jpg",
+    "sha256": "fabff86160c65e52ca112805b4af606cf41bdad36af321515de1921434abd740",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_346.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_346.jpg",
+    "sha256": "c954cb7799b1335ac8ffefcb1eec64321b5fc82d5697ffbe7d9bf754645aff87",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/can/train_front_can_415.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\can\\train_front_can_415.jpg",
+    "sha256": "cf09e60d405b4cb7ec73ef5a2a3ce70bcdba27f39a4bdaa919dde467cbb930ff",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/pet/train_front_pet_059.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\pet\\train_front_pet_059.jpg",
+    "sha256": "77247db6daeeafa56b98846b0399f84f655d45d1a9327d89c82cc514bcf6c9eb",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/pet/train_front_pet_128.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\pet\\train_front_pet_128.jpg",
+    "sha256": "77247db6daeeafa56b98846b0399f84f655d45d1a9327d89c82cc514bcf6c9eb",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/pet/train_front_pet_197.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\pet\\train_front_pet_197.jpg",
+    "sha256": "426d2736184f09c0b5e5ff83ccfa451450bea522591f85dd5aa5e5dcd9ab510f",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/pet/train_front_pet_266.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\pet\\train_front_pet_266.jpg",
+    "sha256": "13348748e84517b8876b1f8baf54fe0f2d4390419271fa79d33a5faaa26c9d1b",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/pet/train_front_pet_335.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\pet\\train_front_pet_335.jpg",
+    "sha256": "21d3327c95595edd2dee918914c292347e0181cc14268c1a7214e3eacaf3d835",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "front/pet/train_front_pet_404.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\front\\pet\\train_front_pet_404.jpg",
+    "sha256": "426d2736184f09c0b5e5ff83ccfa451450bea522591f85dd5aa5e5dcd9ab510f",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/can/train_top_can_068.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\can\\train_top_can_068.jpg",
+    "sha256": "4c6f17f9ba6261d545d4d041fbe576bfe784c9edc45b75bb4e27d5e90a7786f0",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/can/train_top_can_137.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\can\\train_top_can_137.jpg",
+    "sha256": "c621bc06895792750e188a4a5f28949fa965a5b50ca2d571f5a672f9667f88af",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/can/train_top_can_206.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\can\\train_top_can_206.jpg",
+    "sha256": "dcb6e5c95829c64cc47958fb94bcdc3b634998a8de2dc87eaa3515d45facb5ef",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/can/train_top_can_275.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\can\\train_top_can_275.jpg",
+    "sha256": "a67ba81269967325403648a911a95e6ba311f067ad43789fb571dedea7228433",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/can/train_top_can_344.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\can\\train_top_can_344.jpg",
+    "sha256": "6d51f3b1443c3fefda1819167a464c20c956e6621de87619fbf461979dac1466",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/can/train_top_can_413.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\can\\train_top_can_413.jpg",
+    "sha256": "c8c85d98f42bed6e2000ff97ed35603bfa988562c2c4d82e7a679d2e7011a037",
+    "source_class": "can",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/pet/train_top_pet_057.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\pet\\train_top_pet_057.jpg",
+    "sha256": "e964a0102155de7c7b96c9c5dcece3047342a56d9acb9e858b9fa3dd0a592020",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/pet/train_top_pet_126.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\pet\\train_top_pet_126.jpg",
+    "sha256": "9eba79612f28e87fb272b2d8daae9ac7e822374e0260db7f0c75d05ea702e927",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/pet/train_top_pet_195.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\pet\\train_top_pet_195.jpg",
+    "sha256": "ebe9a16145fd996a122db99016bfb8f7afcf9195e825de6884d21f7bfb895caf",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/pet/train_top_pet_264.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\pet\\train_top_pet_264.jpg",
+    "sha256": "5040febf0d619794c922f28e3e8e8f410983c09c81b2580aff07f0ba81209ea8",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "rvm",
+    "member": "top/pet/train_top_pet_333.jpg",
+    "source_partition": "train",
+    "path": "raw\\rvm\\train\\top\\pet\\train_top_pet_333.jpg",
+    "sha256": "3dedea406e507c703bcd9799f2d823ff0045fd9d4634594b98bd9cca60d5f9d5",
+    "source_class": "pet",
+    "bbox_status": "not_provided_by_source"
+  }
+]

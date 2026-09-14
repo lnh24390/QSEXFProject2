@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "unchanged_weight_files": 17,
+  "background_models": 5,
+  "background_images_per_model": 150,
+  "background_image_hashes_identical": true,
+  "broken_report_links": [],
+  "new_full_evaluations": 3,
+  "reused_full_evaluations": 2,
+  "training_executed": false
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "run": "bbox_yolo11n",
+    "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\bbox_yolo11n\\weights\\best.pt",
+    "copy": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\bbox_yolo11n_best.pt",
+    "sha256": "b7b997897c01fb49c80e18fabbf48fcd82a3a31c67ab5a0dec888427f544376c",
+    "task": "detect",
+    "names": [
+      "paper",
+      "plastic",
+      "can",
+      "glass",
+      "battery",
+      "vinyl",
+      "general"
+    ],
+    "selected_for_finetune": false,
+    "method": "copied bytes; fresh optimizer on fine-tune, resume=False"
+  },
+  {
+    "run": "bbox_yolo26s_nobg",
+    "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\bbox_yolo26s_nobg\\weights\\best.pt",
+    "copy": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\bbox_yolo26s_nobg_best.pt",
+    "sha256": "367f8fca466a1a4a1fda767f7fc3737f5d6decfb2127d87030f9c7ef03501d96",
+    "task": "detect",
+    "names": [
+      "paper",
+      "plastic",
+      "can",
+      "glass",
+      "battery",
+      "vinyl",
+      "general"
+    ],
+    "selected_for_finetune": true,
+    "method": "copied bytes; fresh optimizer on fine-tune, resume=False"
+  },
+  {
+    "run": "seg_yolo11n",
+    "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\seg_yolo11n\\weights\\best.pt",
+    "copy": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\seg_yolo11n_best.pt",
+    "sha256": "842238ea3e824efcdf610151fa00dcf2acc8f15d170ab3d8fdb0cd446b2c6794",
+    "task": "segment",
+    "names": [
+      "general",
+      "can",
+      "plastic",
+      "paper",
+      "glass",
+      "vinyl",
+      "battery"
+    ],
+    "selected_for_finetune": true,
+    "method": "copied bytes; fresh optimizer on fine-tune, resume=False"
+  }
+]

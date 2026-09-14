@@ -1,0 +1,12 @@
+path: C:\Users\USER\Desktop\trash_detection_project\01_datasets\finetuning_640\training_640_seg
+train: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\02_model_scaling\data\seg_train.txt
+val: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\02_model_scaling\data\seg_val.txt
+test: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\02_model_scaling\data\seg_test.txt
+names:
+  0: general
+  1: can
+  2: plastic
+  3: paper
+  4: glass
+  5: vinyl
+  6: battery

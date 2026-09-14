@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "at": "2026-09-13T13:16:29",
+  "image_files_created": 0,
+  "previous_full_image_verification": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\reports\\final_training_data_validation.json",
+  "native_class_orders_preserved": true,
+  "original_and_m_weights_preserved": true
+}

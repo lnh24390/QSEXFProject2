@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-14T09:13:03.558406+00:00",
+  "origin": "historical_import",
+  "task": "seg",
+  "model": {
+    "name": "original",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\seg_yolo11n_best.pt",
+    "sha256": "842238ea3e824efcdf610151fa00dcf2acc8f15d170ab3d8fdb0cd446b2c6794"
+  },
+  "dataset": {
+    "split": "val",
+    "fingerprint": null,
+    "identity": "seg_legacy_val",
+    "count": null
+  },
+  "settings": null,
+  "summary": {
+    "names": {
+      "0": "general",
+      "1": "can",
+      "2": "plastic",
+      "3": "paper",
+      "4": "glass",
+      "5": "vinyl",
+      "6": "battery"
+    },
+    "metrics": {
+      "metrics/precision(B)": 0.890858397846837,
+      "metrics/recall(B)": 0.8316629419425156,
+      "metrics/mAP50(B)": 0.8992463233687703,
+      "metrics/mAP50-95(B)": 0.8501998323976286,
+      "metrics/precision(M)": 0.8875582815237335,
+      "metrics/recall(M)": 0.8282803501330874,
+      "metrics/mAP50(M)": 0.8929274420729617,
+      "metrics/mAP50-95(M)": 0.8054695440365036,
+      "fitness": 1.6556693764341324
+    },
+    "speed_ms": {
+      "preprocess": 0.6381653131192101,
+      "inference": 3.2373764669253253,
+      "loss": 0.00024551874552961245,
+      "postprocess": 0.6101059403752708
+    },
+    "box": {
+      "map": 0.8501998323976286,
+      "map50": 0.8992463233687703,
+      "precision": 0.890858397846837,
+      "recall": 0.8316629419425156,
+      "per_class": {
+        "general": {
+          "map": 0.8627605684999702,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "can": {
+          "map": 0.9190080518344044,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "plastic": {
+          "map": 0.8311911691939932,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "paper": {
+          "map": 0.8535927279715688,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "glass": {
+          "map": 0.9075369990786488,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "vinyl": {
+          "map": 0.7615180035185776,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "battery": {
+          "map": 0.8157913066862361,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        }
+      }
+    },
+    "seg": {
+      "map": 0.8054695440365036,
+      "map50": 0.8929274420729617,
+      "precision": 0.8875582815237335,
+      "recall": 0.8282803501330874,
+      "per_class": {
+        "general": {
+          "map": 0.7977184418775672,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "can": {
+          "map": 0.8911778395550508,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "plastic": {
+          "map": 0.7771047549550987,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "paper": {
+          "map": 0.821467377562467,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "glass": {
+          "map": 0.8713551124745834,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "vinyl": {
+          "map": 0.7133950461065994,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "battery": {
+          "map": 0.7660682357241584,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        }
+      }
+    }
+  },
+  "provenance": {
+    "report": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\reports\\seg_final_comparison.json",
+    "report_sha256": "728f465a3fdf35d4fb0393554978faf700b7553be2b0f2cba50e69f0ca4f2668",
+    "field": "original_validation"
+  },
+  "comparison_key": "fa755f48140db779ba791f5f2a7803ecb843fe6c6d3495a5721a7e7b5921c7fd",
+  "limitations": [
+    "기존 저장 결과를 표준 형식으로 옮겼습니다. 새로 평가한 수치가 아닙니다.",
+    "과거 평가 당시의 전체 실행 조건과 데이터 내용 해시는 없어 새 평가와 자동 비교하지 않습니다.",
+    "검출·분할 테스트 구성은 다릅니다. 새 혼동 사례의 개선을 입증하지 않습니다.",
+    "과거 기록에 없는 클래스별 정밀도·재현율은 미기록으로 표시합니다."
+  ]
+}

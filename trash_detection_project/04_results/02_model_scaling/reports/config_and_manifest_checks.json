@@ -1,0 +1,14 @@
+{
+  "bbox": {
+    "path_overlap": 0,
+    "duplicate_paths": 0,
+    "image_spot_checks": 12,
+    "full_image_validation": "Previously passed final_training_data_validation.json, files unchanged"
+  },
+  "seg": {
+    "path_overlap": 0,
+    "duplicate_paths": 0,
+    "image_spot_checks": 12,
+    "full_image_validation": "Previously passed final_training_data_validation.json, files unchanged"
+  }
+}

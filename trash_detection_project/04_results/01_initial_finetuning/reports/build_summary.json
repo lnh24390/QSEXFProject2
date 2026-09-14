@@ -1,0 +1,32 @@
+{
+  "label_policy": "material_item_not_disposal_route",
+  "legacy": {
+    "bbox": {
+      "train_images": 49874,
+      "instances": 90424,
+      "taco_geometry_matches": 1732,
+      "changed_instances": 132,
+      "val_images": 9628,
+      "test_images": 2734,
+      "split_group_leaks": 0
+    },
+    "seg": {
+      "train_images": 49873,
+      "instances": 90423,
+      "taco_geometry_matches": 1064,
+      "changed_instances": 66,
+      "val_images": 9629,
+      "test_images": 2734,
+      "split_group_leaks": 0
+    }
+  },
+  "new_taco": {
+    "mapped_images": 300,
+    "mapped_instances": 874,
+    "held_images": 375
+  },
+  "errors": [],
+  "release_status": "STAGED_SEMANTIC_REVIEW_INCOMPLETE",
+  "new_source_split": "train_only",
+  "legacy_images_are_hardlinks": "Do not edit image bytes in place; labels are independent files."
+}

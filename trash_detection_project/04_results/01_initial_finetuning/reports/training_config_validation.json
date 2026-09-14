@@ -1,0 +1,29 @@
+{
+  "finetune_960_native": {
+    "imgsz": 960,
+    "mosaic": 0.5,
+    "valid_for": [
+      "detect",
+      "segment"
+    ],
+    "dropout_override": false
+  },
+  "finetune_960_no_mosaic": {
+    "imgsz": 960,
+    "mosaic": 0.0,
+    "valid_for": [
+      "detect",
+      "segment"
+    ],
+    "dropout_override": false
+  },
+  "finetune_640_reference": {
+    "imgsz": 640,
+    "mosaic": 0.5,
+    "valid_for": [
+      "detect",
+      "segment"
+    ],
+    "dropout_override": false
+  }
+}

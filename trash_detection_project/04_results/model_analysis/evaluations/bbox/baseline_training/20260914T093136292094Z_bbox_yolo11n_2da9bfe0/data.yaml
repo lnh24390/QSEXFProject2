@@ -1,0 +1,18 @@
+_analysis_cache_dir: C:\Users\USER\Desktop\trash_detection_project\04_results\model_analysis\evaluations\bbox\baseline_training\20260914T093136292094Z_bbox_yolo11n_2da9bfe0
+_analysis_count: 2734
+_analysis_fingerprint: af8178c4a00442398230b92eb75dde75dba59c9c91dad900b8a32d5a97fc79d4
+channels: 3
+names:
+  '0': paper
+  '1': plastic
+  '2': can
+  '3': glass
+  '4': battery
+  '5': vinyl
+  '6': general
+nc: 7
+path: C:\Users\USER\Desktop\trash_detection_project\01_datasets\finetuning_640\training_640_bbox
+test: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_test.txt
+train: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_stage2_train.txt
+val: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_val.txt
+yaml_file: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\bbox_stage2.yaml

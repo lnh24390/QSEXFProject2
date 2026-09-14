@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "records": [
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\val\\original\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\val\\final_selected\\result.json"
+  ],
+  "comparison_key": "3cc3ff5cc2f0ac70a9c0026f1b782147fdab1d65521dfe11a351e562fde15c7b",
+  "limitations": [
+    "검출·분할 테스트 구성은 다릅니다. 새 혼동 사례의 개선을 입증하지 않습니다.",
+    "과거 기록에 없는 클래스별 정밀도·재현율은 미기록으로 표시합니다.",
+    "과거 평가 당시의 전체 실행 조건과 데이터 내용 해시는 없어 새 평가와 자동 비교하지 않습니다.",
+    "기존 저장 결과를 표준 형식으로 옮겼습니다. 새로 평가한 수치가 아닙니다."
+  ]
+}

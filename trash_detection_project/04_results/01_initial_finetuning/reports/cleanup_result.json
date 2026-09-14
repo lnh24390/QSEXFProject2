@@ -1,0 +1,12 @@
+{
+  "new_dataset_clean": true,
+  "obsolete_directories_remaining": [],
+  "method": "Recycle Bin for removed sources, archives and previews; staged_bbox isolated outside new dataset after Windows recycling failed.",
+  "recovery_copy_remaining": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\auxiliary\\cleanup_archive\\staged_bbox",
+  "permanent_delete_policy_rejected": true,
+  "recycle_error": "Attempted to perform an unauthorized operation (staged_bbox)",
+  "original_project_datasets_kept": true,
+  "training_images": 128008,
+  "image_bytes": 10675866446,
+  "note": "Recycle Bin and recovery copy may still occupy disk space; not used for training."
+}

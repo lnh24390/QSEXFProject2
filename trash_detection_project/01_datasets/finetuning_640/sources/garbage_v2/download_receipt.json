@@ -1,0 +1,7 @@
+{
+  "url": "https://www.kaggle.com/api/v1/datasets/download/sumn2u/garbage-classification-v2",
+  "path": "sources\\garbage_v2\\garbage_v2.zip",
+  "bytes": 1147864104,
+  "sha256": "af6999d71c5bdf64e19030fe4d8a40086d36b2c3abda5d0fc93fc5069967efaf",
+  "members": 36777
+}

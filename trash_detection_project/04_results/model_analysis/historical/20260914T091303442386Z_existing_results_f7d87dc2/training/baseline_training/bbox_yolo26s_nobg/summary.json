@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "run": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\bbox_yolo26s_nobg",
+  "source_csv_sha256": "e08854f5035351f95d719f5efa7a23f821f46b23a9c10c0b9ff19ffd08f73d16",
+  "recorded_epochs": 100,
+  "last_epoch": 100,
+  "best_epoch": 90,
+  "best_fitness": 0.85401,
+  "selection_rule": "box_map",
+  "best_epoch_metrics": {
+    "metrics/precision(B)": 0.92709,
+    "metrics/recall(B)": 0.86837,
+    "metrics/mAP50(B)": 0.91737,
+    "metrics/mAP50-95(B)": 0.85401
+  },
+  "last_losses": {
+    "train/box_loss": 0.35543,
+    "train/cls_loss": 0.17679,
+    "train/l1_loss": 0.00414,
+    "val/box_loss": 0.39029,
+    "val/cls_loss": 0.38645,
+    "val/l1_loss": 0.00468
+  },
+  "mean_epoch_seconds_excluding_start_or_reset": 737.7198585858587,
+  "timer_resets": 0,
+  "source": "results.csv",
+  "note": "학습 중 검증 기록입니다. test 평가 및 최종 best.pt 재검증과 구분합니다. 재시작 구간의 첫 시간이 양수인 경우 준비 시간이 평균에 포함될 수 있습니다."
+}

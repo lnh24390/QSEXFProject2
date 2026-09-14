@@ -1,0 +1,54 @@
+{
+  "bbox": {
+    "stages": {
+      "stage2": {
+        "unique_images": 53103,
+        "epoch_entries": 53103,
+        "hard_extra_exposures": 0,
+        "list_sha256": "38d7de88502e35635e51460426781a800f1920368dd6cf9c531dbed683ce07df"
+      },
+      "stage3": {
+        "unique_images": 53103,
+        "epoch_entries": 54727,
+        "hard_extra_exposures": 1624,
+        "list_sha256": "dc3b4f19b275ed9f5981a2ca9de7c5cadd33a7f4f75527c1e3b1cb980edd2251"
+      },
+      "final": {
+        "unique_images": 53103,
+        "epoch_entries": 53103,
+        "hard_extra_exposures": 0,
+        "list_sha256": "38d7de88502e35635e51460426781a800f1920368dd6cf9c531dbed683ce07df"
+      }
+    },
+    "all_original_own_train_included": true,
+    "common_original_train": 47054,
+    "own_validation_test_ids_in_train": 0,
+    "source": "Verified existing 640 JPEG and converted native task labels; no images copied."
+  },
+  "seg": {
+    "stages": {
+      "stage2": {
+        "unique_images": 50180,
+        "epoch_entries": 50180,
+        "hard_extra_exposures": 0,
+        "list_sha256": "ab260c1d300b2cd1d3d3cd89d8578ccfcbcc01c46bb9d08bf949596badfab017"
+      },
+      "stage3": {
+        "unique_images": 50180,
+        "epoch_entries": 50760,
+        "hard_extra_exposures": 580,
+        "list_sha256": "b1f647d382623a46c2a1464deb151b309a5f3c8d02a700731d9230e5f944c452"
+      },
+      "final": {
+        "unique_images": 50180,
+        "epoch_entries": 50180,
+        "hard_extra_exposures": 0,
+        "list_sha256": "ab260c1d300b2cd1d3d3cd89d8578ccfcbcc01c46bb9d08bf949596badfab017"
+      }
+    },
+    "all_original_own_train_included": true,
+    "common_original_train": 47054,
+    "own_validation_test_ids_in_train": 0,
+    "source": "Verified existing 640 JPEG and converted native task labels; no images copied."
+  }
+}

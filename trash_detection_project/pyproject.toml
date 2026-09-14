@@ -1,0 +1,24 @@
+[project]
+name = "bbox-data-bench"
+version = "0.1.0"
+description = "YOLO11/YOLO26 분할 조정 및 학습 속도 벤치마크"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "ultralytics>=8.4.144",
+    "torch>=2.6",
+    "torchvision",
+    "pyyaml>=6.0",
+    "pandas>=2.0",
+    "matplotlib>=3.11.1",
+    "pillow>=12.3.0",
+    "albumentations==2.0.8",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu126" }
+torchvision = { index = "pytorch-cu126" }
+
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true

@@ -1,0 +1,74 @@
+[
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000000595.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\bg_coco_000000000595.txt",
+    "image_sha256": "7c1c891c20c9bc6defe3b8f4f42ce2c4f7b0ca60a1e1d04d576f2090d0a236da",
+    "label_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\exp26_rfbat_064676d9883893a24de35fa5.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\exp26_rfbat_064676d9883893a24de35fa5.txt",
+    "image_sha256": "3d40e73a7d1c7a77f524a1fead021d8f21ac7fec62289ea7dc565c5fdd08d471",
+    "label_sha256": "9c9ee1abffafc8b6973fbbada3ec65d93a30b950dded446d48698575d83e676b"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s1_lm_04408f9a56063972d4eadf76.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s1_lm_04408f9a56063972d4eadf76.txt",
+    "image_sha256": "4a0195b6c5ad50731c0c271f2c16ffc96ae2fdcfa459a3dcc3503c90369c920b",
+    "label_sha256": "e25b78e2c3c2ac81324d55639aedbc579ee6f457c04ce2e9f848f52bfa563891"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s1_lm_39736a27e7d10a051fb49438.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s1_lm_39736a27e7d10a051fb49438.txt",
+    "image_sha256": "5eee8f47969722deaf5311b14c104ad24cf12984a97761b1be13c15dfa8e4ef6",
+    "label_sha256": "3e3dc07d8c4ef6305c7c41e7123e6dfae1c3a17e505865231aaefb71d2d03611"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s1_lm_69c9060894ffba8765bfbf02.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s1_lm_69c9060894ffba8765bfbf02.txt",
+    "image_sha256": "43582c819050428e8c67e9061a14357641dfcd59c25b30de2efe1cb63ab24cf5",
+    "label_sha256": "2750a8fb9e3c2979984a230a30a14f11cffecbc979b3179856e49791ab1b61e8"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s1_lm_9f050752f08e0238d23e1abf.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s1_lm_9f050752f08e0238d23e1abf.txt",
+    "image_sha256": "0c9a202a3cc0b319f10f6eb6f2f38c19a66512b57cbd5959e6701fe230d18464",
+    "label_sha256": "568e5c8392a69b87424df7b6569a63e92bbc1adb01fac5d95af8ccaef70558bf"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s1_lm_d0e3ba526d13281cb083c214.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s1_lm_d0e3ba526d13281cb083c214.txt",
+    "image_sha256": "994dfd17783fefeacad2df1dc4757da63ba0a7868f96a95f0a701eb2d4ae0226",
+    "label_sha256": "2ecaff0f596f023b54749d225d18301cb3052640a952b1de5b3ba337c36903e3"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s1_rf_20bf738cba330ea4f854be5a.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s1_rf_20bf738cba330ea4f854be5a.txt",
+    "image_sha256": "f1014cc9bdd2ff59bf8d48691a984e053670cf119f2103563c31a4f737ed7cd2",
+    "label_sha256": "c0ed9005fd83d86d54f7a4c1ad885eb8c04dbaa7e052f60d4932714e806e5bd5"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s2_f_17_x010_c172_1012_1.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s2_f_17_x010_c172_1012_1.txt",
+    "image_sha256": "afbeb7413ec40c10a38d4f5ea9ddf74c6d5e23528bca205d7954ca8382f839c3",
+    "label_sha256": "99b2b1c8a196a40f5bd6f8674beb13876a28abfbd382ad2ef4267c8056f81ace"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s2_supp_cigwaste_2f435a1a6fb9449bcba2.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s2_supp_cigwaste_2f435a1a6fb9449bcba2.txt",
+    "image_sha256": "f40a6c9adac90b80765dd0eac4f604fb0248e2c71a68bdd127a821f5d03c28c7",
+    "label_sha256": "24be15401b3a56692daa1f804777c73d167f3b89548e724e177010f96a6d78fc"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s2_supp_cigwaste_c8ec966999b95a20616d.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s2_supp_cigwaste_c8ec966999b95a20616d.txt",
+    "image_sha256": "b8a83dd44a1a44322c7c3160c0731e3cf074d994e5c5931460667d9d93446892",
+    "label_sha256": "00a4e9faac18d1f53321e4f4a99f3b63c55a01006844fae45b1f31c08f19fd70"
+  },
+  {
+    "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\s2_supp_recybat24_3ecdd93f6a32853a98f8.jpg",
+    "label": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\labels\\test\\s2_supp_recybat24_3ecdd93f6a32853a98f8.txt",
+    "image_sha256": "022ad52903a201357e5a79813f3636e5b6bed9fe83b8b350f37c7d1213ea9bd2",
+    "label_sha256": "e796c2642b830fe851d9c7b4af1efc04b919bac006c27162643dee867e1399a3"
+  }
+]

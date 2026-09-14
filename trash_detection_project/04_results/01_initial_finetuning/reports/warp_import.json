@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "train_images": 2443,
+    "instances": 10318,
+    "test_images": 522
+  },
+  "held_images": 0,
+  "issues": [],
+  "original_exact_hash_cross_source_split": 9,
+  "excluded_train_duplicates": 9,
+  "exported_exact_hash_cross_split": 0,
+  "unique_image_hashes": 2965,
+  "new_independent_training_images_not_claimed_for_crop_exports": true,
+  "segmentation_note": "Warp-C crops excluded from added image count. Warp-S retained raw only; no bbox-to-mask fabrication."
+}

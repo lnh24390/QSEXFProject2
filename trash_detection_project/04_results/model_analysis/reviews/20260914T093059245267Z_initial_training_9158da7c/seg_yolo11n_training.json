@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "run": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\seg_yolo11n",
+  "source_csv_sha256": "78829b7d7109ab0f446112e58612870c2ccf4598ed649cca8bbc8fd3eae03e2f",
+  "recorded_epochs": 100,
+  "last_epoch": 100,
+  "best_epoch": 96,
+  "best_fitness": 1.66205,
+  "selection_rule": "box_map + mask_map",
+  "best_epoch_metrics": {
+    "metrics/precision(B)": 0.89201,
+    "metrics/recall(B)": 0.83545,
+    "metrics/mAP50(B)": 0.89933,
+    "metrics/mAP50-95(B)": 0.85224,
+    "metrics/precision(M)": 0.88997,
+    "metrics/recall(M)": 0.83104,
+    "metrics/mAP50(M)": 0.89258,
+    "metrics/mAP50-95(M)": 0.80981
+  },
+  "last_losses": {
+    "train/box_loss": 0.31025,
+    "train/seg_loss": 0.62098,
+    "train/cls_loss": 0.2958,
+    "train/dfl_loss": 0.82926,
+    "train/sem_loss": 0.0,
+    "val/box_loss": 0.29211,
+    "val/seg_loss": 0.72148,
+    "val/cls_loss": 0.64295,
+    "val/dfl_loss": 0.80782,
+    "val/sem_loss": 0.0
+  },
+  "mean_epoch_seconds_excluding_start_or_reset": 562.230898989899,
+  "timer_resets": 0,
+  "source": "results.csv",
+  "note": "학습 중 검증 기록입니다. test 평가 및 최종 best.pt 재검증과 구분합니다. 재시작 구간의 첫 시간이 양수인 경우 준비 시간이 평균에 포함될 수 있습니다."
+}

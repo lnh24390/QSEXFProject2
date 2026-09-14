@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "bbox_train": 53098,
+    "source_bytes": 21207509722,
+    "output_bytes": 10675369854,
+    "bbox_val": 9628,
+    "bbox_test": 2734,
+    "seg_train": 50173,
+    "seg_val": 9629,
+    "seg_test": 2734
+  },
+  "resized_images": {
+    "bbox": 2762,
+    "seg": 300
+  },
+  "all_images_verified_640": true,
+  "metadata_removed_verified": true,
+  "jpeg_quality": 85,
+  "optimize": true,
+  "labels_transformed_with_actual_rounded_resize_dimensions": true,
+  "originals_untouched": true,
+  "semantic_review_incomplete": true
+}

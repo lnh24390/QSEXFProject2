@@ -1,0 +1,9 @@
+﻿model,task,split,metric,class,precision,recall,map50,map50_95
+original,bbox,val,box,all,0.9183549194790663,0.8654904229673658,0.9154785115820049,0.8491934413965256
+original,bbox,val,box,paper,,,,0.8604248412808453
+original,bbox,val,box,plastic,,,,0.8183849132529076
+original,bbox,val,box,can,,,,0.9011265759678275
+original,bbox,val,box,glass,,,,0.877346730369639
+original,bbox,val,box,battery,,,,0.8595619855862893
+original,bbox,val,box,vinyl,,,,0.7724236104915392
+original,bbox,val,box,general,,,,0.855085432826632

@@ -1,0 +1,7926 @@
+[
+  {
+    "path": "TACO/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.DS_Store",
+    "bytes": 10244
+  },
+  {
+    "path": "__MACOSX/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/.git/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/branches/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/COMMIT_EDITMSG",
+    "bytes": 57
+  },
+  {
+    "path": "TACO/.git/config",
+    "bytes": 306
+  },
+  {
+    "path": "TACO/.git/description",
+    "bytes": 73
+  },
+  {
+    "path": "TACO/.git/FETCH_HEAD",
+    "bytes": 94
+  },
+  {
+    "path": "TACO/.git/HEAD",
+    "bytes": 23
+  },
+  {
+    "path": "TACO/.git/hooks/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/hooks/applypatch-msg.sample",
+    "bytes": 478
+  },
+  {
+    "path": "TACO/.git/hooks/commit-msg.sample",
+    "bytes": 896
+  },
+  {
+    "path": "TACO/.git/hooks/post-update.sample",
+    "bytes": 189
+  },
+  {
+    "path": "TACO/.git/hooks/pre-applypatch.sample",
+    "bytes": 424
+  },
+  {
+    "path": "TACO/.git/hooks/pre-commit.sample",
+    "bytes": 1642
+  },
+  {
+    "path": "TACO/.git/hooks/pre-push.sample",
+    "bytes": 1348
+  },
+  {
+    "path": "TACO/.git/hooks/pre-rebase.sample",
+    "bytes": 4951
+  },
+  {
+    "path": "TACO/.git/hooks/pre-receive.sample",
+    "bytes": 544
+  },
+  {
+    "path": "TACO/.git/hooks/prepare-commit-msg.sample",
+    "bytes": 1239
+  },
+  {
+    "path": "TACO/.git/hooks/update.sample",
+    "bytes": 3610
+  },
+  {
+    "path": "TACO/.git/index",
+    "bytes": 1901
+  },
+  {
+    "path": "TACO/.git/info/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/info/exclude",
+    "bytes": 240
+  },
+  {
+    "path": "TACO/.git/logs/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/logs/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/.git/logs/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/logs/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/logs/HEAD",
+    "bytes": 3329
+  },
+  {
+    "path": "TACO/.git/logs/refs/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/logs/refs/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/.git/logs/refs/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/logs/refs/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/logs/refs/heads/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/logs/refs/heads/master",
+    "bytes": 3329
+  },
+  {
+    "path": "TACO/.git/logs/refs/remotes/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/logs/refs/remotes/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/.git/logs/refs/remotes/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/logs/refs/remotes/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/logs/refs/remotes/origin/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/logs/refs/remotes/origin/HEAD",
+    "bytes": 175
+  },
+  {
+    "path": "TACO/.git/logs/refs/remotes/origin/master",
+    "bytes": 2568
+  },
+  {
+    "path": "TACO/.git/objects/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/.DS_Store",
+    "bytes": 12292
+  },
+  {
+    "path": "__MACOSX/TACO/.git/objects/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/objects/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/objects/00/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/00/1f8e4fd4098a2251d0e2e80f55fdbf41280d97",
+    "bytes": 1043
+  },
+  {
+    "path": "TACO/.git/objects/00/aa26fc57de336a00356ee26520e811dd59026d",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/01/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/01/01cd3500a72b3c1ab83f481c59aad2c18ca270",
+    "bytes": 562
+  },
+  {
+    "path": "TACO/.git/objects/02/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/02/4327c7891a482920764cacf1596115ea7395a9",
+    "bytes": 164
+  },
+  {
+    "path": "TACO/.git/objects/03/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/03/b43160b3915721b910f0e5510d900a1c12e5a3",
+    "bytes": 102574
+  },
+  {
+    "path": "TACO/.git/objects/04/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/04/6060bd695c842d5c0eb67ac3828dd88cceba0b",
+    "bytes": 183
+  },
+  {
+    "path": "TACO/.git/objects/04/b43318e18eb95d27e7c82d3bd624d170c02ee4",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/09/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/09/1b30d5010929834b94e7861565bbaf97391065",
+    "bytes": 14451952
+  },
+  {
+    "path": "TACO/.git/objects/0b/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/0b/0d674d46091bc508a530e227d849a3b8e1f0cc",
+    "bytes": 216
+  },
+  {
+    "path": "TACO/.git/objects/0b/6662f14b3cfcbe04e4cd72e9be4f05a0c156e6",
+    "bytes": 585
+  },
+  {
+    "path": "TACO/.git/objects/0d/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/0d/e85db80d635294f6f5bba80fb49424869318be",
+    "bytes": 414159
+  },
+  {
+    "path": "TACO/.git/objects/0e/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/0e/7f8fab414738e0d1b853c1d84c39ede695e4ec",
+    "bytes": 291
+  },
+  {
+    "path": "TACO/.git/objects/0e/9c3a39bfc3cfcf2a95f9338998803983c253a9",
+    "bytes": 525
+  },
+  {
+    "path": "TACO/.git/objects/10/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/10/74bdd2ce267efe1708bd9f8947ca12d30e36c5",
+    "bytes": 216
+  },
+  {
+    "path": "TACO/.git/objects/12/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/12/a0f822ce48cddf5479600ad53a110aee5ad740",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/14/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/14/78bd694fe3ce9c5ce3ce4f62ea82d514a84853",
+    "bytes": 85
+  },
+  {
+    "path": "TACO/.git/objects/15/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/15/ca75c8037000a40aa2ed12a2c4dfca88233fa0",
+    "bytes": 559
+  },
+  {
+    "path": "TACO/.git/objects/16/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/16/fbc1d772022d0dcc0cc88ac48553ca27731e50",
+    "bytes": 163
+  },
+  {
+    "path": "TACO/.git/objects/17/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/17/e1500b05e2b8d0fc7b91784560839d3c591ff5",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/18/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/18/619cc05eb4c12977dad7cb2ab6d0dc2605605e",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/1a/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/1a/0bcbb3ea66e30042265dfe69d22ea8068ef5c1",
+    "bytes": 492
+  },
+  {
+    "path": "TACO/.git/objects/1a/521dc927110017e64a24ac790099f2f887d047",
+    "bytes": 218
+  },
+  {
+    "path": "TACO/.git/objects/1c/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/1c/bebc7aab31e33d0441d8edaf92d98ace889181",
+    "bytes": 1238
+  },
+  {
+    "path": "TACO/.git/objects/1d/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/1d/a7ca2099562c49e431cab608dbbea6eed238e3",
+    "bytes": 558
+  },
+  {
+    "path": "TACO/.git/objects/1d/c0bf1a1a73744003bc96827b42172fe8148268",
+    "bytes": 257
+  },
+  {
+    "path": "TACO/.git/objects/1e/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/1e/4d24a12f6bb08a37b7c9aa9eb5b385b1dc9619",
+    "bytes": 168
+  },
+  {
+    "path": "TACO/.git/objects/1e/654aa36c01a94a588eb7e31325c2273ec3590a",
+    "bytes": 537
+  },
+  {
+    "path": "TACO/.git/objects/21/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/21/759cb5c6c13ca9961ba9cdb446a21a1fc09917",
+    "bytes": 541
+  },
+  {
+    "path": "TACO/.git/objects/24/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/24/f080efee0e6639a4f51c991aa8795fd12ca580",
+    "bytes": 933
+  },
+  {
+    "path": "TACO/.git/objects/29/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/29/7b490fed2260b43094a1323085ed171ebae46a",
+    "bytes": 61
+  },
+  {
+    "path": "TACO/.git/objects/29/c55ff9a7f21bc095ad96f407acdf0985ba9c3a",
+    "bytes": 223
+  },
+  {
+    "path": "TACO/.git/objects/2b/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/2b/7b5a875bd225898647250fdca9c15f87d11c62",
+    "bytes": 11847224
+  },
+  {
+    "path": "TACO/.git/objects/2b/c25093b986052f34cde3e858abbe1882c3f8ac",
+    "bytes": 1378
+  },
+  {
+    "path": "TACO/.git/objects/2d/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/2d/a3a8fe3fd754825161fc7a50abf3aa0269e5bc",
+    "bytes": 183
+  },
+  {
+    "path": "TACO/.git/objects/2e/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/2e/06fa2b09678b5803357cc97280ed1d61494f73",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/2e/98b0f2c423569778c371e22849357f7a7874b7",
+    "bytes": 584
+  },
+  {
+    "path": "TACO/.git/objects/33/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/33/3a681be6819b4983f9e63091a0fa3f5caad771",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/37/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/37/da3c578be0f84a5706bb7f49f57c19c15198cb",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/39/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/39/b4b5870c73d7ce51357f959ebf0ac855846603",
+    "bytes": 79
+  },
+  {
+    "path": "TACO/.git/objects/3e/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/3e/2af1ae97df56f6b27d9576bd1c1b6be37b888a",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/3e/b73d2418e1f2170308568ddd92178e207c38eb",
+    "bytes": 1001
+  },
+  {
+    "path": "TACO/.git/objects/40/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/40/53cfd6925ac07ccb5fef4309e0b394740cfbd4",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/41/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/41/0072207e60f201f437f1839e78096ec56491eb",
+    "bytes": 156
+  },
+  {
+    "path": "TACO/.git/objects/43/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/43/780ca0dd21a165e4ee32ca30dbaf5618bbf5af",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/47/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/47/a85e099b3bfcfdfdaf7b0f004c956cb671b7de",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/4a/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/4a/1e817a6d392f96dac60da2f58db5320128eab7",
+    "bytes": 1208
+  },
+  {
+    "path": "TACO/.git/objects/4f/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/4f/42284bbce672b6e1aaeb7f5d873e15be69f020",
+    "bytes": 165
+  },
+  {
+    "path": "TACO/.git/objects/50/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/50/8da019a19be9ebcdacf164e2152444e57cd12c",
+    "bytes": 184
+  },
+  {
+    "path": "TACO/.git/objects/51/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/51/40dbc71734012caf91faeaf647fa7f2c7ef0ed",
+    "bytes": 157
+  },
+  {
+    "path": "TACO/.git/objects/53/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/53/4a654f3df3fb2ca668adb46de79d387c248951",
+    "bytes": 164
+  },
+  {
+    "path": "TACO/.git/objects/54/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/54/164127a2143ba087a450ee516d58c3f7c586fb",
+    "bytes": 61
+  },
+  {
+    "path": "TACO/.git/objects/55/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/55/9723167125f323598024f7ed1ed7bea0fe6c42",
+    "bytes": 61
+  },
+  {
+    "path": "TACO/.git/objects/56/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/56/bdab81bcc0e0fce66b51dd3999f6674e7a4c8d",
+    "bytes": 156
+  },
+  {
+    "path": "TACO/.git/objects/59/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/59/c4c9c8ba39342eb62c9c56574af9ef5f31cd77",
+    "bytes": 184
+  },
+  {
+    "path": "TACO/.git/objects/59/c93a17c44e3ff088de6303f8d04f97781a6623",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/5c/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/5c/52ed3270215f2e4133f6900b0f4a86fd590221",
+    "bytes": 3844
+  },
+  {
+    "path": "TACO/.git/objects/5c/c845fd413c1ec373df71747d3edd3b231e986b",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/5d/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/5d/1b840f196d2fd3447e591e9fd6d03b4529c21d",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/5f/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/5f/6dbfd4d9b42e63cdecf3ef180ff09c09f4fe4b",
+    "bytes": 29
+  },
+  {
+    "path": "TACO/.git/objects/61/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/61/791cd4f51927b2f096e026151207f2e765d4f7",
+    "bytes": 822
+  },
+  {
+    "path": "TACO/.git/objects/63/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/63/84244612abebdb9298bb2862d18985fb3fe82d",
+    "bytes": 413860
+  },
+  {
+    "path": "TACO/.git/objects/65/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/65/489c2c979a96b69889e5cfb571cc7d7925362a",
+    "bytes": 431869
+  },
+  {
+    "path": "TACO/.git/objects/65/e358891d0409a0846aa7b340977e29219ad6f6",
+    "bytes": 1461
+  },
+  {
+    "path": "TACO/.git/objects/67/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/67/2dc97860036a2f1f66e52d85a702fc56194e19",
+    "bytes": 1405
+  },
+  {
+    "path": "TACO/.git/objects/67/34badc8916cf0182dd2226c6032d9b8632b9e2",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/69/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/69/c6e1283331b7eeb7768acb857b5f854e18157d",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/6a/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/6a/303052158a8989c5950093e3590ccdba3368a2",
+    "bytes": 1461
+  },
+  {
+    "path": "TACO/.git/objects/6c/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/6c/47d72e200f4d9db252f65427e462ac21dcb9bb",
+    "bytes": 291
+  },
+  {
+    "path": "TACO/.git/objects/6e/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/6e/bc485d07891d319e8558a2af207dc588da8983",
+    "bytes": 5350506
+  },
+  {
+    "path": "TACO/.git/objects/72/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/72/ae2680fa1310befeac0a059c5e158000c804cb",
+    "bytes": 1561
+  },
+  {
+    "path": "TACO/.git/objects/74/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/74/3c83627ee8e20bee3d7e7f1eb50dc7815b84c7",
+    "bytes": 166
+  },
+  {
+    "path": "TACO/.git/objects/74/63301ad0c35420843c0c02d9815c28080fbd51",
+    "bytes": 637
+  },
+  {
+    "path": "TACO/.git/objects/74/9f6b45c1a0a085cf3be00fc317d7f6aa9f241c",
+    "bytes": 559
+  },
+  {
+    "path": "TACO/.git/objects/74/b323077e598ad413e102b7b9138b36c9a19629",
+    "bytes": 11935
+  },
+  {
+    "path": "TACO/.git/objects/75/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/75/41f6548da278f2cb97437340e919cdedda273a",
+    "bytes": 4078963
+  },
+  {
+    "path": "TACO/.git/objects/76/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/76/bdbe4934b7699f38cfef84ad430a38713210d7",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/7a/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/7a/b45ec98f2ba451589832374aa5bc0430381b47",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/7b/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/7b/6248f7530d8dd8d8c9ae8ec9a41cefff307813",
+    "bytes": 365
+  },
+  {
+    "path": "TACO/.git/objects/7c/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/7c/f4b6a675487f5c7fcc55dbaafec8c8cf39f51b",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/7f/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/7f/c8c0a1f57012282dd571b869725d5637ef12aa",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/80/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/80/b35e90a56339621d08ef1cc9c6ca939354c1a0",
+    "bytes": 933
+  },
+  {
+    "path": "TACO/.git/objects/81/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/81/3a44b369857d575b2794f680c8924d1b093b83",
+    "bytes": 1233
+  },
+  {
+    "path": "TACO/.git/objects/82/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/82/4d3263a8c3cc852faa83242313e717145bd8d1",
+    "bytes": 791
+  },
+  {
+    "path": "TACO/.git/objects/84/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/84/014bb8f0367bb4945d8ff4319898372b144ebd",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/84/5b45e8571051685b9e8dc9c08b3e9697641adc",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/84/c71025617c914adaee62a67d709f55b581dd25",
+    "bytes": 734
+  },
+  {
+    "path": "TACO/.git/objects/86/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/86/3ee60950e608f58d5ac5291d1da66d8d5bf51b",
+    "bytes": 61
+  },
+  {
+    "path": "TACO/.git/objects/87/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/87/a4c8f98ef5eda911f06ccdfb9ae38bdd6b70eb",
+    "bytes": 1240
+  },
+  {
+    "path": "TACO/.git/objects/88/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/88/430c923f46b36763bc97c1730bfa51f9788fc9",
+    "bytes": 1234
+  },
+  {
+    "path": "TACO/.git/objects/8c/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/8c/53e0049bb003abbf652d124e6d15437645542a",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/8f/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/8f/2ed1f4dbaaca6b522e89a026e990d2b1b82e80",
+    "bytes": 155
+  },
+  {
+    "path": "TACO/.git/objects/8f/ab90d314da7fa2bc3e1da2e02ae722752609a9",
+    "bytes": 1237
+  },
+  {
+    "path": "TACO/.git/objects/91/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/91/4f421682ab9c34a3d632cf5eef9364be2b9aed",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/91/7bc50305c1b974c15e0db94ad1aed4c8651594",
+    "bytes": 6597
+  },
+  {
+    "path": "TACO/.git/objects/93/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/93/a806450dcabd94a5286f5f48dbdf0840597e00",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/94/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/94/6d894bf9c7b1ef319a76b86edcec592903f3a3",
+    "bytes": 37337
+  },
+  {
+    "path": "TACO/.git/objects/94/7fbe36b45158319ec8e320b3f97cfb9ba0ff7a",
+    "bytes": 338
+  },
+  {
+    "path": "TACO/.git/objects/96/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/96/3f20ccb3e61d898bc0a2d6ae9360dab4385870",
+    "bytes": 156
+  },
+  {
+    "path": "TACO/.git/objects/96/5e1ec6477fe437758a1e64c58733b823a14e50",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/99/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/99/0573fa0d9426136ae070a1e19300fad18ce090",
+    "bytes": 61
+  },
+  {
+    "path": "TACO/.git/objects/99/2e1bdc784e1bc6fe3a4e648d34b8194cda89ca",
+    "bytes": 186
+  },
+  {
+    "path": "TACO/.git/objects/99/5edfc4d705b2a2deee6ade64dfbc480de17570",
+    "bytes": 1219
+  },
+  {
+    "path": "TACO/.git/objects/9a/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/9a/1f935b311c55e81c33cfc6b970cab2f4b67d9e",
+    "bytes": 456
+  },
+  {
+    "path": "TACO/.git/objects/9a/bfb040328c59f3aafbe8adb4c13642a6c1c9cb",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/9a/c0e6c71f7c58cc3c257e7a330bb6e2b1a35816",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/9c/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/9c/c6ae9d6fb66118609e0c2b857b1735f692cded",
+    "bytes": 292
+  },
+  {
+    "path": "TACO/.git/objects/9e/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/9e/97d0ce81ffb3303c903be0661c916fe99118c4",
+    "bytes": 186
+  },
+  {
+    "path": "TACO/.git/objects/a0/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/a0/8aa74392c6cab6514978a02b12ea5aa9537a52",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/a2/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/a2/2b08a16c4ba241ca12f112ed7ab1bd51cf42e0",
+    "bytes": 568
+  },
+  {
+    "path": "TACO/.git/objects/a2/60de2622462d8d8e62095c9057d6abf77848e9",
+    "bytes": 784
+  },
+  {
+    "path": "TACO/.git/objects/a3/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/a3/5e9445fcf8c9319d27051ec3d6d5b26b0355f9",
+    "bytes": 189
+  },
+  {
+    "path": "TACO/.git/objects/a3/9a549d17a722643a0b8a531fbee11d55a8e4c0",
+    "bytes": 558
+  },
+  {
+    "path": "TACO/.git/objects/a5/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/a5/6f6cb4f85fd4aca629ec7cde8e1d0b0c16b9c5",
+    "bytes": 166
+  },
+  {
+    "path": "TACO/.git/objects/a5/c11d836c26da65debf94c7b6291607e3fe8555",
+    "bytes": 224
+  },
+  {
+    "path": "TACO/.git/objects/a8/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/a8/65ac8fcb4e209b474a39c9bdb0b203c412c1c3",
+    "bytes": 731
+  },
+  {
+    "path": "TACO/.git/objects/a8/d75cf737f31989d9109527e05600d8d0141f00",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/a9/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/a9/b3217b776c235480d61bd09079dbf670dc8cae",
+    "bytes": 175
+  },
+  {
+    "path": "TACO/.git/objects/ab/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ab/64f1cd40cf3fe6260807e2709909a9b34b86b0",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/ad/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ad/9ad78b81693502061e3ab290f17fdb25ea00de",
+    "bytes": 216
+  },
+  {
+    "path": "TACO/.git/objects/af/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/af/16e44ef0de790ce8d5cdf71946d288f0485232",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/af/47630c51e4e778c6d955c799fe2dd7f0ae4bad",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/b0/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/b0/a8428110ce94251f59a7685d1ca3448e0739f9",
+    "bytes": 743
+  },
+  {
+    "path": "TACO/.git/objects/b0/b3163925d60352b230a6ded14780bd231d9931",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/b2/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/b2/0729fb7355c51aa07278ce28d5bf233398c0c3",
+    "bytes": 1541
+  },
+  {
+    "path": "TACO/.git/objects/b2/d6b2dce4b22d1016ea87baf8f5c28eb5bf4d15",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/b2/da72fa9597e399d8ef89fab9b2c86fd3e026ee",
+    "bytes": 11848161
+  },
+  {
+    "path": "TACO/.git/objects/b4/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/b4/14efaf64bef086636b294e95c7c48e9c4e714f",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/b5/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/b5/ce8ffa6adb37d928c515e5e110750453e5bec3",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/ba/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ba/2083b4a03befa4468558d447c1a9472d91bd72",
+    "bytes": 664
+  },
+  {
+    "path": "TACO/.git/objects/ba/3aa0566c018aa5b63f4a5319e8b5a5d3fd1480",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/be/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/be/aaaaeb361a069baedf41725a9c969fa71e6c70",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/bf/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/bf/3f59f47f185149a7133ba08b9b38b9a67c5426",
+    "bytes": 52
+  },
+  {
+    "path": "TACO/.git/objects/bf/f3fe4b115c93017d60a81a50a419b47cdaa037",
+    "bytes": 319
+  },
+  {
+    "path": "TACO/.git/objects/c1/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/c1/96b8f928cdc412ab493ce958327fda0529868f",
+    "bytes": 920
+  },
+  {
+    "path": "TACO/.git/objects/c2/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/c2/0d6cf618d5540cdea0a0585c3ed0a214d1cdab",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/c4/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/c4/338af7da3d9bf9cc899ecdc7e23470d6737b89",
+    "bytes": 821508
+  },
+  {
+    "path": "TACO/.git/objects/c8/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/c8/2e75ee8f1e53a0ca962358393606eb8cc7891c",
+    "bytes": 1045
+  },
+  {
+    "path": "TACO/.git/objects/c9/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/c9/0ef45fab371dea0d1acac3e22ef64ea0fac3be",
+    "bytes": 49
+  },
+  {
+    "path": "TACO/.git/objects/c9/a7581550bf5451b3d97a49f781339b9b043a2f",
+    "bytes": 464
+  },
+  {
+    "path": "TACO/.git/objects/cb/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/cb/8d8b3ba39d0c99ae881a3e0c56444818d2271e",
+    "bytes": 576
+  },
+  {
+    "path": "TACO/.git/objects/cc/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/cc/3f7b17fbbf26f4f80ecd1c6d453d7eba32a403",
+    "bytes": 216
+  },
+  {
+    "path": "TACO/.git/objects/cd/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/cd/19a34342aa6a63cf1357a38fdf3d641d1a6610",
+    "bytes": 1405
+  },
+  {
+    "path": "TACO/.git/objects/cd/7f7d96484960c45b62c866f59117c3140fc0f1",
+    "bytes": 291
+  },
+  {
+    "path": "TACO/.git/objects/ce/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ce/6a69c5a3bb70be6d1d0fecc093b2da52ef673d",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/cf/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/cf/dd1b8f8572076e6c10f19313db6d6909c6485c",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/d3/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/d3/04588dc28b295787692f81c78de0d226bc8100",
+    "bytes": 317
+  },
+  {
+    "path": "TACO/.git/objects/d5/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/d5/d5f306d3a8da301776ab86fe762848abcbba69",
+    "bytes": 431652
+  },
+  {
+    "path": "TACO/.git/objects/d7/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/d7/aac4f85f51c823a792993d09e4d7ab5798a84a",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/d8/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/d8/1b9994cff8898fb45a98b503b7910219c9be21",
+    "bytes": 1405
+  },
+  {
+    "path": "TACO/.git/objects/d8/c3e614bfefb9015d055bc4e2f78548dcaacf16",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/da/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/da/bd4b857610910d4d20a5e83121326aede57d0d",
+    "bytes": 562
+  },
+  {
+    "path": "TACO/.git/objects/da/c246a98aa095c6980c933bb97ee40c8e722141",
+    "bytes": 558
+  },
+  {
+    "path": "TACO/.git/objects/db/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/db/f1ef51da52d169dd0f64499be3f12280ee1e67",
+    "bytes": 1041
+  },
+  {
+    "path": "TACO/.git/objects/de/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/de/f6ccb3fe55e1b62f431fb61973e12c9a4277e2",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/df/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/df/69defb1c58c26ba032fc9222a8a2afe0a0d6f2",
+    "bytes": 155
+  },
+  {
+    "path": "TACO/.git/objects/e4/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/e4/ba3ef34e2d3f8a9f714cb2a1f04089322ed35d",
+    "bytes": 4236
+  },
+  {
+    "path": "TACO/.git/objects/e4/d0c292bc00c3b8bd58fbfcb24af4b2bb8b76f8",
+    "bytes": 549
+  },
+  {
+    "path": "TACO/.git/objects/e5/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/e5/9f66b9af2639e2cd5c5fd1660cc993b91d05a0",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/e6/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/e6/8422440e2ff94db784780e5e8df517320fee24",
+    "bytes": 217
+  },
+  {
+    "path": "TACO/.git/objects/e7/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/e7/3b96d91e2cf5ec06849f780b34770c9647539a",
+    "bytes": 1186
+  },
+  {
+    "path": "TACO/.git/objects/e7/e65e73b05a013a2a71c97136004add6ac9db16",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/e8/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/e8/a914b71a08fe5474f992e747c1797b3d83efd8",
+    "bytes": 3200
+  },
+  {
+    "path": "TACO/.git/objects/e9/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/e9/f53786d843e8b22be146cac012399253c44cda",
+    "bytes": 561
+  },
+  {
+    "path": "TACO/.git/objects/eb/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/eb/69647d823ecc231a530b16f155121a8b084327",
+    "bytes": 559
+  },
+  {
+    "path": "TACO/.git/objects/ee/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ee/0da2d3d05037b2a301421c080b405d6c68ba2a",
+    "bytes": 185
+  },
+  {
+    "path": "TACO/.git/objects/ef/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ef/729f748bdeff27a68519dc939dadaf78815639",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/ef/c0b4859df1c130b20bb685d25bf687061e0126",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/ef/fdb72678be64edc0d0eb72155cf07bd8a149d5",
+    "bytes": 560
+  },
+  {
+    "path": "TACO/.git/objects/f0/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/f0/4546cb7d901940145d94a8f31fb9cf92dd29df",
+    "bytes": 3707613
+  },
+  {
+    "path": "TACO/.git/objects/f2/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/f2/88702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+    "bytes": 14219
+  },
+  {
+    "path": "TACO/.git/objects/f3/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/f3/135a955ec58a6371543ceeb929facd22dd615d",
+    "bytes": 835
+  },
+  {
+    "path": "TACO/.git/objects/f3/61db3809db55fbb42a01fb44bce190f880882b",
+    "bytes": 1379
+  },
+  {
+    "path": "TACO/.git/objects/f3/e73a7b24500c4323f0d8b7824f9eac93ed6ede",
+    "bytes": 1242
+  },
+  {
+    "path": "TACO/.git/objects/f4/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/f4/4c1b3cb7de3b602f8c91ef28ac2d62eee832bb",
+    "bytes": 9977
+  },
+  {
+    "path": "TACO/.git/objects/f4/c9a55f70ebf5bb2be02b1ac884980ed42977b0",
+    "bytes": 371
+  },
+  {
+    "path": "TACO/.git/objects/fc/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/fc/d4823a243dc489b988b081241406194f75164a",
+    "bytes": 563
+  },
+  {
+    "path": "TACO/.git/objects/fe/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/fe/c97f7008c789ca39e804a46e80abd840718b26",
+    "bytes": 156
+  },
+  {
+    "path": "TACO/.git/objects/ff/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/ff/53dc8639a9f4ab9e2adb2968c5627acf9cc591",
+    "bytes": 222
+  },
+  {
+    "path": "TACO/.git/objects/ff/e2a50a75c435ab6b3bf2511ef094ba496b077c",
+    "bytes": 457
+  },
+  {
+    "path": "TACO/.git/objects/info/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/objects/pack/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/ORIG_HEAD",
+    "bytes": 41
+  },
+  {
+    "path": "TACO/.git/packed-refs",
+    "bytes": 107
+  },
+  {
+    "path": "TACO/.git/refs/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/refs/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/.git/refs/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/refs/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/refs/heads/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/refs/heads/master",
+    "bytes": 41
+  },
+  {
+    "path": "TACO/.git/refs/remotes/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/refs/remotes/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/.git/refs/remotes/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/.git/refs/remotes/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/.git/refs/remotes/origin/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/refs/remotes/origin/HEAD",
+    "bytes": 32
+  },
+  {
+    "path": "TACO/.git/refs/remotes/origin/master",
+    "bytes": 41
+  },
+  {
+    "path": "TACO/.git/refs/tags/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.git/refs/tags/v0.1",
+    "bytes": 41
+  },
+  {
+    "path": "TACO/.gitignore",
+    "bytes": 37
+  },
+  {
+    "path": "TACO/.ipynb_checkpoints/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/.ipynb_checkpoints/demo-checkpoint.ipynb",
+    "bytes": 18824739
+  },
+  {
+    "path": "TACO/data/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/.DS_Store",
+    "bytes": 36868
+  },
+  {
+    "path": "__MACOSX/TACO/data/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/annotations.json",
+    "bytes": 3022022
+  },
+  {
+    "path": "TACO/data/batch_1/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_1/000000.jpg",
+    "bytes": 762802
+  },
+  {
+    "path": "TACO/data/batch_1/000001.jpg",
+    "bytes": 785539
+  },
+  {
+    "path": "TACO/data/batch_1/000003.jpg",
+    "bytes": 391439
+  },
+  {
+    "path": "TACO/data/batch_1/000004.jpg",
+    "bytes": 237399
+  },
+  {
+    "path": "TACO/data/batch_1/000005.jpg",
+    "bytes": 813997
+  },
+  {
+    "path": "TACO/data/batch_1/000006.jpg",
+    "bytes": 385269
+  },
+  {
+    "path": "TACO/data/batch_1/000007.jpg",
+    "bytes": 189722
+  },
+  {
+    "path": "TACO/data/batch_1/000008.jpg",
+    "bytes": 257143
+  },
+  {
+    "path": "TACO/data/batch_1/000010.jpg",
+    "bytes": 483697
+  },
+  {
+    "path": "TACO/data/batch_1/000011.jpg",
+    "bytes": 694105
+  },
+  {
+    "path": "TACO/data/batch_1/000012.jpg",
+    "bytes": 857376
+  },
+  {
+    "path": "TACO/data/batch_1/000013.jpg",
+    "bytes": 789354
+  },
+  {
+    "path": "TACO/data/batch_1/000014.jpg",
+    "bytes": 921579
+  },
+  {
+    "path": "TACO/data/batch_1/000015.jpg",
+    "bytes": 1047999
+  },
+  {
+    "path": "TACO/data/batch_1/000016.jpg",
+    "bytes": 384295
+  },
+  {
+    "path": "TACO/data/batch_1/000017.jpg",
+    "bytes": 846661
+  },
+  {
+    "path": "TACO/data/batch_1/000019.jpg",
+    "bytes": 595912
+  },
+  {
+    "path": "TACO/data/batch_1/000021.jpg",
+    "bytes": 484402
+  },
+  {
+    "path": "TACO/data/batch_1/000022.jpg",
+    "bytes": 486726
+  },
+  {
+    "path": "TACO/data/batch_1/000023.jpg",
+    "bytes": 794034
+  },
+  {
+    "path": "TACO/data/batch_1/000024.jpg",
+    "bytes": 692839
+  },
+  {
+    "path": "TACO/data/batch_1/000025.jpg",
+    "bytes": 538137
+  },
+  {
+    "path": "TACO/data/batch_1/000026.jpg",
+    "bytes": 544921
+  },
+  {
+    "path": "TACO/data/batch_1/000027.jpg",
+    "bytes": 499736
+  },
+  {
+    "path": "TACO/data/batch_1/000028.jpg",
+    "bytes": 589211
+  },
+  {
+    "path": "TACO/data/batch_1/000029.jpg",
+    "bytes": 538275
+  },
+  {
+    "path": "TACO/data/batch_1/000030.jpg",
+    "bytes": 594677
+  },
+  {
+    "path": "TACO/data/batch_1/000031.jpg",
+    "bytes": 798624
+  },
+  {
+    "path": "TACO/data/batch_1/000032.jpg",
+    "bytes": 801180
+  },
+  {
+    "path": "TACO/data/batch_1/000035.jpg",
+    "bytes": 261677
+  },
+  {
+    "path": "TACO/data/batch_1/000037.jpg",
+    "bytes": 356737
+  },
+  {
+    "path": "TACO/data/batch_1/000038.jpg",
+    "bytes": 393003
+  },
+  {
+    "path": "TACO/data/batch_1/000040.jpg",
+    "bytes": 360777
+  },
+  {
+    "path": "TACO/data/batch_1/000042.jpg",
+    "bytes": 346580
+  },
+  {
+    "path": "TACO/data/batch_1/000043.jpg",
+    "bytes": 291800
+  },
+  {
+    "path": "TACO/data/batch_1/000045.jpg",
+    "bytes": 319262
+  },
+  {
+    "path": "TACO/data/batch_1/000047.jpg",
+    "bytes": 314588
+  },
+  {
+    "path": "TACO/data/batch_1/000048.jpg",
+    "bytes": 273312
+  },
+  {
+    "path": "TACO/data/batch_1/000049.jpg",
+    "bytes": 247573
+  },
+  {
+    "path": "TACO/data/batch_1/000050.jpg",
+    "bytes": 238832
+  },
+  {
+    "path": "TACO/data/batch_1/000053.jpg",
+    "bytes": 295615
+  },
+  {
+    "path": "TACO/data/batch_1/000054.jpg",
+    "bytes": 294193
+  },
+  {
+    "path": "TACO/data/batch_1/000055.jpg",
+    "bytes": 232741
+  },
+  {
+    "path": "TACO/data/batch_1/000056.jpg",
+    "bytes": 252224
+  },
+  {
+    "path": "TACO/data/batch_1/000058.jpg",
+    "bytes": 212997
+  },
+  {
+    "path": "TACO/data/batch_1/000059.jpg",
+    "bytes": 194772
+  },
+  {
+    "path": "TACO/data/batch_1/000060.jpg",
+    "bytes": 237701
+  },
+  {
+    "path": "TACO/data/batch_1/000061.jpg",
+    "bytes": 253120
+  },
+  {
+    "path": "TACO/data/batch_1/000062.JPG",
+    "bytes": 1425052
+  },
+  {
+    "path": "TACO/data/batch_1/000064.JPG",
+    "bytes": 714982
+  },
+  {
+    "path": "TACO/data/batch_1/000065.JPG",
+    "bytes": 770192
+  },
+  {
+    "path": "TACO/data/batch_1/000066.JPG",
+    "bytes": 827418
+  },
+  {
+    "path": "TACO/data/batch_1/000067.JPG",
+    "bytes": 601444
+  },
+  {
+    "path": "TACO/data/batch_1/000068.JPG",
+    "bytes": 1886103
+  },
+  {
+    "path": "TACO/data/batch_1/000069.JPG",
+    "bytes": 1696697
+  },
+  {
+    "path": "TACO/data/batch_1/000070.JPG",
+    "bytes": 906694
+  },
+  {
+    "path": "TACO/data/batch_1/000071.JPG",
+    "bytes": 1218751
+  },
+  {
+    "path": "TACO/data/batch_1/000072.JPG",
+    "bytes": 1219238
+  },
+  {
+    "path": "TACO/data/batch_1/000073.JPG",
+    "bytes": 1296246
+  },
+  {
+    "path": "TACO/data/batch_1/000074.JPG",
+    "bytes": 1638478
+  },
+  {
+    "path": "TACO/data/batch_1/000076.JPG",
+    "bytes": 2033367
+  },
+  {
+    "path": "TACO/data/batch_1/000078.JPG",
+    "bytes": 671265
+  },
+  {
+    "path": "TACO/data/batch_1/000079.JPG",
+    "bytes": 645909
+  },
+  {
+    "path": "TACO/data/batch_1/000081.JPG",
+    "bytes": 1489309
+  },
+  {
+    "path": "TACO/data/batch_1/000082.JPG",
+    "bytes": 1724777
+  },
+  {
+    "path": "TACO/data/batch_1/000083.JPG",
+    "bytes": 1912645
+  },
+  {
+    "path": "TACO/data/batch_1/000084.JPG",
+    "bytes": 1624840
+  },
+  {
+    "path": "TACO/data/batch_1/000085.JPG",
+    "bytes": 1216753
+  },
+  {
+    "path": "TACO/data/batch_1/000086.JPG",
+    "bytes": 819634
+  },
+  {
+    "path": "TACO/data/batch_1/000087.JPG",
+    "bytes": 994281
+  },
+  {
+    "path": "TACO/data/batch_1/000088.JPG",
+    "bytes": 472796
+  },
+  {
+    "path": "TACO/data/batch_1/000090.JPG",
+    "bytes": 442220
+  },
+  {
+    "path": "TACO/data/batch_1/000091.JPG",
+    "bytes": 533581
+  },
+  {
+    "path": "TACO/data/batch_1/000092.JPG",
+    "bytes": 505683
+  },
+  {
+    "path": "TACO/data/batch_1/000093.JPG",
+    "bytes": 826537
+  },
+  {
+    "path": "TACO/data/batch_1/000094.JPG",
+    "bytes": 792542
+  },
+  {
+    "path": "TACO/data/batch_1/000095.JPG",
+    "bytes": 616162
+  },
+  {
+    "path": "TACO/data/batch_1/000096.JPG",
+    "bytes": 1127658
+  },
+  {
+    "path": "TACO/data/batch_1/000098.JPG",
+    "bytes": 1905945
+  },
+  {
+    "path": "TACO/data/batch_1/000099.JPG",
+    "bytes": 898538
+  },
+  {
+    "path": "TACO/data/batch_1/000100.JPG",
+    "bytes": 651390
+  },
+  {
+    "path": "TACO/data/batch_1/000101.JPG",
+    "bytes": 765406
+  },
+  {
+    "path": "TACO/data/batch_1/000102.JPG",
+    "bytes": 1487873
+  },
+  {
+    "path": "TACO/data/batch_1/000104.JPG",
+    "bytes": 466938
+  },
+  {
+    "path": "TACO/data/batch_1/000105.JPG",
+    "bytes": 855870
+  },
+  {
+    "path": "TACO/data/batch_1/000106.JPG",
+    "bytes": 576380
+  },
+  {
+    "path": "TACO/data/batch_1/000107.JPG",
+    "bytes": 1181744
+  },
+  {
+    "path": "TACO/data/batch_1/000108.JPG",
+    "bytes": 2051340
+  },
+  {
+    "path": "TACO/data/batch_1/000110.JPG",
+    "bytes": 1160241
+  },
+  {
+    "path": "TACO/data/batch_1/000111.JPG",
+    "bytes": 1453568
+  },
+  {
+    "path": "TACO/data/batch_1/000115.JPG",
+    "bytes": 1886579
+  },
+  {
+    "path": "TACO/data/batch_1/000117.JPG",
+    "bytes": 1486221
+  },
+  {
+    "path": "TACO/data/batch_1/000118.JPG",
+    "bytes": 1857198
+  },
+  {
+    "path": "TACO/data/batch_1/000119.JPG",
+    "bytes": 784355
+  },
+  {
+    "path": "TACO/data/batch_1/000120.JPG",
+    "bytes": 1023476
+  },
+  {
+    "path": "TACO/data/batch_1/000121.JPG",
+    "bytes": 2453954
+  },
+  {
+    "path": "TACO/data/batch_1/000122.JPG",
+    "bytes": 2535877
+  },
+  {
+    "path": "TACO/data/batch_1/000124.JPG",
+    "bytes": 591522
+  },
+  {
+    "path": "TACO/data/batch_1/000127.JPG",
+    "bytes": 950326
+  },
+  {
+    "path": "TACO/data/batch_1/000128.JPG",
+    "bytes": 1064055
+  },
+  {
+    "path": "TACO/data/batch_1/000129.JPG",
+    "bytes": 730996
+  },
+  {
+    "path": "TACO/data/batch_1/annotations.json",
+    "bytes": 332347
+  },
+  {
+    "path": "TACO/data/batch_10/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_10/000000.jpg",
+    "bytes": 2406037
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_10/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_10/._000000.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_10/000001.jpg",
+    "bytes": 2580129
+  },
+  {
+    "path": "TACO/data/batch_10/000002.jpg",
+    "bytes": 2454045
+  },
+  {
+    "path": "TACO/data/batch_10/000003.jpg",
+    "bytes": 2239649
+  },
+  {
+    "path": "TACO/data/batch_10/000004.jpg",
+    "bytes": 2190916
+  },
+  {
+    "path": "TACO/data/batch_10/000005.jpg",
+    "bytes": 2480640
+  },
+  {
+    "path": "TACO/data/batch_10/000006.jpg",
+    "bytes": 1856079
+  },
+  {
+    "path": "TACO/data/batch_10/000007.jpg",
+    "bytes": 2194320
+  },
+  {
+    "path": "TACO/data/batch_10/000008.jpg",
+    "bytes": 2710006
+  },
+  {
+    "path": "TACO/data/batch_10/000009.jpg",
+    "bytes": 2209700
+  },
+  {
+    "path": "TACO/data/batch_10/000010.jpg",
+    "bytes": 1457262
+  },
+  {
+    "path": "TACO/data/batch_10/000011.jpg",
+    "bytes": 783321
+  },
+  {
+    "path": "TACO/data/batch_10/000012.jpg",
+    "bytes": 1659449
+  },
+  {
+    "path": "TACO/data/batch_10/000013.jpg",
+    "bytes": 2282379
+  },
+  {
+    "path": "TACO/data/batch_10/000014.jpg",
+    "bytes": 1402882
+  },
+  {
+    "path": "TACO/data/batch_10/000015.jpg",
+    "bytes": 1872936
+  },
+  {
+    "path": "TACO/data/batch_10/000016.jpg",
+    "bytes": 1460750
+  },
+  {
+    "path": "TACO/data/batch_10/000017.jpg",
+    "bytes": 1895303
+  },
+  {
+    "path": "TACO/data/batch_10/000018.jpg",
+    "bytes": 1760574
+  },
+  {
+    "path": "TACO/data/batch_10/000019.jpg",
+    "bytes": 2179102
+  },
+  {
+    "path": "TACO/data/batch_10/000020.jpg",
+    "bytes": 1244336
+  },
+  {
+    "path": "TACO/data/batch_10/000021.jpg",
+    "bytes": 1112572
+  },
+  {
+    "path": "TACO/data/batch_10/000022.jpg",
+    "bytes": 1650743
+  },
+  {
+    "path": "TACO/data/batch_10/000023.jpg",
+    "bytes": 1176410
+  },
+  {
+    "path": "TACO/data/batch_10/000024.jpg",
+    "bytes": 1653747
+  },
+  {
+    "path": "TACO/data/batch_10/000025.jpg",
+    "bytes": 1409830
+  },
+  {
+    "path": "TACO/data/batch_10/000026.jpg",
+    "bytes": 553175
+  },
+  {
+    "path": "TACO/data/batch_10/000027.jpg",
+    "bytes": 1465717
+  },
+  {
+    "path": "TACO/data/batch_10/000028.jpg",
+    "bytes": 1567114
+  },
+  {
+    "path": "TACO/data/batch_10/000029.jpg",
+    "bytes": 965018
+  },
+  {
+    "path": "TACO/data/batch_10/000030.jpg",
+    "bytes": 1238645
+  },
+  {
+    "path": "TACO/data/batch_10/000031.jpg",
+    "bytes": 1247653
+  },
+  {
+    "path": "TACO/data/batch_10/000032.jpg",
+    "bytes": 700734
+  },
+  {
+    "path": "TACO/data/batch_10/000033.jpg",
+    "bytes": 1989131
+  },
+  {
+    "path": "TACO/data/batch_10/000034.jpg",
+    "bytes": 2175776
+  },
+  {
+    "path": "TACO/data/batch_10/000035.jpg",
+    "bytes": 2145190
+  },
+  {
+    "path": "TACO/data/batch_10/000036.jpg",
+    "bytes": 1226566
+  },
+  {
+    "path": "TACO/data/batch_10/000037.jpg",
+    "bytes": 1385712
+  },
+  {
+    "path": "TACO/data/batch_10/000038.jpg",
+    "bytes": 1157710
+  },
+  {
+    "path": "TACO/data/batch_10/000039.jpg",
+    "bytes": 2352733
+  },
+  {
+    "path": "TACO/data/batch_10/000040.jpg",
+    "bytes": 2291914
+  },
+  {
+    "path": "TACO/data/batch_10/000041.jpg",
+    "bytes": 1685550
+  },
+  {
+    "path": "TACO/data/batch_10/000042.jpg",
+    "bytes": 1291201
+  },
+  {
+    "path": "TACO/data/batch_10/000043.jpg",
+    "bytes": 1639276
+  },
+  {
+    "path": "TACO/data/batch_10/000044.jpg",
+    "bytes": 2038364
+  },
+  {
+    "path": "TACO/data/batch_10/000045.jpg",
+    "bytes": 1926400
+  },
+  {
+    "path": "TACO/data/batch_10/000046.jpg",
+    "bytes": 2346237
+  },
+  {
+    "path": "TACO/data/batch_10/000047.jpg",
+    "bytes": 1679375
+  },
+  {
+    "path": "TACO/data/batch_10/000048.jpg",
+    "bytes": 2286914
+  },
+  {
+    "path": "TACO/data/batch_10/000049.jpg",
+    "bytes": 1107852
+  },
+  {
+    "path": "TACO/data/batch_10/000050.jpg",
+    "bytes": 1904678
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_10/._000050.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_10/000051.jpg",
+    "bytes": 1027288
+  },
+  {
+    "path": "TACO/data/batch_10/000052.jpg",
+    "bytes": 1765799
+  },
+  {
+    "path": "TACO/data/batch_10/000053.jpg",
+    "bytes": 1165859
+  },
+  {
+    "path": "TACO/data/batch_10/000054.jpg",
+    "bytes": 1649082
+  },
+  {
+    "path": "TACO/data/batch_10/000055.jpg",
+    "bytes": 1497995
+  },
+  {
+    "path": "TACO/data/batch_10/000056.jpg",
+    "bytes": 1948634
+  },
+  {
+    "path": "TACO/data/batch_10/000057.jpg",
+    "bytes": 2314957
+  },
+  {
+    "path": "TACO/data/batch_10/000058.jpg",
+    "bytes": 1562909
+  },
+  {
+    "path": "TACO/data/batch_10/000059.jpg",
+    "bytes": 2419350
+  },
+  {
+    "path": "TACO/data/batch_10/000060.jpg",
+    "bytes": 2087836
+  },
+  {
+    "path": "TACO/data/batch_10/000061.jpg",
+    "bytes": 1540731
+  },
+  {
+    "path": "TACO/data/batch_10/000062.jpg",
+    "bytes": 1924746
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_10/._000062.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_10/000063.jpg",
+    "bytes": 2036762
+  },
+  {
+    "path": "TACO/data/batch_10/000064.jpg",
+    "bytes": 2140319
+  },
+  {
+    "path": "TACO/data/batch_10/000065.jpg",
+    "bytes": 2398322
+  },
+  {
+    "path": "TACO/data/batch_10/000066.jpg",
+    "bytes": 1988794
+  },
+  {
+    "path": "TACO/data/batch_10/000067.jpg",
+    "bytes": 1985459
+  },
+  {
+    "path": "TACO/data/batch_10/000068.jpg",
+    "bytes": 1757262
+  },
+  {
+    "path": "TACO/data/batch_10/000069.jpg",
+    "bytes": 1671209
+  },
+  {
+    "path": "TACO/data/batch_10/000070.jpg",
+    "bytes": 1466589
+  },
+  {
+    "path": "TACO/data/batch_10/000071.jpg",
+    "bytes": 2190378
+  },
+  {
+    "path": "TACO/data/batch_10/000072.jpg",
+    "bytes": 1626135
+  },
+  {
+    "path": "TACO/data/batch_10/000073.jpg",
+    "bytes": 1258949
+  },
+  {
+    "path": "TACO/data/batch_10/000074.jpg",
+    "bytes": 1678876
+  },
+  {
+    "path": "TACO/data/batch_10/000075.jpg",
+    "bytes": 800023
+  },
+  {
+    "path": "TACO/data/batch_10/000076.jpg",
+    "bytes": 1285023
+  },
+  {
+    "path": "TACO/data/batch_10/000077.jpg",
+    "bytes": 1528802
+  },
+  {
+    "path": "TACO/data/batch_10/000078.jpg",
+    "bytes": 981188
+  },
+  {
+    "path": "TACO/data/batch_10/000079.jpg",
+    "bytes": 845308
+  },
+  {
+    "path": "TACO/data/batch_10/000080.jpg",
+    "bytes": 702280
+  },
+  {
+    "path": "TACO/data/batch_10/000081.jpg",
+    "bytes": 982786
+  },
+  {
+    "path": "TACO/data/batch_10/000082.jpg",
+    "bytes": 965973
+  },
+  {
+    "path": "TACO/data/batch_10/000083.jpg",
+    "bytes": 932299
+  },
+  {
+    "path": "TACO/data/batch_10/000084.jpg",
+    "bytes": 667475
+  },
+  {
+    "path": "TACO/data/batch_10/000085.jpg",
+    "bytes": 787333
+  },
+  {
+    "path": "TACO/data/batch_10/000086.jpg",
+    "bytes": 1083120
+  },
+  {
+    "path": "TACO/data/batch_10/000087.jpg",
+    "bytes": 825149
+  },
+  {
+    "path": "TACO/data/batch_10/000088.jpg",
+    "bytes": 766717
+  },
+  {
+    "path": "TACO/data/batch_10/000089.jpg",
+    "bytes": 672177
+  },
+  {
+    "path": "TACO/data/batch_10/000090.jpg",
+    "bytes": 1940636
+  },
+  {
+    "path": "TACO/data/batch_10/000091.jpg",
+    "bytes": 1440124
+  },
+  {
+    "path": "TACO/data/batch_10/000092.jpg",
+    "bytes": 1947338
+  },
+  {
+    "path": "TACO/data/batch_10/000093.jpg",
+    "bytes": 1969503
+  },
+  {
+    "path": "TACO/data/batch_10/000094.jpg",
+    "bytes": 1715631
+  },
+  {
+    "path": "TACO/data/batch_10/000095.jpg",
+    "bytes": 2126407
+  },
+  {
+    "path": "TACO/data/batch_10/000096.jpg",
+    "bytes": 2806924
+  },
+  {
+    "path": "TACO/data/batch_10/000097.jpg",
+    "bytes": 1962963
+  },
+  {
+    "path": "TACO/data/batch_10/000098.jpg",
+    "bytes": 745890
+  },
+  {
+    "path": "TACO/data/batch_10/000099.jpg",
+    "bytes": 657994
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_10/._000099.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_10/annotations.json",
+    "bytes": 149482
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_10",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_11/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_11/.DS_Store",
+    "bytes": 12292
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_11/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_11/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_11/000000.jpg",
+    "bytes": 392574
+  },
+  {
+    "path": "TACO/data/batch_11/000001.jpg",
+    "bytes": 1336974
+  },
+  {
+    "path": "TACO/data/batch_11/000002.jpg",
+    "bytes": 684885
+  },
+  {
+    "path": "TACO/data/batch_11/000003.jpg",
+    "bytes": 882517
+  },
+  {
+    "path": "TACO/data/batch_11/000004.jpg",
+    "bytes": 757726
+  },
+  {
+    "path": "TACO/data/batch_11/000005.jpg",
+    "bytes": 670547
+  },
+  {
+    "path": "TACO/data/batch_11/000006.jpg",
+    "bytes": 565862
+  },
+  {
+    "path": "TACO/data/batch_11/000007.jpg",
+    "bytes": 627925
+  },
+  {
+    "path": "TACO/data/batch_11/000008.jpg",
+    "bytes": 647207
+  },
+  {
+    "path": "TACO/data/batch_11/000009.jpg",
+    "bytes": 1932954
+  },
+  {
+    "path": "TACO/data/batch_11/000010.jpg",
+    "bytes": 1406913
+  },
+  {
+    "path": "TACO/data/batch_11/000011.jpg",
+    "bytes": 925212
+  },
+  {
+    "path": "TACO/data/batch_11/000012.jpg",
+    "bytes": 1346795
+  },
+  {
+    "path": "TACO/data/batch_11/000013.jpg",
+    "bytes": 1116920
+  },
+  {
+    "path": "TACO/data/batch_11/000014.jpg",
+    "bytes": 1700820
+  },
+  {
+    "path": "TACO/data/batch_11/000015.jpg",
+    "bytes": 1451947
+  },
+  {
+    "path": "TACO/data/batch_11/000016.jpg",
+    "bytes": 1130993
+  },
+  {
+    "path": "TACO/data/batch_11/000017.jpg",
+    "bytes": 1184777
+  },
+  {
+    "path": "TACO/data/batch_11/000018.jpg",
+    "bytes": 1911481
+  },
+  {
+    "path": "TACO/data/batch_11/000019.jpg",
+    "bytes": 5408917
+  },
+  {
+    "path": "TACO/data/batch_11/000020.jpg",
+    "bytes": 5365481
+  },
+  {
+    "path": "TACO/data/batch_11/000021.jpg",
+    "bytes": 4864550
+  },
+  {
+    "path": "TACO/data/batch_11/000022.jpg",
+    "bytes": 4374388
+  },
+  {
+    "path": "TACO/data/batch_11/000023.jpg",
+    "bytes": 4444518
+  },
+  {
+    "path": "TACO/data/batch_11/000024.jpg",
+    "bytes": 4507008
+  },
+  {
+    "path": "TACO/data/batch_11/000025.jpg",
+    "bytes": 4924573
+  },
+  {
+    "path": "TACO/data/batch_11/000026.jpg",
+    "bytes": 4923611
+  },
+  {
+    "path": "TACO/data/batch_11/000027.jpg",
+    "bytes": 2519273
+  },
+  {
+    "path": "TACO/data/batch_11/000028.jpg",
+    "bytes": 1992113
+  },
+  {
+    "path": "TACO/data/batch_11/000029.jpg",
+    "bytes": 2096276
+  },
+  {
+    "path": "TACO/data/batch_11/000030.jpg",
+    "bytes": 1950688
+  },
+  {
+    "path": "TACO/data/batch_11/000031.jpg",
+    "bytes": 1914745
+  },
+  {
+    "path": "TACO/data/batch_11/000032.jpg",
+    "bytes": 2089230
+  },
+  {
+    "path": "TACO/data/batch_11/000033.jpg",
+    "bytes": 1762568
+  },
+  {
+    "path": "TACO/data/batch_11/000034.jpg",
+    "bytes": 895386
+  },
+  {
+    "path": "TACO/data/batch_11/000035.jpg",
+    "bytes": 725682
+  },
+  {
+    "path": "TACO/data/batch_11/000036.jpg",
+    "bytes": 756590
+  },
+  {
+    "path": "TACO/data/batch_11/000037.jpg",
+    "bytes": 2439441
+  },
+  {
+    "path": "TACO/data/batch_11/000038.jpg",
+    "bytes": 1748075
+  },
+  {
+    "path": "TACO/data/batch_11/000039.jpg",
+    "bytes": 3205767
+  },
+  {
+    "path": "TACO/data/batch_11/000040.jpg",
+    "bytes": 3705818
+  },
+  {
+    "path": "TACO/data/batch_11/000041.jpg",
+    "bytes": 1056988
+  },
+  {
+    "path": "TACO/data/batch_11/000042.jpg",
+    "bytes": 2198244
+  },
+  {
+    "path": "TACO/data/batch_11/000043.jpg",
+    "bytes": 2723318
+  },
+  {
+    "path": "TACO/data/batch_11/000044.jpg",
+    "bytes": 3252557
+  },
+  {
+    "path": "TACO/data/batch_11/000045.jpg",
+    "bytes": 2749760
+  },
+  {
+    "path": "TACO/data/batch_11/000046.jpg",
+    "bytes": 4496570
+  },
+  {
+    "path": "TACO/data/batch_11/000047.jpg",
+    "bytes": 2032128
+  },
+  {
+    "path": "TACO/data/batch_11/000048.jpg",
+    "bytes": 2766197
+  },
+  {
+    "path": "TACO/data/batch_11/000049.jpg",
+    "bytes": 2723614
+  },
+  {
+    "path": "TACO/data/batch_11/000050.jpg",
+    "bytes": 2450904
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_11/._000050.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_11/000051.jpg",
+    "bytes": 2560875
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_11/._000051.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_11/000052.jpg",
+    "bytes": 2412162
+  },
+  {
+    "path": "TACO/data/batch_11/000053.jpg",
+    "bytes": 2829567
+  },
+  {
+    "path": "TACO/data/batch_11/000054.jpg",
+    "bytes": 4631972
+  },
+  {
+    "path": "TACO/data/batch_11/000055.jpg",
+    "bytes": 3582268
+  },
+  {
+    "path": "TACO/data/batch_11/000056.jpg",
+    "bytes": 3525345
+  },
+  {
+    "path": "TACO/data/batch_11/000057.jpg",
+    "bytes": 2255535
+  },
+  {
+    "path": "TACO/data/batch_11/000058.jpg",
+    "bytes": 3673238
+  },
+  {
+    "path": "TACO/data/batch_11/000059.jpg",
+    "bytes": 4024727
+  },
+  {
+    "path": "TACO/data/batch_11/000060.jpg",
+    "bytes": 2658734
+  },
+  {
+    "path": "TACO/data/batch_11/000061.jpg",
+    "bytes": 3639483
+  },
+  {
+    "path": "TACO/data/batch_11/000062.jpg",
+    "bytes": 2695651
+  },
+  {
+    "path": "TACO/data/batch_11/000063.jpg",
+    "bytes": 3414665
+  },
+  {
+    "path": "TACO/data/batch_11/000064.jpg",
+    "bytes": 2332108
+  },
+  {
+    "path": "TACO/data/batch_11/000065.jpg",
+    "bytes": 3289956
+  },
+  {
+    "path": "TACO/data/batch_11/000066.jpg",
+    "bytes": 3784621
+  },
+  {
+    "path": "TACO/data/batch_11/000067.jpg",
+    "bytes": 2675742
+  },
+  {
+    "path": "TACO/data/batch_11/000068.jpg",
+    "bytes": 2833802
+  },
+  {
+    "path": "TACO/data/batch_11/000069.jpg",
+    "bytes": 3549342
+  },
+  {
+    "path": "TACO/data/batch_11/000070.jpg",
+    "bytes": 4151806
+  },
+  {
+    "path": "TACO/data/batch_11/000071.jpg",
+    "bytes": 2925383
+  },
+  {
+    "path": "TACO/data/batch_11/000072.jpg",
+    "bytes": 1838734
+  },
+  {
+    "path": "TACO/data/batch_11/000073.jpg",
+    "bytes": 3550253
+  },
+  {
+    "path": "TACO/data/batch_11/000074.jpg",
+    "bytes": 2814035
+  },
+  {
+    "path": "TACO/data/batch_11/000075.jpg",
+    "bytes": 3237467
+  },
+  {
+    "path": "TACO/data/batch_11/000076.jpg",
+    "bytes": 3040558
+  },
+  {
+    "path": "TACO/data/batch_11/000077.jpg",
+    "bytes": 2880134
+  },
+  {
+    "path": "TACO/data/batch_11/000078.jpg",
+    "bytes": 2949136
+  },
+  {
+    "path": "TACO/data/batch_11/000079.jpg",
+    "bytes": 2946511
+  },
+  {
+    "path": "TACO/data/batch_11/000080.jpg",
+    "bytes": 1828854
+  },
+  {
+    "path": "TACO/data/batch_11/000081.jpg",
+    "bytes": 2085289
+  },
+  {
+    "path": "TACO/data/batch_11/000082.jpg",
+    "bytes": 2520291
+  },
+  {
+    "path": "TACO/data/batch_11/000083.jpg",
+    "bytes": 2237678
+  },
+  {
+    "path": "TACO/data/batch_11/000084.jpg",
+    "bytes": 1971346
+  },
+  {
+    "path": "TACO/data/batch_11/000085.jpg",
+    "bytes": 547016
+  },
+  {
+    "path": "TACO/data/batch_11/000086.jpg",
+    "bytes": 999638
+  },
+  {
+    "path": "TACO/data/batch_11/000087.jpg",
+    "bytes": 4196562
+  },
+  {
+    "path": "TACO/data/batch_11/000088.jpg",
+    "bytes": 757173
+  },
+  {
+    "path": "TACO/data/batch_11/000089.jpg",
+    "bytes": 1566361
+  },
+  {
+    "path": "TACO/data/batch_11/000090.jpg",
+    "bytes": 849866
+  },
+  {
+    "path": "TACO/data/batch_11/000091.jpg",
+    "bytes": 1486493
+  },
+  {
+    "path": "TACO/data/batch_11/000092.jpg",
+    "bytes": 996644
+  },
+  {
+    "path": "TACO/data/batch_11/000093.jpg",
+    "bytes": 1075559
+  },
+  {
+    "path": "TACO/data/batch_11/000094.jpg",
+    "bytes": 2685162
+  },
+  {
+    "path": "TACO/data/batch_11/000095.jpg",
+    "bytes": 2194747
+  },
+  {
+    "path": "TACO/data/batch_11/000096.jpg",
+    "bytes": 2116410
+  },
+  {
+    "path": "TACO/data/batch_11/000097.jpg",
+    "bytes": 2079155
+  },
+  {
+    "path": "TACO/data/batch_11/000098.jpg",
+    "bytes": 3753120
+  },
+  {
+    "path": "TACO/data/batch_11/000099.jpg",
+    "bytes": 2917813
+  },
+  {
+    "path": "TACO/data/batch_11/annotations.json",
+    "bytes": 169934
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_11",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_12/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_12/000000.jpg",
+    "bytes": 3341549
+  },
+  {
+    "path": "TACO/data/batch_12/000001.jpg",
+    "bytes": 2408786
+  },
+  {
+    "path": "TACO/data/batch_12/000002.jpg",
+    "bytes": 3099474
+  },
+  {
+    "path": "TACO/data/batch_12/000003.jpg",
+    "bytes": 2069329
+  },
+  {
+    "path": "TACO/data/batch_12/000004.jpg",
+    "bytes": 728781
+  },
+  {
+    "path": "TACO/data/batch_12/000005.jpg",
+    "bytes": 1165039
+  },
+  {
+    "path": "TACO/data/batch_12/000006.jpg",
+    "bytes": 1041951
+  },
+  {
+    "path": "TACO/data/batch_12/000007.jpg",
+    "bytes": 1749763
+  },
+  {
+    "path": "TACO/data/batch_12/000008.jpg",
+    "bytes": 1902444
+  },
+  {
+    "path": "TACO/data/batch_12/000009.jpg",
+    "bytes": 1834527
+  },
+  {
+    "path": "TACO/data/batch_12/000010.jpg",
+    "bytes": 1813228
+  },
+  {
+    "path": "TACO/data/batch_12/000011.jpg",
+    "bytes": 1620870
+  },
+  {
+    "path": "TACO/data/batch_12/000012.jpg",
+    "bytes": 1355774
+  },
+  {
+    "path": "TACO/data/batch_12/000013.jpg",
+    "bytes": 2718831
+  },
+  {
+    "path": "TACO/data/batch_12/000014.jpg",
+    "bytes": 1714356
+  },
+  {
+    "path": "TACO/data/batch_12/000015.jpg",
+    "bytes": 1570888
+  },
+  {
+    "path": "TACO/data/batch_12/000016.jpg",
+    "bytes": 943872
+  },
+  {
+    "path": "TACO/data/batch_12/000017.jpg",
+    "bytes": 2558667
+  },
+  {
+    "path": "TACO/data/batch_12/000018.jpg",
+    "bytes": 2651142
+  },
+  {
+    "path": "TACO/data/batch_12/000019.jpg",
+    "bytes": 2396992
+  },
+  {
+    "path": "TACO/data/batch_12/000020.jpg",
+    "bytes": 2317711
+  },
+  {
+    "path": "TACO/data/batch_12/000021.jpg",
+    "bytes": 1654949
+  },
+  {
+    "path": "TACO/data/batch_12/000022.jpg",
+    "bytes": 2313709
+  },
+  {
+    "path": "TACO/data/batch_12/000023.jpg",
+    "bytes": 2847285
+  },
+  {
+    "path": "TACO/data/batch_12/000024.jpg",
+    "bytes": 3519547
+  },
+  {
+    "path": "TACO/data/batch_12/000025.jpg",
+    "bytes": 3024037
+  },
+  {
+    "path": "TACO/data/batch_12/000026.jpg",
+    "bytes": 3200144
+  },
+  {
+    "path": "TACO/data/batch_12/000027.jpg",
+    "bytes": 3036683
+  },
+  {
+    "path": "TACO/data/batch_12/000028.jpg",
+    "bytes": 3367587
+  },
+  {
+    "path": "TACO/data/batch_12/000029.jpg",
+    "bytes": 3785094
+  },
+  {
+    "path": "TACO/data/batch_12/000030.jpg",
+    "bytes": 3685749
+  },
+  {
+    "path": "TACO/data/batch_12/000031.jpg",
+    "bytes": 3625936
+  },
+  {
+    "path": "TACO/data/batch_12/000032.jpg",
+    "bytes": 3637496
+  },
+  {
+    "path": "TACO/data/batch_12/000033.jpg",
+    "bytes": 2166389
+  },
+  {
+    "path": "TACO/data/batch_12/000034.jpg",
+    "bytes": 2843511
+  },
+  {
+    "path": "TACO/data/batch_12/000035.jpg",
+    "bytes": 3177936
+  },
+  {
+    "path": "TACO/data/batch_12/000036.jpg",
+    "bytes": 1871859
+  },
+  {
+    "path": "TACO/data/batch_12/000037.jpg",
+    "bytes": 3641612
+  },
+  {
+    "path": "TACO/data/batch_12/000038.jpg",
+    "bytes": 1401228
+  },
+  {
+    "path": "TACO/data/batch_12/000039.jpg",
+    "bytes": 2153087
+  },
+  {
+    "path": "TACO/data/batch_12/000040.jpg",
+    "bytes": 1609737
+  },
+  {
+    "path": "TACO/data/batch_12/000041.jpg",
+    "bytes": 1485689
+  },
+  {
+    "path": "TACO/data/batch_12/000042.jpg",
+    "bytes": 1761467
+  },
+  {
+    "path": "TACO/data/batch_12/000043.jpg",
+    "bytes": 2857263
+  },
+  {
+    "path": "TACO/data/batch_12/000044.jpg",
+    "bytes": 2983611
+  },
+  {
+    "path": "TACO/data/batch_12/000045.jpg",
+    "bytes": 1485167
+  },
+  {
+    "path": "TACO/data/batch_12/000046.jpg",
+    "bytes": 2722739
+  },
+  {
+    "path": "TACO/data/batch_12/000047.jpg",
+    "bytes": 1595776
+  },
+  {
+    "path": "TACO/data/batch_12/000048.jpg",
+    "bytes": 1962488
+  },
+  {
+    "path": "TACO/data/batch_12/000049.jpg",
+    "bytes": 2052525
+  },
+  {
+    "path": "TACO/data/batch_12/000050.jpg",
+    "bytes": 2710558
+  },
+  {
+    "path": "TACO/data/batch_12/000051.jpg",
+    "bytes": 3206230
+  },
+  {
+    "path": "TACO/data/batch_12/000052.jpg",
+    "bytes": 2171592
+  },
+  {
+    "path": "TACO/data/batch_12/000053.jpg",
+    "bytes": 2612466
+  },
+  {
+    "path": "TACO/data/batch_12/000054.jpg",
+    "bytes": 1869255
+  },
+  {
+    "path": "TACO/data/batch_12/000055.jpg",
+    "bytes": 1939457
+  },
+  {
+    "path": "TACO/data/batch_12/000056.jpg",
+    "bytes": 2080853
+  },
+  {
+    "path": "TACO/data/batch_12/000057.jpg",
+    "bytes": 3484944
+  },
+  {
+    "path": "TACO/data/batch_12/000058.jpg",
+    "bytes": 2219192
+  },
+  {
+    "path": "TACO/data/batch_12/000059.jpg",
+    "bytes": 1201751
+  },
+  {
+    "path": "TACO/data/batch_12/000060.jpg",
+    "bytes": 1625752
+  },
+  {
+    "path": "TACO/data/batch_12/000061.jpg",
+    "bytes": 2795195
+  },
+  {
+    "path": "TACO/data/batch_12/000062.jpg",
+    "bytes": 3123086
+  },
+  {
+    "path": "TACO/data/batch_12/000063.jpg",
+    "bytes": 445438
+  },
+  {
+    "path": "TACO/data/batch_12/000064.jpg",
+    "bytes": 384881
+  },
+  {
+    "path": "TACO/data/batch_12/000065.jpg",
+    "bytes": 345388
+  },
+  {
+    "path": "TACO/data/batch_12/000066.jpg",
+    "bytes": 1175333
+  },
+  {
+    "path": "TACO/data/batch_12/000067.jpg",
+    "bytes": 924918
+  },
+  {
+    "path": "TACO/data/batch_12/000068.jpg",
+    "bytes": 1528399
+  },
+  {
+    "path": "TACO/data/batch_12/000069.jpg",
+    "bytes": 838809
+  },
+  {
+    "path": "TACO/data/batch_12/000070.jpg",
+    "bytes": 589661
+  },
+  {
+    "path": "TACO/data/batch_12/000071.jpg",
+    "bytes": 572153
+  },
+  {
+    "path": "TACO/data/batch_12/000072.jpg",
+    "bytes": 1835727
+  },
+  {
+    "path": "TACO/data/batch_12/000073.jpg",
+    "bytes": 2016243
+  },
+  {
+    "path": "TACO/data/batch_12/000074.jpg",
+    "bytes": 2831831
+  },
+  {
+    "path": "TACO/data/batch_12/000075.jpg",
+    "bytes": 3020481
+  },
+  {
+    "path": "TACO/data/batch_12/000076.jpg",
+    "bytes": 1901000
+  },
+  {
+    "path": "TACO/data/batch_12/000077.jpg",
+    "bytes": 2381526
+  },
+  {
+    "path": "TACO/data/batch_12/000078.jpg",
+    "bytes": 2286272
+  },
+  {
+    "path": "TACO/data/batch_12/000079.jpg",
+    "bytes": 2984602
+  },
+  {
+    "path": "TACO/data/batch_12/000080.jpg",
+    "bytes": 1948241
+  },
+  {
+    "path": "TACO/data/batch_12/000081.jpg",
+    "bytes": 2251030
+  },
+  {
+    "path": "TACO/data/batch_12/000082.jpg",
+    "bytes": 2318052
+  },
+  {
+    "path": "TACO/data/batch_12/000083.jpg",
+    "bytes": 2255061
+  },
+  {
+    "path": "TACO/data/batch_12/000084.jpg",
+    "bytes": 2702838
+  },
+  {
+    "path": "TACO/data/batch_12/000085.jpg",
+    "bytes": 2911093
+  },
+  {
+    "path": "TACO/data/batch_12/000086.jpg",
+    "bytes": 2523103
+  },
+  {
+    "path": "TACO/data/batch_12/000087.jpg",
+    "bytes": 2930828
+  },
+  {
+    "path": "TACO/data/batch_12/000088.jpg",
+    "bytes": 3371613
+  },
+  {
+    "path": "TACO/data/batch_12/000089.jpg",
+    "bytes": 1756846
+  },
+  {
+    "path": "TACO/data/batch_12/000090.jpg",
+    "bytes": 3495514
+  },
+  {
+    "path": "TACO/data/batch_12/000091.jpg",
+    "bytes": 1727103
+  },
+  {
+    "path": "TACO/data/batch_12/000092.jpg",
+    "bytes": 2445963
+  },
+  {
+    "path": "TACO/data/batch_12/000093.jpg",
+    "bytes": 2182834
+  },
+  {
+    "path": "TACO/data/batch_12/000094.jpg",
+    "bytes": 1968230
+  },
+  {
+    "path": "TACO/data/batch_12/000095.jpg",
+    "bytes": 1839816
+  },
+  {
+    "path": "TACO/data/batch_12/000096.jpg",
+    "bytes": 2060657
+  },
+  {
+    "path": "TACO/data/batch_12/000097.jpg",
+    "bytes": 3357127
+  },
+  {
+    "path": "TACO/data/batch_12/000098.jpg",
+    "bytes": 1246950
+  },
+  {
+    "path": "TACO/data/batch_12/000099.jpg",
+    "bytes": 1461852
+  },
+  {
+    "path": "TACO/data/batch_12/annotations.json",
+    "bytes": 254865
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_12",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_13/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_13/000000.jpg",
+    "bytes": 1323303
+  },
+  {
+    "path": "TACO/data/batch_13/000001.jpg",
+    "bytes": 2320833
+  },
+  {
+    "path": "TACO/data/batch_13/000002.jpg",
+    "bytes": 1377728
+  },
+  {
+    "path": "TACO/data/batch_13/000003.jpg",
+    "bytes": 3406042
+  },
+  {
+    "path": "TACO/data/batch_13/000004.jpg",
+    "bytes": 2294533
+  },
+  {
+    "path": "TACO/data/batch_13/000005.jpg",
+    "bytes": 2631834
+  },
+  {
+    "path": "TACO/data/batch_13/000006.jpg",
+    "bytes": 605116
+  },
+  {
+    "path": "TACO/data/batch_13/000007.jpg",
+    "bytes": 2628831
+  },
+  {
+    "path": "TACO/data/batch_13/000008.jpg",
+    "bytes": 2313407
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_13/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_13/._000008.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_13/000009.jpg",
+    "bytes": 2689793
+  },
+  {
+    "path": "TACO/data/batch_13/000010.jpg",
+    "bytes": 2360339
+  },
+  {
+    "path": "TACO/data/batch_13/000011.jpg",
+    "bytes": 1293512
+  },
+  {
+    "path": "TACO/data/batch_13/000012.jpg",
+    "bytes": 2301195
+  },
+  {
+    "path": "TACO/data/batch_13/000013.jpg",
+    "bytes": 1889392
+  },
+  {
+    "path": "TACO/data/batch_13/000014.jpg",
+    "bytes": 1585850
+  },
+  {
+    "path": "TACO/data/batch_13/000015.jpg",
+    "bytes": 1307303
+  },
+  {
+    "path": "TACO/data/batch_13/000016.jpg",
+    "bytes": 3031664
+  },
+  {
+    "path": "TACO/data/batch_13/000017.jpg",
+    "bytes": 2578368
+  },
+  {
+    "path": "TACO/data/batch_13/000018.jpg",
+    "bytes": 2182720
+  },
+  {
+    "path": "TACO/data/batch_13/000019.jpg",
+    "bytes": 2849661
+  },
+  {
+    "path": "TACO/data/batch_13/000020.jpg",
+    "bytes": 1771913
+  },
+  {
+    "path": "TACO/data/batch_13/000021.jpg",
+    "bytes": 2067404
+  },
+  {
+    "path": "TACO/data/batch_13/000022.jpg",
+    "bytes": 1496648
+  },
+  {
+    "path": "TACO/data/batch_13/000023.jpg",
+    "bytes": 573108
+  },
+  {
+    "path": "TACO/data/batch_13/000024.jpg",
+    "bytes": 3752993
+  },
+  {
+    "path": "TACO/data/batch_13/000025.jpg",
+    "bytes": 2748076
+  },
+  {
+    "path": "TACO/data/batch_13/000026.jpg",
+    "bytes": 2077805
+  },
+  {
+    "path": "TACO/data/batch_13/000027.jpg",
+    "bytes": 1373798
+  },
+  {
+    "path": "TACO/data/batch_13/000028.jpg",
+    "bytes": 2252794
+  },
+  {
+    "path": "TACO/data/batch_13/000029.jpg",
+    "bytes": 2780788
+  },
+  {
+    "path": "TACO/data/batch_13/000030.jpg",
+    "bytes": 1846421
+  },
+  {
+    "path": "TACO/data/batch_13/000031.jpg",
+    "bytes": 1891949
+  },
+  {
+    "path": "TACO/data/batch_13/000032.jpg",
+    "bytes": 1992474
+  },
+  {
+    "path": "TACO/data/batch_13/000033.jpg",
+    "bytes": 1418857
+  },
+  {
+    "path": "TACO/data/batch_13/000034.jpg",
+    "bytes": 2675921
+  },
+  {
+    "path": "TACO/data/batch_13/000035.jpg",
+    "bytes": 1324591
+  },
+  {
+    "path": "TACO/data/batch_13/000036.jpg",
+    "bytes": 3180306
+  },
+  {
+    "path": "TACO/data/batch_13/000037.jpg",
+    "bytes": 2062387
+  },
+  {
+    "path": "TACO/data/batch_13/000038.jpg",
+    "bytes": 3044924
+  },
+  {
+    "path": "TACO/data/batch_13/000039.jpg",
+    "bytes": 3280520
+  },
+  {
+    "path": "TACO/data/batch_13/000040.jpg",
+    "bytes": 2533580
+  },
+  {
+    "path": "TACO/data/batch_13/000041.jpg",
+    "bytes": 2735279
+  },
+  {
+    "path": "TACO/data/batch_13/000042.jpg",
+    "bytes": 3325356
+  },
+  {
+    "path": "TACO/data/batch_13/000043.jpg",
+    "bytes": 1238659
+  },
+  {
+    "path": "TACO/data/batch_13/000044.jpg",
+    "bytes": 3706168
+  },
+  {
+    "path": "TACO/data/batch_13/000045.jpg",
+    "bytes": 2621244
+  },
+  {
+    "path": "TACO/data/batch_13/000046.jpg",
+    "bytes": 2978633
+  },
+  {
+    "path": "TACO/data/batch_13/000047.jpg",
+    "bytes": 3986430
+  },
+  {
+    "path": "TACO/data/batch_13/000048.jpg",
+    "bytes": 1619895
+  },
+  {
+    "path": "TACO/data/batch_13/000049.jpg",
+    "bytes": 1589960
+  },
+  {
+    "path": "TACO/data/batch_13/000050.jpg",
+    "bytes": 3094594
+  },
+  {
+    "path": "TACO/data/batch_13/000051.jpg",
+    "bytes": 1168271
+  },
+  {
+    "path": "TACO/data/batch_13/000052.jpg",
+    "bytes": 1664566
+  },
+  {
+    "path": "TACO/data/batch_13/000053.jpg",
+    "bytes": 2597481
+  },
+  {
+    "path": "TACO/data/batch_13/000054.jpg",
+    "bytes": 1350967
+  },
+  {
+    "path": "TACO/data/batch_13/000055.jpg",
+    "bytes": 2138965
+  },
+  {
+    "path": "TACO/data/batch_13/000056.jpg",
+    "bytes": 1944078
+  },
+  {
+    "path": "TACO/data/batch_13/000057.jpg",
+    "bytes": 3437791
+  },
+  {
+    "path": "TACO/data/batch_13/000058.jpg",
+    "bytes": 2331101
+  },
+  {
+    "path": "TACO/data/batch_13/000059.jpg",
+    "bytes": 1435765
+  },
+  {
+    "path": "TACO/data/batch_13/000060.jpg",
+    "bytes": 2398525
+  },
+  {
+    "path": "TACO/data/batch_13/000061.jpg",
+    "bytes": 2586826
+  },
+  {
+    "path": "TACO/data/batch_13/000062.jpg",
+    "bytes": 2618766
+  },
+  {
+    "path": "TACO/data/batch_13/000063.jpg",
+    "bytes": 1681734
+  },
+  {
+    "path": "TACO/data/batch_13/000064.jpg",
+    "bytes": 1803293
+  },
+  {
+    "path": "TACO/data/batch_13/000065.jpg",
+    "bytes": 1129811
+  },
+  {
+    "path": "TACO/data/batch_13/000066.jpg",
+    "bytes": 2324873
+  },
+  {
+    "path": "TACO/data/batch_13/000067.jpg",
+    "bytes": 1881677
+  },
+  {
+    "path": "TACO/data/batch_13/000068.jpg",
+    "bytes": 1810909
+  },
+  {
+    "path": "TACO/data/batch_13/000069.jpg",
+    "bytes": 2866927
+  },
+  {
+    "path": "TACO/data/batch_13/000070.jpg",
+    "bytes": 2512816
+  },
+  {
+    "path": "TACO/data/batch_13/000071.jpg",
+    "bytes": 2100791
+  },
+  {
+    "path": "TACO/data/batch_13/000072.jpg",
+    "bytes": 2355299
+  },
+  {
+    "path": "TACO/data/batch_13/000073.jpg",
+    "bytes": 2142050
+  },
+  {
+    "path": "TACO/data/batch_13/000074.jpg",
+    "bytes": 1905609
+  },
+  {
+    "path": "TACO/data/batch_13/000075.jpg",
+    "bytes": 1782721
+  },
+  {
+    "path": "TACO/data/batch_13/000076.jpg",
+    "bytes": 1523938
+  },
+  {
+    "path": "TACO/data/batch_13/000077.jpg",
+    "bytes": 1744015
+  },
+  {
+    "path": "TACO/data/batch_13/000078.jpg",
+    "bytes": 2782432
+  },
+  {
+    "path": "TACO/data/batch_13/000079.jpg",
+    "bytes": 1769766
+  },
+  {
+    "path": "TACO/data/batch_13/000080.jpg",
+    "bytes": 1204242
+  },
+  {
+    "path": "TACO/data/batch_13/000081.jpg",
+    "bytes": 2420749
+  },
+  {
+    "path": "TACO/data/batch_13/000082.jpg",
+    "bytes": 1974712
+  },
+  {
+    "path": "TACO/data/batch_13/000083.jpg",
+    "bytes": 2004592
+  },
+  {
+    "path": "TACO/data/batch_13/000084.jpg",
+    "bytes": 3270198
+  },
+  {
+    "path": "TACO/data/batch_13/000085.jpg",
+    "bytes": 2649858
+  },
+  {
+    "path": "TACO/data/batch_13/000086.jpg",
+    "bytes": 2391713
+  },
+  {
+    "path": "TACO/data/batch_13/000087.jpg",
+    "bytes": 3009031
+  },
+  {
+    "path": "TACO/data/batch_13/000088.jpg",
+    "bytes": 2659265
+  },
+  {
+    "path": "TACO/data/batch_13/000089.jpg",
+    "bytes": 3092479
+  },
+  {
+    "path": "TACO/data/batch_13/000090.jpg",
+    "bytes": 2054803
+  },
+  {
+    "path": "TACO/data/batch_13/000091.jpg",
+    "bytes": 1578493
+  },
+  {
+    "path": "TACO/data/batch_13/000092.jpg",
+    "bytes": 1703550
+  },
+  {
+    "path": "TACO/data/batch_13/000093.jpg",
+    "bytes": 1520424
+  },
+  {
+    "path": "TACO/data/batch_13/000094.jpg",
+    "bytes": 1400624
+  },
+  {
+    "path": "TACO/data/batch_13/000095.jpg",
+    "bytes": 2000171
+  },
+  {
+    "path": "TACO/data/batch_13/000096.jpg",
+    "bytes": 1714500
+  },
+  {
+    "path": "TACO/data/batch_13/000097.jpg",
+    "bytes": 2211095
+  },
+  {
+    "path": "TACO/data/batch_13/000098.jpg",
+    "bytes": 2061494
+  },
+  {
+    "path": "TACO/data/batch_13/000099.jpg",
+    "bytes": 1754283
+  },
+  {
+    "path": "TACO/data/batch_13/annotations.json",
+    "bytes": 197124
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_13",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_14/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_14/000000.jpg",
+    "bytes": 945086
+  },
+  {
+    "path": "TACO/data/batch_14/000001.jpg",
+    "bytes": 2312265
+  },
+  {
+    "path": "TACO/data/batch_14/000002.jpg",
+    "bytes": 1560941
+  },
+  {
+    "path": "TACO/data/batch_14/000003.jpg",
+    "bytes": 1881119
+  },
+  {
+    "path": "TACO/data/batch_14/000004.jpg",
+    "bytes": 1870177
+  },
+  {
+    "path": "TACO/data/batch_14/000005.jpg",
+    "bytes": 815246
+  },
+  {
+    "path": "TACO/data/batch_14/000006.jpg",
+    "bytes": 1053805
+  },
+  {
+    "path": "TACO/data/batch_14/000007.jpg",
+    "bytes": 1989786
+  },
+  {
+    "path": "TACO/data/batch_14/000008.jpg",
+    "bytes": 2048324
+  },
+  {
+    "path": "TACO/data/batch_14/000009.jpg",
+    "bytes": 2365204
+  },
+  {
+    "path": "TACO/data/batch_14/000010.jpg",
+    "bytes": 1573112
+  },
+  {
+    "path": "TACO/data/batch_14/000011.jpg",
+    "bytes": 1745684
+  },
+  {
+    "path": "TACO/data/batch_14/000012.jpg",
+    "bytes": 2068398
+  },
+  {
+    "path": "TACO/data/batch_14/000013.jpg",
+    "bytes": 1690516
+  },
+  {
+    "path": "TACO/data/batch_14/000014.jpg",
+    "bytes": 1661085
+  },
+  {
+    "path": "TACO/data/batch_14/000015.jpg",
+    "bytes": 2236629
+  },
+  {
+    "path": "TACO/data/batch_14/000016.jpg",
+    "bytes": 1097192
+  },
+  {
+    "path": "TACO/data/batch_14/000017.jpg",
+    "bytes": 1629781
+  },
+  {
+    "path": "TACO/data/batch_14/000018.jpg",
+    "bytes": 1021000
+  },
+  {
+    "path": "TACO/data/batch_14/000019.jpg",
+    "bytes": 1733880
+  },
+  {
+    "path": "TACO/data/batch_14/000020.jpg",
+    "bytes": 1410013
+  },
+  {
+    "path": "TACO/data/batch_14/000021.jpg",
+    "bytes": 1731837
+  },
+  {
+    "path": "TACO/data/batch_14/000022.jpg",
+    "bytes": 2830927
+  },
+  {
+    "path": "TACO/data/batch_14/000023.jpg",
+    "bytes": 1803340
+  },
+  {
+    "path": "TACO/data/batch_14/000024.jpg",
+    "bytes": 1733525
+  },
+  {
+    "path": "TACO/data/batch_14/000025.jpg",
+    "bytes": 1877571
+  },
+  {
+    "path": "TACO/data/batch_14/000026.jpg",
+    "bytes": 3747764
+  },
+  {
+    "path": "TACO/data/batch_14/000027.jpg",
+    "bytes": 2169768
+  },
+  {
+    "path": "TACO/data/batch_14/000028.jpg",
+    "bytes": 2456086
+  },
+  {
+    "path": "TACO/data/batch_14/000029.jpg",
+    "bytes": 3743930
+  },
+  {
+    "path": "TACO/data/batch_14/000030.jpg",
+    "bytes": 3061474
+  },
+  {
+    "path": "TACO/data/batch_14/000031.jpg",
+    "bytes": 1457060
+  },
+  {
+    "path": "TACO/data/batch_14/000032.jpg",
+    "bytes": 982190
+  },
+  {
+    "path": "TACO/data/batch_14/000033.jpg",
+    "bytes": 4686638
+  },
+  {
+    "path": "TACO/data/batch_14/000034.jpg",
+    "bytes": 2461260
+  },
+  {
+    "path": "TACO/data/batch_14/000035.jpg",
+    "bytes": 2324341
+  },
+  {
+    "path": "TACO/data/batch_14/000036.jpg",
+    "bytes": 2462777
+  },
+  {
+    "path": "TACO/data/batch_14/000037.jpg",
+    "bytes": 3113142
+  },
+  {
+    "path": "TACO/data/batch_14/000038.jpg",
+    "bytes": 2842723
+  },
+  {
+    "path": "TACO/data/batch_14/000039.jpg",
+    "bytes": 2618230
+  },
+  {
+    "path": "TACO/data/batch_14/000040.jpg",
+    "bytes": 2624432
+  },
+  {
+    "path": "TACO/data/batch_14/000041.jpg",
+    "bytes": 2434460
+  },
+  {
+    "path": "TACO/data/batch_14/000042.jpg",
+    "bytes": 3336861
+  },
+  {
+    "path": "TACO/data/batch_14/000043.jpg",
+    "bytes": 4126615
+  },
+  {
+    "path": "TACO/data/batch_14/000044.jpg",
+    "bytes": 2443517
+  },
+  {
+    "path": "TACO/data/batch_14/000045.jpg",
+    "bytes": 3145983
+  },
+  {
+    "path": "TACO/data/batch_14/000046.jpg",
+    "bytes": 2770024
+  },
+  {
+    "path": "TACO/data/batch_14/000047.jpg",
+    "bytes": 1536494
+  },
+  {
+    "path": "TACO/data/batch_14/000048.jpg",
+    "bytes": 85257
+  },
+  {
+    "path": "TACO/data/batch_14/000049.jpg",
+    "bytes": 2457519
+  },
+  {
+    "path": "TACO/data/batch_14/000050.jpg",
+    "bytes": 1300818
+  },
+  {
+    "path": "TACO/data/batch_14/000051.jpg",
+    "bytes": 1510863
+  },
+  {
+    "path": "TACO/data/batch_14/000052.jpg",
+    "bytes": 2850976
+  },
+  {
+    "path": "TACO/data/batch_14/000053.jpg",
+    "bytes": 1558858
+  },
+  {
+    "path": "TACO/data/batch_14/000054.jpg",
+    "bytes": 1370848
+  },
+  {
+    "path": "TACO/data/batch_14/000055.jpg",
+    "bytes": 3233395
+  },
+  {
+    "path": "TACO/data/batch_14/000056.jpg",
+    "bytes": 3022882
+  },
+  {
+    "path": "TACO/data/batch_14/000057.jpg",
+    "bytes": 1577891
+  },
+  {
+    "path": "TACO/data/batch_14/000058.jpg",
+    "bytes": 1771923
+  },
+  {
+    "path": "TACO/data/batch_14/000059.jpg",
+    "bytes": 2695870
+  },
+  {
+    "path": "TACO/data/batch_14/000060.jpg",
+    "bytes": 2129804
+  },
+  {
+    "path": "TACO/data/batch_14/000061.jpg",
+    "bytes": 2555525
+  },
+  {
+    "path": "TACO/data/batch_14/000062.jpg",
+    "bytes": 2532996
+  },
+  {
+    "path": "TACO/data/batch_14/000063.jpg",
+    "bytes": 2484808
+  },
+  {
+    "path": "TACO/data/batch_14/000064.jpg",
+    "bytes": 1842123
+  },
+  {
+    "path": "TACO/data/batch_14/000065.jpg",
+    "bytes": 2328148
+  },
+  {
+    "path": "TACO/data/batch_14/000066.jpg",
+    "bytes": 2542423
+  },
+  {
+    "path": "TACO/data/batch_14/000067.jpg",
+    "bytes": 3178125
+  },
+  {
+    "path": "TACO/data/batch_14/000068.jpg",
+    "bytes": 1274695
+  },
+  {
+    "path": "TACO/data/batch_14/000069.jpg",
+    "bytes": 2298973
+  },
+  {
+    "path": "TACO/data/batch_14/000070.jpg",
+    "bytes": 3120229
+  },
+  {
+    "path": "TACO/data/batch_14/000071.jpg",
+    "bytes": 3169667
+  },
+  {
+    "path": "TACO/data/batch_14/000072.jpg",
+    "bytes": 3024499
+  },
+  {
+    "path": "TACO/data/batch_14/000073.jpg",
+    "bytes": 2404770
+  },
+  {
+    "path": "TACO/data/batch_14/000074.jpg",
+    "bytes": 2498434
+  },
+  {
+    "path": "TACO/data/batch_14/000075.jpg",
+    "bytes": 2490834
+  },
+  {
+    "path": "TACO/data/batch_14/000076.jpg",
+    "bytes": 2524244
+  },
+  {
+    "path": "TACO/data/batch_14/000077.jpg",
+    "bytes": 1737189
+  },
+  {
+    "path": "TACO/data/batch_14/000078.jpg",
+    "bytes": 1470696
+  },
+  {
+    "path": "TACO/data/batch_14/000079.jpg",
+    "bytes": 1849701
+  },
+  {
+    "path": "TACO/data/batch_14/000080.jpg",
+    "bytes": 1618163
+  },
+  {
+    "path": "TACO/data/batch_14/000081.jpg",
+    "bytes": 1741378
+  },
+  {
+    "path": "TACO/data/batch_14/000082.jpg",
+    "bytes": 1603190
+  },
+  {
+    "path": "TACO/data/batch_14/000083.jpg",
+    "bytes": 2415966
+  },
+  {
+    "path": "TACO/data/batch_14/000084.jpg",
+    "bytes": 2454154
+  },
+  {
+    "path": "TACO/data/batch_14/000085.jpg",
+    "bytes": 1953897
+  },
+  {
+    "path": "TACO/data/batch_14/000086.jpg",
+    "bytes": 1925257
+  },
+  {
+    "path": "TACO/data/batch_14/000087.jpg",
+    "bytes": 2440316
+  },
+  {
+    "path": "TACO/data/batch_14/000088.jpg",
+    "bytes": 2985966
+  },
+  {
+    "path": "TACO/data/batch_14/000089.jpg",
+    "bytes": 2373580
+  },
+  {
+    "path": "TACO/data/batch_14/000090.jpg",
+    "bytes": 2868723
+  },
+  {
+    "path": "TACO/data/batch_14/000091.jpg",
+    "bytes": 2825386
+  },
+  {
+    "path": "TACO/data/batch_14/000092.jpg",
+    "bytes": 2321200
+  },
+  {
+    "path": "TACO/data/batch_14/000093.jpg",
+    "bytes": 2660006
+  },
+  {
+    "path": "TACO/data/batch_14/000094.jpg",
+    "bytes": 2329010
+  },
+  {
+    "path": "TACO/data/batch_14/000095.jpg",
+    "bytes": 3317047
+  },
+  {
+    "path": "TACO/data/batch_14/000096.jpg",
+    "bytes": 2856722
+  },
+  {
+    "path": "TACO/data/batch_14/000097.jpg",
+    "bytes": 2429908
+  },
+  {
+    "path": "TACO/data/batch_14/000098.jpg",
+    "bytes": 1568203
+  },
+  {
+    "path": "TACO/data/batch_14/000099.jpg",
+    "bytes": 2665594
+  },
+  {
+    "path": "TACO/data/batch_14/annotations.json",
+    "bytes": 164847
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_14",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_15/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_15/000000.jpg",
+    "bytes": 2041973
+  },
+  {
+    "path": "TACO/data/batch_15/000001.jpg",
+    "bytes": 1902681
+  },
+  {
+    "path": "TACO/data/batch_15/000002.jpg",
+    "bytes": 1023303
+  },
+  {
+    "path": "TACO/data/batch_15/000003.jpg",
+    "bytes": 3207966
+  },
+  {
+    "path": "TACO/data/batch_15/000004.jpg",
+    "bytes": 2651104
+  },
+  {
+    "path": "TACO/data/batch_15/000005.jpg",
+    "bytes": 2184276
+  },
+  {
+    "path": "TACO/data/batch_15/000006.jpg",
+    "bytes": 2962440
+  },
+  {
+    "path": "TACO/data/batch_15/000007.jpg",
+    "bytes": 2744011
+  },
+  {
+    "path": "TACO/data/batch_15/000008.jpg",
+    "bytes": 1631794
+  },
+  {
+    "path": "TACO/data/batch_15/000009.jpg",
+    "bytes": 2757359
+  },
+  {
+    "path": "TACO/data/batch_15/000010.jpg",
+    "bytes": 2574130
+  },
+  {
+    "path": "TACO/data/batch_15/000011.jpg",
+    "bytes": 2347360
+  },
+  {
+    "path": "TACO/data/batch_15/000012.jpg",
+    "bytes": 2999293
+  },
+  {
+    "path": "TACO/data/batch_15/000013.jpg",
+    "bytes": 2653577
+  },
+  {
+    "path": "TACO/data/batch_15/000014.jpg",
+    "bytes": 1771530
+  },
+  {
+    "path": "TACO/data/batch_15/000015.jpg",
+    "bytes": 1870378
+  },
+  {
+    "path": "TACO/data/batch_15/000016.jpg",
+    "bytes": 2352984
+  },
+  {
+    "path": "TACO/data/batch_15/000017.jpg",
+    "bytes": 2533774
+  },
+  {
+    "path": "TACO/data/batch_15/000018.jpg",
+    "bytes": 1281741
+  },
+  {
+    "path": "TACO/data/batch_15/000019.jpg",
+    "bytes": 968586
+  },
+  {
+    "path": "TACO/data/batch_15/000020.jpg",
+    "bytes": 993636
+  },
+  {
+    "path": "TACO/data/batch_15/000021.jpg",
+    "bytes": 860793
+  },
+  {
+    "path": "TACO/data/batch_15/000022.jpg",
+    "bytes": 777633
+  },
+  {
+    "path": "TACO/data/batch_15/000023.jpg",
+    "bytes": 696468
+  },
+  {
+    "path": "TACO/data/batch_15/000024.jpg",
+    "bytes": 1390931
+  },
+  {
+    "path": "TACO/data/batch_15/000025.jpg",
+    "bytes": 1105495
+  },
+  {
+    "path": "TACO/data/batch_15/000026.jpg",
+    "bytes": 1116878
+  },
+  {
+    "path": "TACO/data/batch_15/000027.jpg",
+    "bytes": 697949
+  },
+  {
+    "path": "TACO/data/batch_15/000028.jpg",
+    "bytes": 996640
+  },
+  {
+    "path": "TACO/data/batch_15/000029.jpg",
+    "bytes": 982410
+  },
+  {
+    "path": "TACO/data/batch_15/000030.jpg",
+    "bytes": 1120121
+  },
+  {
+    "path": "TACO/data/batch_15/000031.jpg",
+    "bytes": 2392453
+  },
+  {
+    "path": "TACO/data/batch_15/000032.jpg",
+    "bytes": 2527031
+  },
+  {
+    "path": "TACO/data/batch_15/000033.jpg",
+    "bytes": 3032740
+  },
+  {
+    "path": "TACO/data/batch_15/000034.jpg",
+    "bytes": 1678096
+  },
+  {
+    "path": "TACO/data/batch_15/000035.jpg",
+    "bytes": 2415891
+  },
+  {
+    "path": "TACO/data/batch_15/000036.jpg",
+    "bytes": 3228105
+  },
+  {
+    "path": "TACO/data/batch_15/000037.jpg",
+    "bytes": 4299028
+  },
+  {
+    "path": "TACO/data/batch_15/000038.jpg",
+    "bytes": 4725576
+  },
+  {
+    "path": "TACO/data/batch_15/000039.jpg",
+    "bytes": 3409640
+  },
+  {
+    "path": "TACO/data/batch_15/000040.jpg",
+    "bytes": 3918953
+  },
+  {
+    "path": "TACO/data/batch_15/000041.jpg",
+    "bytes": 4271551
+  },
+  {
+    "path": "TACO/data/batch_15/000042.jpg",
+    "bytes": 3492002
+  },
+  {
+    "path": "TACO/data/batch_15/000043.jpg",
+    "bytes": 1206930
+  },
+  {
+    "path": "TACO/data/batch_15/000044.jpg",
+    "bytes": 1047401
+  },
+  {
+    "path": "TACO/data/batch_15/000045.jpg",
+    "bytes": 1099525
+  },
+  {
+    "path": "TACO/data/batch_15/000046.jpg",
+    "bytes": 1420954
+  },
+  {
+    "path": "TACO/data/batch_15/000047.jpg",
+    "bytes": 2162952
+  },
+  {
+    "path": "TACO/data/batch_15/000048.jpg",
+    "bytes": 2038436
+  },
+  {
+    "path": "TACO/data/batch_15/000049.jpg",
+    "bytes": 1653463
+  },
+  {
+    "path": "TACO/data/batch_15/000050.jpg",
+    "bytes": 1763745
+  },
+  {
+    "path": "TACO/data/batch_15/000051.jpg",
+    "bytes": 2377015
+  },
+  {
+    "path": "TACO/data/batch_15/000052.jpg",
+    "bytes": 1975709
+  },
+  {
+    "path": "TACO/data/batch_15/000053.jpg",
+    "bytes": 2116297
+  },
+  {
+    "path": "TACO/data/batch_15/000054.jpg",
+    "bytes": 2194572
+  },
+  {
+    "path": "TACO/data/batch_15/000055.jpg",
+    "bytes": 1633743
+  },
+  {
+    "path": "TACO/data/batch_15/000056.jpg",
+    "bytes": 1770212
+  },
+  {
+    "path": "TACO/data/batch_15/000057.jpg",
+    "bytes": 2503896
+  },
+  {
+    "path": "TACO/data/batch_15/000058.jpg",
+    "bytes": 2029847
+  },
+  {
+    "path": "TACO/data/batch_15/000059.jpg",
+    "bytes": 2078010
+  },
+  {
+    "path": "TACO/data/batch_15/000060.jpg",
+    "bytes": 655359
+  },
+  {
+    "path": "TACO/data/batch_15/000061.jpg",
+    "bytes": 1018399
+  },
+  {
+    "path": "TACO/data/batch_15/000062.jpg",
+    "bytes": 1270163
+  },
+  {
+    "path": "TACO/data/batch_15/000063.jpg",
+    "bytes": 2084606
+  },
+  {
+    "path": "TACO/data/batch_15/000064.jpg",
+    "bytes": 3426392
+  },
+  {
+    "path": "TACO/data/batch_15/000065.jpg",
+    "bytes": 4680382
+  },
+  {
+    "path": "TACO/data/batch_15/000066.jpg",
+    "bytes": 4854837
+  },
+  {
+    "path": "TACO/data/batch_15/000067.jpg",
+    "bytes": 1280582
+  },
+  {
+    "path": "TACO/data/batch_15/000068.jpg",
+    "bytes": 1089045
+  },
+  {
+    "path": "TACO/data/batch_15/000069.jpg",
+    "bytes": 977374
+  },
+  {
+    "path": "TACO/data/batch_15/000070.jpg",
+    "bytes": 1428373
+  },
+  {
+    "path": "TACO/data/batch_15/000071.jpg",
+    "bytes": 2555611
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_15/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_15/._000071.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_15/000072.jpg",
+    "bytes": 804904
+  },
+  {
+    "path": "TACO/data/batch_15/000073.jpg",
+    "bytes": 657727
+  },
+  {
+    "path": "TACO/data/batch_15/000074.jpg",
+    "bytes": 1065968
+  },
+  {
+    "path": "TACO/data/batch_15/000075.jpg",
+    "bytes": 866997
+  },
+  {
+    "path": "TACO/data/batch_15/000076.jpg",
+    "bytes": 827575
+  },
+  {
+    "path": "TACO/data/batch_15/000077.jpg",
+    "bytes": 338032
+  },
+  {
+    "path": "TACO/data/batch_15/000078.jpg",
+    "bytes": 1236260
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_15/._000078.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_15/000079.jpg",
+    "bytes": 1578436
+  },
+  {
+    "path": "TACO/data/batch_15/000080.jpg",
+    "bytes": 1111415
+  },
+  {
+    "path": "TACO/data/batch_15/000081.jpg",
+    "bytes": 1062300
+  },
+  {
+    "path": "TACO/data/batch_15/000082.jpg",
+    "bytes": 1124709
+  },
+  {
+    "path": "TACO/data/batch_15/000083.jpg",
+    "bytes": 606339
+  },
+  {
+    "path": "TACO/data/batch_15/000084.jpg",
+    "bytes": 904696
+  },
+  {
+    "path": "TACO/data/batch_15/annotations.json",
+    "bytes": 171247
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_15",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/data/batch_2/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_2/000000.JPG",
+    "bytes": 2066619
+  },
+  {
+    "path": "TACO/data/batch_2/000001.JPG",
+    "bytes": 1849613
+  },
+  {
+    "path": "TACO/data/batch_2/000003.JPG",
+    "bytes": 430483
+  },
+  {
+    "path": "TACO/data/batch_2/000005.JPG",
+    "bytes": 572734
+  },
+  {
+    "path": "TACO/data/batch_2/000006.JPG",
+    "bytes": 1016223
+  },
+  {
+    "path": "TACO/data/batch_2/000007.JPG",
+    "bytes": 758033
+  },
+  {
+    "path": "TACO/data/batch_2/000008.JPG",
+    "bytes": 1096714
+  },
+  {
+    "path": "TACO/data/batch_2/000009.JPG",
+    "bytes": 743108
+  },
+  {
+    "path": "TACO/data/batch_2/000010.JPG",
+    "bytes": 763776
+  },
+  {
+    "path": "TACO/data/batch_2/000012.JPG",
+    "bytes": 1845955
+  },
+  {
+    "path": "TACO/data/batch_2/000013.JPG",
+    "bytes": 2121773
+  },
+  {
+    "path": "TACO/data/batch_2/000014.JPG",
+    "bytes": 566675
+  },
+  {
+    "path": "TACO/data/batch_2/000015.JPG",
+    "bytes": 1569675
+  },
+  {
+    "path": "TACO/data/batch_2/000016.JPG",
+    "bytes": 1080513
+  },
+  {
+    "path": "TACO/data/batch_2/000017.JPG",
+    "bytes": 1378580
+  },
+  {
+    "path": "TACO/data/batch_2/000018.JPG",
+    "bytes": 1538721
+  },
+  {
+    "path": "TACO/data/batch_2/000019.JPG",
+    "bytes": 1818976
+  },
+  {
+    "path": "TACO/data/batch_2/000020.JPG",
+    "bytes": 1054419
+  },
+  {
+    "path": "TACO/data/batch_2/000021.JPG",
+    "bytes": 801877
+  },
+  {
+    "path": "TACO/data/batch_2/000022.JPG",
+    "bytes": 1378289
+  },
+  {
+    "path": "TACO/data/batch_2/000023.JPG",
+    "bytes": 568227
+  },
+  {
+    "path": "TACO/data/batch_2/000024.JPG",
+    "bytes": 454282
+  },
+  {
+    "path": "TACO/data/batch_2/000025.JPG",
+    "bytes": 646484
+  },
+  {
+    "path": "TACO/data/batch_2/000026.JPG",
+    "bytes": 607982
+  },
+  {
+    "path": "TACO/data/batch_2/000027.JPG",
+    "bytes": 654997
+  },
+  {
+    "path": "TACO/data/batch_2/000029.JPG",
+    "bytes": 961167
+  },
+  {
+    "path": "TACO/data/batch_2/000030.JPG",
+    "bytes": 765851
+  },
+  {
+    "path": "TACO/data/batch_2/000031.JPG",
+    "bytes": 798988
+  },
+  {
+    "path": "TACO/data/batch_2/000032.JPG",
+    "bytes": 580361
+  },
+  {
+    "path": "TACO/data/batch_2/000033.JPG",
+    "bytes": 943815
+  },
+  {
+    "path": "TACO/data/batch_2/000034.JPG",
+    "bytes": 1166860
+  },
+  {
+    "path": "TACO/data/batch_2/000035.JPG",
+    "bytes": 1108875
+  },
+  {
+    "path": "TACO/data/batch_2/000036.JPG",
+    "bytes": 1631529
+  },
+  {
+    "path": "TACO/data/batch_2/000037.JPG",
+    "bytes": 1919126
+  },
+  {
+    "path": "TACO/data/batch_2/000038.JPG",
+    "bytes": 1794799
+  },
+  {
+    "path": "TACO/data/batch_2/000039.JPG",
+    "bytes": 1807514
+  },
+  {
+    "path": "TACO/data/batch_2/000040.JPG",
+    "bytes": 1929886
+  },
+  {
+    "path": "TACO/data/batch_2/000041.JPG",
+    "bytes": 2258010
+  },
+  {
+    "path": "TACO/data/batch_2/000042.JPG",
+    "bytes": 2111720
+  },
+  {
+    "path": "TACO/data/batch_2/000043.JPG",
+    "bytes": 2247247
+  },
+  {
+    "path": "TACO/data/batch_2/000044.JPG",
+    "bytes": 1456714
+  },
+  {
+    "path": "TACO/data/batch_2/000046.JPG",
+    "bytes": 2091323
+  },
+  {
+    "path": "TACO/data/batch_2/000047.JPG",
+    "bytes": 1959801
+  },
+  {
+    "path": "TACO/data/batch_2/000048.JPG",
+    "bytes": 1264531
+  },
+  {
+    "path": "TACO/data/batch_2/000049.JPG",
+    "bytes": 1680925
+  },
+  {
+    "path": "TACO/data/batch_2/000050.JPG",
+    "bytes": 1780119
+  },
+  {
+    "path": "TACO/data/batch_2/000051.JPG",
+    "bytes": 1534020
+  },
+  {
+    "path": "TACO/data/batch_2/000052.JPG",
+    "bytes": 1707411
+  },
+  {
+    "path": "TACO/data/batch_2/000053.JPG",
+    "bytes": 1991128
+  },
+  {
+    "path": "TACO/data/batch_2/000054.JPG",
+    "bytes": 1844302
+  },
+  {
+    "path": "TACO/data/batch_2/000055.JPG",
+    "bytes": 1740709
+  },
+  {
+    "path": "TACO/data/batch_2/000056.JPG",
+    "bytes": 2162205
+  },
+  {
+    "path": "TACO/data/batch_2/000057.JPG",
+    "bytes": 2210463
+  },
+  {
+    "path": "TACO/data/batch_2/000058.JPG",
+    "bytes": 2312451
+  },
+  {
+    "path": "TACO/data/batch_2/000059.JPG",
+    "bytes": 2317944
+  },
+  {
+    "path": "TACO/data/batch_2/000060.JPG",
+    "bytes": 3098835
+  },
+  {
+    "path": "TACO/data/batch_2/000061.JPG",
+    "bytes": 2789390
+  },
+  {
+    "path": "TACO/data/batch_2/000062.JPG",
+    "bytes": 2548963
+  },
+  {
+    "path": "TACO/data/batch_2/000063.JPG",
+    "bytes": 3014075
+  },
+  {
+    "path": "TACO/data/batch_2/000064.JPG",
+    "bytes": 2000974
+  },
+  {
+    "path": "TACO/data/batch_2/000065.JPG",
+    "bytes": 2795310
+  },
+  {
+    "path": "TACO/data/batch_2/000067.JPG",
+    "bytes": 2476008
+  },
+  {
+    "path": "TACO/data/batch_2/000068.JPG",
+    "bytes": 1695469
+  },
+  {
+    "path": "TACO/data/batch_2/000069.JPG",
+    "bytes": 2485905
+  },
+  {
+    "path": "TACO/data/batch_2/000070.JPG",
+    "bytes": 3002911
+  },
+  {
+    "path": "TACO/data/batch_2/000071.JPG",
+    "bytes": 2575131
+  },
+  {
+    "path": "TACO/data/batch_2/000072.JPG",
+    "bytes": 2622964
+  },
+  {
+    "path": "TACO/data/batch_2/000073.JPG",
+    "bytes": 1971757
+  },
+  {
+    "path": "TACO/data/batch_2/000074.JPG",
+    "bytes": 2142565
+  },
+  {
+    "path": "TACO/data/batch_2/000075.JPG",
+    "bytes": 1857164
+  },
+  {
+    "path": "TACO/data/batch_2/000076.JPG",
+    "bytes": 1781172
+  },
+  {
+    "path": "TACO/data/batch_2/000077.JPG",
+    "bytes": 783965
+  },
+  {
+    "path": "TACO/data/batch_2/000079.JPG",
+    "bytes": 1372893
+  },
+  {
+    "path": "TACO/data/batch_2/000080.JPG",
+    "bytes": 1500279
+  },
+  {
+    "path": "TACO/data/batch_2/000081.JPG",
+    "bytes": 1203998
+  },
+  {
+    "path": "TACO/data/batch_2/000082.JPG",
+    "bytes": 2093537
+  },
+  {
+    "path": "TACO/data/batch_2/000083.JPG",
+    "bytes": 1982601
+  },
+  {
+    "path": "TACO/data/batch_2/000084.JPG",
+    "bytes": 520911
+  },
+  {
+    "path": "TACO/data/batch_2/000085.JPG",
+    "bytes": 1627607
+  },
+  {
+    "path": "TACO/data/batch_2/000086.JPG",
+    "bytes": 1235931
+  },
+  {
+    "path": "TACO/data/batch_2/000088.JPG",
+    "bytes": 1707034
+  },
+  {
+    "path": "TACO/data/batch_2/000089.JPG",
+    "bytes": 1883983
+  },
+  {
+    "path": "TACO/data/batch_2/000090.JPG",
+    "bytes": 2209961
+  },
+  {
+    "path": "TACO/data/batch_2/000091.JPG",
+    "bytes": 1847301
+  },
+  {
+    "path": "TACO/data/batch_2/000092.JPG",
+    "bytes": 1095740
+  },
+  {
+    "path": "TACO/data/batch_2/000093.JPG",
+    "bytes": 1888945
+  },
+  {
+    "path": "TACO/data/batch_2/000094.JPG",
+    "bytes": 1926494
+  },
+  {
+    "path": "TACO/data/batch_2/000095.JPG",
+    "bytes": 1174207
+  },
+  {
+    "path": "TACO/data/batch_2/000096.JPG",
+    "bytes": 1435163
+  },
+  {
+    "path": "TACO/data/batch_2/000097.JPG",
+    "bytes": 1803721
+  },
+  {
+    "path": "TACO/data/batch_2/000098.JPG",
+    "bytes": 1715588
+  },
+  {
+    "path": "TACO/data/batch_2/000099.JPG",
+    "bytes": 2317146
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_2/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_2/._000099.JPG",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_2/annotations.json",
+    "bytes": 224289
+  },
+  {
+    "path": "TACO/data/batch_3/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_3/annotations.json",
+    "bytes": 202448
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4852.JPG",
+    "bytes": 748471
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4854.JPG",
+    "bytes": 1976701
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4855.JPG",
+    "bytes": 1554407
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4856.JPG",
+    "bytes": 1959977
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4857.JPG",
+    "bytes": 726439
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4859.JPG",
+    "bytes": 1624683
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4860.JPG",
+    "bytes": 655801
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4862.JPG",
+    "bytes": 1600778
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4865.JPG",
+    "bytes": 384656
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4868.JPG",
+    "bytes": 540445
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4869.JPG",
+    "bytes": 483383
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4874.JPG",
+    "bytes": 509776
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4875.JPG",
+    "bytes": 467604
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4876.JPG",
+    "bytes": 514350
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4877.JPG",
+    "bytes": 416891
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4878.JPG",
+    "bytes": 494310
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4879.JPG",
+    "bytes": 363814
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4881.JPG",
+    "bytes": 1658526
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4883.JPG",
+    "bytes": 2104843
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4887.JPG",
+    "bytes": 1989162
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4889.JPG",
+    "bytes": 1962837
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4891.JPG",
+    "bytes": 1904688
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4893.JPG",
+    "bytes": 1628650
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4895.JPG",
+    "bytes": 2263211
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4897.JPG",
+    "bytes": 2295698
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4898.JPG",
+    "bytes": 1741466
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4901.JPG",
+    "bytes": 2334315
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4902.JPG",
+    "bytes": 2076367
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4907.JPG",
+    "bytes": 1870385
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4911.JPG",
+    "bytes": 1853622
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4913.JPG",
+    "bytes": 1163561
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4914.JPG",
+    "bytes": 368834
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4915.JPG",
+    "bytes": 397039
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4916.JPG",
+    "bytes": 396328
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4917.JPG",
+    "bytes": 602122
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4919.JPG",
+    "bytes": 2005789
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4921.JPG",
+    "bytes": 1994270
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4922.JPG",
+    "bytes": 1680924
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4924.JPG",
+    "bytes": 2231119
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4926.JPG",
+    "bytes": 583606
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4928.JPG",
+    "bytes": 2408925
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4929.JPG",
+    "bytes": 1499161
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4932.JPG",
+    "bytes": 1993650
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4934.JPG",
+    "bytes": 535431
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4936.JPG",
+    "bytes": 1171595
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4939.JPG",
+    "bytes": 476321
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4941.JPG",
+    "bytes": 1223205
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4948.JPG",
+    "bytes": 722218
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4950.JPG",
+    "bytes": 1365187
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4961.JPG",
+    "bytes": 1895681
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4963.JPG",
+    "bytes": 551452
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4964.JPG",
+    "bytes": 881332
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4965.JPG",
+    "bytes": 861763
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4966.JPG",
+    "bytes": 834772
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4967.JPG",
+    "bytes": 598258
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4969.JPG",
+    "bytes": 2308533
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4971.JPG",
+    "bytes": 970507
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4972.JPG",
+    "bytes": 2187754
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4977.JPG",
+    "bytes": 1502118
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4978.JPG",
+    "bytes": 1258607
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4980.JPG",
+    "bytes": 1897932
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4992.JPG",
+    "bytes": 2204170
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4994.JPG",
+    "bytes": 1680658
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4996.JPG",
+    "bytes": 1428628
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4997.JPG",
+    "bytes": 1912311
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_4998.JPG",
+    "bytes": 2066762
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5002.JPG",
+    "bytes": 829915
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5003.JPG",
+    "bytes": 1877932
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5036.JPG",
+    "bytes": 808261
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5037.JPG",
+    "bytes": 1152061
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5039.JPG",
+    "bytes": 1374795
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5040.JPG",
+    "bytes": 539974
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5041.JPG",
+    "bytes": 580404
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5042.JPG",
+    "bytes": 698618
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5043.JPG",
+    "bytes": 801615
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5044.JPG",
+    "bytes": 517632
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5045.JPG",
+    "bytes": 610724
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5046.JPG",
+    "bytes": 1523305
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5048.JPG",
+    "bytes": 611612
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5049.JPG",
+    "bytes": 468352
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5050.JPG",
+    "bytes": 455977
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5051.JPG",
+    "bytes": 787640
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5052.JPG",
+    "bytes": 785403
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5053.JPG",
+    "bytes": 788497
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5054.JPG",
+    "bytes": 803596
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5055.JPG",
+    "bytes": 1702037
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5056.JPG",
+    "bytes": 1453661
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5057.JPG",
+    "bytes": 1598637
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5058.JPG",
+    "bytes": 983671
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5060.JPG",
+    "bytes": 1693244
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5061.JPG",
+    "bytes": 1559473
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5063.JPG",
+    "bytes": 446072
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5064.JPG",
+    "bytes": 501919
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5065.JPG",
+    "bytes": 416790
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5066.JPG",
+    "bytes": 399925
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5067.JPG",
+    "bytes": 616107
+  },
+  {
+    "path": "TACO/data/batch_3/IMG_5068.JPG",
+    "bytes": 816810
+  },
+  {
+    "path": "TACO/data/batch_4/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_4/000000.JPG",
+    "bytes": 1430005
+  },
+  {
+    "path": "TACO/data/batch_4/000002.JPG",
+    "bytes": 1518885
+  },
+  {
+    "path": "TACO/data/batch_4/000003.JPG",
+    "bytes": 1498252
+  },
+  {
+    "path": "TACO/data/batch_4/000004.JPG",
+    "bytes": 1862858
+  },
+  {
+    "path": "TACO/data/batch_4/000005.JPG",
+    "bytes": 1691524
+  },
+  {
+    "path": "TACO/data/batch_4/000006.JPG",
+    "bytes": 1467406
+  },
+  {
+    "path": "TACO/data/batch_4/000007.JPG",
+    "bytes": 1919152
+  },
+  {
+    "path": "TACO/data/batch_4/000008.JPG",
+    "bytes": 2101173
+  },
+  {
+    "path": "TACO/data/batch_4/000009.JPG",
+    "bytes": 1847557
+  },
+  {
+    "path": "TACO/data/batch_4/000010.JPG",
+    "bytes": 2070100
+  },
+  {
+    "path": "TACO/data/batch_4/000011.JPG",
+    "bytes": 2256557
+  },
+  {
+    "path": "TACO/data/batch_4/000012.JPG",
+    "bytes": 1678030
+  },
+  {
+    "path": "TACO/data/batch_4/000013.JPG",
+    "bytes": 2252986
+  },
+  {
+    "path": "TACO/data/batch_4/000014.JPG",
+    "bytes": 2177929
+  },
+  {
+    "path": "TACO/data/batch_4/000015.JPG",
+    "bytes": 1937190
+  },
+  {
+    "path": "TACO/data/batch_4/000016.JPG",
+    "bytes": 1959936
+  },
+  {
+    "path": "TACO/data/batch_4/000018.JPG",
+    "bytes": 1994792
+  },
+  {
+    "path": "TACO/data/batch_4/000019.JPG",
+    "bytes": 1637477
+  },
+  {
+    "path": "TACO/data/batch_4/000020.JPG",
+    "bytes": 1545919
+  },
+  {
+    "path": "TACO/data/batch_4/000021.JPG",
+    "bytes": 2136568
+  },
+  {
+    "path": "TACO/data/batch_4/000022.JPG",
+    "bytes": 2221717
+  },
+  {
+    "path": "TACO/data/batch_4/000023.JPG",
+    "bytes": 1170909
+  },
+  {
+    "path": "TACO/data/batch_4/000025.JPG",
+    "bytes": 2086329
+  },
+  {
+    "path": "TACO/data/batch_4/000026.JPG",
+    "bytes": 1419361
+  },
+  {
+    "path": "TACO/data/batch_4/000027.JPG",
+    "bytes": 1661151
+  },
+  {
+    "path": "TACO/data/batch_4/000028.JPG",
+    "bytes": 2036194
+  },
+  {
+    "path": "TACO/data/batch_4/000029.JPG",
+    "bytes": 2015667
+  },
+  {
+    "path": "TACO/data/batch_4/000031.JPG",
+    "bytes": 1009472
+  },
+  {
+    "path": "TACO/data/batch_4/000032.JPG",
+    "bytes": 2307089
+  },
+  {
+    "path": "TACO/data/batch_4/000034.JPG",
+    "bytes": 2204156
+  },
+  {
+    "path": "TACO/data/batch_4/000035.JPG",
+    "bytes": 1345424
+  },
+  {
+    "path": "TACO/data/batch_4/000036.JPG",
+    "bytes": 1445649
+  },
+  {
+    "path": "TACO/data/batch_4/000037.JPG",
+    "bytes": 1833813
+  },
+  {
+    "path": "TACO/data/batch_4/000039.JPG",
+    "bytes": 1617652
+  },
+  {
+    "path": "TACO/data/batch_4/000040.JPG",
+    "bytes": 2034920
+  },
+  {
+    "path": "TACO/data/batch_4/000041.JPG",
+    "bytes": 2131029
+  },
+  {
+    "path": "TACO/data/batch_4/000042.JPG",
+    "bytes": 2348580
+  },
+  {
+    "path": "TACO/data/batch_4/000043.JPG",
+    "bytes": 1638720
+  },
+  {
+    "path": "TACO/data/batch_4/000045.JPG",
+    "bytes": 1919636
+  },
+  {
+    "path": "TACO/data/batch_4/000046.JPG",
+    "bytes": 1488109
+  },
+  {
+    "path": "TACO/data/batch_4/000047.JPG",
+    "bytes": 2178162
+  },
+  {
+    "path": "TACO/data/batch_4/000048.JPG",
+    "bytes": 1692884
+  },
+  {
+    "path": "TACO/data/batch_4/000049.JPG",
+    "bytes": 2159425
+  },
+  {
+    "path": "TACO/data/batch_4/000050.JPG",
+    "bytes": 1821214
+  },
+  {
+    "path": "TACO/data/batch_4/000051.JPG",
+    "bytes": 1689528
+  },
+  {
+    "path": "TACO/data/batch_4/000052.JPG",
+    "bytes": 1679606
+  },
+  {
+    "path": "TACO/data/batch_4/000053.JPG",
+    "bytes": 2490913
+  },
+  {
+    "path": "TACO/data/batch_4/000054.JPG",
+    "bytes": 2454103
+  },
+  {
+    "path": "TACO/data/batch_4/000055.JPG",
+    "bytes": 2465819
+  },
+  {
+    "path": "TACO/data/batch_4/000056.JPG",
+    "bytes": 2041485
+  },
+  {
+    "path": "TACO/data/batch_4/000057.JPG",
+    "bytes": 2589645
+  },
+  {
+    "path": "TACO/data/batch_4/000058.JPG",
+    "bytes": 2318862
+  },
+  {
+    "path": "TACO/data/batch_4/000059.JPG",
+    "bytes": 1885898
+  },
+  {
+    "path": "TACO/data/batch_4/000060.JPG",
+    "bytes": 1605080
+  },
+  {
+    "path": "TACO/data/batch_4/000061.JPG",
+    "bytes": 1995697
+  },
+  {
+    "path": "TACO/data/batch_4/000062.JPG",
+    "bytes": 1405803
+  },
+  {
+    "path": "TACO/data/batch_4/000063.JPG",
+    "bytes": 2890694
+  },
+  {
+    "path": "TACO/data/batch_4/000064.JPG",
+    "bytes": 1361021
+  },
+  {
+    "path": "TACO/data/batch_4/000065.JPG",
+    "bytes": 2191841
+  },
+  {
+    "path": "TACO/data/batch_4/000066.JPG",
+    "bytes": 2237306
+  },
+  {
+    "path": "TACO/data/batch_4/000067.JPG",
+    "bytes": 1347208
+  },
+  {
+    "path": "TACO/data/batch_4/000068.JPG",
+    "bytes": 1643759
+  },
+  {
+    "path": "TACO/data/batch_4/000069.JPG",
+    "bytes": 1945714
+  },
+  {
+    "path": "TACO/data/batch_4/000070.JPG",
+    "bytes": 2729422
+  },
+  {
+    "path": "TACO/data/batch_4/000071.JPG",
+    "bytes": 1843413
+  },
+  {
+    "path": "TACO/data/batch_4/000072.JPG",
+    "bytes": 1569881
+  },
+  {
+    "path": "TACO/data/batch_4/000073.JPG",
+    "bytes": 2597271
+  },
+  {
+    "path": "TACO/data/batch_4/000074.JPG",
+    "bytes": 2481872
+  },
+  {
+    "path": "TACO/data/batch_4/000076.JPG",
+    "bytes": 2512463
+  },
+  {
+    "path": "TACO/data/batch_4/000077.JPG",
+    "bytes": 1369877
+  },
+  {
+    "path": "TACO/data/batch_4/000079.JPG",
+    "bytes": 2296015
+  },
+  {
+    "path": "TACO/data/batch_4/000080.JPG",
+    "bytes": 2079030
+  },
+  {
+    "path": "TACO/data/batch_4/000081.JPG",
+    "bytes": 1732763
+  },
+  {
+    "path": "TACO/data/batch_4/000082.JPG",
+    "bytes": 1848106
+  },
+  {
+    "path": "TACO/data/batch_4/000083.JPG",
+    "bytes": 2367687
+  },
+  {
+    "path": "TACO/data/batch_4/000084.JPG",
+    "bytes": 1793795
+  },
+  {
+    "path": "TACO/data/batch_4/000085.JPG",
+    "bytes": 1787193
+  },
+  {
+    "path": "TACO/data/batch_4/000086.JPG",
+    "bytes": 1373010
+  },
+  {
+    "path": "TACO/data/batch_4/000087.JPG",
+    "bytes": 1207575
+  },
+  {
+    "path": "TACO/data/batch_4/000088.JPG",
+    "bytes": 1504597
+  },
+  {
+    "path": "TACO/data/batch_4/000089.JPG",
+    "bytes": 1054999
+  },
+  {
+    "path": "TACO/data/batch_4/000090.JPG",
+    "bytes": 767241
+  },
+  {
+    "path": "TACO/data/batch_4/000092.JPG",
+    "bytes": 1520129
+  },
+  {
+    "path": "TACO/data/batch_4/000093.JPG",
+    "bytes": 1126845
+  },
+  {
+    "path": "TACO/data/batch_4/000094.JPG",
+    "bytes": 906324
+  },
+  {
+    "path": "TACO/data/batch_4/000095.JPG",
+    "bytes": 1090429
+  },
+  {
+    "path": "TACO/data/batch_4/000096.JPG",
+    "bytes": 1059371
+  },
+  {
+    "path": "TACO/data/batch_4/000097.JPG",
+    "bytes": 1045336
+  },
+  {
+    "path": "TACO/data/batch_4/000098.JPG",
+    "bytes": 1079293
+  },
+  {
+    "path": "TACO/data/batch_4/annotations.json",
+    "bytes": 147958
+  },
+  {
+    "path": "TACO/data/batch_5/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_5/000000.JPG",
+    "bytes": 1002938
+  },
+  {
+    "path": "TACO/data/batch_5/000001.JPG",
+    "bytes": 2427247
+  },
+  {
+    "path": "TACO/data/batch_5/000002.JPG",
+    "bytes": 2177766
+  },
+  {
+    "path": "TACO/data/batch_5/000004.JPG",
+    "bytes": 1165314
+  },
+  {
+    "path": "TACO/data/batch_5/000005.JPG",
+    "bytes": 1077120
+  },
+  {
+    "path": "TACO/data/batch_5/000006.JPG",
+    "bytes": 1362182
+  },
+  {
+    "path": "TACO/data/batch_5/000007.JPG",
+    "bytes": 1508223
+  },
+  {
+    "path": "TACO/data/batch_5/000008.JPG",
+    "bytes": 1158781
+  },
+  {
+    "path": "TACO/data/batch_5/000009.JPG",
+    "bytes": 1510372
+  },
+  {
+    "path": "TACO/data/batch_5/000010.JPG",
+    "bytes": 1479806
+  },
+  {
+    "path": "TACO/data/batch_5/000011.JPG",
+    "bytes": 1029411
+  },
+  {
+    "path": "TACO/data/batch_5/000012.JPG",
+    "bytes": 1374819
+  },
+  {
+    "path": "TACO/data/batch_5/000013.JPG",
+    "bytes": 1435729
+  },
+  {
+    "path": "TACO/data/batch_5/000014.JPG",
+    "bytes": 1632897
+  },
+  {
+    "path": "TACO/data/batch_5/000015.JPG",
+    "bytes": 1654783
+  },
+  {
+    "path": "TACO/data/batch_5/000016.JPG",
+    "bytes": 2198343
+  },
+  {
+    "path": "TACO/data/batch_5/000017.JPG",
+    "bytes": 1354612
+  },
+  {
+    "path": "TACO/data/batch_5/000018.JPG",
+    "bytes": 1920880
+  },
+  {
+    "path": "TACO/data/batch_5/000019.JPG",
+    "bytes": 1688919
+  },
+  {
+    "path": "TACO/data/batch_5/000020.JPG",
+    "bytes": 1918072
+  },
+  {
+    "path": "TACO/data/batch_5/000021.JPG",
+    "bytes": 844119
+  },
+  {
+    "path": "TACO/data/batch_5/000022.JPG",
+    "bytes": 1485687
+  },
+  {
+    "path": "TACO/data/batch_5/000023.JPG",
+    "bytes": 2009133
+  },
+  {
+    "path": "TACO/data/batch_5/000024.JPG",
+    "bytes": 790577
+  },
+  {
+    "path": "TACO/data/batch_5/000025.JPG",
+    "bytes": 2470617
+  },
+  {
+    "path": "TACO/data/batch_5/000026.JPG",
+    "bytes": 1312051
+  },
+  {
+    "path": "TACO/data/batch_5/000027.JPG",
+    "bytes": 916192
+  },
+  {
+    "path": "TACO/data/batch_5/000028.JPG",
+    "bytes": 670050
+  },
+  {
+    "path": "TACO/data/batch_5/000029.JPG",
+    "bytes": 1016759
+  },
+  {
+    "path": "TACO/data/batch_5/000030.JPG",
+    "bytes": 1222571
+  },
+  {
+    "path": "TACO/data/batch_5/000031.JPG",
+    "bytes": 1262217
+  },
+  {
+    "path": "TACO/data/batch_5/000033.JPG",
+    "bytes": 1742316
+  },
+  {
+    "path": "TACO/data/batch_5/000034.JPG",
+    "bytes": 1372306
+  },
+  {
+    "path": "TACO/data/batch_5/000035.JPG",
+    "bytes": 1731148
+  },
+  {
+    "path": "TACO/data/batch_5/000036.JPG",
+    "bytes": 1210088
+  },
+  {
+    "path": "TACO/data/batch_5/000037.JPG",
+    "bytes": 1201228
+  },
+  {
+    "path": "TACO/data/batch_5/000038.JPG",
+    "bytes": 1571702
+  },
+  {
+    "path": "TACO/data/batch_5/000039.JPG",
+    "bytes": 2088336
+  },
+  {
+    "path": "TACO/data/batch_5/000040.JPG",
+    "bytes": 1551231
+  },
+  {
+    "path": "TACO/data/batch_5/000041.JPG",
+    "bytes": 1443702
+  },
+  {
+    "path": "TACO/data/batch_5/000042.JPG",
+    "bytes": 1187257
+  },
+  {
+    "path": "TACO/data/batch_5/000043.JPG",
+    "bytes": 1901810
+  },
+  {
+    "path": "TACO/data/batch_5/000045.JPG",
+    "bytes": 1772383
+  },
+  {
+    "path": "TACO/data/batch_5/000046.JPG",
+    "bytes": 1211574
+  },
+  {
+    "path": "TACO/data/batch_5/000047.JPG",
+    "bytes": 907036
+  },
+  {
+    "path": "TACO/data/batch_5/000048.JPG",
+    "bytes": 1759734
+  },
+  {
+    "path": "TACO/data/batch_5/000049.JPG",
+    "bytes": 739238
+  },
+  {
+    "path": "TACO/data/batch_5/000050.JPG",
+    "bytes": 854498
+  },
+  {
+    "path": "TACO/data/batch_5/000051.JPG",
+    "bytes": 725760
+  },
+  {
+    "path": "TACO/data/batch_5/000052.JPG",
+    "bytes": 2065493
+  },
+  {
+    "path": "TACO/data/batch_5/000054.JPG",
+    "bytes": 1307241
+  },
+  {
+    "path": "TACO/data/batch_5/000055.JPG",
+    "bytes": 1589587
+  },
+  {
+    "path": "TACO/data/batch_5/000056.JPG",
+    "bytes": 760287
+  },
+  {
+    "path": "TACO/data/batch_5/000057.JPG",
+    "bytes": 493146
+  },
+  {
+    "path": "TACO/data/batch_5/000058.JPG",
+    "bytes": 1583176
+  },
+  {
+    "path": "TACO/data/batch_5/000059.JPG",
+    "bytes": 581109
+  },
+  {
+    "path": "TACO/data/batch_5/000060.JPG",
+    "bytes": 614018
+  },
+  {
+    "path": "TACO/data/batch_5/000061.JPG",
+    "bytes": 1568268
+  },
+  {
+    "path": "TACO/data/batch_5/000062.JPG",
+    "bytes": 784332
+  },
+  {
+    "path": "TACO/data/batch_5/000063.JPG",
+    "bytes": 801480
+  },
+  {
+    "path": "TACO/data/batch_5/000064.JPG",
+    "bytes": 2075766
+  },
+  {
+    "path": "TACO/data/batch_5/000066.JPG",
+    "bytes": 2437408
+  },
+  {
+    "path": "TACO/data/batch_5/000067.JPG",
+    "bytes": 2494926
+  },
+  {
+    "path": "TACO/data/batch_5/000068.JPG",
+    "bytes": 1005241
+  },
+  {
+    "path": "TACO/data/batch_5/000069.JPG",
+    "bytes": 1526341
+  },
+  {
+    "path": "TACO/data/batch_5/000070.JPG",
+    "bytes": 2015673
+  },
+  {
+    "path": "TACO/data/batch_5/000071.JPG",
+    "bytes": 2516480
+  },
+  {
+    "path": "TACO/data/batch_5/000072.JPG",
+    "bytes": 1719532
+  },
+  {
+    "path": "TACO/data/batch_5/000073.JPG",
+    "bytes": 1864036
+  },
+  {
+    "path": "TACO/data/batch_5/000074.JPG",
+    "bytes": 2531127
+  },
+  {
+    "path": "TACO/data/batch_5/000075.JPG",
+    "bytes": 2407806
+  },
+  {
+    "path": "TACO/data/batch_5/000076.JPG",
+    "bytes": 2217965
+  },
+  {
+    "path": "TACO/data/batch_5/000079.JPG",
+    "bytes": 1795452
+  },
+  {
+    "path": "TACO/data/batch_5/000081.JPG",
+    "bytes": 2214397
+  },
+  {
+    "path": "TACO/data/batch_5/000082.JPG",
+    "bytes": 1622904
+  },
+  {
+    "path": "TACO/data/batch_5/000083.JPG",
+    "bytes": 1652966
+  },
+  {
+    "path": "TACO/data/batch_5/000084.JPG",
+    "bytes": 2003036
+  },
+  {
+    "path": "TACO/data/batch_5/000085.JPG",
+    "bytes": 1997281
+  },
+  {
+    "path": "TACO/data/batch_5/000086.JPG",
+    "bytes": 1698022
+  },
+  {
+    "path": "TACO/data/batch_5/000087.JPG",
+    "bytes": 2462099
+  },
+  {
+    "path": "TACO/data/batch_5/000088.JPG",
+    "bytes": 2668165
+  },
+  {
+    "path": "TACO/data/batch_5/000089.JPG",
+    "bytes": 2456862
+  },
+  {
+    "path": "TACO/data/batch_5/000090.JPG",
+    "bytes": 1781699
+  },
+  {
+    "path": "TACO/data/batch_5/000091.JPG",
+    "bytes": 2042389
+  },
+  {
+    "path": "TACO/data/batch_5/000092.JPG",
+    "bytes": 1890971
+  },
+  {
+    "path": "TACO/data/batch_5/000093.JPG",
+    "bytes": 1398582
+  },
+  {
+    "path": "TACO/data/batch_5/000094.JPG",
+    "bytes": 799114
+  },
+  {
+    "path": "TACO/data/batch_5/000095.JPG",
+    "bytes": 930533
+  },
+  {
+    "path": "TACO/data/batch_5/000096.JPG",
+    "bytes": 983644
+  },
+  {
+    "path": "TACO/data/batch_5/000097.JPG",
+    "bytes": 1790472
+  },
+  {
+    "path": "TACO/data/batch_5/000098.JPG",
+    "bytes": 1172905
+  },
+  {
+    "path": "TACO/data/batch_5/000099.JPG",
+    "bytes": 1198027
+  },
+  {
+    "path": "TACO/data/batch_5/000100.JPG",
+    "bytes": 957503
+  },
+  {
+    "path": "TACO/data/batch_5/000101.JPG",
+    "bytes": 2006659
+  },
+  {
+    "path": "TACO/data/batch_5/000102.JPG",
+    "bytes": 1528547
+  },
+  {
+    "path": "TACO/data/batch_5/000103.JPG",
+    "bytes": 1466412
+  },
+  {
+    "path": "TACO/data/batch_5/000104.JPG",
+    "bytes": 1811549
+  },
+  {
+    "path": "TACO/data/batch_5/000105.JPG",
+    "bytes": 1388336
+  },
+  {
+    "path": "TACO/data/batch_5/000106.JPG",
+    "bytes": 2117284
+  },
+  {
+    "path": "TACO/data/batch_5/000107.JPG",
+    "bytes": 1375263
+  },
+  {
+    "path": "TACO/data/batch_5/000108.JPG",
+    "bytes": 1621202
+  },
+  {
+    "path": "TACO/data/batch_5/000110.JPG",
+    "bytes": 1643382
+  },
+  {
+    "path": "TACO/data/batch_5/000111.JPG",
+    "bytes": 1792295
+  },
+  {
+    "path": "TACO/data/batch_5/000112.JPG",
+    "bytes": 563635
+  },
+  {
+    "path": "TACO/data/batch_5/000113.JPG",
+    "bytes": 2478244
+  },
+  {
+    "path": "TACO/data/batch_5/000114.JPG",
+    "bytes": 1912620
+  },
+  {
+    "path": "TACO/data/batch_5/000115.JPG",
+    "bytes": 1147634
+  },
+  {
+    "path": "TACO/data/batch_5/000116.JPG",
+    "bytes": 1164244
+  },
+  {
+    "path": "TACO/data/batch_5/000117.JPG",
+    "bytes": 1418963
+  },
+  {
+    "path": "TACO/data/batch_5/000118.JPG",
+    "bytes": 1113377
+  },
+  {
+    "path": "TACO/data/batch_5/000119.JPG",
+    "bytes": 2010662
+  },
+  {
+    "path": "TACO/data/batch_5/000120.JPG",
+    "bytes": 2088189
+  },
+  {
+    "path": "TACO/data/batch_5/annotations.json",
+    "bytes": 241162
+  },
+  {
+    "path": "TACO/data/batch_6/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_6/000000.JPG",
+    "bytes": 1383423
+  },
+  {
+    "path": "TACO/data/batch_6/000001.JPG",
+    "bytes": 683468
+  },
+  {
+    "path": "TACO/data/batch_6/000002.JPG",
+    "bytes": 358945
+  },
+  {
+    "path": "TACO/data/batch_6/000003.JPG",
+    "bytes": 1779629
+  },
+  {
+    "path": "TACO/data/batch_6/000005.JPG",
+    "bytes": 1448306
+  },
+  {
+    "path": "TACO/data/batch_6/000006.JPG",
+    "bytes": 1216005
+  },
+  {
+    "path": "TACO/data/batch_6/000007.JPG",
+    "bytes": 1429828
+  },
+  {
+    "path": "TACO/data/batch_6/000008.JPG",
+    "bytes": 475716
+  },
+  {
+    "path": "TACO/data/batch_6/000009.JPG",
+    "bytes": 375458
+  },
+  {
+    "path": "TACO/data/batch_6/000010.JPG",
+    "bytes": 380508
+  },
+  {
+    "path": "TACO/data/batch_6/000011.JPG",
+    "bytes": 1524482
+  },
+  {
+    "path": "TACO/data/batch_6/000013.JPG",
+    "bytes": 1611973
+  },
+  {
+    "path": "TACO/data/batch_6/000014.JPG",
+    "bytes": 1645753
+  },
+  {
+    "path": "TACO/data/batch_6/000015.JPG",
+    "bytes": 428222
+  },
+  {
+    "path": "TACO/data/batch_6/000017.JPG",
+    "bytes": 480933
+  },
+  {
+    "path": "TACO/data/batch_6/000018.JPG",
+    "bytes": 888145
+  },
+  {
+    "path": "TACO/data/batch_6/000019.JPG",
+    "bytes": 1715185
+  },
+  {
+    "path": "TACO/data/batch_6/000020.JPG",
+    "bytes": 1369906
+  },
+  {
+    "path": "TACO/data/batch_6/000021.JPG",
+    "bytes": 355290
+  },
+  {
+    "path": "TACO/data/batch_6/000022.JPG",
+    "bytes": 636240
+  },
+  {
+    "path": "TACO/data/batch_6/000023.JPG",
+    "bytes": 708469
+  },
+  {
+    "path": "TACO/data/batch_6/000024.JPG",
+    "bytes": 576414
+  },
+  {
+    "path": "TACO/data/batch_6/000025.JPG",
+    "bytes": 503257
+  },
+  {
+    "path": "TACO/data/batch_6/000026.JPG",
+    "bytes": 1667978
+  },
+  {
+    "path": "TACO/data/batch_6/000027.JPG",
+    "bytes": 1244702
+  },
+  {
+    "path": "TACO/data/batch_6/000028.JPG",
+    "bytes": 1626489
+  },
+  {
+    "path": "TACO/data/batch_6/000029.JPG",
+    "bytes": 1159703
+  },
+  {
+    "path": "TACO/data/batch_6/000031.JPG",
+    "bytes": 1795820
+  },
+  {
+    "path": "TACO/data/batch_6/000032.JPG",
+    "bytes": 916404
+  },
+  {
+    "path": "TACO/data/batch_6/000033.JPG",
+    "bytes": 461210
+  },
+  {
+    "path": "TACO/data/batch_6/000034.JPG",
+    "bytes": 1539269
+  },
+  {
+    "path": "TACO/data/batch_6/000035.JPG",
+    "bytes": 393319
+  },
+  {
+    "path": "TACO/data/batch_6/000036.JPG",
+    "bytes": 733392
+  },
+  {
+    "path": "TACO/data/batch_6/000037.JPG",
+    "bytes": 1050961
+  },
+  {
+    "path": "TACO/data/batch_6/000038.JPG",
+    "bytes": 922199
+  },
+  {
+    "path": "TACO/data/batch_6/000039.JPG",
+    "bytes": 480467
+  },
+  {
+    "path": "TACO/data/batch_6/000040.JPG",
+    "bytes": 1304169
+  },
+  {
+    "path": "TACO/data/batch_6/000041.JPG",
+    "bytes": 438153
+  },
+  {
+    "path": "TACO/data/batch_6/000042.JPG",
+    "bytes": 727817
+  },
+  {
+    "path": "TACO/data/batch_6/000043.JPG",
+    "bytes": 1322658
+  },
+  {
+    "path": "TACO/data/batch_6/000045.JPG",
+    "bytes": 2108755
+  },
+  {
+    "path": "TACO/data/batch_6/000046.JPG",
+    "bytes": 1375697
+  },
+  {
+    "path": "TACO/data/batch_6/000047.JPG",
+    "bytes": 1668541
+  },
+  {
+    "path": "TACO/data/batch_6/000048.JPG",
+    "bytes": 833505
+  },
+  {
+    "path": "TACO/data/batch_6/000049.JPG",
+    "bytes": 1466331
+  },
+  {
+    "path": "TACO/data/batch_6/000050.JPG",
+    "bytes": 1019586
+  },
+  {
+    "path": "TACO/data/batch_6/000051.JPG",
+    "bytes": 1954981
+  },
+  {
+    "path": "TACO/data/batch_6/000052.JPG",
+    "bytes": 1587641
+  },
+  {
+    "path": "TACO/data/batch_6/000053.JPG",
+    "bytes": 1199750
+  },
+  {
+    "path": "TACO/data/batch_6/000054.JPG",
+    "bytes": 718128
+  },
+  {
+    "path": "TACO/data/batch_6/000055.JPG",
+    "bytes": 1888783
+  },
+  {
+    "path": "TACO/data/batch_6/000056.JPG",
+    "bytes": 491166
+  },
+  {
+    "path": "TACO/data/batch_6/000057.JPG",
+    "bytes": 724114
+  },
+  {
+    "path": "TACO/data/batch_6/000058.JPG",
+    "bytes": 395045
+  },
+  {
+    "path": "TACO/data/batch_6/000059.JPG",
+    "bytes": 402853
+  },
+  {
+    "path": "TACO/data/batch_6/000060.JPG",
+    "bytes": 400244
+  },
+  {
+    "path": "TACO/data/batch_6/000061.JPG",
+    "bytes": 927741
+  },
+  {
+    "path": "TACO/data/batch_6/000062.JPG",
+    "bytes": 1319113
+  },
+  {
+    "path": "TACO/data/batch_6/000063.JPG",
+    "bytes": 819271
+  },
+  {
+    "path": "TACO/data/batch_6/000064.JPG",
+    "bytes": 1014915
+  },
+  {
+    "path": "TACO/data/batch_6/000065.JPG",
+    "bytes": 495168
+  },
+  {
+    "path": "TACO/data/batch_6/000066.JPG",
+    "bytes": 1801164
+  },
+  {
+    "path": "TACO/data/batch_6/000068.JPG",
+    "bytes": 1715066
+  },
+  {
+    "path": "TACO/data/batch_6/000069.JPG",
+    "bytes": 1935913
+  },
+  {
+    "path": "TACO/data/batch_6/000070.JPG",
+    "bytes": 601556
+  },
+  {
+    "path": "TACO/data/batch_6/000071.JPG",
+    "bytes": 1937452
+  },
+  {
+    "path": "TACO/data/batch_6/000072.JPG",
+    "bytes": 1459883
+  },
+  {
+    "path": "TACO/data/batch_6/000073.JPG",
+    "bytes": 2042674
+  },
+  {
+    "path": "TACO/data/batch_6/000074.JPG",
+    "bytes": 525907
+  },
+  {
+    "path": "TACO/data/batch_6/000075.JPG",
+    "bytes": 496442
+  },
+  {
+    "path": "TACO/data/batch_6/000076.JPG",
+    "bytes": 292161
+  },
+  {
+    "path": "TACO/data/batch_6/000077.JPG",
+    "bytes": 1471766
+  },
+  {
+    "path": "TACO/data/batch_6/000078.JPG",
+    "bytes": 1114802
+  },
+  {
+    "path": "TACO/data/batch_6/000079.JPG",
+    "bytes": 1763502
+  },
+  {
+    "path": "TACO/data/batch_6/000080.JPG",
+    "bytes": 1236617
+  },
+  {
+    "path": "TACO/data/batch_6/000082.JPG",
+    "bytes": 1448840
+  },
+  {
+    "path": "TACO/data/batch_6/000083.JPG",
+    "bytes": 932533
+  },
+  {
+    "path": "TACO/data/batch_6/000085.JPG",
+    "bytes": 374246
+  },
+  {
+    "path": "TACO/data/batch_6/000086.JPG",
+    "bytes": 662728
+  },
+  {
+    "path": "TACO/data/batch_6/000087.JPG",
+    "bytes": 909075
+  },
+  {
+    "path": "TACO/data/batch_6/000088.JPG",
+    "bytes": 919721
+  },
+  {
+    "path": "TACO/data/batch_6/000089.JPG",
+    "bytes": 1693409
+  },
+  {
+    "path": "TACO/data/batch_6/000090.JPG",
+    "bytes": 1381737
+  },
+  {
+    "path": "TACO/data/batch_6/000091.JPG",
+    "bytes": 1460274
+  },
+  {
+    "path": "TACO/data/batch_6/000092.JPG",
+    "bytes": 1181194
+  },
+  {
+    "path": "TACO/data/batch_6/000093.JPG",
+    "bytes": 485825
+  },
+  {
+    "path": "TACO/data/batch_6/000094.JPG",
+    "bytes": 1970495
+  },
+  {
+    "path": "TACO/data/batch_6/000095.JPG",
+    "bytes": 411649
+  },
+  {
+    "path": "TACO/data/batch_6/000096.JPG",
+    "bytes": 743059
+  },
+  {
+    "path": "TACO/data/batch_6/000097.JPG",
+    "bytes": 1220418
+  },
+  {
+    "path": "TACO/data/batch_6/000098.JPG",
+    "bytes": 1464969
+  },
+  {
+    "path": "TACO/data/batch_6/000099.JPG",
+    "bytes": 717638
+  },
+  {
+    "path": "TACO/data/batch_6/000100.JPG",
+    "bytes": 2028831
+  },
+  {
+    "path": "TACO/data/batch_6/000101.JPG",
+    "bytes": 824812
+  },
+  {
+    "path": "TACO/data/batch_6/000102.JPG",
+    "bytes": 2197900
+  },
+  {
+    "path": "TACO/data/batch_6/000103.JPG",
+    "bytes": 775674
+  },
+  {
+    "path": "TACO/data/batch_6/000104.JPG",
+    "bytes": 458635
+  },
+  {
+    "path": "TACO/data/batch_6/annotations.json",
+    "bytes": 230250
+  },
+  {
+    "path": "TACO/data/batch_7/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_7/000000.JPG",
+    "bytes": 4959241
+  },
+  {
+    "path": "TACO/data/batch_7/000001.JPG",
+    "bytes": 4723335
+  },
+  {
+    "path": "TACO/data/batch_7/000002.JPG",
+    "bytes": 3968253
+  },
+  {
+    "path": "TACO/data/batch_7/000003.JPG",
+    "bytes": 3978918
+  },
+  {
+    "path": "TACO/data/batch_7/000004.JPG",
+    "bytes": 4299382
+  },
+  {
+    "path": "TACO/data/batch_7/000005.JPG",
+    "bytes": 5904292
+  },
+  {
+    "path": "TACO/data/batch_7/000006.JPG",
+    "bytes": 5333170
+  },
+  {
+    "path": "TACO/data/batch_7/000008.JPG",
+    "bytes": 2830623
+  },
+  {
+    "path": "TACO/data/batch_7/000010.JPG",
+    "bytes": 2756418
+  },
+  {
+    "path": "TACO/data/batch_7/000011.JPG",
+    "bytes": 2015626
+  },
+  {
+    "path": "TACO/data/batch_7/000012.JPG",
+    "bytes": 3831735
+  },
+  {
+    "path": "TACO/data/batch_7/000013.JPG",
+    "bytes": 1488054
+  },
+  {
+    "path": "TACO/data/batch_7/000014.JPG",
+    "bytes": 1483717
+  },
+  {
+    "path": "TACO/data/batch_7/000015.JPG",
+    "bytes": 959725
+  },
+  {
+    "path": "TACO/data/batch_7/000016.JPG",
+    "bytes": 1391212
+  },
+  {
+    "path": "TACO/data/batch_7/000017.JPG",
+    "bytes": 1700764
+  },
+  {
+    "path": "TACO/data/batch_7/000018.JPG",
+    "bytes": 1934557
+  },
+  {
+    "path": "TACO/data/batch_7/000019.JPG",
+    "bytes": 1826684
+  },
+  {
+    "path": "TACO/data/batch_7/000020.JPG",
+    "bytes": 1646311
+  },
+  {
+    "path": "TACO/data/batch_7/000021.JPG",
+    "bytes": 1689920
+  },
+  {
+    "path": "TACO/data/batch_7/000022.JPG",
+    "bytes": 1669365
+  },
+  {
+    "path": "TACO/data/batch_7/000023.JPG",
+    "bytes": 2490332
+  },
+  {
+    "path": "TACO/data/batch_7/000024.JPG",
+    "bytes": 2312588
+  },
+  {
+    "path": "TACO/data/batch_7/000025.JPG",
+    "bytes": 2899682
+  },
+  {
+    "path": "TACO/data/batch_7/000029.JPG",
+    "bytes": 690867
+  },
+  {
+    "path": "TACO/data/batch_7/000030.JPG",
+    "bytes": 154101
+  },
+  {
+    "path": "TACO/data/batch_7/000031.JPG",
+    "bytes": 483607
+  },
+  {
+    "path": "TACO/data/batch_7/000033.JPG",
+    "bytes": 566012
+  },
+  {
+    "path": "TACO/data/batch_7/000034.JPG",
+    "bytes": 685830
+  },
+  {
+    "path": "TACO/data/batch_7/000035.JPG",
+    "bytes": 1915859
+  },
+  {
+    "path": "TACO/data/batch_7/000036.JPG",
+    "bytes": 1080464
+  },
+  {
+    "path": "TACO/data/batch_7/000037.JPG",
+    "bytes": 1387876
+  },
+  {
+    "path": "TACO/data/batch_7/000038.JPG",
+    "bytes": 1559994
+  },
+  {
+    "path": "TACO/data/batch_7/000039.JPG",
+    "bytes": 1345287
+  },
+  {
+    "path": "TACO/data/batch_7/000042.JPG",
+    "bytes": 1101741
+  },
+  {
+    "path": "TACO/data/batch_7/000043.JPG",
+    "bytes": 1694780
+  },
+  {
+    "path": "TACO/data/batch_7/000044.JPG",
+    "bytes": 1765225
+  },
+  {
+    "path": "TACO/data/batch_7/000045.JPG",
+    "bytes": 1417136
+  },
+  {
+    "path": "TACO/data/batch_7/000047.JPG",
+    "bytes": 1286170
+  },
+  {
+    "path": "TACO/data/batch_7/000048.JPG",
+    "bytes": 1862689
+  },
+  {
+    "path": "TACO/data/batch_7/000049.JPG",
+    "bytes": 2469327
+  },
+  {
+    "path": "TACO/data/batch_7/000050.JPG",
+    "bytes": 1819952
+  },
+  {
+    "path": "TACO/data/batch_7/000051.JPG",
+    "bytes": 1319565
+  },
+  {
+    "path": "TACO/data/batch_7/000052.JPG",
+    "bytes": 1864155
+  },
+  {
+    "path": "TACO/data/batch_7/000053.JPG",
+    "bytes": 1798744
+  },
+  {
+    "path": "TACO/data/batch_7/000054.JPG",
+    "bytes": 1042581
+  },
+  {
+    "path": "TACO/data/batch_7/000055.JPG",
+    "bytes": 1276176
+  },
+  {
+    "path": "TACO/data/batch_7/000056.JPG",
+    "bytes": 1133386
+  },
+  {
+    "path": "TACO/data/batch_7/000057.JPG",
+    "bytes": 1776863
+  },
+  {
+    "path": "TACO/data/batch_7/000058.JPG",
+    "bytes": 1846069
+  },
+  {
+    "path": "TACO/data/batch_7/000060.JPG",
+    "bytes": 2059966
+  },
+  {
+    "path": "TACO/data/batch_7/000062.JPG",
+    "bytes": 2038740
+  },
+  {
+    "path": "TACO/data/batch_7/000063.JPG",
+    "bytes": 1594594
+  },
+  {
+    "path": "TACO/data/batch_7/000064.JPG",
+    "bytes": 2780351
+  },
+  {
+    "path": "TACO/data/batch_7/000065.JPG",
+    "bytes": 1992249
+  },
+  {
+    "path": "TACO/data/batch_7/000066.JPG",
+    "bytes": 1799532
+  },
+  {
+    "path": "TACO/data/batch_7/000067.JPG",
+    "bytes": 1439279
+  },
+  {
+    "path": "TACO/data/batch_7/000068.JPG",
+    "bytes": 2702406
+  },
+  {
+    "path": "TACO/data/batch_7/000069.JPG",
+    "bytes": 1821646
+  },
+  {
+    "path": "TACO/data/batch_7/000070.JPG",
+    "bytes": 2213084
+  },
+  {
+    "path": "TACO/data/batch_7/000071.JPG",
+    "bytes": 2251488
+  },
+  {
+    "path": "TACO/data/batch_7/000072.JPG",
+    "bytes": 670347
+  },
+  {
+    "path": "TACO/data/batch_7/000073.JPG",
+    "bytes": 2345720
+  },
+  {
+    "path": "TACO/data/batch_7/000075.JPG",
+    "bytes": 2197631
+  },
+  {
+    "path": "TACO/data/batch_7/000076.JPG",
+    "bytes": 1520163
+  },
+  {
+    "path": "TACO/data/batch_7/000077.JPG",
+    "bytes": 1393914
+  },
+  {
+    "path": "TACO/data/batch_7/000078.JPG",
+    "bytes": 1421298
+  },
+  {
+    "path": "TACO/data/batch_7/000079.JPG",
+    "bytes": 1664529
+  },
+  {
+    "path": "TACO/data/batch_7/000080.JPG",
+    "bytes": 1820151
+  },
+  {
+    "path": "TACO/data/batch_7/000081.JPG",
+    "bytes": 1952514
+  },
+  {
+    "path": "TACO/data/batch_7/000082.JPG",
+    "bytes": 1387530
+  },
+  {
+    "path": "TACO/data/batch_7/000083.JPG",
+    "bytes": 1890791
+  },
+  {
+    "path": "TACO/data/batch_7/000084.JPG",
+    "bytes": 1068761
+  },
+  {
+    "path": "TACO/data/batch_7/000085.JPG",
+    "bytes": 1501485
+  },
+  {
+    "path": "TACO/data/batch_7/000086.JPG",
+    "bytes": 1586293
+  },
+  {
+    "path": "TACO/data/batch_7/000087.JPG",
+    "bytes": 1827183
+  },
+  {
+    "path": "TACO/data/batch_7/000088.JPG",
+    "bytes": 2018988
+  },
+  {
+    "path": "TACO/data/batch_7/000089.JPG",
+    "bytes": 1884425
+  },
+  {
+    "path": "TACO/data/batch_7/000090.JPG",
+    "bytes": 1505444
+  },
+  {
+    "path": "TACO/data/batch_7/000091.JPG",
+    "bytes": 1637339
+  },
+  {
+    "path": "TACO/data/batch_7/000092.JPG",
+    "bytes": 784969
+  },
+  {
+    "path": "TACO/data/batch_7/000093.JPG",
+    "bytes": 1538960
+  },
+  {
+    "path": "TACO/data/batch_7/000094.JPG",
+    "bytes": 2185025
+  },
+  {
+    "path": "TACO/data/batch_7/000095.JPG",
+    "bytes": 994721
+  },
+  {
+    "path": "TACO/data/batch_7/000096.JPG",
+    "bytes": 624631
+  },
+  {
+    "path": "TACO/data/batch_7/000097.JPG",
+    "bytes": 1629770
+  },
+  {
+    "path": "TACO/data/batch_7/000098.JPG",
+    "bytes": 2306458
+  },
+  {
+    "path": "TACO/data/batch_7/000100.JPG",
+    "bytes": 2285173
+  },
+  {
+    "path": "TACO/data/batch_7/000101.JPG",
+    "bytes": 2567015
+  },
+  {
+    "path": "TACO/data/batch_7/000102.JPG",
+    "bytes": 2290984
+  },
+  {
+    "path": "TACO/data/batch_7/000103.JPG",
+    "bytes": 2706653
+  },
+  {
+    "path": "TACO/data/batch_7/000104.JPG",
+    "bytes": 2698294
+  },
+  {
+    "path": "TACO/data/batch_7/000106.JPG",
+    "bytes": 2879189
+  },
+  {
+    "path": "TACO/data/batch_7/000107.JPG",
+    "bytes": 1595387
+  },
+  {
+    "path": "TACO/data/batch_7/000108.JPG",
+    "bytes": 1765339
+  },
+  {
+    "path": "TACO/data/batch_7/000109.JPG",
+    "bytes": 1600570
+  },
+  {
+    "path": "TACO/data/batch_7/000110.JPG",
+    "bytes": 1199716
+  },
+  {
+    "path": "TACO/data/batch_7/000111.JPG",
+    "bytes": 1596606
+  },
+  {
+    "path": "TACO/data/batch_7/000112.JPG",
+    "bytes": 1822497
+  },
+  {
+    "path": "TACO/data/batch_7/000113.JPG",
+    "bytes": 1812813
+  },
+  {
+    "path": "TACO/data/batch_7/000114.JPG",
+    "bytes": 1881174
+  },
+  {
+    "path": "TACO/data/batch_7/000115.JPG",
+    "bytes": 1879406
+  },
+  {
+    "path": "TACO/data/batch_7/000117.JPG",
+    "bytes": 1801663
+  },
+  {
+    "path": "TACO/data/batch_7/000118.JPG",
+    "bytes": 1561240
+  },
+  {
+    "path": "TACO/data/batch_7/000119.JPG",
+    "bytes": 1585644
+  },
+  {
+    "path": "TACO/data/batch_7/000120.JPG",
+    "bytes": 1495615
+  },
+  {
+    "path": "TACO/data/batch_7/000121.JPG",
+    "bytes": 2134144
+  },
+  {
+    "path": "TACO/data/batch_7/000122.JPG",
+    "bytes": 2158435
+  },
+  {
+    "path": "TACO/data/batch_7/000123.JPG",
+    "bytes": 1871035
+  },
+  {
+    "path": "TACO/data/batch_7/000124.JPG",
+    "bytes": 1767209
+  },
+  {
+    "path": "TACO/data/batch_7/000125.JPG",
+    "bytes": 1723737
+  },
+  {
+    "path": "TACO/data/batch_7/000126.JPG",
+    "bytes": 2242717
+  },
+  {
+    "path": "TACO/data/batch_7/000127.JPG",
+    "bytes": 1495887
+  },
+  {
+    "path": "TACO/data/batch_7/000128.JPG",
+    "bytes": 2366231
+  },
+  {
+    "path": "TACO/data/batch_7/000129.JPG",
+    "bytes": 2559742
+  },
+  {
+    "path": "TACO/data/batch_7/000131.JPG",
+    "bytes": 1585506
+  },
+  {
+    "path": "TACO/data/batch_7/000132.JPG",
+    "bytes": 2165770
+  },
+  {
+    "path": "TACO/data/batch_7/000133.JPG",
+    "bytes": 1806367
+  },
+  {
+    "path": "TACO/data/batch_7/000134.JPG",
+    "bytes": 2253059
+  },
+  {
+    "path": "TACO/data/batch_7/000135.JPG",
+    "bytes": 2427939
+  },
+  {
+    "path": "TACO/data/batch_7/000136.JPG",
+    "bytes": 2553525
+  },
+  {
+    "path": "TACO/data/batch_7/000137.JPG",
+    "bytes": 2703722
+  },
+  {
+    "path": "TACO/data/batch_7/000138.JPG",
+    "bytes": 2687987
+  },
+  {
+    "path": "TACO/data/batch_7/000139.JPG",
+    "bytes": 2873305
+  },
+  {
+    "path": "TACO/data/batch_7/000140.JPG",
+    "bytes": 2536477
+  },
+  {
+    "path": "TACO/data/batch_7/000141.JPG",
+    "bytes": 2602304
+  },
+  {
+    "path": "TACO/data/batch_7/000142.JPG",
+    "bytes": 1991967
+  },
+  {
+    "path": "TACO/data/batch_7/annotations.json",
+    "bytes": 277195
+  },
+  {
+    "path": "TACO/data/batch_8/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_8/000000.jpg",
+    "bytes": 1794709
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_8/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_8/._000000.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_8/000001.jpg",
+    "bytes": 1881375
+  },
+  {
+    "path": "TACO/data/batch_8/000002.jpg",
+    "bytes": 1617998
+  },
+  {
+    "path": "TACO/data/batch_8/000003.jpg",
+    "bytes": 1582758
+  },
+  {
+    "path": "TACO/data/batch_8/000004.jpg",
+    "bytes": 1226064
+  },
+  {
+    "path": "TACO/data/batch_8/000005.jpg",
+    "bytes": 4858084
+  },
+  {
+    "path": "TACO/data/batch_8/000006.jpg",
+    "bytes": 2081590
+  },
+  {
+    "path": "TACO/data/batch_8/000007.jpg",
+    "bytes": 771618
+  },
+  {
+    "path": "TACO/data/batch_8/000008.jpg",
+    "bytes": 1786405
+  },
+  {
+    "path": "TACO/data/batch_8/000009.jpg",
+    "bytes": 1353621
+  },
+  {
+    "path": "TACO/data/batch_8/000010.jpg",
+    "bytes": 2202404
+  },
+  {
+    "path": "TACO/data/batch_8/000011.jpg",
+    "bytes": 1181858
+  },
+  {
+    "path": "TACO/data/batch_8/000012.jpg",
+    "bytes": 1164009
+  },
+  {
+    "path": "TACO/data/batch_8/000013.jpg",
+    "bytes": 964349
+  },
+  {
+    "path": "TACO/data/batch_8/000014.jpg",
+    "bytes": 1336682
+  },
+  {
+    "path": "TACO/data/batch_8/000015.jpg",
+    "bytes": 1624345
+  },
+  {
+    "path": "TACO/data/batch_8/000016.jpg",
+    "bytes": 1517344
+  },
+  {
+    "path": "TACO/data/batch_8/000017.jpg",
+    "bytes": 1001664
+  },
+  {
+    "path": "TACO/data/batch_8/000018.jpg",
+    "bytes": 1440590
+  },
+  {
+    "path": "TACO/data/batch_8/000019.jpg",
+    "bytes": 1869277
+  },
+  {
+    "path": "TACO/data/batch_8/000020.jpg",
+    "bytes": 1605242
+  },
+  {
+    "path": "TACO/data/batch_8/000021.jpg",
+    "bytes": 1598181
+  },
+  {
+    "path": "TACO/data/batch_8/000022.jpg",
+    "bytes": 1112069
+  },
+  {
+    "path": "TACO/data/batch_8/000023.jpg",
+    "bytes": 956428
+  },
+  {
+    "path": "TACO/data/batch_8/000024.jpg",
+    "bytes": 1816884
+  },
+  {
+    "path": "TACO/data/batch_8/000025.jpg",
+    "bytes": 2127243
+  },
+  {
+    "path": "TACO/data/batch_8/000026.jpg",
+    "bytes": 1210762
+  },
+  {
+    "path": "TACO/data/batch_8/000027.jpg",
+    "bytes": 1648681
+  },
+  {
+    "path": "TACO/data/batch_8/000028.jpg",
+    "bytes": 1927122
+  },
+  {
+    "path": "TACO/data/batch_8/000029.jpg",
+    "bytes": 1291445
+  },
+  {
+    "path": "TACO/data/batch_8/000030.jpg",
+    "bytes": 2470926
+  },
+  {
+    "path": "TACO/data/batch_8/000031.jpg",
+    "bytes": 1589077
+  },
+  {
+    "path": "TACO/data/batch_8/000032.jpg",
+    "bytes": 1989119
+  },
+  {
+    "path": "TACO/data/batch_8/000033.jpg",
+    "bytes": 1576754
+  },
+  {
+    "path": "TACO/data/batch_8/000034.jpg",
+    "bytes": 1462135
+  },
+  {
+    "path": "TACO/data/batch_8/000035.jpg",
+    "bytes": 2374429
+  },
+  {
+    "path": "TACO/data/batch_8/000036.jpg",
+    "bytes": 1881037
+  },
+  {
+    "path": "TACO/data/batch_8/000037.jpg",
+    "bytes": 2193754
+  },
+  {
+    "path": "TACO/data/batch_8/000038.jpg",
+    "bytes": 2610920
+  },
+  {
+    "path": "TACO/data/batch_8/000039.jpg",
+    "bytes": 2029253
+  },
+  {
+    "path": "TACO/data/batch_8/000040.jpg",
+    "bytes": 2558326
+  },
+  {
+    "path": "TACO/data/batch_8/000041.jpg",
+    "bytes": 2344580
+  },
+  {
+    "path": "TACO/data/batch_8/000042.jpg",
+    "bytes": 2224280
+  },
+  {
+    "path": "TACO/data/batch_8/000043.jpg",
+    "bytes": 1940176
+  },
+  {
+    "path": "TACO/data/batch_8/000044.jpg",
+    "bytes": 1955394
+  },
+  {
+    "path": "TACO/data/batch_8/000045.jpg",
+    "bytes": 1333352
+  },
+  {
+    "path": "TACO/data/batch_8/000046.jpg",
+    "bytes": 1539580
+  },
+  {
+    "path": "TACO/data/batch_8/000047.jpg",
+    "bytes": 723105
+  },
+  {
+    "path": "TACO/data/batch_8/000048.jpg",
+    "bytes": 2090301
+  },
+  {
+    "path": "TACO/data/batch_8/000049.jpg",
+    "bytes": 1084339
+  },
+  {
+    "path": "TACO/data/batch_8/000050.jpg",
+    "bytes": 1415902
+  },
+  {
+    "path": "TACO/data/batch_8/000051.jpg",
+    "bytes": 2249755
+  },
+  {
+    "path": "TACO/data/batch_8/000052.jpg",
+    "bytes": 1381646
+  },
+  {
+    "path": "TACO/data/batch_8/000053.jpg",
+    "bytes": 1054874
+  },
+  {
+    "path": "TACO/data/batch_8/000054.jpg",
+    "bytes": 177562
+  },
+  {
+    "path": "TACO/data/batch_8/000055.jpg",
+    "bytes": 159286
+  },
+  {
+    "path": "TACO/data/batch_8/000056.jpg",
+    "bytes": 391187
+  },
+  {
+    "path": "TACO/data/batch_8/000057.jpg",
+    "bytes": 349343
+  },
+  {
+    "path": "TACO/data/batch_8/000058.jpg",
+    "bytes": 413477
+  },
+  {
+    "path": "TACO/data/batch_8/000059.jpg",
+    "bytes": 422751
+  },
+  {
+    "path": "TACO/data/batch_8/000060.jpg",
+    "bytes": 306731
+  },
+  {
+    "path": "TACO/data/batch_8/000061.jpg",
+    "bytes": 306069
+  },
+  {
+    "path": "TACO/data/batch_8/000062.jpg",
+    "bytes": 309621
+  },
+  {
+    "path": "TACO/data/batch_8/000063.jpg",
+    "bytes": 235956
+  },
+  {
+    "path": "TACO/data/batch_8/000064.jpg",
+    "bytes": 136148
+  },
+  {
+    "path": "TACO/data/batch_8/000065.jpg",
+    "bytes": 1715312
+  },
+  {
+    "path": "TACO/data/batch_8/000066.jpg",
+    "bytes": 2032790
+  },
+  {
+    "path": "TACO/data/batch_8/000067.jpg",
+    "bytes": 2298580
+  },
+  {
+    "path": "TACO/data/batch_8/000068.jpg",
+    "bytes": 1753701
+  },
+  {
+    "path": "TACO/data/batch_8/000069.jpg",
+    "bytes": 1864905
+  },
+  {
+    "path": "TACO/data/batch_8/000070.jpg",
+    "bytes": 2544144
+  },
+  {
+    "path": "TACO/data/batch_8/000071.jpg",
+    "bytes": 1304398
+  },
+  {
+    "path": "TACO/data/batch_8/000072.jpg",
+    "bytes": 1184385
+  },
+  {
+    "path": "TACO/data/batch_8/000073.jpg",
+    "bytes": 962173
+  },
+  {
+    "path": "TACO/data/batch_8/000074.jpg",
+    "bytes": 2044848
+  },
+  {
+    "path": "TACO/data/batch_8/000075.jpg",
+    "bytes": 1929572
+  },
+  {
+    "path": "TACO/data/batch_8/000076.jpg",
+    "bytes": 2204769
+  },
+  {
+    "path": "TACO/data/batch_8/000077.jpg",
+    "bytes": 2236144
+  },
+  {
+    "path": "TACO/data/batch_8/000078.jpg",
+    "bytes": 2076241
+  },
+  {
+    "path": "TACO/data/batch_8/000079.jpg",
+    "bytes": 1106796
+  },
+  {
+    "path": "TACO/data/batch_8/000080.jpg",
+    "bytes": 1450670
+  },
+  {
+    "path": "TACO/data/batch_8/000081.jpg",
+    "bytes": 1615099
+  },
+  {
+    "path": "TACO/data/batch_8/000082.jpg",
+    "bytes": 1478614
+  },
+  {
+    "path": "TACO/data/batch_8/000083.jpg",
+    "bytes": 2154316
+  },
+  {
+    "path": "TACO/data/batch_8/000084.jpg",
+    "bytes": 1808420
+  },
+  {
+    "path": "TACO/data/batch_8/000085.jpg",
+    "bytes": 1793201
+  },
+  {
+    "path": "TACO/data/batch_8/000086.jpg",
+    "bytes": 2353247
+  },
+  {
+    "path": "TACO/data/batch_8/000087.jpg",
+    "bytes": 942847
+  },
+  {
+    "path": "TACO/data/batch_8/000088.jpg",
+    "bytes": 1826469
+  },
+  {
+    "path": "TACO/data/batch_8/000089.jpg",
+    "bytes": 1983057
+  },
+  {
+    "path": "TACO/data/batch_8/000090.jpg",
+    "bytes": 2011899
+  },
+  {
+    "path": "TACO/data/batch_8/000091.jpg",
+    "bytes": 1183239
+  },
+  {
+    "path": "TACO/data/batch_8/000092.jpg",
+    "bytes": 2178852
+  },
+  {
+    "path": "TACO/data/batch_8/000093.jpg",
+    "bytes": 1871138
+  },
+  {
+    "path": "TACO/data/batch_8/000094.jpg",
+    "bytes": 2154326
+  },
+  {
+    "path": "TACO/data/batch_8/000095.jpg",
+    "bytes": 1356204
+  },
+  {
+    "path": "TACO/data/batch_8/000096.jpg",
+    "bytes": 1400314
+  },
+  {
+    "path": "TACO/data/batch_8/000097.jpg",
+    "bytes": 2161006
+  },
+  {
+    "path": "TACO/data/batch_8/000098.jpg",
+    "bytes": 1701496
+  },
+  {
+    "path": "TACO/data/batch_8/000099.jpg",
+    "bytes": 1725814
+  },
+  {
+    "path": "TACO/data/batch_8/annotations.json",
+    "bytes": 158383
+  },
+  {
+    "path": "TACO/data/batch_9/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/data/batch_9/000000.jpg",
+    "bytes": 1666805
+  },
+  {
+    "path": "TACO/data/batch_9/000001.jpg",
+    "bytes": 1651654
+  },
+  {
+    "path": "TACO/data/batch_9/000002.jpg",
+    "bytes": 1532059
+  },
+  {
+    "path": "TACO/data/batch_9/000003.jpg",
+    "bytes": 2498879
+  },
+  {
+    "path": "TACO/data/batch_9/000004.jpg",
+    "bytes": 2476356
+  },
+  {
+    "path": "TACO/data/batch_9/000005.jpg",
+    "bytes": 1996480
+  },
+  {
+    "path": "TACO/data/batch_9/000006.jpg",
+    "bytes": 1933288
+  },
+  {
+    "path": "TACO/data/batch_9/000007.jpg",
+    "bytes": 2020599
+  },
+  {
+    "path": "TACO/data/batch_9/000008.jpg",
+    "bytes": 1751109
+  },
+  {
+    "path": "TACO/data/batch_9/000009.jpg",
+    "bytes": 1656890
+  },
+  {
+    "path": "TACO/data/batch_9/000010.jpg",
+    "bytes": 2343100
+  },
+  {
+    "path": "TACO/data/batch_9/000011.jpg",
+    "bytes": 2256272
+  },
+  {
+    "path": "TACO/data/batch_9/000012.jpg",
+    "bytes": 2175985
+  },
+  {
+    "path": "TACO/data/batch_9/000013.jpg",
+    "bytes": 1861715
+  },
+  {
+    "path": "TACO/data/batch_9/000014.jpg",
+    "bytes": 1557289
+  },
+  {
+    "path": "TACO/data/batch_9/000015.jpg",
+    "bytes": 1263856
+  },
+  {
+    "path": "TACO/data/batch_9/000016.jpg",
+    "bytes": 1532023
+  },
+  {
+    "path": "TACO/data/batch_9/000017.jpg",
+    "bytes": 1290926
+  },
+  {
+    "path": "TACO/data/batch_9/000018.jpg",
+    "bytes": 1035291
+  },
+  {
+    "path": "TACO/data/batch_9/000019.jpg",
+    "bytes": 1710721
+  },
+  {
+    "path": "TACO/data/batch_9/000020.jpg",
+    "bytes": 1049056
+  },
+  {
+    "path": "TACO/data/batch_9/000021.jpg",
+    "bytes": 1165989
+  },
+  {
+    "path": "TACO/data/batch_9/000022.jpg",
+    "bytes": 1576414
+  },
+  {
+    "path": "TACO/data/batch_9/000023.jpg",
+    "bytes": 2011744
+  },
+  {
+    "path": "TACO/data/batch_9/000024.jpg",
+    "bytes": 1431802
+  },
+  {
+    "path": "TACO/data/batch_9/000025.jpg",
+    "bytes": 1486144
+  },
+  {
+    "path": "TACO/data/batch_9/000026.jpg",
+    "bytes": 2166065
+  },
+  {
+    "path": "TACO/data/batch_9/000027.jpg",
+    "bytes": 2302823
+  },
+  {
+    "path": "TACO/data/batch_9/000028.jpg",
+    "bytes": 2312095
+  },
+  {
+    "path": "TACO/data/batch_9/000029.jpg",
+    "bytes": 2203172
+  },
+  {
+    "path": "TACO/data/batch_9/000030.jpg",
+    "bytes": 1646263
+  },
+  {
+    "path": "TACO/data/batch_9/000031.jpg",
+    "bytes": 2514937
+  },
+  {
+    "path": "TACO/data/batch_9/000032.jpg",
+    "bytes": 1915902
+  },
+  {
+    "path": "TACO/data/batch_9/000033.jpg",
+    "bytes": 2446496
+  },
+  {
+    "path": "TACO/data/batch_9/000034.jpg",
+    "bytes": 2151257
+  },
+  {
+    "path": "TACO/data/batch_9/000035.jpg",
+    "bytes": 2487704
+  },
+  {
+    "path": "TACO/data/batch_9/000036.jpg",
+    "bytes": 1742088
+  },
+  {
+    "path": "TACO/data/batch_9/000037.jpg",
+    "bytes": 2400358
+  },
+  {
+    "path": "TACO/data/batch_9/000038.jpg",
+    "bytes": 2252778
+  },
+  {
+    "path": "TACO/data/batch_9/000039.jpg",
+    "bytes": 2242437
+  },
+  {
+    "path": "TACO/data/batch_9/000040.jpg",
+    "bytes": 1973167
+  },
+  {
+    "path": "TACO/data/batch_9/000041.jpg",
+    "bytes": 1611046
+  },
+  {
+    "path": "TACO/data/batch_9/000042.jpg",
+    "bytes": 2085989
+  },
+  {
+    "path": "TACO/data/batch_9/000043.jpg",
+    "bytes": 1972241
+  },
+  {
+    "path": "TACO/data/batch_9/000044.jpg",
+    "bytes": 2000607
+  },
+  {
+    "path": "TACO/data/batch_9/000045.jpg",
+    "bytes": 1839499
+  },
+  {
+    "path": "TACO/data/batch_9/000046.jpg",
+    "bytes": 2135873
+  },
+  {
+    "path": "TACO/data/batch_9/000047.jpg",
+    "bytes": 2273721
+  },
+  {
+    "path": "TACO/data/batch_9/000048.jpg",
+    "bytes": 1293918
+  },
+  {
+    "path": "TACO/data/batch_9/000049.jpg",
+    "bytes": 638679
+  },
+  {
+    "path": "TACO/data/batch_9/000050.jpg",
+    "bytes": 2087737
+  },
+  {
+    "path": "TACO/data/batch_9/000051.jpg",
+    "bytes": 1668561
+  },
+  {
+    "path": "TACO/data/batch_9/000052.jpg",
+    "bytes": 1744292
+  },
+  {
+    "path": "TACO/data/batch_9/000053.jpg",
+    "bytes": 1820305
+  },
+  {
+    "path": "TACO/data/batch_9/000054.jpg",
+    "bytes": 2473732
+  },
+  {
+    "path": "TACO/data/batch_9/000055.jpg",
+    "bytes": 1623624
+  },
+  {
+    "path": "TACO/data/batch_9/000056.jpg",
+    "bytes": 1672285
+  },
+  {
+    "path": "TACO/data/batch_9/000057.jpg",
+    "bytes": 2830491
+  },
+  {
+    "path": "TACO/data/batch_9/000058.jpg",
+    "bytes": 2106780
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_9/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_9/._000058.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_9/000059.jpg",
+    "bytes": 1582123
+  },
+  {
+    "path": "TACO/data/batch_9/000060.jpg",
+    "bytes": 1396111
+  },
+  {
+    "path": "TACO/data/batch_9/000061.jpg",
+    "bytes": 1547930
+  },
+  {
+    "path": "TACO/data/batch_9/000062.jpg",
+    "bytes": 1588209
+  },
+  {
+    "path": "TACO/data/batch_9/000063.jpg",
+    "bytes": 1640572
+  },
+  {
+    "path": "TACO/data/batch_9/000064.jpg",
+    "bytes": 571479
+  },
+  {
+    "path": "TACO/data/batch_9/000065.jpg",
+    "bytes": 1597340
+  },
+  {
+    "path": "TACO/data/batch_9/000066.jpg",
+    "bytes": 1307042
+  },
+  {
+    "path": "TACO/data/batch_9/000067.jpg",
+    "bytes": 1147234
+  },
+  {
+    "path": "TACO/data/batch_9/000068.jpg",
+    "bytes": 1972180
+  },
+  {
+    "path": "TACO/data/batch_9/000069.jpg",
+    "bytes": 2133392
+  },
+  {
+    "path": "TACO/data/batch_9/000070.jpg",
+    "bytes": 2376511
+  },
+  {
+    "path": "TACO/data/batch_9/000071.jpg",
+    "bytes": 2246738
+  },
+  {
+    "path": "TACO/data/batch_9/000072.jpg",
+    "bytes": 2092479
+  },
+  {
+    "path": "TACO/data/batch_9/000073.jpg",
+    "bytes": 2251303
+  },
+  {
+    "path": "TACO/data/batch_9/000074.jpg",
+    "bytes": 2541139
+  },
+  {
+    "path": "TACO/data/batch_9/000075.jpg",
+    "bytes": 2438632
+  },
+  {
+    "path": "TACO/data/batch_9/000076.jpg",
+    "bytes": 1901830
+  },
+  {
+    "path": "TACO/data/batch_9/000077.jpg",
+    "bytes": 1845088
+  },
+  {
+    "path": "TACO/data/batch_9/000078.jpg",
+    "bytes": 1130447
+  },
+  {
+    "path": "TACO/data/batch_9/000079.jpg",
+    "bytes": 1482805
+  },
+  {
+    "path": "TACO/data/batch_9/000080.jpg",
+    "bytes": 1182624
+  },
+  {
+    "path": "TACO/data/batch_9/000081.jpg",
+    "bytes": 1716009
+  },
+  {
+    "path": "TACO/data/batch_9/000082.jpg",
+    "bytes": 1077703
+  },
+  {
+    "path": "TACO/data/batch_9/000083.jpg",
+    "bytes": 2239250
+  },
+  {
+    "path": "TACO/data/batch_9/000084.jpg",
+    "bytes": 2124500
+  },
+  {
+    "path": "TACO/data/batch_9/000085.jpg",
+    "bytes": 1860497
+  },
+  {
+    "path": "TACO/data/batch_9/000086.jpg",
+    "bytes": 1366275
+  },
+  {
+    "path": "TACO/data/batch_9/000087.jpg",
+    "bytes": 1821433
+  },
+  {
+    "path": "TACO/data/batch_9/000088.jpg",
+    "bytes": 1610072
+  },
+  {
+    "path": "TACO/data/batch_9/000089.jpg",
+    "bytes": 2223520
+  },
+  {
+    "path": "TACO/data/batch_9/000090.jpg",
+    "bytes": 1968972
+  },
+  {
+    "path": "TACO/data/batch_9/000091.jpg",
+    "bytes": 1973225
+  },
+  {
+    "path": "TACO/data/batch_9/000092.jpg",
+    "bytes": 2108000
+  },
+  {
+    "path": "TACO/data/batch_9/000093.jpg",
+    "bytes": 2121500
+  },
+  {
+    "path": "TACO/data/batch_9/000094.jpg",
+    "bytes": 1897411
+  },
+  {
+    "path": "TACO/data/batch_9/000095.jpg",
+    "bytes": 1769661
+  },
+  {
+    "path": "TACO/data/batch_9/000096.jpg",
+    "bytes": 2397914
+  },
+  {
+    "path": "TACO/data/batch_9/000097.jpg",
+    "bytes": 2256127
+  },
+  {
+    "path": "TACO/data/batch_9/000098.jpg",
+    "bytes": 1013113
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_9/._000098.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_9/000099.jpg",
+    "bytes": 2140519
+  },
+  {
+    "path": "__MACOSX/TACO/data/batch_9/._000099.jpg",
+    "bytes": 177
+  },
+  {
+    "path": "TACO/data/batch_9/annotations.json",
+    "bytes": 133149
+  },
+  {
+    "path": "__MACOSX/TACO/data/._batch_9",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/demo.ipynb",
+    "bytes": 18824739
+  },
+  {
+    "path": "TACO/detector/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/detector/.DS_Store",
+    "bytes": 8196
+  },
+  {
+    "path": "__MACOSX/TACO/detector/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/detector/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/detector/.ipynb_checkpoints/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/detector/.ipynb_checkpoints/inspect_data-checkpoint.ipynb",
+    "bytes": 15448436
+  },
+  {
+    "path": "TACO/detector/__pycache__/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/detector/__pycache__/dataset.cpython-36.pyc",
+    "bytes": 5975
+  },
+  {
+    "path": "TACO/detector/__pycache__/model.cpython-36.pyc",
+    "bytes": 76265
+  },
+  {
+    "path": "TACO/detector/__pycache__/utils.cpython-36.pyc",
+    "bytes": 27414
+  },
+  {
+    "path": "TACO/detector/__pycache__/visualize.cpython-36.pyc",
+    "bytes": 14899
+  },
+  {
+    "path": "TACO/detector/config.py",
+    "bytes": 8412
+  },
+  {
+    "path": "TACO/detector/dataset.py",
+    "bytes": 9618
+  },
+  {
+    "path": "TACO/detector/detector.py",
+    "bytes": 11895
+  },
+  {
+    "path": "TACO/detector/inspect_data.ipynb",
+    "bytes": 15448436
+  },
+  {
+    "path": "TACO/detector/model.py",
+    "bytes": 123388
+  },
+  {
+    "path": "TACO/detector/models/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/detector/models/.DS_Store",
+    "bytes": 6148
+  },
+  {
+    "path": "__MACOSX/TACO/detector/models/",
+    "bytes": 0
+  },
+  {
+    "path": "__MACOSX/TACO/detector/models/._.DS_Store",
+    "bytes": 120
+  },
+  {
+    "path": "TACO/detector/models/logs/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/detector/split_dataset.py",
+    "bytes": 3352
+  },
+  {
+    "path": "TACO/detector/taco_config/",
+    "bytes": 0
+  },
+  {
+    "path": "TACO/detector/taco_config/background_imgs",
+    "bytes": 31145
+  },
+  {
+    "path": "TACO/detector/taco_config/map_17.csv",
+    "bytes": 1480
+  },
+  {
+    "path": "TACO/detector/taco_config/map_2.csv",
+    "bytes": 1578
+  },
+  {
+    "path": "TACO/detector/taco_config/map_3.csv",
+    "bytes": 1699
+  },
+  {
+    "path": "TACO/detector/taco_config/map_4.csv",
+    "bytes": 1464
+  },
+  {
+    "path": "TACO/detector/utils.py",
+    "bytes": 34435
+  },
+  {
+    "path": "TACO/detector/visualize.py",
+    "bytes": 19056
+  },
+  {
+    "path": "TACO/download.py",
+    "bytes": 1662
+  },
+  {
+    "path": "TACO/LICENSE",
+    "bytes": 1074
+  },
+  {
+    "path": "TACO/README.md",
+    "bytes": 3383
+  },
+  {
+    "path": "TACO/requirements.txt",
+    "bytes": 71
+  }
+]

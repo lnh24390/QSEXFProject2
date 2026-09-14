@@ -1,0 +1,16 @@
+{
+  "bbox": {
+    "new_images_screened": 3229,
+    "evaluation_images_screened": 12362,
+    "quarantined_new_ids": [],
+    "candidate_matches": [],
+    "limitation": "Conservative perceptual candidate exclusion; not exhaustive semantic near-duplicate proof. Quarantine does not claim duplicate identity."
+  },
+  "seg": {
+    "new_images_screened": 307,
+    "evaluation_images_screened": 12363,
+    "quarantined_new_ids": [],
+    "candidate_matches": [],
+    "limitation": "Conservative perceptual candidate exclusion; not exhaustive semantic near-duplicate proof. Quarantine does not claim duplicate identity."
+  }
+}

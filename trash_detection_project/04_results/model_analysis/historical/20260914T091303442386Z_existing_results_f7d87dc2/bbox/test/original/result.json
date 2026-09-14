@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-14T09:13:03.453111+00:00",
+  "origin": "historical_import",
+  "task": "bbox",
+  "model": {
+    "name": "original",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\bbox_yolo26s_nobg_best.pt",
+    "sha256": "367f8fca466a1a4a1fda767f7fc3737f5d6decfb2127d87030f9c7ef03501d96"
+  },
+  "dataset": {
+    "split": "test",
+    "fingerprint": null,
+    "identity": "bbox_legacy_test",
+    "count": null
+  },
+  "settings": null,
+  "summary": {
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "metrics": {
+      "metrics/precision(B)": 0.8514375585181202,
+      "metrics/recall(B)": 0.7896762035537991,
+      "metrics/mAP50(B)": 0.8456443363970878,
+      "metrics/mAP50-95(B)": 0.7610661328221966,
+      "fitness": 0.7610661328221966
+    },
+    "speed_ms": {
+      "preprocess": 0.6314690563278123,
+      "inference": 5.511107242199033,
+      "loss": 0.0002682150360135513,
+      "postprocess": 0.5767148500442523
+    },
+    "box": {
+      "map": 0.7610661328221966,
+      "map50": 0.8456443363970878,
+      "precision": 0.8514375585181202,
+      "recall": 0.7896762035537991,
+      "per_class": {
+        "paper": {
+          "map": 0.8849724312173064,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "plastic": {
+          "map": 0.5527091742483349,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "can": {
+          "map": 0.8695450844615433,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "glass": {
+          "map": 0.6915562009849782,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "battery": {
+          "map": 0.7653516432637824,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "vinyl": {
+          "map": 0.7403899053277111,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        },
+        "general": {
+          "map": 0.8229384902517178,
+          "map50": null,
+          "precision": null,
+          "recall": null
+        }
+      }
+    }
+  },
+  "provenance": {
+    "report": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\reports\\bbox_final_comparison.json",
+    "report_sha256": "8d05b2c0f3fccec1bed65c4d3b3a3a812087e593f89cd5db7b343131c79f655d",
+    "field": "original_legacy_test"
+  },
+  "comparison_key": "276e7fc522058e1b4efc68c51a9d80023d86de1f08922f65c77e6cb66c40e6d7",
+  "limitations": [
+    "기존 저장 결과를 표준 형식으로 옮겼습니다. 새로 평가한 수치가 아닙니다.",
+    "과거 평가 당시의 전체 실행 조건과 데이터 내용 해시는 없어 새 평가와 자동 비교하지 않습니다.",
+    "검출·분할 테스트 구성은 다릅니다. 새 혼동 사례의 개선을 입증하지 않습니다.",
+    "과거 기록에 없는 클래스별 정밀도·재현율은 미기록으로 표시합니다."
+  ]
+}

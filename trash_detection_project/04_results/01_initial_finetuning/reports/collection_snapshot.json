@@ -1,0 +1,23 @@
+{
+  "household": {
+    "statuses": {
+      "source_bbox_validated": 535,
+      "held": 34
+    },
+    "train_source_bbox_validated": 462,
+    "downloaded": 0
+  },
+  "coins": {
+    "statuses": {
+      "downloaded_review_pending": 22,
+      "failed": 1
+    },
+    "train_source_bbox_validated": 0,
+    "downloaded": 22
+  },
+  "openimages": {
+    "train": 1044,
+    "validation": 121,
+    "test": 180
+  }
+}

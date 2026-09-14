@@ -1,0 +1,7 @@
+{
+  "same_name_and_shape_parameters": 4491266,
+  "target_parameters": 21783682,
+  "matching_parameter_tensors": 104,
+  "target_parameter_tensors": 396,
+  "note": "Shape compatibility only; not evidence that copying improves accuracy or speed. No weights were modified."
+}

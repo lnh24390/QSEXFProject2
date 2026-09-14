@@ -1,0 +1,17 @@
+﻿model,task,split,metric,class,precision,recall,map50,map50_95
+original,seg,val,box,all,0.890858397846837,0.8316629419425156,0.8992463233687703,0.8501998323976286
+original,seg,val,box,general,,,,0.8627605684999702
+original,seg,val,box,can,,,,0.9190080518344044
+original,seg,val,box,plastic,,,,0.8311911691939932
+original,seg,val,box,paper,,,,0.8535927279715688
+original,seg,val,box,glass,,,,0.9075369990786488
+original,seg,val,box,vinyl,,,,0.7615180035185776
+original,seg,val,box,battery,,,,0.8157913066862361
+original,seg,val,seg,all,0.8875582815237335,0.8282803501330874,0.8929274420729617,0.8054695440365036
+original,seg,val,seg,general,,,,0.7977184418775672
+original,seg,val,seg,can,,,,0.8911778395550508
+original,seg,val,seg,plastic,,,,0.7771047549550987
+original,seg,val,seg,paper,,,,0.821467377562467
+original,seg,val,seg,glass,,,,0.8713551124745834
+original,seg,val,seg,vinyl,,,,0.7133950461065994
+original,seg,val,seg,battery,,,,0.7660682357241584

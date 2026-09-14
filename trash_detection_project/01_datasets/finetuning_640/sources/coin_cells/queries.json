@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Button cells",
+    "http_status": 200
+  },
+  {
+    "category": "LR44 batteries",
+    "http_status": 200
+  },
+  {
+    "category": "LR41 batteries",
+    "http_status": 200
+  },
+  {
+    "category": "LR54 batteries",
+    "http_status": 200
+  },
+  {
+    "category": "CR2032 batteries",
+    "http_status": 200
+  }
+]

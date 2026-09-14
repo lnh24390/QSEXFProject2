@@ -1,0 +1,95 @@
+{
+  "per_class_images": 10000,
+  "unique_images": 59236,
+  "class_image_counts": {
+    "paper": 10000,
+    "plastic": 10000,
+    "can": 10000,
+    "glass": 10000,
+    "battery": 10000,
+    "vinyl": 10000,
+    "general": 10000
+  },
+  "split_images": {
+    "test": 1402,
+    "train": 50647,
+    "val": 7187
+  },
+  "split_class_images": {
+    "train": {
+      "0": 8013,
+      "1": 8010,
+      "3": 8285,
+      "5": 8039,
+      "2": 8015,
+      "4": 9660,
+      "6": 9234
+    },
+    "val": {
+      "3": 1477,
+      "5": 1472,
+      "0": 1491,
+      "1": 1491,
+      "2": 1485,
+      "4": 300,
+      "6": 740
+    },
+    "test": {
+      "0": 496,
+      "1": 499,
+      "2": 500,
+      "3": 238,
+      "4": 40,
+      "5": 489,
+      "6": 26
+    }
+  },
+  "multi_class_images": 8980,
+  "multiple_boxes_images": 18204,
+  "generated_augmentation_images": 6988,
+  "roboflow_export_images": 6197,
+  "source_families": {
+    "s1:reusable7": 11669,
+    "s1:roboflow12": 794,
+    "s1:datasets6": 255,
+    "s2:provided_json_annotation": 26009,
+    "s3:provided_coco_bbox": 825,
+    "roboflow_battery_export": 6197,
+    "s1:auto6": 1597,
+    "s2:recybat24": 2828,
+    "generated_general_augmentation": 6988,
+    "s2:cigwaste": 1999,
+    "s2:realwaste": 75
+  },
+  "groups_with_multiple_views": 17215,
+  "solver_message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "status": "copied_and_validated",
+  "output_directory": "C:\\Users\\USER\\Desktop\\dataset\\YOLO_7CLASS_10000_PER_CLASS_20260909",
+  "boxes": 90424,
+  "checks": {
+    "copy_hashes": true,
+    "image_label_pairs": true,
+    "rgb_640": true,
+    "normalized_yolo_boxes": true,
+    "exact_class_image_counts": true,
+    "nested_subsets": true,
+    "known_groups_single_split": true,
+    "filename_collisions": 0,
+    "duplicate_image_hashes": 0
+  },
+  "yolo_loader_validation": {
+    "per_class_images": 10000,
+    "status": "passed",
+    "images": 59236,
+    "boxes": 90424,
+    "class_images": {
+      "general": 10000,
+      "can": 10000,
+      "paper": 10000,
+      "plastic": 10000,
+      "glass": 10000,
+      "vinyl": 10000,
+      "battery": 10000
+    }
+  }
+}

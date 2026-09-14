@@ -1,0 +1,106 @@
+[
+  {
+    "id": "oi_04000e6ca1a873d9",
+    "local_path": "raw/openimages/train/04000e6ca1a873d9.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "cloth towel is general; source box checked against full image",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "oi_05bc6ebe69beb395",
+    "local_path": "raw/openimages/train/05bc6ebe69beb395.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "cloth towel is general; source box checked against full image",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "oi_0f125dfa21db20dd",
+    "local_path": "raw/openimages/train/0f125dfa21db20dd.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "cloth towel is general; source box checked against full image",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "oi_10d94a44ee907d91",
+    "local_path": "raw/openimages/train/10d94a44ee907d91.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "cloth towel is general; source box checked against full image",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "oi_0efde524f304fa8b",
+    "local_path": "raw/openimages/train/0efde524f304fa8b.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "monitor only; no visible physical paper or battery target; screen content is not annotated",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "oi_105bb5dae2923dea",
+    "local_path": "raw/openimages/train/105bb5dae2923dea.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "monitor only; no visible physical paper or battery target; screen content is not annotated",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_123196866",
+    "local_path": "raw/coin_cells/coin_commons_123196866.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_124168124",
+    "local_path": "raw/coin_cells/coin_commons_124168124.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_149277171",
+    "local_path": "raw/coin_cells/coin_commons_149277171.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_156335521",
+    "local_path": "raw/coin_cells/coin_commons_156335521.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_148661159",
+    "local_path": "raw/coin_cells/coin_commons_148661159.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_99259262",
+    "local_path": "raw/coin_cells/coin_commons_99259262.jpg",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  },
+  {
+    "id": "coin_commons_47565316",
+    "local_path": "raw/coin_cells/coin_commons_47565316.png",
+    "split": "train",
+    "review": "full_image_visual_review",
+    "reason": "manual visible coin/button cell bounding box; source metadata and license retained",
+    "provenance": "source download manifest retained"
+  }
+]

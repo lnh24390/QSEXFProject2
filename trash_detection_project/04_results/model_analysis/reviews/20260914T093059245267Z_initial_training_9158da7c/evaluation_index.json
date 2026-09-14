@@ -1,0 +1,7 @@
+{
+  "bbox_yolo11n": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\bbox\\baseline_training\\20260914T093136292094Z_bbox_yolo11n_2da9bfe0\\result.json",
+  "bbox_yolo26s": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\bbox\\baseline_training\\20260914T091524338472Z_bbox_original_9a3e618a\\result.json",
+  "bbox_yolo26s_aborted": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\bbox\\baseline_training\\20260914T093158240551Z_bbox_yolo26s_aborted_789dae19\\result.json",
+  "seg_yolo11n": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\seg\\baseline_training\\20260914T091738414302Z_seg_original_1b200b06\\result.json",
+  "seg_yolo26s": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\seg\\baseline_training\\20260914T093230212608Z_seg_yolo26s_0dfcee38\\result.json"
+}

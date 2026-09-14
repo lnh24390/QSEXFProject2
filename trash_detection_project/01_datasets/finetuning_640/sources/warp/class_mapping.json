@@ -1,0 +1,142 @@
+[
+  {
+    "source_id": 0,
+    "source_class": "bottle-blue",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 1,
+    "source_class": "bottle-green",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 2,
+    "source_class": "bottle-dark",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 3,
+    "source_class": "bottle-milk",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 4,
+    "source_class": "bottle-transp",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 5,
+    "source_class": "bottle-multicolor",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 6,
+    "source_class": "bottle-yogurt",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 7,
+    "source_class": "bottle-oil",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 8,
+    "source_class": "cans",
+    "class_name": "can"
+  },
+  {
+    "source_id": 9,
+    "source_class": "juice-cardboard",
+    "class_name": "paper"
+  },
+  {
+    "source_id": 10,
+    "source_class": "milk-cardboard",
+    "class_name": "paper"
+  },
+  {
+    "source_id": 11,
+    "source_class": "detergent-color",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 12,
+    "source_class": "detergent-transparent",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 13,
+    "source_class": "detergent-box",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 14,
+    "source_class": "canister",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 15,
+    "source_class": "bottle-blue-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 16,
+    "source_class": "bottle-transp-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 17,
+    "source_class": "bottle-dark-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 18,
+    "source_class": "bottle-green-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 19,
+    "source_class": "bottle-multicolorv-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 20,
+    "source_class": "bottle-milk-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 21,
+    "source_class": "bottle-oil-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 22,
+    "source_class": "detergent-white",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 23,
+    "source_class": "bottle-blue5l",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 24,
+    "source_class": "bottle-blue5l-full",
+    "class_name": "plastic"
+  },
+  {
+    "source_id": 25,
+    "source_class": "glass-transp",
+    "class_name": "glass"
+  },
+  {
+    "source_id": 26,
+    "source_class": "glass-dark",
+    "class_name": "glass"
+  },
+  {
+    "source_id": 27,
+    "source_class": "glass-green",
+    "class_name": "glass"
+  }
+]

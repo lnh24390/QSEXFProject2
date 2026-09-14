@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "hb_c7225ce7ff176825d7fc",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000863.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000863.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_c7225ce7ff176825d7fc.jpg",
+    "sha256": "c7225ce7ff176825d7fca293797d77f6a695e645313c6c7a54021ac362649d8a",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.278125,
+        0.209375,
+        0.4359375,
+        0.74375
+      ],
+      [
+        0.41875,
+        0.465625,
+        0.7640625,
+        0.7984375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_c49cacc891e927a59637",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000864.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000864.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_c49cacc891e927a59637.jpg",
+    "sha256": "c49cacc891e927a59637ef8b9b4e0ecb46ecb74ee2753c1090bcc5e028afc2e7",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3125,
+        0.2203125,
+        0.434375,
+        0.715625
+      ],
+      [
+        0.4140625,
+        0.490625,
+        0.696875,
+        0.7875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_bfb4d4314540d2c948b5",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000865.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000865.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_bfb4d4314540d2c948b5.jpg",
+    "sha256": "bfb4d4314540d2c948b52cbe8d3d32f302c64d97ef04c3f8efaff6225f050f96",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.175,
+        0.0328125,
+        0.80625,
+        0.51875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_51059ca15bf84a95a3be",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000866.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000866.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_51059ca15bf84a95a3be.jpg",
+    "sha256": "51059ca15bf84a95a3be7efa6b66dddb93fcda2bf7c43bc75713453e23de846b",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.1421875,
+        0.115625,
+        0.3046875,
+        0.6484375
+      ],
+      [
+        0.375,
+        0.125,
+        0.5609375,
+        0.6609375
+      ],
+      [
+        0.528125,
+        0.1703125,
+        0.7453125,
+        0.6265625
+      ],
+      [
+        0.690625,
+        0.1421875,
+        0.8609375,
+        0.60625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_43598d4eccbd8ac59dee",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000867.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000867.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_43598d4eccbd8ac59dee.jpg",
+    "sha256": "43598d4eccbd8ac59deefba3d9946cd4c8cf082fa76abe84ce29a00caeab5c24",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.40625,
+        0.134375,
+        0.5921875,
+        0.7890625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_a619c7de34433e57c40c",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000868.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000868.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_a619c7de34433e57c40c.jpg",
+    "sha256": "a619c7de34433e57c40cbce7788509888ca09bfdd1cebf28f02f0b042e91f9a2",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.24375,
+        0.5515625,
+        0.746875,
+        0.684375
+      ],
+      [
+        0.2890625,
+        0.184375,
+        0.4046875,
+        0.565625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_a115a112bdbbb82aec00",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000869.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000869.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_a115a112bdbbb82aec00.jpg",
+    "sha256": "a115a112bdbbb82aec002280ab73f5f6d6045f21737e95189628dd57a32f701f",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.271875,
+        0.1671875,
+        0.465625,
+        0.853125
+      ],
+      [
+        0.5453125,
+        0.1609375,
+        0.734375,
+        0.84375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_15ead518fbe0c35aeccf",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000870.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000870.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_15ead518fbe0c35aeccf.jpg",
+    "sha256": "15ead518fbe0c35aeccf303a6ce04f50be32a92712aa88f97c1a9bde06539499",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.26875,
+        0.3875,
+        0.7421875,
+        0.5921875
+      ],
+      [
+        0.3078125,
+        0.0953125,
+        0.428125,
+        0.478125
+      ],
+      [
+        0.4265625,
+        0.0734375,
+        0.540625,
+        0.4453125
+      ],
+      [
+        0.53125,
+        0.0515625,
+        0.6484375,
+        0.4296875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_c8cfd95d315528c88bf0",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000871.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000871.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_c8cfd95d315528c88bf0.jpg",
+    "sha256": "c8cfd95d315528c88bf026e7337acfdca31c3106428f98d8355197b12ca0fc31",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.0921875,
+        0.2125,
+        0.678125,
+        0.584375
+      ],
+      [
+        0.31875,
+        0.0953125,
+        0.8765625,
+        0.4359375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_bdca649b7e47e4bf21d4",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000872.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000872.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_bdca649b7e47e4bf21d4.jpg",
+    "sha256": "bdca649b7e47e4bf21d432a9f02ac24aa391280e8e192fb4c7f25881eb4c02b2",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.234375,
+        0.515625,
+        0.3375,
+        0.8875
+      ],
+      [
+        0.378125,
+        0.5203125,
+        0.4765625,
+        0.884375
+      ],
+      [
+        0.5234375,
+        0.51875,
+        0.6171875,
+        0.8875
+      ],
+      [
+        0.6609375,
+        0.51875,
+        0.75,
+        0.884375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_cbe452f47ebe03f549e6",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000873.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000873.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_cbe452f47ebe03f549e6.jpg",
+    "sha256": "cbe452f47ebe03f549e660cfdb3dc73dbbc1d525519004b38e1e8810c2780843",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.2796875,
+        0.2890625,
+        0.3453125,
+        0.49375
+      ],
+      [
+        0.3421875,
+        0.2875,
+        0.4046875,
+        0.4859375
+      ],
+      [
+        0.4,
+        0.2875,
+        0.45625,
+        0.478125
+      ],
+      [
+        0.453125,
+        0.2859375,
+        0.50625,
+        0.4703125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_56a5ea0aaaeb188fef01",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000874.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000874.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_56a5ea0aaaeb188fef01.jpg",
+    "sha256": "56a5ea0aaaeb188fef012247a21f1ef082d970c4d76c7f5fc3e94e2ab30fd899",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.378125,
+        0.28125,
+        0.6203125,
+        0.70625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_a67e844f96cfebeaad63",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000875.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000875.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_a67e844f96cfebeaad63.jpg",
+    "sha256": "a67e844f96cfebeaad634111f0bafb54714939d3a835d8ddbc7d8add5c2aea4c",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.09375,
+        0.01875,
+        0.6859375,
+        0.4359375
+      ],
+      [
+        0.79375,
+        0.2765625,
+        0.9234375,
+        0.721875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_1d4f5f8253b9d64c673c",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000876.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000876.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_1d4f5f8253b9d64c673c.jpg",
+    "sha256": "1d4f5f8253b9d64c673c66bd9bf8e6cbf450cae989d58cfe487a3f92911d0287",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3265625,
+        0.1859375,
+        0.66875,
+        0.815625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_f13cb0c72083aa87ffff",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000877.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000877.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_f13cb0c72083aa87ffff.jpg",
+    "sha256": "f13cb0c72083aa87ffff332826044db43400076278e8e64dc5a6d2d4bd933d6b",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.1453125,
+        0.0875,
+        0.4953125,
+        0.5890625
+      ],
+      [
+        0.3015625,
+        0.115625,
+        0.6359375,
+        0.6265625
+      ],
+      [
+        0.4515625,
+        0.1375,
+        0.7828125,
+        0.665625
+      ],
+      [
+        0.60625,
+        0.159375,
+        0.9296875,
+        0.7015625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_0e6067a8ff577e41888b",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000878.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000878.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_0e6067a8ff577e41888b.jpg",
+    "sha256": "0e6067a8ff577e41888ba0c67b732b4553dfd7b04291e0e4c36b8eb4dce1704c",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3359375,
+        0.075,
+        0.665625,
+        0.4390625
+      ],
+      [
+        0.4015625,
+        0.4296875,
+        0.840625,
+        0.578125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_6dd73f63b2158b86ad42",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000879.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000879.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_6dd73f63b2158b86ad42.jpg",
+    "sha256": "6dd73f63b2158b86ad4251421af1b7c22d10b03b929527c610e7940cbb97372a",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.515625,
+        0.3140625,
+        0.771875,
+        0.64375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_b048530847a93ffc5da6",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000880.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000880.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_b048530847a93ffc5da6.jpg",
+    "sha256": "b048530847a93ffc5da6950a6fb36285c44c5e06ce1971a5f139b972ebad7ce4",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.5671875,
+        0.225,
+        0.8015625,
+        0.4828125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_8f3fe77cffaecf319751",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000881.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000881.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_8f3fe77cffaecf319751.jpg",
+    "sha256": "8f3fe77cffaecf319751ae63a90fc7265dbef20b947bc020f00da38e119b262d",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.446875,
+        0.1859375,
+        0.909375,
+        0.3578125
+      ],
+      [
+        0.1890625,
+        0.1765625,
+        0.3515625,
+        0.465625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_37d4a7103532576c8136",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000882.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000882.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_37d4a7103532576c8136.jpg",
+    "sha256": "37d4a7103532576c8136e693178eba977723249aaa6b4ff160f2a0417dc85e1c",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.240625,
+        0.3625,
+        0.734375,
+        0.559375
+      ],
+      [
+        0.7328125,
+        0.3359375,
+        0.859375,
+        0.503125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_2cf6a7156ac4e68f3459",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000883.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000883.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_2cf6a7156ac4e68f3459.jpg",
+    "sha256": "2cf6a7156ac4e68f34590742c31cbdcc750b6aa2ff3b800e6db618b354c8dd62",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.6875,
+        0.3375,
+        0.8375,
+        0.5015625
+      ],
+      [
+        0.475,
+        0.3,
+        0.621875,
+        0.4765625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_261b6d2b0ac829b3bfeb",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000884.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000884.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_261b6d2b0ac829b3bfeb.jpg",
+    "sha256": "261b6d2b0ac829b3bfebe68268accb8fa1afefa4d4a149305cfc44295ea7c06f",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3890625,
+        0.340625,
+        0.8359375,
+        0.590625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_677b14c66b6599c5b2d1",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000885.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000885.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_677b14c66b6599c5b2d1.jpg",
+    "sha256": "677b14c66b6599c5b2d1d6947a70b33ccd26d67e5c5fd69fee23c026f6ebcf43",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3609375,
+        0.35,
+        0.8171875,
+        0.609375
+      ],
+      [
+        0.175,
+        0.315625,
+        0.3625,
+        0.5546875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_add5b6e9e8d88420cb1d",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000886.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000886.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_add5b6e9e8d88420cb1d.jpg",
+    "sha256": "add5b6e9e8d88420cb1d4b3d4c472403ddc262326770810186e63633cc625993",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.4703125,
+        0.34375,
+        0.8828125,
+        0.559375
+      ],
+      [
+        0.1734375,
+        0.3171875,
+        0.3578125,
+        0.5515625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_2961d623175d7d71911d",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000887.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000887.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_2961d623175d7d71911d.jpg",
+    "sha256": "2961d623175d7d71911de4288b15610ce01527c6ddc46692ee943932b7b6497c",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.1828125,
+        0.396875,
+        0.5453125,
+        0.615625
+      ],
+      [
+        0.5765625,
+        0.3671875,
+        0.7375,
+        0.5890625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_03b0f5c7a6b53876f70b",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000888.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000888.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_03b0f5c7a6b53876f70b.jpg",
+    "sha256": "03b0f5c7a6b53876f70b585d520764e8307a3698a22b92ca0f1a29c65245f2a8",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3609375,
+        0.315625,
+        0.6125,
+        0.528125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_ca09689bf0ca9c886469",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000889.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000889.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_ca09689bf0ca9c886469.jpg",
+    "sha256": "ca09689bf0ca9c886469449f5f88cf77e900ed23537c2fe7a01140a0f0d86df6",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.64375,
+        0.0453125,
+        0.834375,
+        0.3265625
+      ],
+      [
+        0.553125,
+        0.40625,
+        0.7234375,
+        0.7078125
+      ],
+      [
+        0.2328125,
+        0.290625,
+        0.4203125,
+        0.540625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_317fec168245a60a87da",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000890.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000890.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_317fec168245a60a87da.jpg",
+    "sha256": "317fec168245a60a87da2eae55015a3b87568f3a25491efd864556707fa9f122",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.43125,
+        0.0,
+        0.703125,
+        0.2390625
+      ],
+      [
+        0.3796875,
+        0.303125,
+        0.6390625,
+        0.3765625
+      ],
+      [
+        0.559375,
+        0.4671875,
+        0.7921875,
+        0.7484375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_d2600c4eeb48d3c09bb3",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000891.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000891.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_d2600c4eeb48d3c09bb3.jpg",
+    "sha256": "d2600c4eeb48d3c09bb37092ca064f2edc94f997d5fd01a34ecc9679a84b7d58",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3125,
+        0.4515625,
+        0.6359375,
+        0.603125
+      ],
+      [
+        0.215625,
+        0.196875,
+        0.4671875,
+        0.303125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_7f08fca4f8bb0bb20abb",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000892.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000892.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_7f08fca4f8bb0bb20abb.jpg",
+    "sha256": "7f08fca4f8bb0bb20abb7a80e100ca30fa46b349b96ac22b5648da470329db69",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.29375,
+        0.0109375,
+        0.6234375,
+        0.20625
+      ],
+      [
+        0.1859375,
+        0.2515625,
+        0.4515625,
+        0.3390625
+      ],
+      [
+        0.31875,
+        0.4765625,
+        0.65,
+        0.6765625
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_6140fb42f10bf470290f",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000893.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000893.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_6140fb42f10bf470290f.jpg",
+    "sha256": "6140fb42f10bf470290f763cc2578732a9659791b9dcf68c9b7278aaf7381b65",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.15625,
+        0.084375,
+        0.4890625,
+        0.2578125
+      ],
+      [
+        0.478125,
+        0.2046875,
+        0.6734375,
+        0.5796875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_f95d9a166f0e1ea8cb8a",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000894.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000894.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_f95d9a166f0e1ea8cb8a.jpg",
+    "sha256": "f95d9a166f0e1ea8cb8a482ccc4a26180c5e96979ad9a7125785efc4a0e2da21",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.30625,
+        0.0765625,
+        0.6109375,
+        0.2640625
+      ],
+      [
+        0.2921875,
+        0.378125,
+        0.496875,
+        0.4703125
+      ],
+      [
+        0.596875,
+        0.2046875,
+        0.8109375,
+        0.5828125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_a07d2e8db84e7e095ab5",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000895.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000895.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_a07d2e8db84e7e095ab5.jpg",
+    "sha256": "a07d2e8db84e7e095ab5d80db816e1e8526c81c45eb5ff6d477e714b9142a524",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.3890625,
+        0.275,
+        0.6734375,
+        0.528125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_2a4b7934a34e585ac2b5",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000896.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000896.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_2a4b7934a34e585ac2b5.jpg",
+    "sha256": "2a4b7934a34e585ac2b5953c10e270da3062d3406617ecc2954085f383cd6d1f",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.6484375,
+        0.3078125,
+        0.7640625,
+        0.659375
+      ],
+      [
+        0.50625,
+        0.125,
+        0.665625,
+        0.4859375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_4d5cd5733592077a5fd3",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000897.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000897.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_4d5cd5733592077a5fd3.jpg",
+    "sha256": "4d5cd5733592077a5fd3bde517686dde9e4f78fc28021c75e64d9ed2f9ae2fff",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.55,
+        0.11875,
+        0.6640625,
+        0.50625
+      ],
+      [
+        0.2390625,
+        0.153125,
+        0.5,
+        0.4296875
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_ac22cf534f9508d5764d",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000898.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000898.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_ac22cf534f9508d5764d.jpg",
+    "sha256": "ac22cf534f9508d5764dde91de4f6a36de165834d7e181ab2c90656dcbb950e1",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.459375,
+        0.4640625,
+        0.5984375,
+        0.7171875
+      ],
+      [
+        0.540625,
+        0.0109375,
+        0.6984375,
+        0.3203125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_af189536d5bcee18cece",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000899.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000899.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_af189536d5bcee18cece.jpg",
+    "sha256": "af189536d5bcee18cecee2460b4fbdbfe5ccce4bc61e02ee7b7b3d2a9f893887",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.2734375,
+        0.225,
+        0.5421875,
+        0.48125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_04339d6f6508996fb41b",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000900.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000900.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_04339d6f6508996fb41b.jpg",
+    "sha256": "04339d6f6508996fb41bbd5a13db32eb6bf6df416904cdd3f30aed04e306da7d",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.359375,
+        0.346875,
+        0.71875,
+        0.4953125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_d4efce328900fd8dbf6a",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000901.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000901.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_d4efce328900fd8dbf6a.jpg",
+    "sha256": "d4efce328900fd8dbf6a8bbd8f0c51ff0984d2649ff89d008bf6ae8c765a6317",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.428125,
+        0.34375,
+        0.7375,
+        0.534375
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  },
+  {
+    "id": "hb_328ec78cbcf93133cbd1",
+    "source": "Kaggle_markcsizmadia_batteries_dices_toy_cars",
+    "archive_member": "dataset-new/dataset/images/00000902.jpg",
+    "annotation_member": "dataset-new/dataset/annotations/00000902.txt",
+    "source_page": "https://www.kaggle.com/datasets/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+    "license": "CC0 as declared by publisher",
+    "local_path": "raw\\household_batteries\\hb_328ec78cbcf93133cbd1.jpg",
+    "sha256": "328ec78cbcf93133cbd167cbd7fae42dd6754198cb1af01c7bcf86ce091b5eb1",
+    "source_splits": [
+      "train"
+    ],
+    "split": "train",
+    "boxes_xyxy_normalized": [
+      [
+        0.5328125,
+        0.1875,
+        0.728125,
+        0.528125
+      ]
+    ],
+    "visual_review": "pending",
+    "status": "source_bbox_validated",
+    "hold_reasons": []
+  }
+]

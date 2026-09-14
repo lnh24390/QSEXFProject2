@@ -1,0 +1,989 @@
+{
+  "manifest_records": 59236,
+  "datasets": {
+    "bbox": {
+      "splits": {
+        "train": {
+          "images": 49874,
+          "labels": 49874,
+          "pair_mismatch": 0,
+          "backgrounds": 2400,
+          "empty_non_bg": 0,
+          "instances": {
+            "general": 9157,
+            "battery": 11713,
+            "can": 8968,
+            "paper": 10046,
+            "vinyl": 10774,
+            "plastic": 13752,
+            "glass": 8415
+          },
+          "class_images": {
+            "general": 8000,
+            "battery": 8000,
+            "can": 7992,
+            "paper": 7961,
+            "vinyl": 7997,
+            "plastic": 7979,
+            "glass": 8000
+          },
+          "four_point": {},
+          "axis_aligned_four_point": {},
+          "source_images": {
+            "COCO_background": 2400,
+            "generated_general_augmentation": 6946,
+            "roboflow_battery_export": 6036,
+            "s1:auto6": 1585,
+            "s1:datasets6": 51,
+            "s1:reusable7": 9148,
+            "s1:roboflow12": 350,
+            "s2:provided_json_annotation": 21420,
+            "s2:cigwaste": 199,
+            "s2:realwaste": 10,
+            "s2:recybat24": 1089,
+            "s3:provided_coco_bbox": 640
+          },
+          "small_under_1pct": {
+            "general": 1079,
+            "battery": 116,
+            "can": 1720,
+            "paper": 752,
+            "vinyl": 2284,
+            "plastic": 4727,
+            "glass": 663
+          },
+          "tiny_under_03pct": {
+            "general": 218,
+            "battery": 29,
+            "can": 208,
+            "paper": 76,
+            "vinyl": 517,
+            "plastic": 1520,
+            "glass": 84
+          },
+          "source_instances": {
+            "generated_general_augmentation": {
+              "general": 7755
+            },
+            "roboflow_battery_export": {
+              "battery": 9346
+            },
+            "s1:auto6": {
+              "general": 977,
+              "battery": 1070
+            },
+            "s1:datasets6": {
+              "can": 149,
+              "general": 1
+            },
+            "s1:reusable7": {
+              "paper": 6118,
+              "vinyl": 7271,
+              "can": 2907,
+              "plastic": 7659,
+              "glass": 1102
+            },
+            "s1:roboflow12": {
+              "battery": 180,
+              "glass": 93,
+              "can": 86,
+              "vinyl": 429,
+              "paper": 105,
+              "plastic": 28
+            },
+            "s2:provided_json_annotation": {
+              "vinyl": 2774,
+              "glass": 7196,
+              "paper": 3737,
+              "can": 5743,
+              "plastic": 5561
+            },
+            "s2:cigwaste": {
+              "general": 199
+            },
+            "s2:realwaste": {
+              "general": 10
+            },
+            "s2:recybat24": {
+              "battery": 1116
+            },
+            "s3:provided_coco_bbox": {
+              "glass": 24,
+              "plastic": 504,
+              "can": 83,
+              "vinyl": 300,
+              "paper": 86,
+              "general": 215,
+              "battery": 1
+            }
+          },
+          "augmented": 6946,
+          "groups": 25814
+        },
+        "val": {
+          "images": 9628,
+          "labels": 9628,
+          "pair_mismatch": 0,
+          "backgrounds": 450,
+          "empty_non_bg": 0,
+          "instances": {
+            "general": 1563,
+            "battery": 1680,
+            "can": 1604,
+            "plastic": 2495,
+            "paper": 1874,
+            "vinyl": 1955,
+            "glass": 1651
+          },
+          "class_images": {
+            "general": 1500,
+            "battery": 1500,
+            "can": 1500,
+            "plastic": 1503,
+            "paper": 1504,
+            "vinyl": 1501,
+            "glass": 1500
+          },
+          "four_point": {},
+          "axis_aligned_four_point": {},
+          "source_images": {
+            "COCO_background": 450,
+            "generated_general_augmentation": 38,
+            "roboflow_battery_export": 1,
+            "s1:auto6": 11,
+            "s1:datasets6": 82,
+            "s1:reusable7": 1397,
+            "s1:roboflow12": 268,
+            "s2:provided_json_annotation": 4370,
+            "s2:cigwaste": 1400,
+            "s2:realwaste": 10,
+            "s2:recybat24": 1439,
+            "s3:provided_coco_bbox": 162
+          },
+          "small_under_1pct": {
+            "general": 304,
+            "battery": 30,
+            "can": 200,
+            "plastic": 693,
+            "paper": 142,
+            "vinyl": 257,
+            "glass": 140
+          },
+          "tiny_under_03pct": {
+            "general": 66,
+            "battery": 1,
+            "can": 32,
+            "plastic": 207,
+            "paper": 8,
+            "vinyl": 46,
+            "glass": 28
+          },
+          "source_instances": {
+            "generated_general_augmentation": {
+              "general": 38
+            },
+            "roboflow_battery_export": {
+              "battery": 1
+            },
+            "s1:auto6": {
+              "general": 11
+            },
+            "s1:datasets6": {
+              "general": 36,
+              "can": 87,
+              "plastic": 16,
+              "paper": 16
+            },
+            "s1:reusable7": {
+              "paper": 945,
+              "plastic": 1060,
+              "vinyl": 965,
+              "can": 463,
+              "glass": 187
+            },
+            "s1:roboflow12": {
+              "battery": 238,
+              "paper": 74,
+              "vinyl": 196,
+              "glass": 135,
+              "plastic": 17,
+              "can": 26
+            },
+            "s2:provided_json_annotation": {
+              "vinyl": 699,
+              "glass": 1297,
+              "paper": 822,
+              "can": 1013,
+              "plastic": 1262
+            },
+            "s2:cigwaste": {
+              "general": 1400
+            },
+            "s2:realwaste": {
+              "general": 10
+            },
+            "s2:recybat24": {
+              "battery": 1441
+            },
+            "s3:provided_coco_bbox": {
+              "plastic": 140,
+              "glass": 32,
+              "general": 68,
+              "vinyl": 95,
+              "can": 15,
+              "paper": 17
+            }
+          },
+          "augmented": 38,
+          "groups": 4111
+        },
+        "test": {
+          "images": 2734,
+          "labels": 2734,
+          "pair_mismatch": 0,
+          "backgrounds": 150,
+          "empty_non_bg": 0,
+          "instances": {
+            "general": 537,
+            "battery": 642,
+            "can": 579,
+            "plastic": 829,
+            "paper": 696,
+            "glass": 702,
+            "vinyl": 792
+          },
+          "class_images": {
+            "general": 500,
+            "battery": 500,
+            "can": 508,
+            "paper": 535,
+            "plastic": 518,
+            "glass": 500,
+            "vinyl": 502
+          },
+          "four_point": {},
+          "axis_aligned_four_point": {},
+          "source_images": {
+            "COCO_background": 150,
+            "generated_general_augmentation": 4,
+            "roboflow_battery_export": 160,
+            "s1:auto6": 1,
+            "s1:datasets6": 122,
+            "s1:reusable7": 1124,
+            "s1:roboflow12": 176,
+            "s2:provided_json_annotation": 219,
+            "s2:cigwaste": 400,
+            "s2:realwaste": 55,
+            "s2:recybat24": 300,
+            "s3:provided_coco_bbox": 23
+          },
+          "small_under_1pct": {
+            "general": 98,
+            "battery": 5,
+            "can": 117,
+            "plastic": 545,
+            "paper": 48,
+            "glass": 158,
+            "vinyl": 186
+          },
+          "tiny_under_03pct": {
+            "general": 38,
+            "battery": 0,
+            "can": 8,
+            "plastic": 371,
+            "paper": 6,
+            "glass": 78,
+            "vinyl": 28
+          },
+          "source_instances": {
+            "generated_general_augmentation": {
+              "general": 4
+            },
+            "roboflow_battery_export": {
+              "battery": 168
+            },
+            "s1:auto6": {
+              "general": 1
+            },
+            "s1:datasets6": {
+              "general": 38,
+              "can": 96
+            },
+            "s1:reusable7": {
+              "plastic": 802,
+              "paper": 604,
+              "glass": 257,
+              "vinyl": 713,
+              "can": 474
+            },
+            "s1:roboflow12": {
+              "battery": 159,
+              "vinyl": 77,
+              "paper": 59,
+              "glass": 115,
+              "plastic": 8,
+              "can": 3
+            },
+            "s2:provided_json_annotation": {
+              "glass": 246,
+              "can": 1,
+              "paper": 30
+            },
+            "s2:cigwaste": {
+              "general": 400
+            },
+            "s2:realwaste": {
+              "general": 55
+            },
+            "s2:recybat24": {
+              "battery": 315
+            },
+            "s3:provided_coco_bbox": {
+              "plastic": 19,
+              "glass": 84,
+              "general": 39,
+              "can": 5,
+              "paper": 3,
+              "vinyl": 2
+            }
+          },
+          "augmented": 4,
+          "groups": 1517
+        }
+      },
+      "errors": {},
+      "error_examples": [],
+      "duplicate_stems": 0,
+      "cross_split_groups": 0,
+      "cross_split_manifest_hashes": 0,
+      "manifest_split_diff": 3173
+    },
+    "seg": {
+      "splits": {
+        "train": {
+          "images": 49873,
+          "labels": 49873,
+          "pair_mismatch": 0,
+          "backgrounds": 2400,
+          "empty_non_bg": 0,
+          "instances": {
+            "general": 8994,
+            "battery": 10866,
+            "can": 8898,
+            "paper": 10014,
+            "vinyl": 10708,
+            "plastic": 13676,
+            "glass": 8348
+          },
+          "class_images": {
+            "general": 8000,
+            "battery": 8000,
+            "can": 7935,
+            "paper": 7936,
+            "vinyl": 7940,
+            "plastic": 7920,
+            "glass": 8000
+          },
+          "four_point": {
+            "general": 53,
+            "battery": 1259,
+            "can": 10,
+            "paper": 3097,
+            "vinyl": 620,
+            "plastic": 148
+          },
+          "axis_aligned_four_point": {
+            "battery": 7,
+            "plastic": 3,
+            "vinyl": 3,
+            "paper": 1,
+            "general": 3
+          },
+          "source_images": {
+            "COCO_background": 2400,
+            "generated_general_augmentation": 5987,
+            "roboflow_battery_export": 4995,
+            "s1:auto6": 1327,
+            "s1:datasets6": 50,
+            "s1:reusable7": 8955,
+            "s1:roboflow12": 349,
+            "s2:provided_json_annotation": 21606,
+            "s2:cigwaste": 1199,
+            "s2:realwaste": 75,
+            "s2:recybat24": 2303,
+            "s3:provided_coco_bbox": 627
+          },
+          "small_under_1pct": {},
+          "tiny_under_03pct": {},
+          "source_instances": {
+            "generated_general_augmentation": {
+              "general": 6681
+            },
+            "roboflow_battery_export": {
+              "battery": 7525
+            },
+            "s1:auto6": {
+              "general": 855,
+              "battery": 847
+            },
+            "s1:datasets6": {
+              "can": 149
+            },
+            "s1:reusable7": {
+              "paper": 6056,
+              "vinyl": 7206,
+              "can": 2835,
+              "plastic": 7586,
+              "glass": 835
+            },
+            "s1:roboflow12": {
+              "battery": 148,
+              "glass": 97,
+              "can": 87,
+              "vinyl": 434,
+              "paper": 106,
+              "plastic": 31
+            },
+            "s2:provided_json_annotation": {
+              "vinyl": 2774,
+              "glass": 7390,
+              "paper": 3767,
+              "can": 5743,
+              "plastic": 5561
+            },
+            "s2:cigwaste": {
+              "general": 1199
+            },
+            "s2:realwaste": {
+              "general": 75
+            },
+            "s2:recybat24": {
+              "battery": 2345
+            },
+            "s3:provided_coco_bbox": {
+              "glass": 26,
+              "plastic": 498,
+              "can": 84,
+              "vinyl": 294,
+              "paper": 85,
+              "general": 184,
+              "battery": 1
+            }
+          },
+          "augmented": 5987,
+          "groups": 24798
+        },
+        "val": {
+          "images": 9629,
+          "labels": 9629,
+          "pair_mismatch": 0,
+          "backgrounds": 450,
+          "empty_non_bg": 0,
+          "instances": {
+            "general": 1688,
+            "battery": 2311,
+            "plastic": 2516,
+            "glass": 1649,
+            "vinyl": 1952,
+            "can": 1611,
+            "paper": 1876
+          },
+          "class_images": {
+            "general": 1500,
+            "battery": 1500,
+            "glass": 1500,
+            "plastic": 1520,
+            "vinyl": 1500,
+            "can": 1505,
+            "paper": 1506
+          },
+          "four_point": {
+            "general": 30,
+            "battery": 289,
+            "paper": 610,
+            "vinyl": 95,
+            "can": 3,
+            "plastic": 36
+          },
+          "axis_aligned_four_point": {
+            "plastic": 1,
+            "vinyl": 2,
+            "general": 15
+          },
+          "source_images": {
+            "COCO_background": 450,
+            "generated_general_augmentation": 588,
+            "roboflow_battery_export": 883,
+            "s1:auto6": 192,
+            "s1:reusable7": 1398,
+            "s1:roboflow12": 272,
+            "s2:provided_json_annotation": 4372,
+            "s2:cigwaste": 800,
+            "s2:recybat24": 420,
+            "s3:provided_coco_bbox": 172,
+            "s1:datasets6": 82
+          },
+          "small_under_1pct": {},
+          "tiny_under_03pct": {},
+          "source_instances": {
+            "generated_general_augmentation": {
+              "general": 675
+            },
+            "roboflow_battery_export": {
+              "battery": 1446
+            },
+            "s1:auto6": {
+              "battery": 173,
+              "general": 85
+            },
+            "s1:reusable7": {
+              "plastic": 1076,
+              "glass": 183,
+              "vinyl": 958,
+              "can": 471,
+              "paper": 949
+            },
+            "s1:roboflow12": {
+              "plastic": 17,
+              "vinyl": 194,
+              "glass": 135,
+              "battery": 270,
+              "paper": 73,
+              "can": 25
+            },
+            "s2:provided_json_annotation": {
+              "glass": 1299,
+              "can": 1014,
+              "vinyl": 698,
+              "paper": 822,
+              "plastic": 1262
+            },
+            "s2:cigwaste": {
+              "general": 800
+            },
+            "s2:recybat24": {
+              "battery": 422
+            },
+            "s3:provided_coco_bbox": {
+              "plastic": 145,
+              "general": 92,
+              "vinyl": 102,
+              "glass": 32,
+              "can": 14,
+              "paper": 16
+            },
+            "s1:datasets6": {
+              "general": 36,
+              "can": 87,
+              "plastic": 16,
+              "paper": 16
+            }
+          },
+          "augmented": 588,
+          "groups": 4734
+        },
+        "test": {
+          "images": 2734,
+          "labels": 2734,
+          "pair_mismatch": 0,
+          "backgrounds": 150,
+          "empty_non_bg": 0,
+          "instances": {
+            "general": 575,
+            "can": 642,
+            "plastic": 884,
+            "paper": 726,
+            "glass": 771,
+            "vinyl": 860,
+            "battery": 858
+          },
+          "class_images": {
+            "general": 500,
+            "can": 560,
+            "paper": 558,
+            "plastic": 560,
+            "glass": 500,
+            "vinyl": 560,
+            "battery": 500
+          },
+          "four_point": {
+            "paper": 295,
+            "plastic": 6,
+            "vinyl": 41,
+            "can": 1,
+            "glass": 3,
+            "general": 2,
+            "battery": 80
+          },
+          "axis_aligned_four_point": {
+            "paper": 1,
+            "glass": 1
+          },
+          "source_images": {
+            "COCO_background": 150,
+            "s1:datasets6": 123,
+            "s1:reusable7": 1316,
+            "s1:roboflow12": 173,
+            "generated_general_augmentation": 413,
+            "roboflow_battery_export": 319,
+            "s1:auto6": 78,
+            "s2:provided_json_annotation": 31,
+            "s2:recybat24": 105,
+            "s3:provided_coco_bbox": 26
+          },
+          "small_under_1pct": {},
+          "tiny_under_03pct": {},
+          "source_instances": {
+            "s1:datasets6": {
+              "general": 39,
+              "can": 96
+            },
+            "s1:reusable7": {
+              "plastic": 859,
+              "paper": 662,
+              "glass": 528,
+              "vinyl": 784,
+              "can": 538
+            },
+            "s1:roboflow12": {
+              "battery": 159,
+              "vinyl": 74,
+              "paper": 59,
+              "glass": 111,
+              "can": 3,
+              "plastic": 5
+            },
+            "generated_general_augmentation": {
+              "general": 441
+            },
+            "roboflow_battery_export": {
+              "battery": 544
+            },
+            "s1:auto6": {
+              "general": 49,
+              "battery": 50
+            },
+            "s2:provided_json_annotation": {
+              "glass": 50,
+              "vinyl": 1
+            },
+            "s2:recybat24": {
+              "battery": 105
+            },
+            "s3:provided_coco_bbox": {
+              "plastic": 20,
+              "glass": 82,
+              "general": 46,
+              "can": 5,
+              "paper": 5,
+              "vinyl": 1
+            }
+          },
+          "augmented": 413,
+          "groups": 1910
+        }
+      },
+      "errors": {},
+      "error_examples": [],
+      "duplicate_stems": 0,
+      "cross_split_groups": 0,
+      "cross_split_manifest_hashes": 0,
+      "manifest_split_diff": 3174
+    }
+  },
+  "runs": {
+    "bbox_yolo11n": {
+      "rows": 100,
+      "last_epoch": 100,
+      "duplicate_epochs": 0,
+      "best_fitness_epoch": "92",
+      "best_box_epoch": "92",
+      "best_box": "0.83456",
+      "box_at_best_fitness": "0.83456",
+      "mask_at_best_fitness": null,
+      "time_last_s": 47837.1,
+      "time_decreases": 0,
+      "summary_exists": true,
+      "best_exists": true,
+      "loss_columns": [
+        "train/box_loss",
+        "train/cls_loss",
+        "train/dfl_loss"
+      ],
+      "first_losses": {
+        "train/box_loss": "0.77517",
+        "train/cls_loss": "1.76229",
+        "train/dfl_loss": "1.10574"
+      }
+    },
+    "bbox_yolo26s_nobg": {
+      "rows": 100,
+      "last_epoch": 100,
+      "duplicate_epochs": 0,
+      "best_fitness_epoch": "90",
+      "best_box_epoch": "90",
+      "best_box": "0.85401",
+      "box_at_best_fitness": "0.85401",
+      "mask_at_best_fitness": null,
+      "time_last_s": 73830.5,
+      "time_decreases": 0,
+      "summary_exists": true,
+      "best_exists": true,
+      "loss_columns": [
+        "train/box_loss",
+        "train/cls_loss",
+        "train/l1_loss"
+      ],
+      "first_losses": {
+        "train/box_loss": "0.72267",
+        "train/cls_loss": "1.60658",
+        "train/l1_loss": "0.00804"
+      }
+    },
+    "bbox_yolo26s_nobg_aborted_patience30_0912_0045": {
+      "rows": 1,
+      "last_epoch": 1,
+      "duplicate_epochs": 0,
+      "best_fitness_epoch": "1",
+      "best_box_epoch": "1",
+      "best_box": "0.74106",
+      "box_at_best_fitness": "0.74106",
+      "mask_at_best_fitness": null,
+      "time_last_s": 780.612,
+      "time_decreases": 0,
+      "summary_exists": false,
+      "best_exists": true,
+      "loss_columns": [
+        "train/box_loss",
+        "train/cls_loss",
+        "train/l1_loss"
+      ],
+      "first_losses": {
+        "train/box_loss": "0.72267",
+        "train/cls_loss": "1.60658",
+        "train/l1_loss": "0.00804"
+      }
+    },
+    "seg_yolo11n": {
+      "rows": 100,
+      "last_epoch": 100,
+      "duplicate_epochs": 0,
+      "best_fitness_epoch": "96",
+      "best_box_epoch": "96",
+      "best_box": "0.85224",
+      "box_at_best_fitness": "0.85224",
+      "mask_at_best_fitness": "0.80981",
+      "time_last_s": 56407.6,
+      "time_decreases": 0,
+      "summary_exists": true,
+      "best_exists": true,
+      "loss_columns": [
+        "train/box_loss",
+        "train/seg_loss",
+        "train/cls_loss",
+        "train/dfl_loss",
+        "train/sem_loss"
+      ],
+      "first_losses": {
+        "train/box_loss": "0.57322",
+        "train/seg_loss": "1.18001",
+        "train/cls_loss": "1.7186",
+        "train/dfl_loss": "0.96122",
+        "train/sem_loss": "0"
+      }
+    },
+    "seg_yolo26s_nobg": {
+      "rows": 4,
+      "last_epoch": 4,
+      "duplicate_epochs": 0,
+      "best_fitness_epoch": "1",
+      "best_box_epoch": "1",
+      "best_box": "0.76082",
+      "box_at_best_fitness": "0.76082",
+      "mask_at_best_fitness": "0.73332",
+      "time_last_s": 4728.36,
+      "time_decreases": 0,
+      "summary_exists": false,
+      "best_exists": true,
+      "loss_columns": [
+        "train/box_loss",
+        "train/seg_loss",
+        "train/cls_loss",
+        "train/l1_loss",
+        "train/sem_loss"
+      ],
+      "first_losses": {
+        "train/box_loss": "0.53366",
+        "train/seg_loss": "1.0171",
+        "train/cls_loss": "1.60219",
+        "train/l1_loss": "0.00461",
+        "train/sem_loss": "1.04767"
+      }
+    }
+  },
+  "sampling": {
+    "bbox_yolo11n_val": {
+      "n": 1500,
+      "source_images": {
+        "COCO_background": 75,
+        "generated_general_augmentation": 7,
+        "s1:auto6": 2,
+        "s1:datasets6": 13,
+        "s1:reusable7": 233,
+        "s1:roboflow12": 45,
+        "s2:provided_json_annotation": 728,
+        "s2:cigwaste": 234,
+        "s2:realwaste": 1,
+        "s2:recybat24": 162
+      },
+      "class_images": {
+        "general": 249,
+        "can": 251,
+        "plastic": 241,
+        "paper": 239,
+        "glass": 240,
+        "vinyl": 238,
+        "battery": 177
+      },
+      "full_n": 9628,
+      "last_sample_index": 8994,
+      "unreachable_tail": 633,
+      "tail_sources": {
+        "s2:recybat24": 471,
+        "s3:provided_coco_bbox": 162
+      }
+    },
+    "bbox_yolo26s_nobg_val": {
+      "n": 1500,
+      "source_images": {
+        "generated_general_augmentation": 7,
+        "s1:auto6": 2,
+        "s1:datasets6": 13,
+        "s1:reusable7": 233,
+        "s1:roboflow12": 45,
+        "s2:provided_json_annotation": 728,
+        "s2:cigwaste": 234,
+        "s2:realwaste": 1,
+        "s2:recybat24": 237
+      },
+      "class_images": {
+        "general": 249,
+        "can": 251,
+        "plastic": 241,
+        "paper": 239,
+        "glass": 240,
+        "vinyl": 238,
+        "battery": 252
+      },
+      "full_n": 9178,
+      "last_sample_index": 8994,
+      "unreachable_tail": 183,
+      "tail_sources": {
+        "s2:recybat24": 21,
+        "s3:provided_coco_bbox": 162
+      }
+    },
+    "seg_yolo11n_val": {
+      "n": 1500,
+      "source_images": {
+        "COCO_background": 75,
+        "generated_general_augmentation": 98,
+        "roboflow_battery_export": 148,
+        "s1:auto6": 32,
+        "s1:reusable7": 233,
+        "s1:roboflow12": 45,
+        "s2:provided_json_annotation": 729,
+        "s2:cigwaste": 94,
+        "s2:recybat24": 30,
+        "s3:provided_coco_bbox": 2,
+        "s1:datasets6": 14
+      },
+      "class_images": {
+        "general": 213,
+        "battery": 203,
+        "paper": 250,
+        "can": 255,
+        "plastic": 237,
+        "vinyl": 240,
+        "glass": 257
+      },
+      "full_n": 9629,
+      "last_sample_index": 8994,
+      "unreachable_tail": 634,
+      "tail_sources": {
+        "s2:cigwaste": 235,
+        "s2:recybat24": 240,
+        "s3:provided_coco_bbox": 159
+      }
+    }
+  },
+  "lists": {
+    "bbox_train": {
+      "n": 47474,
+      "duplicates": 0,
+      "mismatch": 0,
+      "missing_paths": 0
+    },
+    "bbox_val": {
+      "n": 9178,
+      "duplicates": 0,
+      "mismatch": 0,
+      "missing_paths": 0
+    },
+    "bbox_test": {
+      "n": 2584,
+      "duplicates": 0,
+      "mismatch": 0,
+      "missing_paths": 0
+    },
+    "seg_train": {
+      "n": 47473,
+      "duplicates": 0,
+      "mismatch": 0,
+      "missing_paths": 0
+    },
+    "seg_val": {
+      "n": 9179,
+      "duplicates": 0,
+      "mismatch": 0,
+      "missing_paths": 0
+    },
+    "seg_test": {
+      "n": 2584,
+      "duplicates": 0,
+      "mismatch": 0,
+      "missing_paths": 0
+    }
+  },
+  "cross_dataset": {
+    "common_stems": 62236,
+    "split_matrix": {
+      "train->val": 1840,
+      "train->train": 47054,
+      "val->val": 7684,
+      "train->test": 980,
+      "test->train": 917,
+      "val->train": 1902,
+      "test->test": 1712,
+      "test->val": 105,
+      "val->test": 42
+    },
+    "class_multiset_mismatch_images": 1,
+    "both_test_labeled": 1562,
+    "class_mismatch_examples": [
+      {
+        "stem": "s1_lm_2b3920946608171467d8a5cb",
+        "bbox": {
+          "plastic": 1,
+          "vinyl": 2,
+          "paper": 1
+        },
+        "seg": {
+          "plastic": 1,
+          "vinyl": 1,
+          "paper": 1
+        }
+      }
+    ]
+  }
+}

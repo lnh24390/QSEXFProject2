@@ -1,0 +1,19 @@
+{
+  "changed_only": "warmup_bias_lr 0.1 -> 0.0; same original first-epoch recipe, source checkpoint and data",
+  "result": {
+    "epoch": 1,
+    "seconds": 231.79135720001068,
+    "metrics": {
+      "metrics/precision(B)": 0.91475,
+      "metrics/recall(B)": 0.86357,
+      "metrics/mAP50(B)": 0.91208,
+      "metrics/mAP50-95(B)": 0.66675,
+      "val/box_loss": 1.04271,
+      "val/cls_loss": 0.86419,
+      "val/l1_loss": 0.01342
+    }
+  },
+  "original_first_epoch_map": 0.69559,
+  "original_unmodified_val_map": 0.8491934413965256,
+  "limitation": "Single-seed, single-epoch comparison; does not isolate other failure factors or establish final accuracy."
+}

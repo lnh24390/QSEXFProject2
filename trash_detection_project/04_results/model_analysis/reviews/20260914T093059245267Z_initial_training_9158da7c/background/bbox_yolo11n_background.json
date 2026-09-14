@@ -1,0 +1,802 @@
+{
+  "schema_version": 1,
+  "at": "2026-09-14T09:33:57.936535+00:00",
+  "model": "bbox_yolo11n",
+  "checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\bbox_yolo11n\\weights\\best.pt",
+  "sha256": "b7b997897c01fb49c80e18fabbf48fcd82a3a31c67ab5a0dec888427f544376c",
+  "task": "bbox",
+  "source_evaluation": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\bbox\\baseline_training\\20260914T093136292094Z_bbox_yolo11n_2da9bfe0\\result.json",
+  "image_count": 150,
+  "image_sha256": [
+    "0130c29ce5350f006b8b10f6750bf796f44b0c727e20869a97e2cdd40e6b179a",
+    "02ccc0f3afe76ffedfbe8d2955bb25a503ead0560aaf100ad896ad02f1483e85",
+    "02d721bdca9bb621fd5ff1375fbc2e0f8ae027d046f70ff0b6d3db170d233c11",
+    "0405a3793e0bea2f02176d49e9d14fa8e63c7183a6e4040980b455c7b83ec167",
+    "099efe73afbf64cf46dccd77073cada6467f8ec25aefcaa6fbcca949d5b986b2",
+    "0a8e2ff37da58722742f7734042a609c61f88bbba047cfd60e42947679e824b3",
+    "0aaf34d25e466be029c55a378962ba28588ae850cb21b41e96e5d4cd8efd0d84",
+    "0b21017a6ba7263b426b7bc9d56f7b95d22271337be1200ca888f7b21ac27f5b",
+    "0e063e8a7282652f15a1e2cb45c811d67b0219b38d6dfb2f7e14e92cb5063a61",
+    "0f438a99bd94c2eebd1ad6b1740c92a3c2bf65de89f19228e348a8c1a7c08996",
+    "0f5fc46bd22d7af157e1a2c099d46889f11a3ad32371d30008c41cea66bb0d43",
+    "1080b00e8f99371bb282745a29ea322242f609bbbca139ab2c05e9fee4e50fbf",
+    "1372ebf1de077196fbf500827c038dde04cc2f4e58592ef3d30803b14681d400",
+    "13a4d3b616e3efd806f8ae230ca4b5b01a09f2b9bf2de36bd3d2a0755fd2bb2e",
+    "13ae2977c8f244f92a11e60ec816bdb58616bee98e03be933d054653e5ed9dbe",
+    "1483fd245f83d86e346830fa02971b943a80b848f3e35f95980dfa7f39ff51e8",
+    "15c0d212e91ca7b1b6ffe7e253066d06282532c88eec41554fc0212c17ee95e4",
+    "16df9d4ef735dd10ed76fcff2b88936dc03279455a22765c4debc42338855249",
+    "1868cb016cee9f98942c6dd2dcf3cb483ed6006c47ecdaee6060ec00af4ad3a0",
+    "18dad0096a6d26453473ea9bec0be199a24eb35ccbfc6f3ed8df1b7c0e9e7a7c",
+    "19a9333bce40b16946afc34c462435ffa6a8b0828fa14bcc903eeb6a56dbec73",
+    "1a321f8b3cba0aefa978c07c2ed36a2bc8e6c445b37626f9952e7a74f56b86f0",
+    "1b73c3b20666245dd3b00e0edd1ef13b0146093f289893b2412665e52871d285",
+    "1bd1e963a5ac1d60cdaafbf38609f67a42a9ce0434752cd36b8b709b6eaf284e",
+    "1c5f5dc7d0ad5eabfc80568520b6c07cd9340c3afb128c5e40853ceb8d13a39b",
+    "1c9a81d34f39721f7f9c1c15265a857810673ed5780f3ee1f0d317f27c82dccb",
+    "1ea3c8b9e4bdf1b785b7b95fb29778c32770265475c42bfee9b4b458ca68c6d6",
+    "2308aff8e15d152f555b4b8e19d4baf44af68abe8322054ffd6d479adc2c9507",
+    "277e8244e3cfcbda8028fd197d76072bd14ad8f9681bb4fe3cf82b0eb53d7c0b",
+    "2bb236f07451a86398961cad2b5214bb3afa1ad7d0eddf76b88430600f1b048e",
+    "2c82c02297736e84716d9cc5a5f2f46dc5d2121ea1a855dd0fa1b54c28224dbb",
+    "328d1dce05bc0ba33ff092337d1f5d7844c4d15d3c372efc96a11ce82151be65",
+    "33e5a332ba467eacd886b45166fa75665f6129026c1c7ff5fede0afc9a407654",
+    "3761c0d97d04b399dffcdd023698cd169b721e6167daf677896f432a170d3365",
+    "3cd97d2517f6d48f1b4641bdc8ce6ccd52318ca9b75ed38444765b29ee966b4d",
+    "3dc0178509bea225ba7cc329ea0e3a34669afe7c9f4ff700bec50f013064036f",
+    "3dd1e4e94596443186f9f0f58c913816031ffbf0e93b52906bac1a5133535c0c",
+    "4182d1e9d293a931801ad74e0b20a99bed2512bde7ec2e1bd9ac15fd955d7f13",
+    "436dc2fd8a3808f08a842e585b46661cdeb7cff9f95969f2a36c44342c251e15",
+    "44001bee7162d65533b74e08ba31c43d92d5b0e9466cbc5616bd9a7993020f1a",
+    "44df3800f6923df88b0359418dc219a79d5fb36cdd0ba25034a8bca6b929ee66",
+    "4562f77ac13c608843149eebb6ab5e69759c26c73edff3ef72b5b6c948ef7481",
+    "484d2176623ba1a9dcc8360f59fbccf42380425eab2721deb3226765bbfdc325",
+    "492830eb31b9de5be4355601633276c042c9bb742b2fad67bf24224454f051df",
+    "4c5a875dd82ba575f9b980692567d84b56930cd92eb20aadd4928478d1f68a80",
+    "4ca0c44f49a8d705180368a6d6a40cd839ba49b773b15388511683841f4ab83d",
+    "50b08f34ffa8adc11e7834851187b70670b46ef83e387cc2311fce786b81e097",
+    "52b9ee5a28e820ede99e253fffc153a254249da1a43f09f4b5e7a37eaa2f4b83",
+    "52e32eebdf8b66ec090fb6c9036300447ade10f5fff8c8962e94a8c9228ee072",
+    "53584792d4d294a1eeca9a17bf75893f5823c5fd277b6c86dfd6a0339e1b7c41",
+    "53bf18910ca52fee35c25626951c84635509d14191988334e2df5526ddb85a38",
+    "5520102cc3118dce1a995387a70d0f91b2c29601eeadfa7b7effce147e3c7290",
+    "5e156f57ac037fd763c4deebd076b34b5db64e1e7a12b60c61c61ba7075e5473",
+    "5e575db702c6d3f8e32f137cfa37b12e06ff13db9d5d54a244ecf67afb25889f",
+    "5eafcce4d07ff09313a4ec89ae2813a917e84cd3f48c782daf0bea89f1879536",
+    "6151e2000bf3ace467342acf51b5e3d4a623e8b65a7e05d7e9e6b350364fff5b",
+    "6160f913e4200a4c9a3ca4d973c9f237732ebad1912abf6561dffca30bb6866c",
+    "63ddafcd8d222ed0267b2e1f47f1819d4a282e5a5b98762f9ffef4ea3a462ca2",
+    "64045da3d693be99b763e7d2b2bfe995505b1b354f50dd9c960907327a706f40",
+    "65592034988c697673224a1202313796be9b75c4e5559c82df6b2cfb98936a48",
+    "67685edd4faf14315c9deb7cfdd88e69bdd9ad85ac71a33cb96075938526db9e",
+    "681d2a62be16af6e99478b5c9500823ad5ae5188a60de24c0ab8b502143a8c5b",
+    "6bd6a512f6f6ca6fda093acadd3ed420b702c83618ed42046b6f502af77aa0cd",
+    "6e1f3cfa357139eb5d919a2030412b1b1cf490759afa66fddcddf2383d63ebd2",
+    "6e635001ac9b43b16d9fd38b2c49f21a2f2e897661d1a4b97dfb70dd1c3d0180",
+    "6ea37041c375b7face413533f9b8708432889bb23b98e017e2c3d92791c42ef1",
+    "6ed015a9c73c7d9157785e6134edbaf600c440b8ebd42b4144ef4c18b97d39ad",
+    "706b75fed5a7cdbcccf18d900b79268537ec7032c4f22909d0f21c03498128cf",
+    "718e6fb0f6b099b26ca3af663737278c8ba4cd76dc1bde0119101f971a765ad0",
+    "74314eab7224a3b84f9d4407e3874c029dc018d3e7ea734d0515fe96d61d927d",
+    "75ccbad3b2425b98706a8ee3fcbcdc6c1f75263ab8a4c2da8f08fa65b0764060",
+    "76df8bced91e91d45f8d6b3e1f2072ef329ef721c34d64887c27dac69335081a",
+    "775d524f0f8d69db298bf973cad5331d2d1a4b854beadbdc2732b5d7225433de",
+    "779e5bb6c678e32e6768f2e49af283a1588facd1f92b1e00d7205d6859681742",
+    "77ba6ffa1f96e613ce53d55ef676ab57361e6dc1f24bbb23a90fce797fa8123a",
+    "79c5542fb8249672a41860be09d2bec151a95f945def42c1415897c3f8a287ea",
+    "7c1c891c20c9bc6defe3b8f4f42ce2c4f7b0ca60a1e1d04d576f2090d0a236da",
+    "7cefce9c7f5dc73cec1c6060954290901c176cd07a78afdcfc5bc2168c3f28fb",
+    "7dce7f2a9d31bceb2106b7b4fd4d5e81852b9c08c60771d1683597dc4400f81d",
+    "8330b716b75726414f9a2954b847059c5772ad59780da51b14961d7e1b466ffd",
+    "846335e8fb49f9c2d0a166a6b8d108291011f50ed468482303099b78435067ae",
+    "857013a6d8ddfb1d5540f14df008aba3d26ee462a3ecaaa9c1c1f4ac08b35315",
+    "85cc1e79d12124f92187f7d26602f95d71d76e205db6d5f013a5b411b5e17fe8",
+    "927330658f4fb7c70cb6404f8495318d8589028bf139ad04f6c7afb5be81e5f2",
+    "92be0bb968a21c3b62d722aa59a9e3b15cad033435fb89d070799795b39715ed",
+    "941a99dabd43a73b5bbf43c4dc9e1831fccc0dc1cb1b005efe6acbee71395457",
+    "951b3dd1c91a826ea7de158d571cc3c8dc70595ac761149b36f51a38e8bf109f",
+    "96823e3072b6ba7a6cc0dc0d8363047f7288e02c9c61c3c4db41938f6be44e0e",
+    "9ab99e896e5c40681c7b8548be062d7ce87970e9b0f5208b5381bf53db73cd37",
+    "9c47f3218cdfdb67ac887aa5a5301f59920f00c9560f0d2d24075354bdc4ac82",
+    "9d74c8fe0e7098c7d9a5c85b49434b454c91cba07d057c43f38c3e20660dd3be",
+    "9e03d123e2811681c1ac18fcc66f870995b7d6461e384f0a63effcc6595ab0da",
+    "9f7e77342211d1ea1a4675bba9756adc2a0bf20268ab8fa224316747e9ea7634",
+    "a0982284728c88ec774d601a0439a99baeb0b8bacbed99c98651e52e22a70565",
+    "a0dea682f3ce3f5d3850ac43de10ed4eff136eac95e09d53f399ee727cc1095f",
+    "a333b2660956ba96b5e941d78ea356994ce371191eac4d96eef0e5c8856d2335",
+    "a3665d4bac6b844be08118281258c404c8ebed9728382ccf76026c5e0f66d734",
+    "a654074e3ef71dcaef4ea6faa069e626142c0821a4d2c490468d2b62c70b6e22",
+    "a753d4fa5688dc6fc167d7ac5f2e008b81d2aa72f7458d9dd317f3a492f80057",
+    "aa607fdd492e4229ca5eaeb4438816e8d700646f12274c8541a8548c36550cc4",
+    "aaa2ff8475b3063ca92f06e38c56bd1d1ff2f09df60b9a76e8cc1203863a09bf",
+    "aae11f115e08a6d68c4d06e279cc723ef27be651dc3924cb466fa5ac4deee278",
+    "af5c0bff398ad2807ebf4c1d131076404ceb8ef590af727b728c5ea2168f5688",
+    "af729f7cf4d3bb7d82617dc097d132434728dedc178ea261fba1e00a40e1cea2",
+    "afdb8adfa08b0cb158aa90a4eaf5225e7ab3f6100ef9566ef495c7443cfdec36",
+    "b08eb2969819305dccc2606a80bc4010b327af79a95fe2c0e48a8fd2472d583e",
+    "b5d52a76bed30725dc45d013a790f34b948eb50b348cf9d6613eb2bef36079f8",
+    "b5f210abc4f4d8da6a2b238f8790088098f31c15cc28cba3545c74a55a7a62a8",
+    "b65c37ed25fafa88837f03841930a25a8667d72c3e372433968a4eb40294bc68",
+    "b78792db203e3778814e91fe98a6bfd310730f9011509626adb92449f4bfe021",
+    "b788e331d1cd0b55ce7bcf48f7810ee0054b15cb833c01402fe824d19f1512dc",
+    "b7931c26eec5b7599280b90e61c8e0dbbfe516622903747cad5ba3a94490cd62",
+    "b83311df992229cba44238ca21885db4294d39851ad77f02ff36eec223402a7f",
+    "b9846e1e7e89e81aa259cd3f1f3a3bb57e0e5eb446ac70d29d85388fad6b3566",
+    "bc9643c968c10093920e1e3b44b07816deeed202d45efaa4a9b6d8a4848c7171",
+    "bd85ae79e3659de737e9f9e26a766ba30a7789c6777db4c6d09aa175e52663cf",
+    "c24cb56f922918b8512962b94f2fb4275c14f2eb81f021c68614b2e20e05f8a0",
+    "c7b24e36b75b0d3b80a44788c50cedfabcea3e74fc7c2a29f14a240571df958c",
+    "c7c2aabd8d8c187076a79a3c8f0939ef1fe19dbd500f610da178a2b5633032a2",
+    "c80df17ef57576c007cdab1eb857d1bf1b468e36fd6142c56fe36b19eed2cb54",
+    "c91dc0c26a4b1969f1f0dbdd9e78c93aa599c6b95f24c9ac2ba2002dbfc52073",
+    "ce46f489408df7d0de9f12dc2782252761b7546bfadd1703d2b8b8ced4cf6a9f",
+    "ced55595ab7e5c24842127494ce3d7b3f0d29c8982aa0cbc6eb75837f3ae1c77",
+    "d0e1f537fb7dc821f3e72c828cc27d32d4c095a8602cd21264ba541851d08cc6",
+    "d9638798890b7b83bdcf3233e4bd04d443e9eec65a0ea428cb06351ec4d27623",
+    "d9c2a48fb053e4e7e08aa508eb141df5f70a5b0d7fc0a648aadfa34b3abfa00a",
+    "da57a2a22f765cdad9a7b28af3129a0160ff2786d5b99804e41d8a41af373bb3",
+    "dc086ffa49ec1b38067efe443cf8c73f85a1904c887ba734707766d8ea826fe6",
+    "dc156b06c92c18fbc94a5227b2dbbba6cbeb8926c1e43c02246a677e22ad45b6",
+    "dfaef7d8917f6d312c809dae7993feb97dc4cd0939b3dc44fe49cea6e9334155",
+    "e214984ad81e08ff92c7ef51a407a4c9c699db07dd813ffebab6664b58eb5059",
+    "e23bda56f0bccfe49c7910b61e9c5c989a63da95c5a06a2026826896b6bfdf07",
+    "e27bfd3cec508e54b38e1ba52f7e6366c48bebe7f2a8973e3e3c01aa7e37b17e",
+    "e3737b7f04efc074b0d8d3739feb7669b481c94f7d38e0a1b573e15492212a52",
+    "e3e6ffca36b1134995034092c6d65996b23514cc7367a272b85a94671467305d",
+    "e52c99d8ffa8d65609fac317dd66745d06762b6e5a6c87f0ec9b7ecead208078",
+    "e727fd7b9d0e2ceee98163767f8d46dcf5bdbe23119d2de87ecadbae067d72c2",
+    "ea3c865f7a7213ef71f114876aab91419a063a5a139c51047bd2031701dd9509",
+    "ec5fc9d47295a139d42cc41ce95a66602579c65c5fee82af8883566231ef172c",
+    "f15b29a981211e3df404779139534640ddf9b1e157bd45c6ae1a876b984ade2b",
+    "f1dad2e12ab413300f924ea725fce64bb44daa97e7404b2bed4a5b1f34583bcf",
+    "f507a0ad80be187cfe098265137720383136e9ae2695fb0c89cbb734e2cdd74d",
+    "f98feda4ef61c3e6fbf8a678600df4357057e6c5e77ef6558c528ea733746f0f",
+    "fb39ec6fe8728ac49330b005e1c1b75e69206fdbf5b028f72b3a5222917d4480",
+    "fbcc9ef2a7149a1f48e2f8b7049b598a8ebf2767574d669580b17838a749b639",
+    "fc60e01e1c71044cd83c9ef816953bf54b06096d554319c528c376a10218b891",
+    "fcc716ef352f85cfb934a1190d5062f82a9fc2e1305b6db44a182041d9d9e1ae",
+    "fd785f49152ef4b63c04963cbd4cbf532013e88b24339809c134702afb5aa0ff",
+    "fef67cad5e70fa3c82a111a4257933b7603159da6f4a2d20adc9c515845ee487",
+    "ffd33072f0dd4a827f0e76fe9bec2dbdb1d734048ed492ba67eaf5a02f05e99f"
+  ],
+  "thresholds": {
+    "0.25": {
+      "images_with_fp": 2,
+      "detections": 2,
+      "per_class": {
+        "vinyl": 1,
+        "battery": 1
+      },
+      "image_fp_rate": 0.013333333333333334
+    },
+    "0.5": {
+      "images_with_fp": 1,
+      "detections": 1,
+      "per_class": {
+        "battery": 1
+      },
+      "image_fp_rate": 0.006666666666666667
+    }
+  },
+  "settings": {
+    "imgsz": 640,
+    "batch": 16,
+    "quantize": 32,
+    "iou": 0.7,
+    "max_det": 300,
+    "device": 0
+  },
+  "images": [
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000000595.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000010083.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000012085.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000024712.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000028674.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000030148.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000045771.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000046114.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000046331.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000050878.jpg",
+      "predictions": [
+        {
+          "class_name": "vinyl",
+          "confidence": 0.297188401222229
+        }
+      ]
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000054173.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000061314.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000061524.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000062850.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000068418.jpg",
+      "predictions": [
+        {
+          "class_name": "battery",
+          "confidence": 0.7413386106491089
+        }
+      ]
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000069383.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000070067.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000072077.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000073022.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000076170.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000077553.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000083065.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000089188.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000089909.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000097423.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000101860.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000109338.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000109835.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000111807.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000115378.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000115772.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000118073.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000136445.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000150746.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000153013.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000155941.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000156710.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000157176.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000169243.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000170311.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000178084.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000179805.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000180463.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000182098.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000182527.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000193222.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000194876.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000197458.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000198561.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000199487.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000204800.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000212780.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000213477.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000213577.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000221540.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000224670.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000224702.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000230164.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000235591.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000237697.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000238138.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000246875.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000248643.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000259149.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000264085.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000264532.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000266504.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000270443.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000271943.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000276418.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000278135.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000278639.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000280873.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000291834.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000294133.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000295359.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000305422.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000313449.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000313593.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000318401.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000323115.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000328008.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000338242.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000338948.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000343933.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000351479.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000357362.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000358378.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000359704.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000361994.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000377983.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000381261.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000382356.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000382668.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000389541.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000389673.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000391410.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000393950.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000394866.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000402305.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000405250.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000406792.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000414244.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000414487.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000416660.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000423715.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000429033.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000429061.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000432420.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000434782.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000434900.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000435549.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000437119.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000437618.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000443723.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000449094.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000456286.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000459136.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000461963.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000464675.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000464812.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000467460.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000470536.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000476360.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000477298.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000483130.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000484150.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000485131.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000489099.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000494900.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000499376.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000506007.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000506311.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000518218.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000521907.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000532013.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000540789.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000541229.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000544690.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000545088.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000556707.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000557678.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000560620.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000561495.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000562015.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000563827.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000564708.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000567346.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000572499.jpg",
+      "predictions": []
+    },
+    {
+      "image": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_bbox\\images\\test\\bg_coco_000000576072.jpg",
+      "predictions": []
+    }
+  ],
+  "note": "현재 공통 test의 빈 라벨 배경입니다. 새 교실·컴퓨터실 현장 평가를 대신하지 않습니다."
+}

@@ -1,0 +1,120 @@
+[
+  {
+    "query": "soju bottle",
+    "family": "glass",
+    "n": 12
+  },
+  {
+    "query": "Korean beer bottle",
+    "family": "glass",
+    "n": 12
+  },
+  {
+    "query": "broken glass bottle",
+    "family": "glass",
+    "n": 12
+  },
+  {
+    "query": "glass bottle green brown clear",
+    "family": "glass",
+    "n": 2
+  },
+  {
+    "query": "crushed beverage can",
+    "family": "can",
+    "n": 12
+  },
+  {
+    "query": "Korean beverage can",
+    "family": "can",
+    "n": 12
+  },
+  {
+    "query": "dented tin can",
+    "family": "can",
+    "n": 12
+  },
+  {
+    "query": "crushed plastic bottle",
+    "family": "plastic",
+    "n": 12
+  },
+  {
+    "query": "Korea plastic bottle",
+    "family": "plastic",
+    "n": 9
+  },
+  {
+    "query": "Yakult bottle",
+    "family": "plastic",
+    "n": 12
+  },
+  {
+    "query": "plastic takeout container",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=plastic+takeout+container+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "shampoo bottle",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=shampoo+bottle+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "Korea cardboard waste",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=Korea+cardboard+waste+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "crumpled paper",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=crumpled+paper+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "milk carton Korea",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=milk+carton+Korea+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "ramyeon packaging",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=ramyeon+packaging+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "plastic bag Korea",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=plastic+bag+Korea+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "snack packaging Korea",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=snack+packaging+Korea+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "used AA batteries",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=used+AA+batteries+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "button cell battery",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=button+cell+battery+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "damaged battery",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=damaged+battery+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "broken ceramic plate",
+    "error": "429 Client Error: Too Many Requests for url: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch=broken+ceramic+plate+filetype%3Abitmap&gsrnamespace=6&gsrlimit=12&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1600"
+  },
+  {
+    "query": "used tissue paper",
+    "family": "general",
+    "n": 12
+  },
+  {
+    "query": "dirty pizza box",
+    "family": "general",
+    "n": 0
+  },
+  {
+    "query": "toothbrush discarded",
+    "family": "general",
+    "n": 2
+  },
+  {
+    "query": "cigarette butts Korea",
+    "family": "general",
+    "n": 2
+  }
+]

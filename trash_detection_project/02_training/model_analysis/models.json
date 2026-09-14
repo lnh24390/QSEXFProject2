@@ -1,0 +1,63 @@
+{
+  "datasets": {
+    "bbox": "03_transfer_learning/03_staged_finetuning/data/bbox_stage2.yaml",
+    "seg": "03_transfer_learning/03_staged_finetuning/data/seg_stage2.yaml"
+  },
+  "models": {
+    "bbox_original": {
+      "task": "bbox",
+      "source": "baseline_training",
+      "path": "04_results/01_initial_finetuning/checkpoints/bbox_yolo26s_nobg_best.pt"
+    },
+    "bbox_first": {
+      "task": "bbox",
+      "source": "01_initial_finetuning",
+      "path": "04_results/01_initial_finetuning/runs/bbox_transfer_640/weights/best.pt"
+    },
+    "bbox_final": {
+      "task": "bbox",
+      "source": "03_staged_finetuning",
+      "path": "04_results/03_staged_finetuning/checkpoints/bbox_final_selected.pt"
+    },
+    "seg_original": {
+      "task": "seg",
+      "source": "baseline_training",
+      "path": "04_results/01_initial_finetuning/checkpoints/seg_yolo11n_best.pt"
+    },
+    "seg_first": {
+      "task": "seg",
+      "source": "01_initial_finetuning",
+      "path": "04_results/01_initial_finetuning/runs/seg_transfer_640/weights/best.pt"
+    },
+    "seg_final": {
+      "task": "seg",
+      "source": "03_staged_finetuning",
+      "path": "04_results/03_staged_finetuning/checkpoints/seg_final_selected.pt"
+    },
+    "bbox_yolo11n": {
+      "task": "bbox",
+      "source": "baseline_training",
+      "path": "04_results/baseline_training/runs/bbox_yolo11n/weights/best.pt"
+    },
+    "bbox_yolo26s": {
+      "task": "bbox",
+      "source": "baseline_training",
+      "path": "04_results/baseline_training/runs/bbox_yolo26s_nobg/weights/best.pt"
+    },
+    "bbox_yolo26s_aborted": {
+      "task": "bbox",
+      "source": "baseline_training",
+      "path": "04_results/baseline_training/runs/bbox_yolo26s_nobg_aborted_patience30_0912_0045/weights/best.pt"
+    },
+    "seg_yolo11n": {
+      "task": "seg",
+      "source": "baseline_training",
+      "path": "04_results/baseline_training/runs/seg_yolo11n/weights/best.pt"
+    },
+    "seg_yolo26s": {
+      "task": "seg",
+      "source": "baseline_training",
+      "path": "04_results/baseline_training/runs/seg_yolo26s_nobg/weights/best.pt"
+    }
+  }
+}

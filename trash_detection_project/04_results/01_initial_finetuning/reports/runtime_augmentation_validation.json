@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "trials": 100,
+  "changed_images": 22,
+  "coordinates_and_classes_unchanged": true,
+  "serialized_transforms_restored": true,
+  "transforms": [
+    {
+      "__version__": "2.0.8",
+      "transform": {
+        "__class_fullname__": "OneOf",
+        "p": 0.15,
+        "transforms": [
+          {
+            "__class_fullname__": "GaussianBlur",
+            "p": 1.0,
+            "blur_limit": [
+              3,
+              5
+            ],
+            "sigma_limit": [
+              0.2,
+              1.0
+            ]
+          },
+          {
+            "__class_fullname__": "MotionBlur",
+            "p": 1.0,
+            "allow_shifted": false,
+            "angle_range": [
+              0.0,
+              360.0
+            ],
+            "blur_limit": [
+              3,
+              5
+            ],
+            "direction_range": [
+              -1.0,
+              1.0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "__version__": "2.0.8",
+      "transform": {
+        "__class_fullname__": "ImageCompression",
+        "p": 0.08,
+        "compression_type": "jpeg",
+        "quality_range": [
+          75,
+          95
+        ]
+      }
+    }
+  ],
+  "torch": "2.14.0+cu126",
+  "ultralytics": "8.4.146",
+  "albumentations": "2.0.8",
+  "gpu": "NVIDIA GeForce RTX 4060",
+  "extra_image_files_created": 0
+}

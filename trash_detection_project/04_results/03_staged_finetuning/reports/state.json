@@ -1,0 +1,41 @@
+{
+  "status": "complete",
+  "sequence": [
+    "bbox_stage2",
+    "bbox_stage3",
+    "bbox_final",
+    "seg_stage2",
+    "seg_stage3",
+    "seg_final"
+  ],
+  "updated_at": "2026-09-14T13:35:26",
+  "pipeline_pid": 13500,
+  "worker_pid": 14980,
+  "task": null,
+  "stage": null,
+  "model": "YOLO11n-seg",
+  "max_epochs": 100,
+  "batch": 16,
+  "source_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\seg_stage3_selected.pt",
+  "epoch": 15,
+  "completed_epochs": 15,
+  "current_epoch_elapsed_seconds": 420.34686260001035,
+  "last_epoch_seconds": 526.8016818000178,
+  "metrics": {
+    "metrics/precision(B)": 0.89429,
+    "metrics/recall(B)": 0.82985,
+    "metrics/mAP50(B)": 0.89798,
+    "metrics/mAP50-95(B)": 0.84818,
+    "metrics/precision(M)": 0.89072,
+    "metrics/recall(M)": 0.8267,
+    "metrics/mAP50(M)": 0.89171,
+    "metrics/mAP50-95(M)": 0.80641,
+    "val/box_loss": 0.3008,
+    "val/seg_loss": 0.73771,
+    "val/cls_loss": 0.60632,
+    "val/dfl_loss": 0.81249,
+    "val/sem_loss": 0.0
+  },
+  "accepted": false,
+  "completed_at": "2026-09-14T13:35:26"
+}

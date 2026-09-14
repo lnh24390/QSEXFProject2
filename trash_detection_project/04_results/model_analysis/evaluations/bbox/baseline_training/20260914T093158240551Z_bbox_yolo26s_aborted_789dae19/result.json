@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-14T09:32:26.109862+00:00",
+  "origin": "measured",
+  "task": "bbox",
+  "model": {
+    "name": "bbox_yolo26s_aborted",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\baseline_training\\runs\\bbox_yolo26s_nobg_aborted_patience30_0912_0045\\weights\\best.pt",
+    "sha256": "ad1ccefbec735369efe6b10f6e94feb385f9ec032cecdf3230d6f02a5cf8dd96",
+    "source": "baseline_training",
+    "native_names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "class_mapping": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "dataset": {
+    "yaml": "C:\\Users\\USER\\Desktop\\trash_detection_project\\03_transfer_learning\\03_staged_finetuning\\data\\bbox_stage2.yaml",
+    "split": "test",
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "count": 2734,
+    "fingerprint": "af8178c4a00442398230b92eb75dde75dba59c9c91dad900b8a32d5a97fc79d4"
+  },
+  "settings": {
+    "imgsz": 640,
+    "batch": 16,
+    "workers": 4,
+    "device": "0",
+    "conf": 0.001,
+    "iou": 0.7,
+    "max_det": 300,
+    "quantize": null,
+    "augment": false,
+    "rect": true,
+    "single_cls": false,
+    "agnostic_nms": false,
+    "classes": null,
+    "plots": false,
+    "save_json": false,
+    "save_txt": false,
+    "verbose": false,
+    "seed": 0,
+    "deterministic": true,
+    "fraction": 1.0,
+    "cache": false,
+    "compile": false,
+    "overlap_mask": true,
+    "mask_ratio": 4,
+    "retina_masks": false,
+    "dnn": false
+  },
+  "environment": {
+    "ultralytics": "8.4.146",
+    "torch": "2.14.0+cu126",
+    "device": "cuda:0",
+    "gpu": "NVIDIA GeForce RTX 4060"
+  },
+  "wall_seconds": 27.820656299998518,
+  "summary": {
+    "metrics": {
+      "metrics/precision(B)": 0.6572750855440931,
+      "metrics/recall(B)": 0.6472317803119958,
+      "metrics/mAP50(B)": 0.6672645877755787,
+      "metrics/mAP50-95(B)": 0.5611511209905653,
+      "fitness": 0.5611511209905653
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "speed_ms": {
+      "preprocess": 0.651547183644949,
+      "inference": 5.5246408189931,
+      "loss": 0.00028884412697635604,
+      "postprocess": 0.5806818216219517
+    },
+    "speed_ms_per_image": {
+      "preprocess": 0.651547183644949,
+      "inference": 5.5246408189931,
+      "loss": 0.00028884412697635604,
+      "postprocess": 0.5806818216219517
+    },
+    "box": {
+      "map": 0.5611511209905653,
+      "map50": 0.6672645877755787,
+      "precision": 0.6572750855440931,
+      "recall": 0.6472317803119958,
+      "per_class_map": [
+        0.7427647259041782,
+        0.37304750501397455,
+        0.5079260887355367,
+        0.5576857541587811,
+        0.6214819607346651,
+        0.4715006690800513,
+        0.6536511433067711
+      ],
+      "per_class": {
+        "paper": {
+          "precision": 0.7399078907775488,
+          "recall": 0.7477743336649592,
+          "map50": 0.7993993924305813,
+          "map": 0.7427647259041782
+        },
+        "plastic": {
+          "precision": 0.5854337499682616,
+          "recall": 0.4064016399105035,
+          "map50": 0.45934550476151254,
+          "map": 0.37304750501397455
+        },
+        "can": {
+          "precision": 0.5771510463022353,
+          "recall": 0.6217616580310881,
+          "map50": 0.589648801281065,
+          "map": 0.5079260887355367
+        },
+        "glass": {
+          "precision": 0.7123880752652849,
+          "recall": 0.5610092843733073,
+          "map50": 0.6560819863695684,
+          "map": 0.5576857541587811
+        },
+        "battery": {
+          "precision": 0.4584473919208104,
+          "recall": 0.8457943925233645,
+          "map50": 0.745719898390293,
+          "map": 0.6214819607346651
+        },
+        "vinyl": {
+          "precision": 0.6406669162292098,
+          "recall": 0.5692695214105793,
+          "map50": 0.5863943867667816,
+          "map": 0.4715006690800513
+        },
+        "general": {
+          "precision": 0.8869305283453001,
+          "recall": 0.7786116322701688,
+          "map50": 0.8342621444292493,
+          "map": 0.6536511433067711
+        }
+      }
+    }
+  },
+  "comparison_key": "09ea332031ad3d46f1a3cfad49305e9d76e5d310e791de3f074fc9ea85c8aaa9",
+  "limitations": [
+    "기존 평가 자료를 다시 본 결과로, 한국 현장·새로운 혼동 사례의 독립 평가를 대신하지 않습니다.",
+    "속도는 이번 검증 실행의 이미지당 시간이며 전용 추론 벤치마크가 아닙니다."
+  ]
+}

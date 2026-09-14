@@ -1,0 +1,16 @@
+{
+  "bbox": {
+    "model": "YOLO26s",
+    "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\runs\\bbox_transfer_640\\weights\\best.pt",
+    "copy": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\bbox_first_transfer_best.pt",
+    "sha256": "67d3d16cc33c52a3b9d9dcf77eb3b1f4df2d172a79245c5472dfb8dfd4ddb09f",
+    "origin": "First transfer result, explicitly requested by user; not original best_train or m checkpoint."
+  },
+  "seg": {
+    "model": "YOLO11n-seg",
+    "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\runs\\seg_transfer_640\\weights\\best.pt",
+    "copy": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\03_staged_finetuning\\checkpoints\\seg_first_transfer_best.pt",
+    "sha256": "a0b36b5ea8696dc3d6a9843edc2e0202cc03f84bba607cca638751da8094cfce",
+    "origin": "First transfer result, explicitly requested by user; not original best_train or m checkpoint."
+  }
+}

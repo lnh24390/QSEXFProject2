@@ -1,0 +1,100 @@
+[
+  {
+    "id": "room_commons_154911763",
+    "tasks": [
+      "bbox",
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "visual review of full 640 image and selected crop; no clearly visible target items",
+    "source_crop_xyxy_from_640_candidate": [
+      225,
+      250,
+      640,
+      500
+    ],
+    "scene": "computer classroom or educational computer use",
+    "unique_source_count": 1
+  },
+  {
+    "id": "room_commons_3207948",
+    "tasks": [
+      "bbox",
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "visual review of full 640 image and selected crop; no clearly visible target items",
+    "source_crop_xyxy_from_640_candidate": [
+      0,
+      0,
+      510,
+      402
+    ],
+    "scene": "computer classroom or educational computer use",
+    "unique_source_count": 1
+  },
+  {
+    "id": "room_commons_46227384",
+    "tasks": [
+      "bbox",
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "visual review of full 640 image and selected crop; no clearly visible target items",
+    "source_crop_xyxy_from_640_candidate": [
+      0,
+      80,
+      640,
+      322
+    ],
+    "scene": "computer classroom or educational computer use",
+    "unique_source_count": 1
+  },
+  {
+    "id": "oi_9c83c711a4ccf039",
+    "tasks": [
+      "bbox",
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "visual review of full 640 image and selected crop; no clearly visible target items",
+    "source_crop_xyxy_from_640_candidate": null,
+    "scene": "computer classroom or educational computer use",
+    "unique_source_count": 1
+  },
+  {
+    "id": "oi_f67db5ff6cd89a9e",
+    "tasks": [
+      "bbox",
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "visual review of full 640 image and selected crop; no clearly visible target items",
+    "source_crop_xyxy_from_640_candidate": null,
+    "scene": "computer classroom or educational computer use",
+    "unique_source_count": 1
+  },
+  {
+    "id": "oi_0efde524f304fa8b",
+    "tasks": [
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "Previously reviewed monitor-only bbox scene also added to seg."
+  },
+  {
+    "id": "oi_105bb5dae2923dea",
+    "tasks": [
+      "seg"
+    ],
+    "split": "train",
+    "annotation": "empty background label",
+    "review": "Previously reviewed monitor-only bbox scene also added to seg."
+  }
+]

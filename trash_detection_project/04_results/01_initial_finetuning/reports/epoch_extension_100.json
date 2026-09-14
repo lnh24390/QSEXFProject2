@@ -1,0 +1,19 @@
+{
+  "changed_at": "2026-09-13T03:36:41.001736",
+  "previous_epochs": 20,
+  "epochs": 100,
+  "patience": 10,
+  "resume_after_completed_epoch": 2,
+  "preserved": [
+    "weights",
+    "optimizer",
+    "scaler",
+    "EMA",
+    "completed epoch history"
+  ],
+  "schedule_note": "Cosine learning-rate horizon extended from 20 to 100; first two epochs retain their original schedule.",
+  "sequence": [
+    "bbox",
+    "seg"
+  ]
+}

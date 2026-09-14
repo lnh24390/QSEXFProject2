@@ -1,0 +1,13 @@
+path: "C:/Users/USER/Desktop/trash_detection_project/01_datasets/original_bbox"
+train: images/train
+val: images/val
+test: images/test
+nc: 7
+names:
+  0: paper
+  1: plastic
+  2: can
+  3: glass
+  4: battery
+  5: vinyl
+  6: general

@@ -1,0 +1,13 @@
+# Provisional: semantic review incomplete. Original task-specific IDs retained.
+path: C:/Users/USER/Desktop/trash_detection_project/01_datasets/finetuning_640/staged_bbox
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: paper
+  1: plastic
+  2: can
+  3: glass
+  4: battery
+  5: vinyl
+  6: general

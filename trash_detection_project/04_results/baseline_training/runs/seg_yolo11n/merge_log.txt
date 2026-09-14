@@ -1,0 +1,5 @@
+[2026-09-12 00:32:51] 기록 통합 시작: C:\Users\USER\Desktop\trash_detection_project\04_results\baseline_training\runs\seg_yolo11n
+metrics.txt: 100개 에포크, 재개 2회, 누적 학습 시간 15:40:08
+results.csv: 시간 초기화 2곳 보정, 마지막 누적 15:40:08
+summary.txt: 총 학습 시간 15:40:08, 에포크 평균 562.2초로 교체, 재개 기록 추가
+원본은 metrics_raw.txt / results_raw.csv / summary_raw.txt 로 보관했습니다.

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.kaggle.com/api/v1/datasets/download/markcsizmadia/object-detection-batteries-dices-and-toy-cars",
+  "path": "sources\\household_batteries\\household_batteries.zip",
+  "bytes": 244276196,
+  "sha256": "6b0cb5c7a849d31508af2030f2109c2604c8fa4deb1bc39d8eada181f2af2053",
+  "members": 6579
+}

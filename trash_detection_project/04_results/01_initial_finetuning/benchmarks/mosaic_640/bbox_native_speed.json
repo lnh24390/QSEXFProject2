@@ -1,0 +1,41 @@
+{
+  "task": "bbox",
+  "mode": "native",
+  "checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\bbox_yolo26s_nobg_best.pt",
+  "gpu": "NVIDIA GeForce RTX 4060",
+  "batch": 16,
+  "workers": 4,
+  "amp": true,
+  "imgsz": 640,
+  "epochs": [
+    {
+      "epoch": 1,
+      "warmup": true,
+      "seconds": 13.389890900012688,
+      "images": 512,
+      "images_per_second": 38.2378022213396,
+      "peak_gpu_allocated_mib": 4290.482421875,
+      "mean_loss": 17.066510289907455
+    },
+    {
+      "epoch": 2,
+      "warmup": false,
+      "seconds": 6.1234198000020115,
+      "images": 512,
+      "images_per_second": 83.61340831145233,
+      "peak_gpu_allocated_mib": 4290.47998046875,
+      "mean_loss": 16.401790380477905
+    },
+    {
+      "epoch": 3,
+      "warmup": false,
+      "seconds": 6.158389599993825,
+      "images": 512,
+      "images_per_second": 83.13861792708168,
+      "peak_gpu_allocated_mib": 4290.4814453125,
+      "mean_loss": 16.69734713435173
+    }
+  ],
+  "mean_images_per_second": 83.3753371877231,
+  "limitation": "Short training-step throughput, no validation/checkpoint saving overhead; no accuracy conclusion; scratch updated weights discarded."
+}

@@ -1,0 +1,7 @@
+paper
+plastic
+can
+glass
+battery
+vinyl
+general

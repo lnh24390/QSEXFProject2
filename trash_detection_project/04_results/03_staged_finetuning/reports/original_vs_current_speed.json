@@ -1,0 +1,23 @@
+{
+  "bbox_yolo26s_nobg": {
+    "epochs": 100,
+    "mean_epoch_seconds_excluding_initial_and_reset_boundaries": 737.7198585858586,
+    "median_epoch_seconds": 738.3000000000029
+  },
+  "bbox_yolo11n": {
+    "epochs": 100,
+    "mean_epoch_seconds_excluding_initial_and_reset_boundaries": 477.81360606060605,
+    "median_epoch_seconds": 477.59999999999854
+  },
+  "current_stage3": {
+    "epochs_completed": 21,
+    "mean_epoch_seconds": 806.6297953699977,
+    "train_entries": 54727,
+    "val_entries": 9628
+  },
+  "original_counts": {
+    "train": 47474,
+    "val": 9178
+  },
+  "same_model_time_increase_percent": 9.340935584441667
+}

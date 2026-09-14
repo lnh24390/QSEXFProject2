@@ -1,0 +1,41 @@
+{
+  "task": "seg",
+  "mode": "none",
+  "checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\seg_yolo11n_best.pt",
+  "gpu": "NVIDIA GeForce RTX 4060",
+  "batch": 16,
+  "workers": 4,
+  "amp": true,
+  "imgsz": 640,
+  "epochs": [
+    {
+      "epoch": 1,
+      "warmup": true,
+      "seconds": 9.34534210000129,
+      "images": 512,
+      "images_per_second": 54.78665141642374,
+      "peak_gpu_allocated_mib": 2410.2685546875,
+      "mean_loss": 33.18682861328125
+    },
+    {
+      "epoch": 2,
+      "warmup": false,
+      "seconds": 3.964623299994855,
+      "images": 512,
+      "images_per_second": 129.14215582617,
+      "peak_gpu_allocated_mib": 2411.61279296875,
+      "mean_loss": 32.27678483724594
+    },
+    {
+      "epoch": 3,
+      "warmup": false,
+      "seconds": 3.9631439999939175,
+      "images": 512,
+      "images_per_second": 129.19035997702474,
+      "peak_gpu_allocated_mib": 2417.39892578125,
+      "mean_loss": 31.016870141029358
+    }
+  ],
+  "mean_images_per_second": 129.1662534042151,
+  "limitation": "Short training-step throughput, no validation/checkpoint saving overhead; no accuracy conclusion; scratch updated weights discarded."
+}

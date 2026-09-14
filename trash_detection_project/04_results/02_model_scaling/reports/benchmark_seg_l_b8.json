@@ -1,0 +1,28 @@
+{
+  "task": "seg",
+  "scale": "l",
+  "batch": 8,
+  "imgsz": 640,
+  "gpu": "NVIDIA GeForce RTX 4060",
+  "gpu_total_mib": 8187.5,
+  "train_parameters": 31384201,
+  "rows": [
+    {
+      "phase": "warmup",
+      "steps": 8,
+      "seconds": 8.100100500014378,
+      "images_per_second": 7.901136535267235,
+      "peak_allocated_mib": 6280.5908203125,
+      "peak_reserved_mib": 6730.0
+    },
+    {
+      "phase": "measured",
+      "steps": 24,
+      "seconds": 8.958132600004319,
+      "images_per_second": 21.43303839908637,
+      "peak_allocated_mib": 6529.220703125,
+      "peak_reserved_mib": 6830.0
+    }
+  ],
+  "limitation": "Short AdamW training-step benchmark; no validation/EMA/checkpoint overhead, not an accuracy comparison; benchmark weights discarded."
+}

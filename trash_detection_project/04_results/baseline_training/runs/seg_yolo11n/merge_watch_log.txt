@@ -1,0 +1,9 @@
+﻿[2026-09-11 10:45:29] 감시 시작 - summary.txt 를 기다립니다
+[2026-09-11 18:50:51] 감시 시작 - summary.txt 를 기다립니다
+[2026-09-12 00:32:51] summary.txt 확인 - 통합 실행
+[2026-09-12 00:32:51] 湲곕줉 ?듯빀 ?쒖옉: C:\Users\USER\Desktop\trash_detection_project\04_results\baseline_training\runs\seg_yolo11n
+metrics.txt: 100媛??먰룷?? ?ш컻 2?? ?꾩쟻 ?숈뒿 ?쒓컙 15:40:08
+results.csv: ?쒓컙 珥덇린??2怨?蹂댁젙, 留덉?留??꾩쟻 15:40:08
+summary.txt: 珥??숈뒿 ?쒓컙 15:40:08, ?먰룷???됯퇏 562.2珥덈줈 援먯껜, ?ш컻 湲곕줉 異붽?
+?먮낯? metrics_raw.txt / results_raw.csv / summary_raw.txt 濡?蹂닿??덉뒿?덈떎.
+[2026-09-12 00:32:51] 완료 (종료 코드 0)

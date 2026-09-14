@@ -1,0 +1,19 @@
+# 데이터셋·가중치·실행 산출물은 저장소에 올리지 않는다 (README 의 다운로드 안내 참고)
+01_datasets/**/images/
+01_datasets/**/labels/
+01_datasets/auxiliary/coco/bg_640/
+01_datasets/auxiliary/coco/annotations/
+*.pt
+*.engine
+*.onnx
+*.tflite
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.gz
+*.log
+*.cache
+*.jsonl
+__pycache__/
+.venv/

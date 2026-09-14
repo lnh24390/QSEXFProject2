@@ -1,0 +1,81 @@
+{
+  "baseline": {
+    "metrics": {
+      "metrics/precision(B)": 0.8514375585181202,
+      "metrics/recall(B)": 0.7896762035537991,
+      "metrics/mAP50(B)": 0.8456443363970878,
+      "metrics/mAP50-95(B)": 0.7610661328221966,
+      "fitness": 0.7610661328221966
+    },
+    "speed_ms_per_image": {
+      "preprocess": 0.6314690563278123,
+      "inference": 5.511107242199033,
+      "loss": 0.0002682150360135513,
+      "postprocess": 0.5767148500442523
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "box": {
+      "map": 0.7610661328221966,
+      "map50": 0.8456443363970878,
+      "per_class_map": [
+        0.8849724312173064,
+        0.5527091742483349,
+        0.8695450844615433,
+        0.6915562009849782,
+        0.7653516432637824,
+        0.7403899053277111,
+        0.8229384902517178
+      ]
+    }
+  },
+  "finetuned": {
+    "metrics": {
+      "metrics/precision(B)": 0.8283591734785497,
+      "metrics/recall(B)": 0.7668083434199707,
+      "metrics/mAP50(B)": 0.8066655696496899,
+      "metrics/mAP50-95(B)": 0.6814002715383632,
+      "fitness": 0.6814002715383632
+    },
+    "speed_ms_per_image": {
+      "preprocess": 0.64018675938871,
+      "inference": 5.511571726415237,
+      "loss": 0.0002703731372031358,
+      "postprocess": 0.6050216899026133
+    },
+    "names": {
+      "0": "paper",
+      "1": "plastic",
+      "2": "can",
+      "3": "glass",
+      "4": "battery",
+      "5": "vinyl",
+      "6": "general"
+    },
+    "box": {
+      "map": 0.6814002715383632,
+      "map50": 0.8066655696496899,
+      "per_class_map": [
+        0.7970365783672493,
+        0.4560721144791808,
+        0.7812522512093811,
+        0.6369082748478625,
+        0.7146398619466683,
+        0.6164821108368309,
+        0.7674107090813694
+      ]
+    }
+  },
+  "original_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\bbox_yolo26s_nobg_best.pt",
+  "new_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\runs\\bbox_transfer_640\\weights\\best.pt",
+  "new_checkpoint_sha256": "67d3d16cc33c52a3b9d9dcf77eb3b1f4df2d172a79245c5472dfb8dfd4ddb09f",
+  "completed_at": "2026-09-13T04:25:42",
+  "note": "Same own-task test images and corrected 640 labels; no deployment or replacement of old best_train files."
+}

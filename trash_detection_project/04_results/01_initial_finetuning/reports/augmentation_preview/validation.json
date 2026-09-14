@@ -1,0 +1,47 @@
+{
+  "no_mosaic": [
+    {
+      "example": 1,
+      "objects": 2,
+      "coordinates_valid": true
+    },
+    {
+      "example": 2,
+      "objects": 6,
+      "coordinates_valid": true
+    },
+    {
+      "example": 3,
+      "objects": 1,
+      "coordinates_valid": true
+    },
+    {
+      "example": 4,
+      "objects": 6,
+      "coordinates_valid": true
+    }
+  ],
+  "mosaic_demo": [
+    {
+      "example": 1,
+      "objects": 5,
+      "coordinates_valid": true
+    },
+    {
+      "example": 2,
+      "objects": 9,
+      "coordinates_valid": true
+    },
+    {
+      "example": 3,
+      "objects": 7,
+      "coordinates_valid": true
+    },
+    {
+      "example": 4,
+      "objects": 11,
+      "coordinates_valid": true
+    }
+  ],
+  "note": "Preview forces mosaic probability 1 only to show examples. Training candidate uses 0.5. No optimizer or model training executed."
+}

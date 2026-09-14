@@ -1,0 +1,51 @@
+{
+  "ready": false,
+  "checked_at": "2026-09-13T10:47:13.430653",
+  "image_validation_source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\reports\\final_training_data_validation.json",
+  "no_new_image_files": true,
+  "models": {
+    "bbox": {
+      "scale": "m",
+      "batch": 8,
+      "checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\02_model_scaling\\checkpoints\\yolo26m.pt",
+      "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\02_training\\pretrained_models\\yolo26m.pt",
+      "sha256": "401cea9ab23ad19246ff7744859816bc599f350e93c9dd30367b6f0a0745d0b7",
+      "initialization": "Size-matched public COCO pretrained checkpoint, not a resumed 7-class s/n checkpoint.",
+      "estimated_training_steps_seconds_per_epoch": 1421.3287060508296,
+      "estimate_excludes": "Validation, EMA, checkpoint saves, warmup and long-run variation",
+      "reason": "m has lower measured compute and memory cost than l; seg batch 4 is close in throughput to 8 with substantially more memory headroom."
+    },
+    "seg": {
+      "scale": "m",
+      "batch": 4,
+      "checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\02_model_scaling\\checkpoints\\yolo26m-seg.pt",
+      "source": "C:\\Users\\USER\\Desktop\\trash_detection_project\\02_training\\pretrained_models\\yolo26m-seg.pt",
+      "sha256": "16b636f04e8fb6a325b3370f22dc5e5535ff473e384f4d041fd28d788f6ee9f5",
+      "initialization": "Size-matched public COCO pretrained checkpoint, not a resumed 7-class s/n checkpoint.",
+      "estimated_training_steps_seconds_per_epoch": 2233.195091029168,
+      "estimate_excludes": "Validation, EMA, checkpoint saves, warmup and long-run variation",
+      "reason": "m has lower measured compute and memory cost than l; seg batch 4 is close in throughput to 8 with substantially more memory headroom."
+    },
+    "selection_basis": "Hardware feasibility, not task accuracy; l remains an untrained follow-up candidate."
+  },
+  "diagnostic": {
+    "changed_only": "warmup_bias_lr 0.1 -> 0.0; same original first-epoch recipe, source checkpoint and data",
+    "result": {
+      "epoch": 1,
+      "seconds": 231.79135720001068,
+      "metrics": {
+        "metrics/precision(B)": 0.91475,
+        "metrics/recall(B)": 0.86357,
+        "metrics/mAP50(B)": 0.91208,
+        "metrics/mAP50-95(B)": 0.66675,
+        "val/box_loss": 1.04271,
+        "val/cls_loss": 0.86419,
+        "val/l1_loss": 0.01342
+      }
+    },
+    "original_first_epoch_map": 0.69559,
+    "original_unmodified_val_map": 0.8491934413965256,
+    "limitation": "Single-seed, single-epoch comparison; does not isolate other failure factors or establish final accuracy."
+  },
+  "reason": "Stopped by user; staged transfer from first-run weights now supersedes this m pipeline."
+}

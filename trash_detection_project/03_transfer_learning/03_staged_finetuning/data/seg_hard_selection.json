@@ -1,0 +1,4861 @@
+[
+  {
+    "id": "s1_auto_0042401eb21b95746d02e742",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0042401eb21b95746d02e742.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_00d96cc08c730da1d1bd47cc",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_00d96cc08c730da1d1bd47cc.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_016c256ade2e52c40791cd3f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_016c256ade2e52c40791cd3f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_01c603ed0a6359f3d0c8ca1a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_01c603ed0a6359f3d0c8ca1a.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_04dec9b964b59e2e2689a2db",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_04dec9b964b59e2e2689a2db.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_060a609c030991964d700c72",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_060a609c030991964d700c72.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_061887875604f934069d3cdf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_061887875604f934069d3cdf.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_06341a78d22c770b3b098759",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_06341a78d22c770b3b098759.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0767882db2a9d02d83b5f923",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0767882db2a9d02d83b5f923.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_07da038cb14ed7919525319f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_07da038cb14ed7919525319f.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_09b762721322b3a863010ddd",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_09b762721322b3a863010ddd.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0a103e63be8fbb01f7a46c1d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0a103e63be8fbb01f7a46c1d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0a471b51683fdc7141c47592",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0a471b51683fdc7141c47592.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0aaf2b6549330886fc1e5c40",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0aaf2b6549330886fc1e5c40.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0add91490e2bf568c457c791",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0add91490e2bf568c457c791.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0be23f5060b7b0343578c1ee",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0be23f5060b7b0343578c1ee.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0c14e49aa904201de9fa905a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0c14e49aa904201de9fa905a.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0c162af62157c6c5ec0ab921",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0c162af62157c6c5ec0ab921.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0c52f5130da3b57a7b34f96a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0c52f5130da3b57a7b34f96a.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0d38316b2e6a2d73406a79e8",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0d38316b2e6a2d73406a79e8.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0d3c4181299bf1e99f5602b1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0d3c4181299bf1e99f5602b1.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0dfcac29df13891545da0d0f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0dfcac29df13891545da0d0f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_0f2a5ab0933a175196f3af0b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_0f2a5ab0933a175196f3af0b.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_10690e2f665e52a8e022d71f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_10690e2f665e52a8e022d71f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_10bc95b47a1870bdc56ebfd7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_10bc95b47a1870bdc56ebfd7.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_10e272979acebb879f8b0f1c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_10e272979acebb879f8b0f1c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_10e4efbebe0c8f2b02123557",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_10e4efbebe0c8f2b02123557.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1130428714e45b6a6fe3b180",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1130428714e45b6a6fe3b180.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_11ac531ca49b0e57254d69de",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_11ac531ca49b0e57254d69de.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1273938930b4a31e71c6060c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1273938930b4a31e71c6060c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_13066a215ef4d54954be4255",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_13066a215ef4d54954be4255.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_130d9151992dbfc14510e004",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_130d9151992dbfc14510e004.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_13d967289deb42815983a7e5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_13d967289deb42815983a7e5.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_13de6bce803776e12771a91c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_13de6bce803776e12771a91c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1756ed6cfbf3541df3e1ced0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1756ed6cfbf3541df3e1ced0.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_187cae800eb65dff3afa209c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_187cae800eb65dff3afa209c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_18aae53bd289cb57610c3a4d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_18aae53bd289cb57610c3a4d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_18e82df9937f1198e0735887",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_18e82df9937f1198e0735887.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1a1f4ba84d64aeb6cf7e50e1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1a1f4ba84d64aeb6cf7e50e1.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1b973174d25ef21cde278cab",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1b973174d25ef21cde278cab.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1bc40d0269ef930e6a40c8c3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1bc40d0269ef930e6a40c8c3.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1d416f486a470529d9877655",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1d416f486a470529d9877655.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1d9429a9cec835ba139ffc98",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1d9429a9cec835ba139ffc98.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1e6f8364da9a53b933e792ba",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1e6f8364da9a53b933e792ba.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_1ef0d4d47ade802cd28f5798",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_1ef0d4d47ade802cd28f5798.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_20018f7c4b30f387edbca44d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_20018f7c4b30f387edbca44d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2014aa2fd50b160bdd360c16",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2014aa2fd50b160bdd360c16.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_21baac4701cd3cc1f0dad561",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_21baac4701cd3cc1f0dad561.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_22c2baf017bbefc9a102a1ef",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_22c2baf017bbefc9a102a1ef.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2322fe2eae979bdcae65a9be",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2322fe2eae979bdcae65a9be.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_24388ba0a94a47d90734e88f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_24388ba0a94a47d90734e88f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_246bfb377152ed536a507f56",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_246bfb377152ed536a507f56.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_249bead1f59bc34ee26ef11c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_249bead1f59bc34ee26ef11c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_24f9c665b3f0ecda59a83da6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_24f9c665b3f0ecda59a83da6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2528d8ce5db65e02481a90e6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2528d8ce5db65e02481a90e6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_26371a1044279471e69c61a6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_26371a1044279471e69c61a6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_289e4e083dfcd159bc5aaf74",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_289e4e083dfcd159bc5aaf74.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_29328487e66487e815fb3fe3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_29328487e66487e815fb3fe3.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_29c00612a68ad254985c475a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_29c00612a68ad254985c475a.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_29d97598b41efbd7cd901832",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_29d97598b41efbd7cd901832.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2ab876043af0978f5d4509d2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2ab876043af0978f5d4509d2.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2c901b1adab005e369501f85",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2c901b1adab005e369501f85.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2ca6bd9e7775c8fa357e416d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2ca6bd9e7775c8fa357e416d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2d9064f042ef731010bc4d4c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2d9064f042ef731010bc4d4c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_2fc5aaf1064b03d836c8ad3d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_2fc5aaf1064b03d836c8ad3d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_30891f179c8638592da5d33d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_30891f179c8638592da5d33d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_30b2429e7ce6f1273128e709",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_30b2429e7ce6f1273128e709.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_332bc3f35675121968a47067",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_332bc3f35675121968a47067.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_333994bdb469976dbf0e41a8",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_333994bdb469976dbf0e41a8.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_352d82b8a19a0ee5e50fafa6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_352d82b8a19a0ee5e50fafa6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_360bb1b49f6f1f02dfb68d12",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_360bb1b49f6f1f02dfb68d12.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3726639bf70df11a8be9800c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3726639bf70df11a8be9800c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_38a0a6857c3ddc866fdd5f48",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_38a0a6857c3ddc866fdd5f48.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_38f27ee1e73abed46c00653e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_38f27ee1e73abed46c00653e.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3972b2b088f450b244a55c15",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3972b2b088f450b244a55c15.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3aacbfd15b35b7ed968daac8",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3aacbfd15b35b7ed968daac8.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3c6bb15efeda22fc0cb3e496",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3c6bb15efeda22fc0cb3e496.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3c953d5668650a8064d4ecd4",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3c953d5668650a8064d4ecd4.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3cb23145b1d3b82a248c64b1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3cb23145b1d3b82a248c64b1.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3e36bee32af0bf859bbe8292",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3e36bee32af0bf859bbe8292.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3e86349867c6834a694bf4c6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3e86349867c6834a694bf4c6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3f320a10309e62ad670ca4d6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3f320a10309e62ad670ca4d6.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_3f4d2007a6e66dbd3b7f24f4",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_3f4d2007a6e66dbd3b7f24f4.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4089d04c549135a1f61da18c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4089d04c549135a1f61da18c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_423cb06f75628107dad2e3fb",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_423cb06f75628107dad2e3fb.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_42676b34e8a0ac1ed7d8a9a4",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_42676b34e8a0ac1ed7d8a9a4.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4271dbcdab4a00c153b897c9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4271dbcdab4a00c153b897c9.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_42ff6f8ae9c47defc38a8ae6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_42ff6f8ae9c47defc38a8ae6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_433181efb959cc26380f0113",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_433181efb959cc26380f0113.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_433da22a2ecf71c83526ab0a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_433da22a2ecf71c83526ab0a.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_453483475c1e491553728047",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_453483475c1e491553728047.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_47053a1747e34e8a99e8312e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_47053a1747e34e8a99e8312e.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_470c82033ac88a8bbe2ee6d3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_470c82033ac88a8bbe2ee6d3.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_47935609ed271ffd212507e1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_47935609ed271ffd212507e1.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_47ad41575ef5bdb4eb52d425",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_47ad41575ef5bdb4eb52d425.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_480d8dddcfeb47eb63b024cd",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_480d8dddcfeb47eb63b024cd.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_49a75f6559d632f082feea05",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_49a75f6559d632f082feea05.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4a0c4f7699e9873658694c33",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4a0c4f7699e9873658694c33.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4baf2f782f926da7a450d693",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4baf2f782f926da7a450d693.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4d42396489dde5bf8147267d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4d42396489dde5bf8147267d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4d893b311d16de922559693d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4d893b311d16de922559693d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4da262406b23c722074a672d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4da262406b23c722074a672d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4e0d9ab4e0385a65d626af28",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4e0d9ab4e0385a65d626af28.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4ef330c21b42fb3220e2acc9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4ef330c21b42fb3220e2acc9.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_4f6be7d1e5ae1fc6a479e1d6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_4f6be7d1e5ae1fc6a479e1d6.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_50f1da4a5da521a29c14e893",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_50f1da4a5da521a29c14e893.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_514fa3e7db7c6cd0b4f20831",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_514fa3e7db7c6cd0b4f20831.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_52104b99c07698e781c3fc96",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_52104b99c07698e781c3fc96.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_52eed9b4d80bb0f2081c4a42",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_52eed9b4d80bb0f2081c4a42.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_53283717987857882f0cdc78",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_53283717987857882f0cdc78.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_53527f570dba87172b02dd2c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_53527f570dba87172b02dd2c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_546f8dc31c5e8eec8ed93d32",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_546f8dc31c5e8eec8ed93d32.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_54d6f3a345e22259c8a2f740",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_54d6f3a345e22259c8a2f740.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_5638da9ceca840797139ba61",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_5638da9ceca840797139ba61.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_580ccfd5101b6848213f7c2c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_580ccfd5101b6848213f7c2c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_589d47ff4944b897f8645a9a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_589d47ff4944b897f8645a9a.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_5920d3bbda6da3921e73ef14",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_5920d3bbda6da3921e73ef14.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_5afae848f8a1f27b564ddf82",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_5afae848f8a1f27b564ddf82.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_5d3355816b95faea94862d7c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_5d3355816b95faea94862d7c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_619003da15f5ac99d901328b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_619003da15f5ac99d901328b.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_62e3b1976cc28f708b6918d1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_62e3b1976cc28f708b6918d1.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_63ad4e3c8a3e85adaedcc92f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_63ad4e3c8a3e85adaedcc92f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_63e70ac6bc0587bac2b9f084",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_63e70ac6bc0587bac2b9f084.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_655246e6881ed36b156676d7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_655246e6881ed36b156676d7.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_655521b68b7bf4802a3beb1f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_655521b68b7bf4802a3beb1f.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_67c718980ce7eaa04633e2ce",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_67c718980ce7eaa04633e2ce.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_67c7db49224d99534977b06d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_67c7db49224d99534977b06d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_6863c9db27faa9bfc4913715",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_6863c9db27faa9bfc4913715.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_6968a20a715f300101d05cf9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_6968a20a715f300101d05cf9.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_698c070eaf47d2c10b91ef2e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_698c070eaf47d2c10b91ef2e.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_6b26ac61d896e5e4dc5b7326",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_6b26ac61d896e5e4dc5b7326.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_6b83d92b3687e964d0cc296d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_6b83d92b3687e964d0cc296d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_6b91f0da34581c5771126e3c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_6b91f0da34581c5771126e3c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_6ea4bfdaacf2c390a8be796c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_6ea4bfdaacf2c390a8be796c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_71ad8ad935195d62f585434c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_71ad8ad935195d62f585434c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_71de21690fe8759ecb7a32e8",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_71de21690fe8759ecb7a32e8.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7246453757065f58e1bd157a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7246453757065f58e1bd157a.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_72919129e8f255822e7ddf90",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_72919129e8f255822e7ddf90.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_736153561fa7f22f78447558",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_736153561fa7f22f78447558.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_736b224d9519b54506d5c755",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_736b224d9519b54506d5c755.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_747bad445f6b285fb18b4246",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_747bad445f6b285fb18b4246.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_74e8f4d778d02f7de8874c78",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_74e8f4d778d02f7de8874c78.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_75405fcad6a3f805cd02cca5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_75405fcad6a3f805cd02cca5.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_75479e298b70cc0657d3f920",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_75479e298b70cc0657d3f920.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_756ec73b12d67614e0f87b45",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_756ec73b12d67614e0f87b45.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_757214ea08824aff73f8cd65",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_757214ea08824aff73f8cd65.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_75a12f9f4cf26350ef85bba8",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_75a12f9f4cf26350ef85bba8.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_772f722635ec7419f9f972ba",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_772f722635ec7419f9f972ba.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7919e9dde50242e203456454",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7919e9dde50242e203456454.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_79658b23bbfb83ef943e35a3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_79658b23bbfb83ef943e35a3.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7980d6a4d14c38e9f7e540b3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7980d6a4d14c38e9f7e540b3.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7997864c673bc2c4b5ce645d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7997864c673bc2c4b5ce645d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_79dddb839bae88970f2fbaad",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_79dddb839bae88970f2fbaad.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7bb5cbd57bb875d1879cf36b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7bb5cbd57bb875d1879cf36b.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7c9c51cc21bbf23482aa67e7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7c9c51cc21bbf23482aa67e7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7d3521876f87d1ba8442b731",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7d3521876f87d1ba8442b731.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7dcb84f08d21da146819faec",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7dcb84f08d21da146819faec.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7eb5719dc7a61fa54d46e7f7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7eb5719dc7a61fa54d46e7f7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7ed4616d769324d0fd69da60",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7ed4616d769324d0fd69da60.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7ef08fab70ff06b154bf25f6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7ef08fab70ff06b154bf25f6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_7f7fd0d12cd8e7aa7dbc78d2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_7f7fd0d12cd8e7aa7dbc78d2.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_80f671661667ef94470bc60d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_80f671661667ef94470bc60d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_82e2c275651b7793922da225",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_82e2c275651b7793922da225.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_833249f46ab948636615e0be",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_833249f46ab948636615e0be.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8366d723800c26f3059ad84c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8366d723800c26f3059ad84c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_84ac5e3b4a3ae7399711fb70",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_84ac5e3b4a3ae7399711fb70.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_854c64be4f889a5b39a8a4c5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_854c64be4f889a5b39a8a4c5.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_85742710e41e69d34397235d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_85742710e41e69d34397235d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_86b7cd9bc7e628dd401bd272",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_86b7cd9bc7e628dd401bd272.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_878ededaa72ce87581c64fb7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_878ededaa72ce87581c64fb7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_883eb885ca7c1848b49dcf6f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_883eb885ca7c1848b49dcf6f.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_88d9cb9dfcf17f4b36651aa7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_88d9cb9dfcf17f4b36651aa7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_89a4c6f609acdf40b5d12244",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_89a4c6f609acdf40b5d12244.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8a0dbec75c97be71c94594bc",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8a0dbec75c97be71c94594bc.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8add6a3c982dcd90de5322fe",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8add6a3c982dcd90de5322fe.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8b764b74cc64a6c92eca3773",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8b764b74cc64a6c92eca3773.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8c10c016558a7ba0735f0a23",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8c10c016558a7ba0735f0a23.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8c224826707c44d551b14977",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8c224826707c44d551b14977.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8c82a7476eb95cee3153326d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8c82a7476eb95cee3153326d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8d4dd93dd6389b24eaef691e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8d4dd93dd6389b24eaef691e.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8dcaa0d7851bc489e4238c31",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8dcaa0d7851bc489e4238c31.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_8e19a74e872e755274d01c30",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_8e19a74e872e755274d01c30.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_90f0b4acaa89ebc10a625555",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_90f0b4acaa89ebc10a625555.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_914b6e26e6b00d4ed6f2bc15",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_914b6e26e6b00d4ed6f2bc15.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_91569f5d8ad69becd2f2b007",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_91569f5d8ad69becd2f2b007.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_916232b71620379c174bf27f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_916232b71620379c174bf27f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_91e69ae9a575c0e103ec0c4c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_91e69ae9a575c0e103ec0c4c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_92276e5f5715bb20420bd0d9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_92276e5f5715bb20420bd0d9.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9268a97aff2579f260a00d05",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9268a97aff2579f260a00d05.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_93f69ca1a69232d575fbb8db",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_93f69ca1a69232d575fbb8db.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_942b31bcf7e99f4c8f68ac02",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_942b31bcf7e99f4c8f68ac02.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_94b1060b358b739e9d30ee63",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_94b1060b358b739e9d30ee63.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9546854748b735095917afc5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9546854748b735095917afc5.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9786ed7a94bc7c1ebaa82f4a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9786ed7a94bc7c1ebaa82f4a.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_98556cf2fdcff47c322e87ac",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_98556cf2fdcff47c322e87ac.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_99098b46c875bc7f1edaff4b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_99098b46c875bc7f1edaff4b.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_99f72b4c5546d9455b857be2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_99f72b4c5546d9455b857be2.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9a4558a044318648ae00c869",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9a4558a044318648ae00c869.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9a8fa22600d7cc21a589948e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9a8fa22600d7cc21a589948e.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9aec43d9280674390062eaa6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9aec43d9280674390062eaa6.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9bc6671a5dcee16173049515",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9bc6671a5dcee16173049515.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9bf4c74101f0871f626a44af",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9bf4c74101f0871f626a44af.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9c2be21aa74b0543f7cbe2f3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9c2be21aa74b0543f7cbe2f3.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9c3930d9bf86d8b4ee02d305",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9c3930d9bf86d8b4ee02d305.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9c66e7ff316ccb53542d7b64",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9c66e7ff316ccb53542d7b64.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9c68cb8e59b69c4ca50f8daf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9c68cb8e59b69c4ca50f8daf.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9d3bab5a90098b4862f41ddf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9d3bab5a90098b4862f41ddf.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9d55a1fe4f918a1581490b97",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9d55a1fe4f918a1581490b97.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9d6f4120611859e3b4cfc81d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9d6f4120611859e3b4cfc81d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9d765cdc1a388329b69f7c96",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9d765cdc1a388329b69f7c96.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9e9ddab7cfdd5630640d1451",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9e9ddab7cfdd5630640d1451.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9ee2b726a7296a21f8e1186b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9ee2b726a7296a21f8e1186b.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_9f8fd6d75de2738260d22c52",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_9f8fd6d75de2738260d22c52.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a2065c719a14b40a0d3106e6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a2065c719a14b40a0d3106e6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a2cba50066e91cd42ec02314",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a2cba50066e91cd42ec02314.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a44ebcbac28e8a5e75cd7ddb",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a44ebcbac28e8a5e75cd7ddb.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a67d44432cd8195e0c065011",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a67d44432cd8195e0c065011.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a6903df1d03fde10c42e0e51",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a6903df1d03fde10c42e0e51.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a7d1aecc32357c32b4d93df9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a7d1aecc32357c32b4d93df9.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a7d61b9502c17a372522c65e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a7d61b9502c17a372522c65e.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_a8847fe02975331c04d66cd5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_a8847fe02975331c04d66cd5.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_aab658406ecd5fbd39980781",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_aab658406ecd5fbd39980781.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ab6590bb9f4cd0fef498b05d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ab6590bb9f4cd0fef498b05d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ab8dfa110e5ad62841e48df0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ab8dfa110e5ad62841e48df0.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_abbef462e3407f7b4a180b70",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_abbef462e3407f7b4a180b70.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ac83ba14bc298d01d9c94aa7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ac83ba14bc298d01d9c94aa7.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_acd39cf9a046bef6bfa57730",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_acd39cf9a046bef6bfa57730.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ad2af82541a794f65d083b11",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ad2af82541a794f65d083b11.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_add529c3cc9840695edb0836",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_add529c3cc9840695edb0836.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_af3078e26a215a09efaf8e12",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_af3078e26a215a09efaf8e12.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_aff14136a614c0e2bea85882",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_aff14136a614c0e2bea85882.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b1d625cee41a5bd4757bc985",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b1d625cee41a5bd4757bc985.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b3a77d37093fa423461368c7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b3a77d37093fa423461368c7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b3bed48b3788f67f046ee300",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b3bed48b3788f67f046ee300.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b3edf23ea6c47e92e413bdfe",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b3edf23ea6c47e92e413bdfe.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b4a4b96dd4a40084b29f9ff3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b4a4b96dd4a40084b29f9ff3.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b622dd2f6e3b9f9d5572ee02",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b622dd2f6e3b9f9d5572ee02.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b63b90327cec4814110c44af",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b63b90327cec4814110c44af.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b7ba664ba0f19c6cf407d4d4",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b7ba664ba0f19c6cf407d4d4.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b7e899639239e99273d86e8c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b7e899639239e99273d86e8c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b8f9c28191b20c81dcf38a18",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b8f9c28191b20c81dcf38a18.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_b95ccf77542225209204656d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_b95ccf77542225209204656d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ba33b979216cee8181e0e200",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ba33b979216cee8181e0e200.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ba43976afe2fe10c026b785a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ba43976afe2fe10c026b785a.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_bb30f9f1cbbfd077d079cc10",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_bb30f9f1cbbfd077d079cc10.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_bcb7183a91f72da91077f382",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_bcb7183a91f72da91077f382.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_bdce3c051977f9be3b8900b5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_bdce3c051977f9be3b8900b5.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_be1fa0ab98390945e5cdfede",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_be1fa0ab98390945e5cdfede.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_be3709b243fbcac3c8a84b94",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_be3709b243fbcac3c8a84b94.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_be755fa252f273efce5dc40b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_be755fa252f273efce5dc40b.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_befe03db44ad0923b3f88239",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_befe03db44ad0923b3f88239.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_bf5372f1cbf7026d55226543",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_bf5372f1cbf7026d55226543.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_bf707794facc21fba17eeddf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_bf707794facc21fba17eeddf.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c0817698d5948987a7e8dfaf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c0817698d5948987a7e8dfaf.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c152974c798bd0eb3e142214",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c152974c798bd0eb3e142214.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c2b3625b5d4bd93f94bb5612",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c2b3625b5d4bd93f94bb5612.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c32755955367267403c22974",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c32755955367267403c22974.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c3e2ae00c34ffced2902027d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c3e2ae00c34ffced2902027d.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c3f2d6cae77d5990f174cae0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c3f2d6cae77d5990f174cae0.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c521056e1a08c465daca3f16",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c521056e1a08c465daca3f16.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c6344b100fa79a31c60dbf46",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c6344b100fa79a31c60dbf46.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c68cd252c88f58e36de7fde2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c68cd252c88f58e36de7fde2.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c7714fc789d6783cfdf5edaf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c7714fc789d6783cfdf5edaf.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c7ee0e7c2884b87a5c453265",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c7ee0e7c2884b87a5c453265.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c8075885950ef3a9d22e11e9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c8075885950ef3a9d22e11e9.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c8c7b7d19c3e098d858b4812",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c8c7b7d19c3e098d858b4812.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c923184fcccba0e4194cb815",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c923184fcccba0e4194cb815.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_c92514697bea64249ad4942b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_c92514697bea64249ad4942b.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_caffd0f260db794a1047cc4e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_caffd0f260db794a1047cc4e.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_cb3288f8e9d7e725c065e2e1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_cb3288f8e9d7e725c065e2e1.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ce83d8522904a75d701a0164",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ce83d8522904a75d701a0164.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ceced433730ac4cc276e4aec",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ceced433730ac4cc276e4aec.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_cf1370b088a3271925217613",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_cf1370b088a3271925217613.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_cf741dd31eae2f439030a1b8",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_cf741dd31eae2f439030a1b8.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d02d4a11c884b84eb3390585",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d02d4a11c884b84eb3390585.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d08949d72bc74c6ce4554647",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d08949d72bc74c6ce4554647.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d0a0f110cdd6b36af5af3b9c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d0a0f110cdd6b36af5af3b9c.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d16efc94a4b6581218738cf7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d16efc94a4b6581218738cf7.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d274b6b420ee6702fe2f656c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d274b6b420ee6702fe2f656c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d3142c1feaf72ecfea77b5bc",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d3142c1feaf72ecfea77b5bc.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d33c9f36c93a6bb48d58a741",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d33c9f36c93a6bb48d58a741.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d382936a67263a9048b2e567",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d382936a67263a9048b2e567.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d47245d73413fc38cc2e7afb",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d47245d73413fc38cc2e7afb.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d60977e81673827cc3f8f0b1",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d60977e81673827cc3f8f0b1.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d8d2fa4235f513db5394ac72",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d8d2fa4235f513db5394ac72.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_d90866c961bac9500eea0601",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_d90866c961bac9500eea0601.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_db537c41bc4f2e3593cf3e53",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_db537c41bc4f2e3593cf3e53.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_dbc463b1010caad6cd029c1c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_dbc463b1010caad6cd029c1c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_dc12392143811f72c5c1976c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_dc12392143811f72c5c1976c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_dce56a9dd418690f2738d8cd",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_dce56a9dd418690f2738d8cd.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_de50cf2294f655ebc9665abb",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_de50cf2294f655ebc9665abb.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_de93e621dacf05482c3e5e1f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_de93e621dacf05482c3e5e1f.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ded94792018e474c7bbb5171",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ded94792018e474c7bbb5171.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e063eee7e349d2e58377aac6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e063eee7e349d2e58377aac6.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e14eb4bf9672c5998e47577c",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e14eb4bf9672c5998e47577c.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e1a90f5d445a7062269f7c91",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e1a90f5d445a7062269f7c91.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e1bb0bf1c96530311c1e7815",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e1bb0bf1c96530311c1e7815.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e21d6dc795204f154f5bc313",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e21d6dc795204f154f5bc313.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e32449684fe2106706401c6f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e32449684fe2106706401c6f.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e34aa4bdbce0b2dd7f061aeb",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e34aa4bdbce0b2dd7f061aeb.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e4174fffcb6be693f480bcb0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e4174fffcb6be693f480bcb0.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e584bc0a70525bf7346ba0f0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e584bc0a70525bf7346ba0f0.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e7474968ce0140c0a956ff6f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e7474968ce0140c0a956ff6f.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e753e1d34c583c97ea2ba5db",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e753e1d34c583c97ea2ba5db.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e76465894140e49d5b7c04e4",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e76465894140e49d5b7c04e4.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e87149ddc11a8a4ff2a474d7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e87149ddc11a8a4ff2a474d7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_e92028953d70a20d7bf249d0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_e92028953d70a20d7bf249d0.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ec43559c8ed8e6e31ba85930",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ec43559c8ed8e6e31ba85930.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ed12787a8322174b985005a3",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ed12787a8322174b985005a3.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ed548335a9ed442cb9a25525",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ed548335a9ed442cb9a25525.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ed617c677e930ef654d2c782",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ed617c677e930ef654d2c782.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ed9c003aa291fc184a4957f2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ed9c003aa291fc184a4957f2.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_eefa62d605162973877c4cd2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_eefa62d605162973877c4cd2.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ef6f907fe5cf9cd32cf47440",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ef6f907fe5cf9cd32cf47440.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_eff244547ace0f88b72b4cc9",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_eff244547ace0f88b72b4cc9.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f11695589e57a05bf0dd25f7",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f11695589e57a05bf0dd25f7.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f12e72bd98e3963c7959a661",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f12e72bd98e3963c7959a661.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f15fec31fd3ead92c8609145",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f15fec31fd3ead92c8609145.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f282277a45d9349b45c14c39",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f282277a45d9349b45c14c39.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f38fbb7ecc7a6850e9cd7cda",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f38fbb7ecc7a6850e9cd7cda.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f3e25a42926bc812932fa4c2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f3e25a42926bc812932fa4c2.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f40dda2233074b62ff3684a5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f40dda2233074b62ff3684a5.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f43cadcc0167966c2bfba4e0",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f43cadcc0167966c2bfba4e0.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f5b2234065a1bb8d11c09421",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f5b2234065a1bb8d11c09421.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f5e4a659a1ff05a58b1104cf",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f5e4a659a1ff05a58b1104cf.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f62f5d1ef353f4688126dc27",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f62f5d1ef353f4688126dc27.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f6737dd1c36e5230575d2430",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f6737dd1c36e5230575d2430.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f6a35bc7e53602cb1ceefbc5",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f6a35bc7e53602cb1ceefbc5.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f6ce4ab31ff79311a6a5ba46",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f6ce4ab31ff79311a6a5ba46.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f702ad3a5aab84c9e2b3b933",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f702ad3a5aab84c9e2b3b933.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f73d1e1ae35305d896cacb45",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f73d1e1ae35305d896cacb45.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f8a231f9ab7cd865d659c694",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f8a231f9ab7cd865d659c694.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f8a7a79f44c9254a3db94db2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f8a7a79f44c9254a3db94db2.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f91ca04ef9a09a1bc8b5f17a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f91ca04ef9a09a1bc8b5f17a.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f9350ce4eab8b704b367fc22",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f9350ce4eab8b704b367fc22.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_f955f1211690725a8ef0e1e2",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_f955f1211690725a8ef0e1e2.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fa45cc423b3167129cce1287",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fa45cc423b3167129cce1287.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fa4983ac23ece08731009110",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fa4983ac23ece08731009110.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fa605cfbf34d79168070e127",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fa605cfbf34d79168070e127.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fab320de61481eede3a4552f",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fab320de61481eede3a4552f.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fb579456a19564df2a98815d",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fb579456a19564df2a98815d.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fc18985cd21180cf6ddbc5d4",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fc18985cd21180cf6ddbc5d4.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fc1f0e129278d8d526b1d5d6",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fc1f0e129278d8d526b1d5d6.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fc3565afcb9b0e5c898c9a35",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fc3565afcb9b0e5c898c9a35.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_fd04cad4e547885de035a22a",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_fd04cad4e547885de035a22a.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s1_auto_ffeb37ffb942344626b650eb",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s1_auto_ffeb37ffb942344626b650eb.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s2_supp_realwaste_29c31b493b1e46c4429e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s2_supp_realwaste_29c31b493b1e46c4429e.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000054",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000054.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000056",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000056.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "s3_taco_000057",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000057.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000065",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000065.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000066",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000066.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "s3_taco_000093",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000093.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000142",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000142.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000144",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000144.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000165",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000165.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000188",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000188.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000291",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000291.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000411",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000411.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000488",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000488.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000490",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000490.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000618",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000618.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000631",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000631.jpg",
+    "kind": "common_original",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000642",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000642.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "s3_taco_000696",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000696.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000722",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000722.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000728",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000728.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000730",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000730.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000743",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000743.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000752",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000752.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000777",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000777.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000809",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000809.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000810",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000810.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000846",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000846.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_000849",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000849.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000875",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000875.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000882",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000882.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000948",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000948.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000951",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000951.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_000959",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000959.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000964",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000964.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000965",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000965.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000970",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000970.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_000995",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_000995.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001013",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001013.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001204",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001204.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001238",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001238.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001311",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001311.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001315",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001315.jpg",
+    "kind": "common_original",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_001358",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001358.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_001380",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001380.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001390",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001390.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "s3_taco_001398",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001398.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_001401",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001401.jpg",
+    "kind": "common_original",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_001415",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001415.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "s3_taco_001422",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001422.jpg",
+    "kind": "real_general_replay_repeat",
+    "classes": [
+      "general",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "s3_taco_001440",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001440.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001465",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001465.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001466",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001466.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "s3_taco_001478",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\images__train__s3_taco_001478.jpg",
+    "kind": "common_original",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000001",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000001.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000011",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000011.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000012",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000012.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "glass",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000035",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000035.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000041",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000041.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000047",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000047.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000048",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000048.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000049",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000049.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000053",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000053.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000067",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000067.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "glass",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000070",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000070.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000073",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000073.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000076",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000076.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000084",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000084.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000085",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000085.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000098",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000098.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000100",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000100.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000125",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000125.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general"
+    ]
+  },
+  {
+    "id": "new_taco_000127",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000127.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000128",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000128.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000131",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000131.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000132",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000132.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000136",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000136.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general",
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000138",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000138.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000147",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000147.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000184",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000184.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000189",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000189.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000199",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000199.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000201",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000201.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000202",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000202.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000204",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000204.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000205",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000205.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000206",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000206.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000207",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000207.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000210",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000210.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000211",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000211.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000212",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000212.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000213",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000213.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000214",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000214.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000215",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000215.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000217",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000217.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000229",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000229.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000232",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000232.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000254",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000254.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000268",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000268.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000270",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000270.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000272",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000272.jpg",
+    "kind": "new_source",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000275",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000275.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000277",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000277.jpg",
+    "kind": "new_source",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000290",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000290.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000297",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000297.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000305",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000305.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000320",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000320.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000347",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000347.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000348",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000348.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000361",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000361.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000364",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000364.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000387",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000387.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000388",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000388.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000416",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000416.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000449",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000449.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000453",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000453.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000454",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000454.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000455",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000455.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000472",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000472.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000479",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000479.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000518",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000518.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000521",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000521.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000522",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000522.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000548",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000548.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "new_taco_000560",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000560.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000563",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000563.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000572",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000572.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000593",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000593.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000626",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000626.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "new_taco_000656",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000656.jpg",
+    "kind": "new_source",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000659",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000659.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000689",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000689.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000692",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000692.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000695",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000695.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000697",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000697.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000712",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000712.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000715",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000715.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000746",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000746.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000750",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000750.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000753",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000753.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000754",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000754.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000755",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000755.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000759",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000759.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000763",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000763.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000773",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000773.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000774",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000774.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000778",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000778.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general"
+    ]
+  },
+  {
+    "id": "new_taco_000787",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000787.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000795",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000795.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000796",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000796.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000802",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000802.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000812",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000812.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000817",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000817.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000820",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000820.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000821",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000821.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000823",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000823.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000824",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000824.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000838",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000838.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "glass",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000868",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000868.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000869",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000869.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000870",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000870.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000907",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000907.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000928",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000928.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000947",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000947.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000954",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000954.jpg",
+    "kind": "new_source",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_000961",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000961.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_000988",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000988.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_000997",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_000997.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001001",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001001.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001012",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001012.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001015",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001015.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001021",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001021.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001029",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001029.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001046",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001046.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001050",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001050.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001054",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001054.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001065",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001065.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001070",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001070.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001085",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001085.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001104",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001104.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001105",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001105.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001111",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001111.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001117",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001117.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001119",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001119.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001123",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001123.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001151",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001151.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001153",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001153.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001165",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001165.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001171",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001171.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001179",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001179.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001194",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001194.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001203",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001203.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001205",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001205.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001207",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001207.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001209",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001209.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001210",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001210.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001215",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001215.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001216",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001216.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001228",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001228.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001235",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001235.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001239",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001239.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "paper",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001242",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001242.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001247",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001247.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001253",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001253.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001257",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001257.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "glass",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001281",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001281.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001287",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001287.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001325",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001325.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001329",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001329.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001332",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001332.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001350",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001350.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001364",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001364.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001366",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001366.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "can",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001375",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001375.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001377",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001377.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001378",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001378.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001393",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001393.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001396",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001396.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001409",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001409.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "new_taco_001423",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001423.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001427",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001427.jpg",
+    "kind": "new_source",
+    "classes": [
+      "can",
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001428",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001428.jpg",
+    "kind": "new_source",
+    "classes": [
+      "general",
+      "plastic",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001463",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001463.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001473",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001473.jpg",
+    "kind": "new_source",
+    "classes": [
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001485",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001485.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper"
+    ]
+  },
+  {
+    "id": "new_taco_001486",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001486.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "general",
+      "paper",
+      "vinyl"
+    ]
+  },
+  {
+    "id": "new_taco_001498",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\new_taco_001498.jpg",
+    "kind": "new_source_repeat",
+    "classes": [
+      "paper",
+      "plastic"
+    ]
+  },
+  {
+    "id": "oi_0efde524f304fa8b",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\oi_0efde524f304fa8b.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  },
+  {
+    "id": "oi_105bb5dae2923dea",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\oi_105bb5dae2923dea.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  },
+  {
+    "id": "oi_9c83c711a4ccf039",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\oi_9c83c711a4ccf039.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  },
+  {
+    "id": "oi_f67db5ff6cd89a9e",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\oi_f67db5ff6cd89a9e.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  },
+  {
+    "id": "room_commons_154911763",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\room_commons_154911763.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  },
+  {
+    "id": "room_commons_3207948",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\room_commons_3207948.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  },
+  {
+    "id": "room_commons_46227384",
+    "path": "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\training_640_seg\\images\\train\\room_commons_46227384.jpg",
+    "kind": "new_source_repeat",
+    "classes": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "records": [
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\seg\\baseline_training\\20260914T091738414302Z_seg_original_1b200b06\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\evaluations\\seg\\baseline_training\\20260914T093230212608Z_seg_yolo26s_0dfcee38\\result.json"
+  ],
+  "comparison_key": "3f730921de4f7759628fb8599a88204b12b93436e0906dcca43a2189562b3fc5",
+  "limitations": [
+    "기존 평가 자료를 다시 본 결과로, 한국 현장·새로운 혼동 사례의 독립 평가를 대신하지 않습니다.",
+    "속도는 이번 검증 실행의 이미지당 시간이며 전용 추론 벤치마크가 아닙니다."
+  ]
+}

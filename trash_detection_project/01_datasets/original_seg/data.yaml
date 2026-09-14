@@ -1,0 +1,13 @@
+path: C:/Users/USER/Desktop/trash_detection_project/01_datasets/original_seg
+train: images/train
+val: images/val
+test: images/test
+nc: 7
+names:
+  0: general
+  1: can
+  2: plastic
+  3: paper
+  4: glass
+  5: vinyl
+  6: battery

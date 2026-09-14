@@ -1,0 +1,32 @@
+{
+  "status": "stopped_by_user",
+  "pipeline_pid": 10084,
+  "sequence": [
+    "bbox",
+    "seg"
+  ],
+  "updated_at": "2026-09-13T12:42:08",
+  "worker_pid": 22272,
+  "active_task": null,
+  "detail": "User requested stopping m and continuing from first transfer in staged learning.",
+  "model": "YOLO26m",
+  "batch": 8,
+  "max_epochs": 100,
+  "started_at": "2026-09-13T10:48:53.010572",
+  "epoch": 5,
+  "last_completed_epoch": 4,
+  "last_epoch_seconds": 1680.832630400022,
+  "metrics": {
+    "metrics/precision(B)": 0.8984,
+    "metrics/recall(B)": 0.82487,
+    "metrics/mAP50(B)": 0.89723,
+    "metrics/mAP50-95(B)": 0.79307,
+    "val/box_loss": 0.52286,
+    "val/cls_loss": 0.50183,
+    "val/l1_loss": 0.0062
+  },
+  "beats_original_val_fitness": false,
+  "stopped_at": "2026-09-13T13:16:28",
+  "last_saved_epoch": 4,
+  "seg_started": false
+}

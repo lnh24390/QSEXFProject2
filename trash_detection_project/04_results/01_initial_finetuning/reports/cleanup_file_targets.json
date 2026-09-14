@@ -1,0 +1,14 @@
+[
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\legacy_bbox_manifest.jsonl",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\legacy_seg_manifest.jsonl",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\garbage_v2\\garbage_v2.zip",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\household_batteries\\household_batteries.zip",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\openimages\\test_target_boxes.json",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\openimages\\train_target_boxes.json",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\openimages\\validation_target_boxes.json",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\rvm\\test.zip",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\rvm\\train.zip",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\taco\\annotations.json",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\taco_archive\\TACO.zip",
+  "C:\\Users\\USER\\Desktop\\trash_detection_project\\01_datasets\\finetuning_640\\sources\\warp\\WaRP.zip"
+]

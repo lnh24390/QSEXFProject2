@@ -1,0 +1,90 @@
+{
+  "bbox": {
+    "common_train_pool": 47054,
+    "target_old_labeled": 6444,
+    "common_original_images": 6444,
+    "task_specific_original_images": 0,
+    "common_background_images": 677,
+    "new_unique_images": 3229,
+    "epoch_entries": 11040,
+    "unique_train_images": 10350,
+    "source_entry_counts": {
+      "common_original": 6444,
+      "new_source": 3229,
+      "real_general_replay_repeat": 400,
+      "common_background": 677,
+      "packaging_repeat": 200,
+      "new_general_repeat": 76,
+      "new_background_repeat": 14
+    },
+    "background_exposures_per_epoch": 698,
+    "background_unique_images": 684,
+    "general_real_repeat_count": 400,
+    "class_image_exposures_per_epoch": {
+      "can": 1975,
+      "paper": 1976,
+      "plastic": 3589,
+      "glass": 1817,
+      "battery": 1684,
+      "general": 1432,
+      "vinyl": 1273
+    },
+    "class_object_exposures_per_epoch": {
+      "can": 2508,
+      "plastic": 9580,
+      "paper": 2424,
+      "glass": 2066,
+      "battery": 2644,
+      "general": 2029,
+      "vinyl": 1903
+    },
+    "original_generated_images": 181,
+    "own_val_test_ids_in_train": 0,
+    "val_images": 9628,
+    "test_images": 2734
+  },
+  "seg": {
+    "common_train_pool": 47054,
+    "target_old_labeled": 6444,
+    "common_original_images": 6444,
+    "task_specific_original_images": 0,
+    "common_background_images": 677,
+    "new_unique_images": 307,
+    "epoch_entries": 8442,
+    "unique_train_images": 7428,
+    "source_entry_counts": {
+      "new_source": 307,
+      "common_original": 6444,
+      "common_background": 677,
+      "new_source_repeat": 614,
+      "real_general_replay_repeat": 400
+    },
+    "background_exposures_per_epoch": 698,
+    "background_unique_images": 684,
+    "general_real_repeat_count": 400,
+    "class_image_exposures_per_epoch": {
+      "paper": 1449,
+      "vinyl": 1356,
+      "battery": 1215,
+      "general": 1419,
+      "can": 1617,
+      "plastic": 1491,
+      "glass": 1406
+    },
+    "class_object_exposures_per_epoch": {
+      "paper": 1866,
+      "vinyl": 2047,
+      "battery": 1858,
+      "general": 2009,
+      "can": 2322,
+      "plastic": 2388,
+      "glass": 1619
+    },
+    "original_generated_images": 181,
+    "own_val_test_ids_in_train": 0,
+    "val_images": 9629,
+    "test_images": 2734
+  },
+  "common_selected_unique_images": 7428,
+  "note": "Training only. Seg new sources repeated 3x total for sampling, not counted as independent new images. General real photos and packaging/hard backgrounds receive documented bounded extra exposure. Class IDs remain task-specific. Source-label and structural validation are not exhaustive visual review."
+}

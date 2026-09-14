@@ -1,0 +1,37 @@
+{
+  "evaluations": [
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\test\\original\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\test\\first_transfer\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\test\\final_selected\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\val\\original\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\bbox\\val\\final_selected\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\seg\\test\\original\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\seg\\test\\first_transfer\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\seg\\test\\final_selected\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\seg\\val\\original\\result.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\seg\\val\\final_selected\\result.json"
+  ],
+  "comparisons": [
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\comparisons\\20260914T091303496835Z_bbox_comparison_c5703c1b",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\comparisons\\20260914T091303528920Z_bbox_comparison_5cf530b4",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\comparisons\\20260914T091303556233Z_seg_comparison_39ffcaa2",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\comparisons\\20260914T091303570045Z_seg_comparison_469263d7"
+  ],
+  "training_summaries": [
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\baseline_training\\bbox_yolo11n\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\baseline_training\\bbox_yolo26s_nobg\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\baseline_training\\bbox_yolo26s_nobg_aborted_patience30_0912_0045\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\baseline_training\\seg_yolo11n\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\baseline_training\\seg_yolo26s_nobg\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\01_initial_finetuning\\bbox_transfer_640\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\01_initial_finetuning\\seg_transfer_640\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\02_model_scaling\\bbox_yolo26m_v2\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\02_model_scaling\\diagnostic_s_warmup0\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\03_staged_finetuning\\bbox_final\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\03_staged_finetuning\\bbox_stage2\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\03_staged_finetuning\\bbox_stage3\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\03_staged_finetuning\\seg_final\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\03_staged_finetuning\\seg_stage2\\summary.json",
+    "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\model_analysis\\historical\\20260914T091303442386Z_existing_results_f7d87dc2\\training\\03_staged_finetuning\\seg_stage3\\summary.json"
+  ]
+}

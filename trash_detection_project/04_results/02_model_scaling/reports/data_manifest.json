@@ -1,0 +1,43 @@
+{
+  "bbox": {
+    "counts": {
+      "train": 53103,
+      "val": 9628,
+      "test": 2734
+    },
+    "train_class_instances": {
+      "battery": 12499,
+      "general": 9219,
+      "can": 9764,
+      "paper": 10915,
+      "plastic": 21080,
+      "glass": 8880,
+      "vinyl": 10905
+    },
+    "duplicates_in_epoch": 0,
+    "image_storage": "Existing verified 640 JPEG files; paths only, no image duplication."
+  },
+  "seg": {
+    "counts": {
+      "train": 50180,
+      "val": 9629,
+      "test": 2734
+    },
+    "train_class_instances": {
+      "general": 9060,
+      "battery": 10866,
+      "can": 9132,
+      "paper": 10223,
+      "vinyl": 10833,
+      "plastic": 13898,
+      "glass": 8366
+    },
+    "duplicates_in_epoch": 0,
+    "image_storage": "Existing verified 640 JPEG files; paths only, no image duplication."
+  },
+  "original_mix": {
+    "common_old_train": 47054,
+    "all_old_train_restored": true,
+    "note": "Own task-specific old train included for coverage; never import the other task val/test. Common original images remain the majority."
+  }
+}

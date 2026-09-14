@@ -1,0 +1,7 @@
+{
+  "url": "https://www.kaggle.com/api/v1/datasets/download/parohod/warp-waste-recycling-plant-dataset",
+  "path": "sources\\warp\\WaRP.zip",
+  "bytes": 844977310,
+  "sha256": "e06cf314e592334afb3478f61cace5f1a4cae7711f32048244ff3a9f52815682",
+  "members": 16898
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_1.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_1.jpg",
+    "sha256": "617939979064d34813706ba3df2ebb995504f5c6b6d38f02b65672746c6ce3d9",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_127.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_127.jpg",
+    "sha256": "528f7bd5007a2f7d25ae7132f7efb764e745c354bef290086b8cefebdc467152",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_155.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_155.jpg",
+    "sha256": "b8fb6164424c7ae29bf03395dc3a823c8f65d55eb61823a90c52c6f5ec796d11",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_183.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_183.jpg",
+    "sha256": "d70ec4241eb22079d679722d517d2ad4cb6ee9d25b1a54964a96aed5da822e0e",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_210.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_210.jpg",
+    "sha256": "ed918994c7bd52a1b3f7c4f7bc672be7b194acb62488ba6996725118f334a7b2",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_239.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_239.jpg",
+    "sha256": "cdb50787d4f7a9318ce4bd12d27f1ad572bbdea845f6bfdfb94654043200eb4f",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_267.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_267.jpg",
+    "sha256": "9a65129d06e5143408bdff2df628ceea0b7b3688ee62622b5c86f9b5dcba813a",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_295.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_295.jpg",
+    "sha256": "55845d548658d04e9e78a663abccfee537d3e6e4c566ee5dc5d9ac610f12f4ed",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_322.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_322.jpg",
+    "sha256": "63c7e78d01f30a79a8c13da892f67d6bb1b89592a60e514d28266c28b8edcf43",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_350.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_350.jpg",
+    "sha256": "e7678d89172cf2138df67b552d042becbe66f4b222c8a6259e1f0befd3a3978d",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_379.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_379.jpg",
+    "sha256": "d84c69d631c7d325bb52f9fe35839971643d55df8f49bd3e440c1d63c924c1d0",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_406.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_406.jpg",
+    "sha256": "292c7f2d42c2159f25656eef1eafe090da9e9d313c94503ba5c74f39cb04da24",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_434.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_434.jpg",
+    "sha256": "10bb58ca1f24acd6107948f0cca79ba100ea4c4ac9269724a0d0383281db32a4",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_462.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_462.jpg",
+    "sha256": "a9f1a4ac6b0a8fda77369631461928d79e38f12a9049b045b2a84aa1e95b44bb",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_490.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_490.jpg",
+    "sha256": "d7c0ca02f5884c8c42f527421166b32639d3f33929dc0e7c327d4a2f5bab70ee",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_518.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_518.jpg",
+    "sha256": "e0001f4a30e0d4a7da00871ee6bce595e5f5d9ef12a9de0414aade33c0dff8db",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_546.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_546.jpg",
+    "sha256": "ead9d7f72d6689577e4f51015641f0660223f01e838f8cce07fcd53b7fbe7102",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_574.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_574.jpg",
+    "sha256": "1b7c33ce794838f1a487a7a281e46270cf93c062997bfd7dc9facd84252db3c5",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_601.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_601.jpg",
+    "sha256": "015b50c5fab123a5cd3076f0b2b4d8ee2eaa39451a4fdb37b5e3fe50a6e9bf66",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_63.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_63.jpg",
+    "sha256": "cf035b5f947929eda71d1ed0deba31959a6cc5ec7f2c0703da8810326e573a71",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_658.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_658.jpg",
+    "sha256": "5701517cd00a53894bcc95142e03f81f97a859b282af08e718bc854d424bd874",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_686.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_686.jpg",
+    "sha256": "200d0495bfb33d09ff4944b3e45366618b5afd43a6d40bd86d3488f09ff1dec7",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_713.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_713.jpg",
+    "sha256": "1c6df4b3b7eba7a03cf684087265704d7f4f4d9b41f040a2e7393bbeae9f96bb",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  },
+  {
+    "source": "garbage_v2",
+    "member": "original/battery/battery_741.jpg",
+    "source_partition": "unpartitioned",
+    "path": "raw\\garbage_v2\\original\\battery\\battery_741.jpg",
+    "sha256": "4294c73ade8a47eca1c19d375853f958f0f90c1bc334b18a537ece637be29fa8",
+    "source_class": "battery",
+    "bbox_status": "not_provided_by_source"
+  }
+]

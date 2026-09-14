@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "detail": "Both models trained sequentially and compared to original checkpoints",
+  "pipeline_pid": 13888,
+  "updated_at": "2026-09-13T05:05:52",
+  "worker_pid": 5972,
+  "active_task": null,
+  "started_at": "2026-09-13T04:25:45",
+  "epoch": 17,
+  "max_epochs": 100,
+  "last_epoch_seconds": 181.92330839998613,
+  "metrics": {
+    "metrics/precision(B)": 0.8810663287287228,
+    "metrics/recall(B)": 0.829324960376589,
+    "metrics/mAP50(B)": 0.8962380425969333,
+    "metrics/mAP50-95(B)": 0.8418368547482166,
+    "metrics/precision(M)": 0.8779200174815595,
+    "metrics/recall(M)": 0.8240594577011748,
+    "metrics/mAP50(M)": 0.8895785719432496,
+    "metrics/mAP50-95(M)": 0.8035681717527009
+  },
+  "completed_at": "2026-09-13T05:05:52"
+}

@@ -1,0 +1,250 @@
+{
+  "created": "2026-09-13T10:34:04.430024",
+  "prior_results": {
+    "bbox": {
+      "baseline": {
+        "metrics": {
+          "metrics/precision(B)": 0.8514375585181202,
+          "metrics/recall(B)": 0.7896762035537991,
+          "metrics/mAP50(B)": 0.8456443363970878,
+          "metrics/mAP50-95(B)": 0.7610661328221966,
+          "fitness": 0.7610661328221966
+        },
+        "speed_ms_per_image": {
+          "preprocess": 0.6314690563278123,
+          "inference": 5.511107242199033,
+          "loss": 0.0002682150360135513,
+          "postprocess": 0.5767148500442523
+        },
+        "names": {
+          "0": "paper",
+          "1": "plastic",
+          "2": "can",
+          "3": "glass",
+          "4": "battery",
+          "5": "vinyl",
+          "6": "general"
+        },
+        "box": {
+          "map": 0.7610661328221966,
+          "map50": 0.8456443363970878,
+          "per_class_map": [
+            0.8849724312173064,
+            0.5527091742483349,
+            0.8695450844615433,
+            0.6915562009849782,
+            0.7653516432637824,
+            0.7403899053277111,
+            0.8229384902517178
+          ]
+        }
+      },
+      "finetuned": {
+        "metrics": {
+          "metrics/precision(B)": 0.8283591734785497,
+          "metrics/recall(B)": 0.7668083434199707,
+          "metrics/mAP50(B)": 0.8066655696496899,
+          "metrics/mAP50-95(B)": 0.6814002715383632,
+          "fitness": 0.6814002715383632
+        },
+        "speed_ms_per_image": {
+          "preprocess": 0.64018675938871,
+          "inference": 5.511571726415237,
+          "loss": 0.0002703731372031358,
+          "postprocess": 0.6050216899026133
+        },
+        "names": {
+          "0": "paper",
+          "1": "plastic",
+          "2": "can",
+          "3": "glass",
+          "4": "battery",
+          "5": "vinyl",
+          "6": "general"
+        },
+        "box": {
+          "map": 0.6814002715383632,
+          "map50": 0.8066655696496899,
+          "per_class_map": [
+            0.7970365783672493,
+            0.4560721144791808,
+            0.7812522512093811,
+            0.6369082748478625,
+            0.7146398619466683,
+            0.6164821108368309,
+            0.7674107090813694
+          ]
+        }
+      },
+      "original_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\bbox_yolo26s_nobg_best.pt",
+      "new_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\runs\\bbox_transfer_640\\weights\\best.pt",
+      "new_checkpoint_sha256": "67d3d16cc33c52a3b9d9dcf77eb3b1f4df2d172a79245c5472dfb8dfd4ddb09f",
+      "completed_at": "2026-09-13T04:25:42",
+      "note": "Same own-task test images and corrected 640 labels; no deployment or replacement of old best_train files."
+    },
+    "seg": {
+      "baseline": {
+        "metrics": {
+          "metrics/precision(B)": 0.790783799913333,
+          "metrics/recall(B)": 0.7702373390892235,
+          "metrics/mAP50(B)": 0.8124379498552955,
+          "metrics/mAP50-95(B)": 0.7439210622017368,
+          "metrics/precision(M)": 0.7896166937982889,
+          "metrics/recall(M)": 0.7613706158822321,
+          "metrics/mAP50(M)": 0.8042581819338641,
+          "metrics/mAP50-95(M)": 0.6866159963615898,
+          "fitness": 1.4305370585633266
+        },
+        "speed_ms_per_image": {
+          "preprocess": 0.6542460497113333,
+          "inference": 3.2700408192684183,
+          "loss": 0.00026079006231646785,
+          "postprocess": 0.6100021580336108
+        },
+        "names": {
+          "0": "general",
+          "1": "can",
+          "2": "plastic",
+          "3": "paper",
+          "4": "glass",
+          "5": "vinyl",
+          "6": "battery"
+        },
+        "box": {
+          "map": 0.7439210622017368,
+          "map50": 0.8124379498552955,
+          "per_class_map": [
+            0.7607417904281949,
+            0.8347467225740732,
+            0.5031801778932983,
+            0.8401117808875883,
+            0.6598857460944139,
+            0.7090041418560509,
+            0.899777075678538
+          ]
+        },
+        "seg": {
+          "map": 0.6866159963615898,
+          "map50": 0.8042581819338641,
+          "per_class_map": [
+            0.6799147127374672,
+            0.7926314381610469,
+            0.43280594758344587,
+            0.7928126375781015,
+            0.6110977496966472,
+            0.6485822148879457,
+            0.848467273886474
+          ]
+        }
+      },
+      "finetuned": {
+        "metrics": {
+          "metrics/precision(B)": 0.7739033295893994,
+          "metrics/recall(B)": 0.768092982951986,
+          "metrics/mAP50(B)": 0.8104977931243632,
+          "metrics/mAP50-95(B)": 0.7332079504854121,
+          "metrics/precision(M)": 0.7887849529625645,
+          "metrics/recall(M)": 0.7436473400199193,
+          "metrics/mAP50(M)": 0.8023740698146289,
+          "metrics/mAP50-95(M)": 0.6819642051405453,
+          "fitness": 1.4151721556259576
+        },
+        "speed_ms_per_image": {
+          "preprocess": 0.6841357351821011,
+          "inference": 3.315825749853515,
+          "loss": 0.0002761155763067354,
+          "postprocess": 1.0800533650617792
+        },
+        "names": {
+          "0": "general",
+          "1": "can",
+          "2": "plastic",
+          "3": "paper",
+          "4": "glass",
+          "5": "vinyl",
+          "6": "battery"
+        },
+        "box": {
+          "map": 0.7332079504854121,
+          "map50": 0.8104977931243632,
+          "per_class_map": [
+            0.7606313546382051,
+            0.8256350574490723,
+            0.4978123150722632,
+            0.8208228689280279,
+            0.6554696737019863,
+            0.6785553938763501,
+            0.8935289897319795
+          ]
+        },
+        "seg": {
+          "map": 0.6819642051405453,
+          "map50": 0.8023740698146289,
+          "per_class_map": [
+            0.6853866190762737,
+            0.7891994429929868,
+            0.4334453934813138,
+            0.7738940911999963,
+            0.6146751694000829,
+            0.6246888454792445,
+            0.8524598743539183
+          ]
+        }
+      },
+      "original_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\checkpoints\\seg_yolo11n_best.pt",
+      "new_checkpoint": "C:\\Users\\USER\\Desktop\\trash_detection_project\\04_results\\01_initial_finetuning\\runs\\seg_transfer_640\\weights\\best.pt",
+      "new_checkpoint_sha256": "a0b36b5ea8696dc3d6a9843edc2e0202cc03f84bba607cca638751da8094cfce",
+      "completed_at": "2026-09-13T05:05:51",
+      "note": "Same own-task test images and corrected 640 labels; no deployment or replacement of old best_train files."
+    }
+  },
+  "other_risks": [
+    "Only 6444 of roughly 47000 old labeled train images replayed",
+    "Multiple simultaneous changes to data, Mosaic, blur, optimizer and schedule",
+    "No original-model validation floor: best new epoch selected even when below original",
+    "Early stopping before close_mosaic could prevent clean final tuning",
+    "Prior test metrics inspected: no hyperparameter selection against those test results"
+  ],
+  "identified_configuration_risk": {
+    "lr0": 0.0001,
+    "warmup_bias_lr": 0.1,
+    "ratio": 1000,
+    "optimizer": "explicit AdamW",
+    "evidence": "Previous args.yaml and local BaseTrainer.build_optimizer: only optimizer=auto resets warmup_bias_lr to 0.",
+    "causality": "Warmup-only control did not recover validation performance; not established as the main cause."
+  },
+  "warmup_control": {
+    "changed_only": "warmup_bias_lr 0.1 -> 0.0; same original first-epoch recipe, source checkpoint and data",
+    "result": {
+      "epoch": 1,
+      "seconds": 231.79135720001068,
+      "metrics": {
+        "metrics/precision(B)": 0.91475,
+        "metrics/recall(B)": 0.86357,
+        "metrics/mAP50(B)": 0.91208,
+        "metrics/mAP50-95(B)": 0.66675,
+        "val/box_loss": 1.04271,
+        "val/cls_loss": 0.86419,
+        "val/l1_loss": 0.01342
+      }
+    },
+    "original_first_epoch_map": 0.69559,
+    "original_unmodified_val_map": 0.8491934413965256,
+    "limitation": "Single-seed, single-epoch comparison; does not isolate other failure factors or establish final accuracy."
+  },
+  "bn_control": {
+    "intervention": "Restore only BN running statistics from original checkpoint; all newly trained parameters unchanged",
+    "restored_buffers": 342,
+    "metrics": {
+      "metrics/precision(B)": 0.9139668122577891,
+      "metrics/recall(B)": 0.8683243035131607,
+      "metrics/mAP50(B)": 0.914409458559187,
+      "metrics/mAP50-95(B)": 0.6351807363051751,
+      "fitness": 0.6351807363051751
+    },
+    "original_model_val_map": 0.8491934413965256,
+    "diagnostic_before_bn_restore": 0.66675,
+    "limitation": "Validation-only diagnostic, not a model selected on test; not a production checkpoint."
+  },
+  "conclusion": "Regression affects localization strongly; neither isolated warmup correction nor BN-stat restoration recovered performance. Distribution/optimization interaction remains unresolved. Full old replay and larger-model training are a new experiment, not a guaranteed fix."
+}

@@ -1,0 +1,18 @@
+_analysis_cache_dir: C:\Users\USER\Desktop\trash_detection_project\04_results\model_analysis\evaluations\seg\03_staged_finetuning\20260914T091830238381Z_seg_final_4fa526a4
+_analysis_count: 2734
+_analysis_fingerprint: 816636f52eb3aa7ba03a052b7ae66b81f17ebf799dbf6d0dc8cae4b1600b4b98
+channels: 3
+names:
+  '0': general
+  '1': can
+  '2': plastic
+  '3': paper
+  '4': glass
+  '5': vinyl
+  '6': battery
+nc: 7
+path: C:\Users\USER\Desktop\trash_detection_project\01_datasets\finetuning_640\training_640_seg
+test: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\seg_test.txt
+train: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\seg_stage2_train.txt
+val: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\seg_val.txt
+yaml_file: C:\Users\USER\Desktop\trash_detection_project\03_transfer_learning\03_staged_finetuning\data\seg_stage2.yaml

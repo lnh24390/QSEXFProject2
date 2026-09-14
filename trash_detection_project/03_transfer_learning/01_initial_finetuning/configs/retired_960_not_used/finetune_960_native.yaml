@@ -1,0 +1,19 @@
+# Candidate overrides. Supply reviewed data and the matching existing checkpoint separately.
+# No training has been launched. Original images retain their available resolution.
+hsv_h: 0.01
+hsv_s: 0.35
+hsv_v: 0.3
+degrees: 15.0
+translate: 0.08
+scale: 0.25
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.5
+mosaic: 0.5
+close_mosaic: 5
+mixup: 0.0
+cutmix: 0.0
+copy_paste: 0.0
+rect: false
+imgsz: 960

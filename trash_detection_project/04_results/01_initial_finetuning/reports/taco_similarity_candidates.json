@@ -1,0 +1,13 @@
+{
+  "scope": "825 known legacy TACO images vs downloaded new TACO only; not all legacy sources",
+  "threshold": 4,
+  "matches": [
+    {
+      "id": "taco_001305",
+      "legacy_id": "s3_taco_001173",
+      "legacy_bbox_split": "train",
+      "dhash_hamming": 0,
+      "status": "similarity_candidate_not_confirmed_duplicate"
+    }
+  ]
+}
