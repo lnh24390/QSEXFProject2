@@ -24,6 +24,6 @@ CPU만으로 빠른속도 학습 시도시 Overflow 발생가능성이 있음 �
 * 전이 학습 이전의 학습 및 카메라 실행 코드  
 [https://github.com/lnh24390/QSEXFProject2/blob/main/dataset%20traing%20code_Commentary.py
 ](https://github.com/lnh24390/QSEXFProject2/blob/main/code/dataset%20traing%20code_Commentary.py)  
-* 전이학습 코드
+* 전이학습 코드  
 
 ## 시각화 자료
