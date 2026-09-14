@@ -23,6 +23,7 @@ CPU만으로 빠른속도 학습 시도시 Overflow 발생가능성이 있음 �
 비대상 객체가 포함된 이미지로 전이학습했지만 기존 탐지 대상의 미탐도 늘어, 전이학습 이전 모델이 더 나은 결과를 보였다.  
 * 전이 학습 이전의 학습 및 카메라 실행 코드  
 [https://github.com/lnh24390/QSEXFProject2/blob/main/dataset%20traing%20code_Commentary.py
-](https://github.com/lnh24390/QSEXFProject2/blob/main/code/dataset%20traing%20code_Commentary.py)* 전이학습 코드
+](https://github.com/lnh24390/QSEXFProject2/blob/main/code/dataset%20traing%20code_Commentary.py)  
+* 전이학습 코드
 
 ## 시각화 자료
