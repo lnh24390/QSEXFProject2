@@ -20,7 +20,9 @@ CPU만으로 빠른속도 학습 시도시 Overflow 발생가능성이 있음 �
 
 ## 전이학습 이전과 이후 차이
 비대상 객체가 포함된 이미지로 전이학습했지만 기존 탐지 대상의 미탐도 늘어, 전이학습 이전 모델이 더 나은 결과를 보였다.  
-('''from collections import Counter  # 클래스별 객체 수를 세기 위해 collections의 Counter를 가져옵니다.
+
+'''python
+from collections import Counter  # 클래스별 객체 수를 세기 위해 collections의 Counter를 가져옵니다.
 import json  # 검사 결과를 JSON 형식으로 저장하기 위해 json 모듈을 가져옵니다.
 import math  # 라벨 숫자가 유한한 값인지 확인하기 위해 math 모듈을 가져옵니다.
 import os  # 실행 환경 변수를 설정하기 위해 os 모듈을 가져옵니다.
@@ -367,4 +369,5 @@ if __name__ == '__main__':  # 직접 실행한 경우에만 본문을 수행하�
             cap.release()  # 카메라 연결과 관련 자원을 해제합니다.
         cv2.destroyAllWindows()  # OpenCV로 연 영상 창들을 닫습니다.
 
-    print("카메라 종료")  # 정상적으로 이 줄에 도달하면 카메라 종료 메시지를 출력합니다.''')
+    print("카메라 종료")  # 정상적으로 이 줄에 도달하면 카메라 종료 메시지를 출력합니다.
+  '''
