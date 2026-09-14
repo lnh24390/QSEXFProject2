@@ -21,29 +21,29 @@ CPU만으로 빠른속도 학습 시도시 Overflow 발생가능성이 있음 �
 ## 전이학습 이전과 이후 차이
 비대상 객체가 포함된 이미지로 전이학습했지만 기존 탐지 대상의 미탐도 늘어, 전이학습 이전 모델이 더 나은 결과를 보였다.  
 
-'''python
-from collections import Counter  # 클래스별 객체 수를 세기 위해 collections의 Counter를 가져옵니다.
-import json  # 검사 결과를 JSON 형식으로 저장하기 위해 json 모듈을 가져옵니다.
-import math  # 라벨 숫자가 유한한 값인지 확인하기 위해 math 모듈을 가져옵니다.
-import os  # 실행 환경 변수를 설정하기 위해 os 모듈을 가져옵니다.
-import random  # 검사·시각화용 이미지를 무작위로 선택하기 위해 random 모듈을 가져옵니다.
-import time  # 웹캠 실행 시간과 프레임 처리 시간을 측정하기 위해 time 모듈을 가져옵니다.
-from pathlib import Path  # 폴더·파일 경로를 구성하고 파일을 읽고 쓰기 위해 Path를 가져옵니다.
 
-import cv2  # 웹캠 제어와 영상 처리를 위해 OpenCV를 cv2라는 이름으로 가져옵니다.
-from IPython.display import display  # IPython 환경에서 이미지 객체를 표시하는 display 함수를 가져옵니다.
-import matplotlib.pyplot as plt  # 이미지와 그래프를 표시하기 위해 pyplot을 plt라는 이름으로 가져옵니다.
-from matplotlib.patches import Rectangle  # 이미지 위에 사각형 바운딩 박스를 그리기 위해 Rectangle을 가져옵니다.
-from PIL import Image  # 이미지 열기, 형식 변환, 파일 검사를 위해 Pillow의 Image를 가져옵니다.
-import torch  # CUDA 사용 가능 여부와 PyTorch 설정을 확인하기 위해 torch를 가져옵니다.
-import yaml  # 데이터셋 설정 파일인 YAML을 읽고 쓰기 위해 yaml을 가져옵니다.
-from ultralytics import YOLO  # YOLO 모델의 학습·평가·추론을 수행하기 위해 YOLO 클래스를 가져옵니다.
+    from collections import Counter  # 클래스별 객체 수를 세기 위해 collections의 Counter를 가져옵니다.
+    import json  # 검사 결과를 JSON 형식으로 저장하기 위해 json 모듈을 가져옵니다.
+    import math  # 라벨 숫자가 유한한 값인지 확인하기 위해 math 모듈을 가져옵니다.
+    import os  # 실행 환경 변수를 설정하기 위해 os 모듈을 가져옵니다.
+    import random  # 검사·시각화용 이미지를 무작위로 선택하기 위해 random 모듈을 가져옵니다.
+    import time  # 웹캠 실행 시간과 프레임 처리 시간을 측정하기 위해 time 모듈을 가져옵니다.
+    from pathlib import Path  # 폴더·파일 경로를 구성하고 파일을 읽고 쓰기 위해 Path를 가져옵니다.
 
-if __name__ == '__main__':  # 직접 실행한 경우에만 본문을 수행하여, Windows 자식 프로세스에서 학습 코드가 재실행되는 것을 막습니다.
-    # =========================================================
-    # 1. GPU / PyTorch 실행 환경 및 경로 최적화
-    # =========================================================
-    os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"  # OpenMP 런타임의 중복 로딩을 허용하도록 환경 변수를 설정합니다.
+    import cv2  # 웹캠 제어와 영상 처리를 위해 OpenCV를 cv2라는 이름으로 가져옵니다.
+    from IPython.display import display  # IPython 환경에서 이미지 객체를 표시하는 display 함수를 가져옵니다.
+    import matplotlib.pyplot as plt  # 이미지와 그래프를 표시하기 위해 pyplot을 plt라는 이름으로 가져옵니다.
+    from matplotlib.patches import Rectangle  # 이미지 위에 사각형 바운딩 박스를 그리기 위해 Rectangle을 가져옵니다.
+    from PIL import Image  # 이미지 열기, 형식 변환, 파일 검사를 위해 Pillow의 Image를 가져옵니다.
+    import torch  # CUDA 사용 가능 여부와 PyTorch 설정을 확인하기 위해 torch를 가져옵니다.
+    import yaml  # 데이터셋 설정 파일인 YAML을 읽고 쓰기 위해 yaml을 가져옵니다.
+    from ultralytics import YOLO  # YOLO 모델의 학습·평가·추론을 수행하기 위해 YOLO 클래스를 가져옵니다.
+
+    if __name__ == '__main__':  # 직접 실행한 경우에만 본문을 수행하여, Windows 자식 프로세스에서 학습 코드가 재실행되는 것을 막습니다.
+      # =========================================================
+      # 1. GPU / PyTorch 실행 환경 및 경로 최적화
+      # =========================================================
+      os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"  # OpenMP 런타임의 중복 로딩을 허용하도록 환경 변수를 설정합니다.
 
     if torch.cuda.is_available():  # 현재 PyTorch 환경에서 CUDA GPU를 사용할 수 있는지 확인합니다.
         torch.backends.cudnn.benchmark = True  # cuDNN의 연산 알고리즘 탐색을 켭니다. 입력 크기가 일정할 때 유리할 수 있으며 학습기가 재설정할 수도 있습니다.
@@ -57,14 +57,12 @@ if __name__ == '__main__':  # 직접 실행한 경우에만 본문을 수행하�
         print("경고: CUDA 가능한 GPU를 찾을 수 없어 CPU 모드로 동작합니다.")  # CUDA GPU를 사용할 수 없어 CPU로 실행한다는 안내를 출력합니다.
 
     print("PyTorch 버전:", torch.__version__)  # 현재 실행 환경에 설치된 PyTorch 버전을 출력합니다.
-
     PROJECT = Path(r"D:/QSEXFProject2")  # 프로젝트의 기준 폴더를 Path 객체로 지정합니다. r 접두사는 역슬래시 이스케이프 해석을 막습니다.
-    DATASET_NAME = "YOLO_7CLASS_10000_PER_CLASS_20260909"  # 사용할 데이터셋 폴더 이름을 문자열로 지정합니다.
+    DATASET_NAME = "YOLO_7CLASS_10000_PER_CLASS_20260909"  # 사용할 데이터셋 폴더 이름을 문자열로 지정합니다
     DATASET = PROJECT / DATASET_NAME  # Path의 / 연산자로 프로젝트 경로와 데이터셋 폴더 이름을 연결합니다.
     MODEL_NAME = "yolo11n.pt"  # 학습을 시작할 YOLO11 nano 모델의 가중치 파일 이름을 지정합니다.
 
-    EPOCHS = 50  # 전체 학습 데이터를 반복해서 학습할 최대 횟수를 50 epoch로 지정합니다.
-    IMGSZ = 640  # 모델 입력 이미지 크기의 기준값을 640으로 지정합니다.
+    EPOCHS = 50  # 전체 학습 데이터를 반복해서 학습할 최대 횟수를 50 epoch로 지정합니다.    IMGSZ = 640  # 모델 입력 이미지 크기의 기준값을 640으로 지정합니다.
     BATCH = 8  # 한 번의 학습 배치에 포함할 이미지 수를 8장으로 지정합니다.
     SMOKE_TEST = False  # 간단 학습 점검 모드를 끕니다. True이면 아래 train()에서 학습 데이터 1%로 1 epoch만 실행합니다.
 
