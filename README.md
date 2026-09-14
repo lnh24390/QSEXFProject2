@@ -20,7 +20,7 @@ CPU만으로 빠른속도 학습 시도시 Overflow 발생가능성이 있음 �
 
 ## 전이학습 이전과 이후 차이
 비대상 객체가 포함된 이미지로 전이학습했지만 기존 탐지 대상의 미탐도 늘어, 전이학습 이전 모델이 더 나은 결과를 보였다.  
-
+### 전이 학습 이전의 학습 코드
 
     from collections import Counter  # 클래스별 객체 수를 세기 위해 collections의 Counter를 가져옵니다.
     import json  # 검사 결과를 JSON 형식으로 저장하기 위해 json 모듈을 가져옵니다.
