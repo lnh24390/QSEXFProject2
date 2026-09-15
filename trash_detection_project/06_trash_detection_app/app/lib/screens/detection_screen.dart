@@ -22,6 +22,7 @@ import '../widgets/detection_settings_sheet.dart';
 import '../widgets/guide_panel.dart';
 import '../widgets/live_mask_overlay.dart';
 import '../widgets/model_picker_sheet.dart';
+import '../widgets/preview_box_overlay.dart';
 import '../widgets/region_info_sheet.dart';
 import '../widgets/photo_result_view.dart';
 
@@ -82,6 +83,11 @@ class _DetectionScreenState extends State<DetectionScreen>
   /// 실시간 화면 캡처를 갤러리에 저장하는 중인지.
   bool _savingCapture = false;
 
+  /// 사진 모드 미리보기에 그릴 검출 박스(0~1 정규화).
+  ///
+  /// 프레임마다 오므로 setState 대신 이 값만 바꿔 오버레이만 다시 그리게 한다.
+  final _previewBoxes = ValueNotifier<List<Rect>>(const []);
+
   /// 현재 적용 중인 지역 규칙. null 이면 공통 규칙만 씁니다.
   RecyclingRegion? _region;
 
@@ -95,6 +101,9 @@ class _DetectionScreenState extends State<DetectionScreen>
   RecyclingRegion? get _effectiveRegion => _region ?? _guide?.fallbackRegion;
 
   bool get _isPhotoMode => _mode == DetectionMode.photo;
+
+  /// 사진 모드에서 아직 찍지 않고 카메라를 보고 있는 상태인지.
+  bool get _isPhotoPreview => _isPhotoMode && _capturedBytes == null;
 
   /// 실시간 모드에서 박스 없이 마스크만 그려야 하는 상태인지.
   ///
@@ -212,13 +221,37 @@ class _DetectionScreenState extends State<DetectionScreen>
 
   void _onResult(List<YOLOResult> results) {
     final guide = _guide;
-    // 사진 모드에서는 미리보기 프레임 결과를 안내에 쓰지 않는다
-    if (guide == null || _isPhotoMode) return;
+    if (guide == null) return;
+    // 사진 모드에서는 미리보기 프레임 결과를 안내에 쓰지 않는다.
+    // 다만 찍기 전 어디가 잡히는지 보이도록 박스만 그린다(이름·점수는 안 보여준다).
+    if (_isPhotoMode) {
+      _updatePreviewBoxes(results, guide);
+      return;
+    }
     final policy = _policy;
     _aggregator.addFrame(
       results.where((r) => _accepts(guide, policy, r)).toList(),
     );
     if (_liveMasksOnly) unawaited(_updateLiveMask(results, guide));
+  }
+
+  /// 사진 모드 미리보기 박스를 새 프레임으로 교체한다. 안내 기준과 같은 필터를 쓴다.
+  void _updatePreviewBoxes(List<YOLOResult> results, RecyclingGuide guide) {
+    if (!AppConfig.showPreviewBoxes || !_isPhotoPreview) {
+      _clearPreviewBoxes();
+      return;
+    }
+    final policy = _policy;
+    final boxes = [
+      for (final r in results)
+        if (_accepts(guide, policy, r)) r.normalizedBox,
+    ];
+    if (boxes.isEmpty && _previewBoxes.value.isEmpty) return;
+    _previewBoxes.value = boxes;
+  }
+
+  void _clearPreviewBoxes() {
+    if (_previewBoxes.value.isNotEmpty) _previewBoxes.value = const [];
   }
 
   void _onPerformance(YOLOPerformanceMetrics metrics) {
@@ -319,6 +352,7 @@ class _DetectionScreenState extends State<DetectionScreen>
   /// setState 안에서 호출. 사진 모드 상태를 비우고 진행 중인 분석 결과를 무효화한다.
   void _clearPhoto() {
     _photoRequestId++;
+    _clearPreviewBoxes();
     _capturedBytes = null;
     _photo = null;
     _photoDetections = const [];
@@ -529,6 +563,7 @@ class _DetectionScreenState extends State<DetectionScreen>
     _controller.dispose();
     _maskImage?.dispose();
     _liveMask?.dispose();
+    _previewBoxes.dispose();
     unawaited(_photoAnalyzer.dispose());
     super.dispose();
   }
@@ -707,6 +742,11 @@ class _DetectionScreenState extends State<DetectionScreen>
                 ),
                 if (!_isPhotoMode && _liveMask != null)
                   Positioned.fill(child: LiveMaskOverlay(mask: _liveMask!)),
+                // 찍기 전 미리보기: 무엇인지는 알려주지 않고 검은 박스만 그린다
+                if (_isPhotoPreview && AppConfig.showPreviewBoxes)
+                  Positioned.fill(
+                    child: PreviewBoxOverlay(boxes: _previewBoxes),
+                  ),
                 if (_isPhotoMode && bytes != null)
                   PhotoResultView(
                     imageBytes: bytes,
