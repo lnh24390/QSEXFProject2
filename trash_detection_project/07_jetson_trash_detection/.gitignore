@@ -1,0 +1,24 @@
+# 상위 trash_detection_project/.gitignore 가 막는 문서용 이미지를 이 폴더에서는 허용한다
+!docs/*.jpg
+!docs/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 편집 중 남은 백업본
+*.orig
+
+# TensorRT 엔진은 빌드한 장비/TensorRT 버전에 묶여 있어 공유해도 소용이 없다.
+# tools/export_engine.py 로 각자 장비에서 다시 만든다.
+model/*.engine
+# ONNX 는 엔진을 만드는 중간 산출물
+model/*.onnx
+
+# 실행 결과물 (스냅샷 / 녹화)
+output/
+
+# 실행 중 갱신되는 로컬 설정
+config.json
