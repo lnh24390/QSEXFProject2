@@ -147,3 +147,25 @@ GPU 가 없으면 `ml/colab_train_export.ipynb` 를 Google Colab 에서 실행�
 | Windows 에서 `LiteRT export only supported on Linux x86 and macOS` | Docker Desktop 실행 후 `export.py --docker` 또는 Colab 노트북 사용 |
 | FPS 가 낮음 | `cameraResolution` 을 `480p` 로, 모델을 `n` 사이즈로 (양자화 변환은 사용하지 않음) |
 | 검출이 안 됨 / 너무 많음 | `AppConfig.confidenceThreshold` 조정 (기본 0.45) |
+
+## QSEXFProject2 동기화
+
+이 저장소가 원본이고, 팀 저장소 `lnh24390/QSEXFProject2` 의
+`trash_detection_project/06_trash_detection_app/` 은 사본입니다.
+수정은 항상 이 저장소에서 하고, 반영은 아래 스크립트로 합니다.
+
+```bash
+tool/sync_to_qsexf.sh                  # 마지막 커밋 제목을 설명으로 사용
+tool/sync_to_qsexf.sh "사진 모드 수정"    # 설명 직접 지정
+```
+
+`git push` 할 때 `.git/hooks/pre-push` 가 이 스크립트를 자동으로 실행합니다.
+동기화가 실패해도 이 저장소로의 푸시 자체는 막지 않고 경고만 남깁니다.
+
+스크립트는 **커밋된 파일만** 06 폴더로 복사하므로 작업 중인 파일이나 빌드
+산출물이 섞이지 않습니다. 상위 `trash_detection_project/.gitignore` 가 막는
+`*.tflite` · 이미지 파일은 06 폴더의 `.gitignore` 에서 다시 허용합니다.
+커밋은 06 폴더만 스테이징하므로 팀원이 작업 중인 다른 파일은 건드리지 않습니다.
+
+대상 저장소 클론이 `~/Desktop/QSEXFProject2/QSEXFProject2` 가 아니라면
+`QSEXF_DIR` 로 경로를 지정하세요.
