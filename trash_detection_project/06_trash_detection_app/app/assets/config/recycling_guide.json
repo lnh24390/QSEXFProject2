@@ -1,0 +1,674 @@
+{
+  "_comment": "클래스명(모델 라벨) -> 분리수거 카테고리 매핑. 클래스명은 소문자, 공백/하이픈/&는 '_'로 정규화되어 비교됩니다. classes에 없으면 rules(부분 문자열 규칙)를 순서대로 검사하고, 그래도 없으면 fallback 카테고리를 사용합니다. ignore 에 있는 클래스는 쓰레기가 아닌 것으로 보고 검출 결과에서 제외합니다(사람·동물·차량·가구 등).",
+  "fallback": "general",
+  "ignore": [
+    "person",
+    "bicycle",
+    "car",
+    "motorcycle",
+    "airplane",
+    "bus",
+    "train",
+    "truck",
+    "boat",
+    "traffic_light",
+    "fire_hydrant",
+    "stop_sign",
+    "parking_meter",
+    "bench",
+    "bird",
+    "cat",
+    "dog",
+    "horse",
+    "sheep",
+    "cow",
+    "elephant",
+    "bear",
+    "zebra",
+    "giraffe",
+    "backpack",
+    "handbag",
+    "suitcase",
+    "frisbee",
+    "skis",
+    "snowboard",
+    "sports_ball",
+    "kite",
+    "baseball_bat",
+    "baseball_glove",
+    "skateboard",
+    "surfboard",
+    "tennis_racket",
+    "chair",
+    "couch",
+    "potted_plant",
+    "bed",
+    "dining_table",
+    "toilet",
+    "tv",
+    "oven",
+    "toaster",
+    "sink",
+    "refrigerator",
+    "microwave",
+    "clock",
+    "teddy_bear"
+  ],
+  "categories": {
+    "pet": {
+      "name": "투명 페트병",
+      "bin": "투명 페트병 전용 수거함",
+      "instruction": "내용물을 비우고 라벨을 떼어낸 뒤 찌그러뜨려 뚜껑을 닫아 버리세요.",
+      "color": "#1E88E5",
+      "icon": "pet",
+      "conditions": [
+        {
+          "when": "라벨·뚜껑이 붙어 있으면",
+          "note": "라벨을 떼고 내용물을 비운 뒤 압착해 배출"
+        },
+        {
+          "when": "색깔이 있는 페트병이면",
+          "then": "plastic"
+        },
+        {
+          "when": "기름·이물질로 심하게 오염됐으면",
+          "then": "general"
+        }
+      ]
+    },
+    "plastic": {
+      "name": "플라스틱",
+      "bin": "플라스틱류 수거함",
+      "instruction": "내용물을 비우고 물로 헹군 뒤 라벨·뚜껑을 분리해서 버리세요.",
+      "color": "#3949AB",
+      "icon": "plastic",
+      "conditions": [
+        {
+          "when": "음식물·기름이 묻어 있으면",
+          "note": "헹궈서 배출, 안 지워지면 일반쓰레기"
+        },
+        {
+          "when": "빨대·칫솔처럼 작거나 여러 재질이 섞였으면",
+          "then": "general"
+        },
+        {
+          "when": "스티커·라벨이 붙어 있으면",
+          "note": "떼고 배출"
+        }
+      ]
+    },
+    "vinyl": {
+      "name": "비닐",
+      "bin": "비닐류 수거함",
+      "instruction": "이물질을 제거하고 깨끗한 상태로 모아서 버리세요. 오염이 심하면 종량제 봉투에 버리세요.",
+      "color": "#8E24AA",
+      "icon": "vinyl",
+      "conditions": [
+        {
+          "when": "음식물·기름이 묻어 있으면",
+          "then": "general"
+        },
+        {
+          "when": "깨끗하지만 젖어 있으면",
+          "note": "말린 뒤 배출"
+        },
+        {
+          "when": "테이프·운송장이 붙어 있으면",
+          "note": "떼고 배출"
+        }
+      ]
+    },
+    "can": {
+      "name": "캔·고철",
+      "bin": "캔·고철류 수거함",
+      "instruction": "내용물을 비우고 헹군 뒤 찌그러뜨려 버리세요. 부탄가스는 구멍을 뚫어 가스를 빼세요.",
+      "color": "#757575",
+      "icon": "can",
+      "conditions": [
+        {
+          "when": "내용물이 남아 있으면",
+          "note": "비우고 헹궈서 배출"
+        },
+        {
+          "when": "부탄가스·스프레이 캔이면",
+          "note": "가스를 완전히 비운 뒤 배출 (지자체 기준 확인)"
+        },
+        {
+          "when": "플라스틱 뚜껑·라벨이 붙어 있으면",
+          "note": "떼고 배출"
+        }
+      ]
+    },
+    "glass": {
+      "name": "유리병",
+      "bin": "유리병 수거함",
+      "instruction": "뚜껑을 분리하고 내용물을 비운 뒤 버리세요. 깨진 유리는 신문지에 싸서 종량제 봉투에 버리세요.",
+      "color": "#00897B",
+      "icon": "glass",
+      "conditions": [
+        {
+          "when": "깨졌으면",
+          "then": "general",
+          "note": "신문지에 싸서 종량제 봉투로"
+        },
+        {
+          "when": "내열유리·도자기·거울·전구면",
+          "then": "general",
+          "note": "유리병 수거함에 넣지 않기"
+        },
+        {
+          "when": "보증금 표시가 있는 병이면",
+          "note": "판매처에 반환하면 보증금 환급"
+        }
+      ]
+    },
+    "paper": {
+      "name": "종이",
+      "bin": "종이류 수거함",
+      "instruction": "테이프·스프링·비닐 코팅을 제거하고 물에 젖지 않게 묶어서 버리세요.",
+      "color": "#F4511E",
+      "icon": "paper",
+      "conditions": [
+        {
+          "when": "코팅되어 있거나 영수증(감열지)이면",
+          "then": "general"
+        },
+        {
+          "when": "음식물·기름에 오염됐거나 젖었으면",
+          "then": "general"
+        },
+        {
+          "when": "스프링·테이프·비닐 코팅이 붙어 있으면",
+          "note": "떼어내고 종이만 배출"
+        }
+      ]
+    },
+    "cardboard": {
+      "name": "골판지 상자",
+      "bin": "종이류(박스) 수거함",
+      "instruction": "테이프와 송장 스티커를 떼고 납작하게 접어서 버리세요.",
+      "color": "#FB8C00",
+      "icon": "cardboard",
+      "conditions": [
+        {
+          "when": "기름이 밴 피자·치킨 상자면",
+          "then": "general"
+        },
+        {
+          "when": "택배 운송장·테이프가 붙어 있으면",
+          "note": "떼고 납작하게 접어 배출"
+        },
+        {
+          "when": "젖어 있으면",
+          "note": "말린 뒤 배출, 심하면 일반쓰레기"
+        }
+      ]
+    },
+    "carton": {
+      "name": "종이팩",
+      "bin": "종이팩 전용 수거함",
+      "instruction": "내용물을 비우고 헹군 뒤 펼쳐서 말려 일반 종이와 분리해 버리세요.",
+      "color": "#FDD835",
+      "icon": "carton",
+      "conditions": [
+        {
+          "when": "내용물이 남아 있으면",
+          "note": "헹구고 펼쳐 말린 뒤 배출"
+        },
+        {
+          "when": "종이팩 전용 수거함이 없으면",
+          "note": "종이류와 섞이지 않게 따로 묶어 배출"
+        },
+        {
+          "when": "빨대·뚜껑이 붙어 있으면",
+          "note": "떼고 배출"
+        }
+      ]
+    },
+    "styrofoam": {
+      "name": "스티로폼",
+      "bin": "스티로폼 수거함",
+      "instruction": "이물질과 테이프를 제거한 뒤 버리세요. 색상이 있거나 오염된 것은 종량제 봉투에 버리세요.",
+      "color": "#90A4AE",
+      "icon": "styrofoam",
+      "conditions": [
+        {
+          "when": "음식물·양념이 묻어 있으면",
+          "then": "general"
+        },
+        {
+          "when": "테이프·스티커·운송장이 붙어 있으면",
+          "note": "떼고 배출"
+        },
+        {
+          "when": "색이 있거나 코팅된 스티로폼이면",
+          "then": "general"
+        }
+      ]
+    },
+    "food": {
+      "name": "음식물 쓰레기",
+      "bin": "음식물 쓰레기통",
+      "instruction": "물기를 최대한 빼고 버리세요. 뼈·껍데기·씨앗은 일반쓰레기입니다.",
+      "color": "#7CB342",
+      "icon": "food",
+      "conditions": [
+        {
+          "when": "뼈·조개껍데기·달걀껍데기면",
+          "then": "general"
+        },
+        {
+          "when": "채소 뿌리·껍질처럼 딱딱한 것이면",
+          "then": "general"
+        },
+        {
+          "when": "국물이 있으면",
+          "note": "물기를 빼고 배출"
+        }
+      ]
+    },
+    "ewaste": {
+      "name": "폐가전·폐건전지",
+      "bin": "폐건전지/소형가전 전용 수거함",
+      "instruction": "일반 쓰레기와 섞지 말고 주민센터나 아파트의 전용 수거함에 버리세요.",
+      "color": "#E53935",
+      "icon": "ewaste",
+      "conditions": [
+        {
+          "when": "건전지·충전지면",
+          "note": "전용 수거함(주민센터·아파트)에 배출"
+        },
+        {
+          "when": "소형가전이면",
+          "note": "배터리를 분리한 뒤 배출"
+        },
+        {
+          "when": "부풀거나 손상된 배터리면",
+          "note": "절연 후 즉시 전용 수거함에 배출"
+        }
+      ]
+    },
+    "clothing": {
+      "name": "의류",
+      "bin": "의류 수거함",
+      "instruction": "깨끗한 상태로 의류 수거함에 넣으세요. 신발은 짝을 묶어서 넣으세요.",
+      "color": "#6D4C41",
+      "icon": "clothing",
+      "conditions": [
+        {
+          "when": "젖었거나 심하게 오염됐으면",
+          "then": "general"
+        },
+        {
+          "when": "이불·베개·매트리스면",
+          "note": "대형폐기물 스티커 필요 (지자체 확인)"
+        },
+        {
+          "when": "신발·가방이면",
+          "note": "의류수거함 가능 여부는 지자체마다 다름"
+        }
+      ]
+    },
+    "general": {
+      "name": "일반 쓰레기",
+      "bin": "종량제 봉투",
+      "instruction": "재활용이 어려운 품목입니다. 종량제 봉투에 넣어 버리세요.",
+      "color": "#546E7A",
+      "icon": "general",
+      "conditions": [
+        {
+          "when": "깨끗하게 씻을 수 있으면",
+          "note": "헹궈서 해당 재질로 분리배출"
+        },
+        {
+          "when": "크기가 큰 폐기물이면",
+          "note": "대형폐기물 신고 후 배출"
+        }
+      ]
+    }
+  },
+  "classes": {
+    "general": "general",
+    "bottle": "pet",
+    "plastic_bottle": "pet",
+    "pet_bottle": "pet",
+    "water_bottle": "pet",
+    "clear_plastic_bottle": "pet",
+    "plastic": "plastic",
+    "plastic_container": "plastic",
+    "plastic_cup": "plastic",
+    "plastic_lid": "plastic",
+    "plastic_utensils": "plastic",
+    "other_plastic": "plastic",
+    "other_plastic_bottle": "plastic",
+    "bottle_cap": "plastic",
+    "plastic_bottle_cap": "plastic",
+    "straw": "general",
+    "plastic_straw": "general",
+    "cup": "plastic",
+    "disposable_plastic_cup": "plastic",
+    "paper_cup": "general",
+    "disposable_food_container": "plastic",
+    "squeezable_tube": "general",
+    "plastic_bag": "vinyl",
+    "plastic_bag_wrapper": "vinyl",
+    "plastic_film": "vinyl",
+    "single_use_carrier_bag": "vinyl",
+    "vinyl": "vinyl",
+    "wrapper": "vinyl",
+    "plastic_glooves": "vinyl",
+    "plastic_gloves": "vinyl",
+    "can": "can",
+    "drink_can": "can",
+    "food_can": "can",
+    "aerosol": "can",
+    "metal": "can",
+    "scrap_metal": "can",
+    "aluminium_foil": "can",
+    "aluminum_foil": "can",
+    "metal_bottle_cap": "can",
+    "metal_lid": "can",
+    "pop_tab": "can",
+    "fork": "can",
+    "knife": "can",
+    "spoon": "can",
+    "scissors": "can",
+    "glass": "glass",
+    "glass_bottle": "glass",
+    "glass_jar": "glass",
+    "glass_cup": "glass",
+    "wine_glass": "glass",
+    "broken_glass": "general",
+    "paper": "paper",
+    "normal_paper": "paper",
+    "magazine_paper": "paper",
+    "tissues": "general",
+    "wrapping_paper": "paper",
+    "paper_bag": "paper",
+    "book": "paper",
+    "newspaper": "paper",
+    "cardboard": "cardboard",
+    "corrugated_carton": "cardboard",
+    "box": "cardboard",
+    "carton": "carton",
+    "drink_carton": "carton",
+    "meal_carton": "carton",
+    "milk_carton": "carton",
+    "pizza_box": "general",
+    "egg_carton": "paper",
+    "styrofoam": "styrofoam",
+    "styrofoam_piece": "styrofoam",
+    "foam_cup": "styrofoam",
+    "foam_food_container": "styrofoam",
+    "polystyrene": "styrofoam",
+    "food_waste": "food",
+    "biological": "food",
+    "organic": "food",
+    "banana": "food",
+    "apple": "food",
+    "orange": "food",
+    "sandwich": "food",
+    "broccoli": "food",
+    "carrot": "food",
+    "hot_dog": "food",
+    "pizza": "food",
+    "donut": "food",
+    "cake": "food",
+    "battery": "ewaste",
+    "cell_phone": "ewaste",
+    "laptop": "ewaste",
+    "mouse": "ewaste",
+    "remote": "ewaste",
+    "keyboard": "ewaste",
+    "hair_drier": "ewaste",
+    "clothes": "clothing",
+    "clothing": "clothing",
+    "shoe": "clothing",
+    "shoes": "clothing",
+    "tie": "clothing",
+    "cigarette": "general",
+    "trash": "general",
+    "unlabeled_litter": "general",
+    "other": "general",
+    "blister_pack": "general",
+    "rope_strings": "general",
+    "toothbrush": "general",
+    "bowl": "general",
+    "vase": "general",
+    "umbrella": "general",
+    "lid": "plastic"
+  },
+  "rules": [
+    {
+      "contains": [
+        "plastic",
+        "bottle"
+      ],
+      "category": "pet"
+    },
+    {
+      "contains": [
+        "bottle"
+      ],
+      "category": "pet"
+    },
+    {
+      "contains": [
+        "bag"
+      ],
+      "category": "vinyl"
+    },
+    {
+      "contains": [
+        "film"
+      ],
+      "category": "vinyl"
+    },
+    {
+      "contains": [
+        "wrap"
+      ],
+      "category": "vinyl"
+    },
+    {
+      "contains": [
+        "vinyl"
+      ],
+      "category": "vinyl"
+    },
+    {
+      "contains": [
+        "styro"
+      ],
+      "category": "styrofoam"
+    },
+    {
+      "contains": [
+        "foam"
+      ],
+      "category": "styrofoam"
+    },
+    {
+      "contains": [
+        "cardboard"
+      ],
+      "category": "cardboard"
+    },
+    {
+      "contains": [
+        "carton"
+      ],
+      "category": "carton"
+    },
+    {
+      "contains": [
+        "paper"
+      ],
+      "category": "paper"
+    },
+    {
+      "contains": [
+        "can"
+      ],
+      "category": "can"
+    },
+    {
+      "contains": [
+        "metal"
+      ],
+      "category": "can"
+    },
+    {
+      "contains": [
+        "alumin"
+      ],
+      "category": "can"
+    },
+    {
+      "contains": [
+        "glass"
+      ],
+      "category": "glass"
+    },
+    {
+      "contains": [
+        "plastic"
+      ],
+      "category": "plastic"
+    },
+    {
+      "contains": [
+        "food"
+      ],
+      "category": "food"
+    },
+    {
+      "contains": [
+        "batter"
+      ],
+      "category": "ewaste"
+    },
+    {
+      "contains": [
+        "electronic"
+      ],
+      "category": "ewaste"
+    },
+    {
+      "contains": [
+        "cloth"
+      ],
+      "category": "clothing"
+    }
+  ],
+  "_comment_conditions": "categories[*].conditions: 쓰레기 '상태'에 따른 배출 방법. 모델은 오염·코팅 여부를 판별하지 못하므로 사용자가 눈으로 확인할 기준을 안내합니다. when=상태, then=그 경우의 카테고리 id(선택), note=추가 안내(선택). 둘 다 있으면 '→ 카테고리명 (note)' 로 표시됩니다.",
+  "_comment_regions": "regions: 지역별 분리수거 규칙. GPS 로 얻은 행정구역 이름에 match 의 문자열이 하나라도 들어 있으면 그 지역으로 봅니다 (위에 있는 지역부터 검사, match 가 빈 지역은 '공통'으로 어디에도 맞지 않을 때 씁니다). categories 에 적은 항목만 공통 규칙을 덮어쓰고(bin/instruction/conditions), 나머지는 공통 규칙을 그대로 씁니다. notice=안내 패널에 한 줄로 뜨는 요약, summary=지역 안내 화면에 보여줄 설명, sources=출처, updated=확인 시점. ⚠️ 지자체 세부 기준은 수시로 바뀝니다. 배출 전 거주지 공고를 확인하세요.",
+  "regions": {
+    "jeju": {
+      "name": "제주특별자치도",
+      "match": [
+        "제주"
+      ],
+      "notice": "재활용품 요일별 배출제 시행 중 — 품목별 지정 요일에만 배출하세요.",
+      "summary": "제주는 2016년부터 재활용품 요일별 배출제를 시행하고 있고, 2018년 4월 개선된 요일 구조가 이어지고 있습니다.\n\n• 매일 배출: 캔류·고철류·병류·스티로폼, 가연성 일반쓰레기, 음식물쓰레기\n• 월·수·금: 플라스틱류\n• 화·토: 종이류, 불연성 쓰레기\n• 목: 종이류, 비닐류\n• 일: 플라스틱류, 비닐류\n\n배출은 클린하우스·재활용도움센터에서 합니다. 2026년 현재 제도 폐지가 검토되고 있으며, 상시배출 2~3개월 시범 운영 뒤 연구용역을 거쳐 존폐를 결정할 예정입니다. 시범 지역·기간에 따라 실제 운영이 달라질 수 있으니 거주지 공고를 확인하세요.",
+      "updated": "2026-09-15 확인",
+      "sources": [
+        {
+          "title": "미디어제주 — 제주 쓰레기 요일별 배출제, 폐지? \"상시 배출, 시범 실시할 것\" (2026-07-14)",
+          "url": "https://www.mediajeju.com/news/articleView.html?idxno=365183"
+        },
+        {
+          "title": "한라일보 — 제주 재활용품 '요일별 배출제' 운명 내년 말 판가름",
+          "url": "http://www.ihalla.com/article.php?aid=1784016333788181073"
+        }
+      ],
+      "categories": {
+        "plastic": {
+          "instruction": "월·수·금·일요일에 클린하우스로 배출 (요일별 배출제). 내용물을 비우고 헹군 뒤 라벨을 떼세요."
+        },
+        "pet": {
+          "instruction": "월·수·금·일요일에 배출 (플라스틱류 요일). 라벨을 떼고 압착해 뚜껑을 닫아 배출하세요."
+        },
+        "vinyl": {
+          "instruction": "목·일요일에 배출 (비닐류 요일). 이물질을 털어내고 배출하세요."
+        },
+        "paper": {
+          "instruction": "화·목·토요일에 배출 (종이류 요일). 펼쳐서 묶어 배출하세요."
+        },
+        "cardboard": {
+          "instruction": "화·목·토요일에 배출 (종이류 요일). 테이프·운송장을 떼고 접어서 배출하세요."
+        },
+        "carton": {
+          "instruction": "화·목·토요일에 배출 (종이류 요일). 헹구고 펼쳐 말린 뒤 종이팩은 따로 모아 배출하세요."
+        },
+        "can": {
+          "instruction": "매일 배출 가능 (캔·고철류). 내용물을 비우고 헹궈서 배출하세요."
+        },
+        "glass": {
+          "instruction": "매일 배출 가능 (병류). 내용물을 비우고 헹궈서 배출하세요."
+        },
+        "styrofoam": {
+          "instruction": "매일 배출 가능 (스티로폼). 이물질과 테이프를 제거하세요."
+        },
+        "food": {
+          "instruction": "매일 배출 가능 (음식물). 물기를 빼고 전용 용기에 배출하세요."
+        },
+        "general": {
+          "instruction": "가연성 일반쓰레기는 매일 배출 가능. 불연성은 화·토요일에 배출하세요."
+        }
+      }
+    },
+    "seoul": {
+      "name": "서울특별시",
+      "match": [
+        "서울"
+      ],
+      "notice": "단독주택·빌라는 비닐·투명페트병을 지정 요일에만 배출합니다 (자치구마다 요일 다름).",
+      "summary": "서울은 2021년 12월 25일부터 단독주택·연립·빌라·소규모 상가를 대상으로 '비닐'과 '투명페트병'을 지정된 요일에만 따로 배출하는 요일제를 시행합니다. 공동주택(아파트)은 요일제 대상이 아니고 상시 분리배출합니다.\n\n배출 요일은 자치구·동네마다 다릅니다(2022년 시행 안내 기준: 다수 자치구 목요일, 마포구 수요일, 격일 배출 지역은 목 또는 금요일 등). 현재 요일은 반드시 거주 자치구 공고로 확인하세요.\n\n음식물쓰레기는 자치구마다 방식이 다릅니다. 전용 봉투를 쓰는 곳도 있고, 공동주택에 RFID 세대별 종량기를 도입한 자치구(금천·영등포·서초 등)도 있습니다.",
+      "updated": "2026-09-15 확인 (요일 세부는 2022년 시행 안내 기준)",
+      "sources": [
+        {
+          "title": "서울시 — 단독주택 지역 비닐 및 투명페트병 별도 분리배출 요일제 시행 안내",
+          "url": "https://news.seoul.go.kr/env/archives/515834"
+        },
+        {
+          "title": "내 손안에 서울 — '비닐·투명페트병' 배출요일 안 지키면 당일 수거 안 돼요",
+          "url": "https://mediahub.seoul.go.kr/archives/2005130"
+        },
+        {
+          "title": "내 손안에 서울 — RFID 방식 음식물 쓰레기 종량제",
+          "url": "https://mediahub.seoul.go.kr/archives/172714"
+        }
+      ],
+      "categories": {
+        "vinyl": {
+          "instruction": "단독주택·빌라는 지정 요일에만 따로 배출 (자치구 공고 확인). 아파트는 상시 배출."
+        },
+        "pet": {
+          "instruction": "단독주택·빌라는 지정 요일에만 따로 배출 (자치구 공고 확인). 라벨을 떼고 압착해 뚜껑을 닫으세요."
+        },
+        "food": {
+          "instruction": "전용 봉투 또는 RFID 종량기 (자치구·단지마다 다름). 물기를 빼고 배출하세요."
+        }
+      }
+    },
+    "default": {
+      "name": "공통(전국 기준)",
+      "match": [],
+      "notice": "지자체마다 배출 요일·수거 방식이 다릅니다. 거주지 공고를 확인하세요.",
+      "summary": "품목 분류(종이·플라스틱·비닐·캔·유리 등)는 전국 공통 기준을 따릅니다. 2026년 4월 21일 시행된 자원재활용법 시행령 개정으로, 정부가 분리수거 지침을 마련하고 지자체가 이를 지키도록 하는 의무가 명확해졌습니다.\n\n다만 시장·군수·구청장이 지역 여건(주거 형태, 도로 사정, 선별시설 등)에 맞춰 배출 요일과 수거 체계를 정하도록 되어 있어, 실제 배출 방법은 지역마다 다릅니다.\n\n이 앱의 안내는 전국 공통 기준이며, 배출 요일·전용 용기·대형폐기물 신고 방법은 거주지 시·군·구 공고를 확인하세요.",
+      "updated": "2026-09-15 확인",
+      "sources": [
+        {
+          "title": "국가법령정보센터 — 재활용가능자원의 분리수거 등에 관한 지침",
+          "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000272746&chrClsCd=010201"
+        },
+        {
+          "title": "찾기쉬운 생활법령정보 — 분리배출 요령 및 재활용 방법",
+          "url": "https://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1452&ccfNo=2&cciNo=1&cnpClsNo=2"
+        }
+      ],
+      "categories": {}
+    }
+  }
+}

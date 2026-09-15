@@ -1,0 +1,42 @@
+name: trash_sorter
+description: 실시간 YOLO 쓰레기 검출 + 분리수거 안내 앱
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.0
+  flutter: ">=3.47.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ultralytics_yolo: ^0.6.14
+  permission_handler: ^13.0.2
+  shared_preferences: ^2.5.5
+  gal: ^2.3.3
+  geolocator: ^14.0.3
+  geocoding: ^5.0.0
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/
+    - assets/config/
+
+# 앱 아이콘 생성 설정 (원본: assets/icon/app_icon.svg → app_icon.png)
+# 아이콘을 바꾸려면: ml/.venv/Scripts/python.exe tool/make_app_icon.py 로 PNG 를 다시 만든 뒤
+#   dart run flutter_launcher_icons
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+  adaptive_icon_background: "#1B5E20"
+  adaptive_icon_foreground: "assets/icon/app_icon_foreground.png"
+  min_sdk_android: 23

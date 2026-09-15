@@ -1,0 +1,33 @@
+# 상위 trash_detection_project/.gitignore 가 막는 앱 필수 파일을 이 폴더에서는 허용한다
+!*.tflite
+!*.png
+!*.jpg
+!*.jpeg
+
+# ---- 대용량 산출물 ----
+*.pt
+*.onnx
+ml/datasets/
+ml/runs/
+ml/exports/
+ml/weights/*_litert_model/
+ml/weights/*_saved_model/
+release/*.zip
+
+# ---- 빌드 산출물 / 캐시 ----
+build/
+.dart_tool/
+.venv/
+.gradle/
+__pycache__/
+*.pyc
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# ---- 에디터 / OS ----
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

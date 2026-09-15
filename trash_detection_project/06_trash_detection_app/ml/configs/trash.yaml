@@ -1,0 +1,26 @@
+# YOLO 데이터셋 설정 (Ultralytics data.yaml 형식)
+# prepare_taco.py 를 실행하면 datasets/taco_yolo/data.yaml 이 자동 생성됩니다.
+# 직접 라벨링한 데이터셋을 쓰려면 path/train/val 만 바꾸면 됩니다.
+#
+# 클래스명은 app/assets/config/recycling_guide.json 의 classes 키와 맞춰 두면
+# 앱에서 별도 수정 없이 바로 분리수거 안내가 나옵니다.
+
+path: ../datasets/taco_yolo   # 이 파일 기준 상대경로 또는 절대경로
+train: images/train
+val: images/val
+
+names:
+  0: plastic_bottle
+  1: plastic_container
+  2: plastic_bag
+  3: other_plastic
+  4: can
+  5: metal
+  6: glass
+  7: paper
+  8: cardboard
+  9: carton
+  10: styrofoam
+  11: cigarette
+  12: food_waste
+  13: other

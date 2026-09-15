@@ -1,0 +1,64 @@
+# TACO 데이터셋 60개 세부 카테고리 → 학습 클래스(trash.yaml names) 매핑
+# 키: TACO annotations.json 의 category name (정확히 일치)
+# 값: trash.yaml 의 클래스명. 값을 null 로 두면 해당 객체는 학습에서 제외됩니다.
+
+Aluminium foil: metal
+Battery: other
+Aluminium blister pack: other
+Carded blister pack: other
+Other plastic bottle: plastic_bottle
+Clear plastic bottle: plastic_bottle
+Glass bottle: glass
+Plastic bottle cap: other_plastic
+Metal bottle cap: metal
+Broken glass: glass
+Food Can: can
+Aerosol: can
+Drink can: can
+Toilet tube: cardboard
+Other carton: carton
+Egg carton: paper
+Drink carton: carton
+Corrugated carton: cardboard
+Meal carton: carton
+Pizza box: cardboard
+Paper cup: paper
+Disposable plastic cup: plastic_container
+Foam cup: styrofoam
+Glass cup: glass
+Other plastic cup: plastic_container
+Food waste: food_waste
+Glass jar: glass
+Plastic lid: other_plastic
+Metal lid: metal
+Other plastic: other_plastic
+Magazine paper: paper
+Tissues: other
+Wrapping paper: paper
+Normal paper: paper
+Paper bag: paper
+Plastified paper bag: plastic_bag
+Plastic film: plastic_bag
+Six pack rings: other_plastic
+Garbage bag: plastic_bag
+Other plastic wrapper: plastic_bag
+Single-use carrier bag: plastic_bag
+Polypropylene bag: plastic_bag
+Crisp packet: plastic_bag
+Spread tub: plastic_container
+Tupperware: plastic_container
+Disposable food container: plastic_container
+Foam food container: styrofoam
+Other plastic container: plastic_container
+Plastic glooves: other_plastic
+Plastic utensils: other_plastic
+Pop tab: metal
+Rope & strings: other
+Scrap metal: metal
+Shoe: other
+Squeezable tube: other_plastic
+Plastic straw: other_plastic
+Paper straw: paper
+Styrofoam piece: styrofoam
+Unlabeled litter: other
+Cigarette: cigarette

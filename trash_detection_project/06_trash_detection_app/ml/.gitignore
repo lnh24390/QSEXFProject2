@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+datasets/
+runs/
+weights/*.pt
+weights/*_litert_model/
+weights/*_saved_model/
+exports/*.onnx
+exports/*.tflite
+exports/*.txt
+*.log

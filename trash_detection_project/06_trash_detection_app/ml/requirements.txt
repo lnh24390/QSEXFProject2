@@ -1,0 +1,11 @@
+# 학습·변환용 Python 의존성 (Python 3.10 이상)
+# GPU 학습: 먼저 https://pytorch.org 에서 CUDA 버전 torch 를 설치한 뒤 이 파일을 설치하세요.
+ultralytics>=8.4.142
+onnx>=1.17.0
+onnxruntime>=1.20.0
+onnxslim>=0.1.50
+pyyaml>=6.0
+tqdm>=4.66
+requests>=2.32
+pillow>=10.0
+numpy>=1.26

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="rgb(46, 125, 50)"/>
+      <stop offset="1" stop-color="rgb(20, 83, 27)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="210" fill="url(#bg)"/>
+  <g fill="#fff">
+    <rect x="132.0" y="132.0" width="176.0" height="46.0" rx="16"/>
+    <rect x="132.0" y="132.0" width="46.0" height="176.0" rx="16"/>
+    <rect x="716.0" y="132.0" width="176.0" height="46.0" rx="16"/>
+    <rect x="846.0" y="132.0" width="46.0" height="176.0" rx="16"/>
+    <rect x="132.0" y="846.0" width="176.0" height="46.0" rx="16"/>
+    <rect x="132.0" y="716.0" width="46.0" height="176.0" rx="16"/>
+    <rect x="716.0" y="846.0" width="176.0" height="46.0" rx="16"/>
+    <rect x="846.0" y="716.0" width="46.0" height="176.0" rx="16"/>
+  </g>
+  <g stroke="#fff" stroke-width="58" stroke-linecap="round" fill="#fff">
+    <line x1="543.0" y1="345.8" x2="643.9" y2="520.5"/>
+    <polygon points="686.6,594.4 596.2,548.0 691.6,492.9" stroke="none"/>
+    <line x1="643.9" y1="628.0" x2="442.2" y2="628.0"/>
+    <polygon points="356.8,628.0 442.2,572.9 442.2,683.1" stroke="none"/>
+    <line x1="349.0" y1="574.2" x2="449.9" y2="399.5"/>
+    <polygon points="492.6,325.6 497.6,427.1 402.2,372.0" stroke="none"/>
+  </g>
+</svg>
