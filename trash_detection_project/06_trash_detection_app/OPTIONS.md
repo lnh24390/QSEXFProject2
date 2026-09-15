@@ -74,20 +74,31 @@ DetectionScreen → 플러그인(YOLOView / YOLO.predict)
 - **주의:** 임계값을 고른 이미지와 효과를 잰 이미지가 같아 **낙관적인 수치**입니다. 실제 폰 사진으로 재확인이 필요합니다.
 - 자세한 측정 결과는 `RECOGNITION_IMPROVEMENT_REPORT.md` 5장에 있습니다.
 
-**측정 결과 (2026-09-14 기준, 앱 모델 8개 중 7개 측정 완료)**
+**측정 결과 (2026-09-15 기준, 앱 모델 16개 중 11개 측정 완료 · 모두 같은 test 500장)**
 
 | 모델 | test mAP50-95 | 유리 임계값 | 비고 |
 |---|---|---|---|
 | `0_bbox_yolo26s_100epoch_70000` | **0.746** | 0.13 | YOLO26s, 36MB·PC CPU 50ms |
 | `ain_yolov11n_epoch100_70000` | **0.736** | 0.29 | 10MB·PC CPU 18ms |
 | `lnh_yolov11n_50epoch_70000_` | 0.714 | 0.24 | |
-| `0_bbox_yolo11n_100epoch_70000` | 0.709 | 0.24 | 현재 기본 모델 |
+| `transfer_bbox_final` | 0.709 | 0.38 | 전이학습 최종, 38MB·PC CPU 62ms |
+| `0_bbox_yolo11n_100epoch_70000` | 0.709 | 0.24 | 현재 기본 모델, 10MB·18ms |
 | `sj_bbox_yolo11n_300epoch_70000` | 0.706 | 0.34 | |
+| `transfer_bbox_stage3` | 0.706 | 0.21 | 전이학습 3단계, 38MB·64ms |
+| `transfer_bbox_stage2` | 0.695 | 0.06 | 전이학습 2단계, 38MB·63ms |
+| `transfer_bbox_stage1` | 0.660 | 0.14 | 전이학습 1단계, 38MB·58ms |
 | `ain_yolov11n_epoch50_6000` | 0.538 | 0.69 | |
 | `sj_yolov11n_epoch50_3000` | 0.517 | 0.49 | |
 
-**측정하지 못한 모델 1개** — `0_seg_yolo11n_100epoch_70000` 은 세그멘테이션 모델이라 폴리곤 라벨이 있는 평가셋이 필요한데,
-현재 test 데이터는 박스 라벨뿐이라 ultralytics 가 평가를 거부합니다. 전체 임계값 0.45로 동작합니다.
+**전이학습 모델에 대한 해석** — 단계를 거듭할수록 꾸준히 좋아지지만(0.660 → 0.695 → 0.706 → 0.709),
+최종본도 기존 상위 두 모델(`0_bbox_yolo26s` 0.746, `ain_yolov11n_epoch100` 0.736)에는 못 미칩니다.
+현재 기본 모델과는 같은 수준(0.709)인데 **파일은 3.8배 크고(38MB vs 10MB) 추론은 3.5배 느립니다(62ms vs 18ms)**.
+따라서 **기본 모델을 바꾸지 않았습니다.** 약점도 기존 모델들과 같아 유리(0.484)와 플라스틱(0.625)이 여전히 가장 낮습니다.
+
+**측정하지 못한 모델 5개** — `0_seg_yolo11n_100epoch_70000`, `transfer_seg_stage1`, `transfer_seg_stage2`,
+`transfer_seg_stage3_final`, `transfer_seg_final_rejected`. 세그멘테이션 평가에는 폴리곤 라벨이 있는 평가셋이
+필요한데 현재 test 데이터는 박스 라벨뿐이라 ultralytics 가 거부합니다
+(`Segment dataset requires equal numbers of boxes and segments`). 전체 임계값 0.45로 동작합니다.
 
 ### 3-1-1. ⚠️ 전체 임계값과 클래스별 임계값의 관계 (헷갈리기 쉬움)
 
