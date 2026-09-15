@@ -140,52 +140,13 @@ class AppConfig {
       'can': 0.63,
       'general': 0.69,
     },
-    // --- 전이학습 모델 (2026-09-15 측정, 같은 test 500장) ---
-    // 단계가 올라갈수록 좋아집니다(클래스 평균 F1 / mAP50-95):
-    //   stage1 0.789 / 0.660 → stage2 0.795 / 0.695 → stage3 0.805 / 0.706 → final 0.811 / 0.709
-    // 다만 최종본도 mAP 기준으로는 기존 상위 모델(0_bbox_yolo26s 0.746)에 못 미치고
-    // 현재 기본 모델과 같은 수준(0.709)이면서 파일은 3.8배 크고 추론은 3.5배 느립니다.
-    // 그래서 defaultModelAsset 은 바꾸지 않았습니다(OPTIONS.md 3-1 참고).
-    'transfer_bbox_stage1': {
-      'glass': 0.14,
-      'vinyl': 0.34,
-      'plastic': 0.39,
-      'paper': 0.43,
-      'battery': 0.65,
-      'general': 0.69,
-      'can': 0.85,
-    },
-    'transfer_bbox_stage2': {
-      'glass': 0.06,
-      'vinyl': 0.53,
-      'plastic': 0.57,
-      'paper': 0.65,
-      'battery': 0.67,
-      'can': 0.76,
-      'general': 0.80,
-    },
-    'transfer_bbox_stage3': {
-      'glass': 0.21,
-      'vinyl': 0.30,
-      'paper': 0.46,
-      'battery': 0.52,
-      'plastic': 0.57,
-      'can': 0.80,
-      'general': 0.82,
-    },
-    'transfer_bbox_final': {
-      'vinyl': 0.37,
-      'glass': 0.38,
-      'battery': 0.41,
-      'plastic': 0.53,
-      'paper': 0.74,
-      'can': 0.83,
-      'general': 0.84,
-    },
-    // 세그멘테이션 모델(0_seg_yolo11n_100epoch_70000, transfer_seg_stage1/stage2/
-    // stage3_final/final_rejected)은 측정값이 없어 전체 임계값(confidenceThreshold)으로 동작한다.
+    // 0_seg_yolo11n_100epoch_70000 은 측정값이 없어 전체 임계값(confidenceThreshold)으로 동작한다.
     // 세그 평가에는 폴리곤 라벨이 있는 평가셋이 필요한데, 현재 test 데이터는 박스 라벨뿐이라 측정 불가.
     // (ultralytics 가 "Segment dataset requires equal numbers of boxes and segments" 로 거부한다)
+    //
+    // 전이학습 모델(transfer_*)은 측정만 하고 앱에는 번들하지 않는다. 기존 모델보다 낫지 않으면서
+    // 파일이 3.8배 크고 추론이 3.5배 느려 앱 용량만 190MB 늘기 때문이다(OPTIONS.md 3-1 참고).
+    // 다시 넣으려면 ml/exports 의 .tflite 를 app/assets/models 로 복사하고 측정값을 여기에 추가한다.
   };
 
   /// NMS IoU 임계값. 두 박스가 이 비율 이상 겹치면 같은 물체로 보고 하나만 남깁니다.

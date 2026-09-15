@@ -1,7 +1,7 @@
 name: trash_sorter
 description: 실시간 YOLO 쓰레기 검출 + 분리수거 안내 앱
 publish_to: "none"
-version: 1.0.1+2
+version: 1.0.2+3
 
 environment:
   sdk: ^3.13.0
