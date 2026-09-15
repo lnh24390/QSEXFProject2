@@ -10,9 +10,11 @@
 ml/datasets/
 ml/runs/
 ml/exports/
+ml/weights/*.tflite
 ml/weights/*_litert_model/
 ml/weights/*_saved_model/
 release/*.zip
+release/*.apk
 
 # ---- 빌드 산출물 / 캐시 ----
 build/

@@ -47,6 +47,30 @@ void main() {
     expect(find.text('bottle 91%'), findsOneWidget);
   });
 
+  testWidgets('사진에서 못 찾으면 각도·거리를 바꿔 다시 찍도록 안내한다', (tester) async {
+    await tester.pumpWidget(wrap(
+      GuidePanel(
+        guide: guide,
+        detections: const [],
+        maxItems: 3,
+        emptyPrompt: GuidePrompt.photoNothing,
+      ),
+    ));
+
+    expect(GuidePrompt.photoNothing.subtitle, contains('각도'));
+    expect(GuidePrompt.photoNothing.subtitle, contains('거리'));
+    expect(find.text(GuidePrompt.photoNothing.subtitle), findsOneWidget);
+
+    // 조치 목록이 빠짐없이 화면에 있어야 한다
+    expect(GuidePrompt.photoNothing.tips, isNotEmpty);
+    for (final tip in GuidePrompt.photoNothing.tips) {
+      expect(find.text(tip), findsOneWidget, reason: tip);
+    }
+
+    // 촬영 전 문구에는 조치 목록을 붙이지 않는다
+    expect(GuidePrompt.photoReady.tips, isEmpty);
+  });
+
   testWidgets('사진 모드: 촬영 전·분석 중·결과 없음 문구를 보여준다', (tester) async {
     await tester.pumpWidget(wrap(
       GuidePanel(

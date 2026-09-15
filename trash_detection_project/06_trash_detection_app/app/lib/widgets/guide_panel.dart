@@ -10,11 +10,15 @@ class GuidePrompt {
     required this.icon,
     required this.title,
     required this.subtitle,
+    this.tips = const [],
   });
 
   final IconData icon;
   final String title;
   final String subtitle;
+
+  /// 사용자가 바로 해 볼 수 있는 조치. 비어 있으면 표시하지 않습니다.
+  final List<String> tips;
 
   static const loading = GuidePrompt(
     icon: Icons.hourglass_top_rounded,
@@ -43,13 +47,20 @@ class GuidePrompt {
   static const photoNothing = GuidePrompt(
     icon: Icons.search_off_rounded,
     title: '사진에서 쓰레기를 찾지 못했어요',
-    subtitle: '더 가까이에서 다시 찍거나, 세부 옵션에서 신뢰도 임계값을 낮춰 보세요.',
+    subtitle: '각도나 거리를 바꿔 다시 찍어 주세요.',
+    tips: [
+      '쓰레기가 화면 가운데에 크게 담기도록 한 걸음 다가가세요.',
+      '위에서 비스듬히 내려다보는 각도로 바꿔 보세요.',
+      '그림자·반사가 없도록 밝은 곳에서, 배경이 단순한 바닥에 두고 찍으세요.',
+      '겹쳐 있으면 하나씩 떼어 놓고 찍으세요.',
+      '그래도 안 되면 세부 옵션에서 신뢰도 임계값을 낮춰 보세요.',
+    ],
   );
 
   static const photoFailed = GuidePrompt(
     icon: Icons.error_outline_rounded,
     title: '사진을 분석하지 못했어요',
-    subtitle: '다시 찍어 주세요.',
+    subtitle: '아래 "다시 찍기" 를 눌러 한 번 더 시도해 주세요.',
   );
 }
 
@@ -142,16 +153,12 @@ class GuidePanel extends StatelessWidget {
               child: modelLoading
                   ? _EmptyPrompt(
                       key: ValueKey('busy-${busyPrompt.title}'),
-                      icon: busyPrompt.icon,
-                      title: busyPrompt.title,
-                      subtitle: busyPrompt.subtitle,
+                      prompt: busyPrompt,
                     )
                   : detections.isEmpty
                   ? _EmptyPrompt(
                       key: ValueKey('empty-${emptyPrompt.title}'),
-                      icon: emptyPrompt.icon,
-                      title: emptyPrompt.title,
-                      subtitle: emptyPrompt.subtitle,
+                      prompt: emptyPrompt,
                     )
                   : _DetectionList(
                       key: ValueKey('list-${detections.length}'),
@@ -168,23 +175,20 @@ class GuidePanel extends StatelessWidget {
 }
 
 class _EmptyPrompt extends StatelessWidget {
-  const _EmptyPrompt({
-    super.key,
-    required this.icon,
-    required this.title,
-    required this.subtitle,
-  });
+  const _EmptyPrompt({super.key, required this.prompt});
 
-  final IconData icon;
-  final String title;
-  final String subtitle;
+  final GuidePrompt prompt;
 
   @override
   Widget build(BuildContext context) {
     final text = Theme.of(context).textTheme;
     return Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Icon(icon, size: 40, color: Colors.white70),
+        Padding(
+          padding: const EdgeInsets.only(top: 2),
+          child: Icon(prompt.icon, size: 40, color: Colors.white70),
+        ),
         const SizedBox(width: 14),
         Expanded(
           child: Column(
@@ -192,7 +196,7 @@ class _EmptyPrompt extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               Text(
-                title,
+                prompt.title,
                 style: text.titleMedium?.copyWith(
                   color: Colors.white,
                   fontWeight: FontWeight.w700,
@@ -200,9 +204,36 @@ class _EmptyPrompt extends StatelessWidget {
               ),
               const SizedBox(height: 4),
               Text(
-                subtitle,
+                prompt.subtitle,
                 style: text.bodyMedium?.copyWith(color: Colors.white60),
               ),
+              // 조치 목록은 패널이 스크롤되므로 잘리지 않는다
+              for (final tip in prompt.tips)
+                Padding(
+                  padding: const EdgeInsets.only(top: 6),
+                  child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Padding(
+                        padding: EdgeInsets.only(top: 5, right: 7),
+                        child: Icon(
+                          Icons.circle,
+                          size: 5,
+                          color: Colors.white38,
+                        ),
+                      ),
+                      Expanded(
+                        child: Text(
+                          tip,
+                          style: text.bodySmall?.copyWith(
+                            color: Colors.white70,
+                            height: 1.35,
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
             ],
           ),
         ),
