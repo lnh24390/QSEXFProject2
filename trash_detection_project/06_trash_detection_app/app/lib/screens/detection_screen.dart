@@ -49,7 +49,7 @@ class _DetectionScreenState extends State<DetectionScreen>
   String? _modelError;
   PermissionStatus? _cameraPermission;
   DetectionSettings _settings = DetectionSettings.defaults;
-  DetectionMode _mode = DetectionMode.live;
+  DetectionMode _mode = AppConfig.defaultMode;
 
   // 실시간 모드
   List<ActiveDetection> _visible = const [];
