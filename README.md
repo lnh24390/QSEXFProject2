@@ -41,4 +41,4 @@ CONFIDENCE = 0.35 (실시간 웹캠 추론용):
 <img width="1588" height="728" alt="image" src="https://github.com/user-attachments/assets/203980da-718c-4ba6-9e05-a35eaac9bddc" />
 
 ## APP 설치법  
-설정 → 보안및 개인정보 보호 → 보안위험 자동차단(OFF상태 전환) → 내파일에서 APK파일 터치 후 무시하고 설치
+설정 → 보안 및 개인정보 보호 → 보안위험 자동차단(OFF상태 전환) → 내파일에서 APK파일 터치 후 무시하고 설치 → 설치 후 설 → 보안 및 개인정보 보호 → 보안위험 자동차단(ON상태으로 전환)
