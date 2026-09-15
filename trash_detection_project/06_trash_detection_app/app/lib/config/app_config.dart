@@ -140,8 +140,49 @@ class AppConfig {
       'can': 0.63,
       'general': 0.69,
     },
-    // 0_seg_yolo11n_100epoch_70000 은 측정값이 없어 전체 임계값(confidenceThreshold)으로 동작한다.
-    // 세그멘테이션 모델은 폴리곤 라벨이 있는 평가셋이 필요한데, 현재 test 데이터는 박스 라벨뿐이라 측정 불가.
+    // --- 전이학습 모델 (2026-09-15 측정, 같은 test 500장) ---
+    // 단계가 올라갈수록 클래스 평균 F1(최적 임계값 기준)이 오릅니다:
+    // stage1 0.789 → stage2 0.795 → stage3 0.805 → final 0.811.
+    'transfer_bbox_stage1': {
+      'glass': 0.14,
+      'vinyl': 0.34,
+      'plastic': 0.39,
+      'paper': 0.43,
+      'battery': 0.65,
+      'general': 0.69,
+      'can': 0.85,
+    },
+    'transfer_bbox_stage2': {
+      'glass': 0.06,
+      'vinyl': 0.53,
+      'plastic': 0.57,
+      'paper': 0.65,
+      'battery': 0.67,
+      'can': 0.76,
+      'general': 0.80,
+    },
+    'transfer_bbox_stage3': {
+      'glass': 0.21,
+      'vinyl': 0.30,
+      'paper': 0.46,
+      'battery': 0.52,
+      'plastic': 0.57,
+      'can': 0.80,
+      'general': 0.82,
+    },
+    'transfer_bbox_final': {
+      'vinyl': 0.37,
+      'glass': 0.38,
+      'battery': 0.41,
+      'plastic': 0.53,
+      'paper': 0.74,
+      'can': 0.83,
+      'general': 0.84,
+    },
+    // 세그멘테이션 모델(0_seg_yolo11n_100epoch_70000, transfer_seg_stage1/stage2/
+    // stage3_final/final_rejected)은 측정값이 없어 전체 임계값(confidenceThreshold)으로 동작한다.
+    // 세그 평가에는 폴리곤 라벨이 있는 평가셋이 필요한데, 현재 test 데이터는 박스 라벨뿐이라 측정 불가.
+    // (ultralytics 가 "Segment dataset requires equal numbers of boxes and segments" 로 거부한다)
   };
 
   /// NMS IoU 임계값. 두 박스가 이 비율 이상 겹치면 같은 물체로 보고 하나만 남깁니다.
