@@ -27,6 +27,7 @@ https://github.com/lnh24390/QSEXFProject2/tree/main/trash_detection_project/03_t
 ## 시각화 자료
 <img width="1588" height="728" alt="image" src="https://github.com/user-attachments/assets/9043eaef-b0b6-4e44-bab8-f9298483d2fc" />  
 <img width="1588" height="728" alt="image" src="https://github.com/user-attachments/assets/203980da-718c-4ba6-9e05-a35eaac9bddc" />
+<img width="854" height="468" alt="image" src="https://github.com/user-attachments/assets/9b3608ec-cbc4-4602-b471-d62a7b39850c" />
 
 ## APP 설치법  
 [분리수거 도우미 앱 v1.0.2 (APK)](https://github.com/lnh24390/QSEXFProject2/releases/tag/app-v1.0.2) 에서 app-v1.0.2를 다운로드 후
