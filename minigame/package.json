@@ -1,0 +1,10 @@
+{
+  "name": "neon-drift",
+  "version": "2.0.2",
+  "private": true,
+  "description": "A dependency-free neon arcade survival game",
+  "scripts": {
+    "test": "node tests/run.cjs"
+  },
+  "engines": { "node": ">=18" }
+}
