@@ -96,8 +96,8 @@ python3 tools/export_engine.py --model ain_yolov11n_epoch100_70000
 
 ### 저장소에 `.engine` / `.onnx` 가 없는 이유
 
-이 저장소에는 `.pt` 가중치만 올려두었습니다. 받아서 바로 쓰려고 `.engine` 을
-찾았다면, **없는 게 맞고 각자 장비에서 만들어야 합니다.**
+이 저장소에는 가중치를 올리지 않았습니다. `.pt`(약 158MB)는 `model/` 에 직접 넣고,
+`.engine` 은 **각자 장비에서 만들어야 합니다.**
 
 - **엔진은 만든 장비에 묶입니다.** TensorRT는 빌드할 때의 GPU 아키텍처
   (Orin = `sm_87`), TensorRT / CUDA 버전, JetPack 버전에 맞춰 커널을 고릅니다.
@@ -152,7 +152,7 @@ src/
   recycling_guide.py            클래스 -> 카테고리 -> 지역별 안내
   ui.py                         HUD · 안내 패널 · 검출 박스 (한글 렌더링)
 config/recycling_guide.json     분리수거 매핑 규칙
-model/                          YOLO 가중치 (.pt 만 저장소에 포함, .engine/.onnx 는 각자 생성)
+model/                          YOLO 가중치 (저장소에 없음. .pt 는 직접 넣고 .engine/.onnx 는 각자 생성)
 output/                         스냅샷 / 녹화 결과
 ```
 
@@ -205,32 +205,3 @@ SSH(X11 포워딩)로 띄우고 있다면 그것이 원인입니다. `--headless
 
 **한글이 물음표로 깨진다**
 `pip3 install Pillow` 와 `sudo apt install fonts-noto-cjk` 를 설치하세요.
-
-## QSEXFProject2 동기화
-
-이 저장소가 원본이고, 팀 저장소 `lnh24390/QSEXFProject2` 의
-`trash_detection_project/07_jetson_trash_detection/` 은 사본입니다.
-수정은 항상 이 저장소에서 하고, 반영은 아래 스크립트로 합니다.
-
-```bash
-tools/sync_to_qsexf.sh                 # 마지막 커밋 제목을 설명으로 사용
-tools/sync_to_qsexf.sh "노출 조절 추가"   # 설명 직접 지정
-```
-
-`git push` 할 때 `.git/hooks/pre-push` 가 이 스크립트를 자동으로 실행합니다.
-동기화가 실패해도 이 저장소로의 푸시 자체는 막지 않고 경고만 남깁니다.
-직접 돌리려면 위 명령을 쓰면 됩니다.
-
-스크립트는 **커밋된 파일만** 07 폴더로 복사하므로 작업 중인 파일이나
-`output/` 산출물이 섞이지 않습니다. 대상 저장소에는 `.github/` 와
-가중치(`*.pt`, 약 158MB)를 넣지 않습니다 — 상위
-`trash_detection_project/.gitignore` 가 막고 있고, 가중치는 원본인 이
-저장소에서 받으면 됩니다. 커밋은 07 폴더만 스테이징하므로 팀원이 작업 중인
-다른 파일은 건드리지 않습니다.
-
-대상 저장소 클론이 `~/Desktop/QSEXFProject2/QSEXFProject2` 가 아니라면
-`QSEXF_DIR` 로 경로를 지정하세요.
-
-```bash
-QSEXF_DIR=/path/to/QSEXFProject2 tools/sync_to_qsexf.sh
-```
