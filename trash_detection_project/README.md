@@ -12,6 +12,9 @@
 | `02_training` | 초기 학습 코드(`baseline_training`), 데이터 정리·벤치마크 코드(`dataset_preparation`). **사전학습 `.pt` 없음** |
 | `03_transfer_learning` | 전이학습 세 프로젝트의 코드·데이터 YAML·분할 목록(`01_initial_finetuning`, `02_model_scaling`, `03_staged_finetuning`) |
 | `04_results` | 보고서·지표 텍스트·평가 JSON. **가중치(`.pt`)·실행 로그·그림 없음** |
+| `06_trash_detection_app` | 쓰레기 검출 Android 앱(Flutter, LiteRT)과 모델 변환 스크립트 |
+| `07_jetson_trash_detection` | Jetson Orin Nano 실시간 검출·분리수거 안내 실행기(TensorRT). **가중치 `.pt` 없음** |
+| `08_datasegment_labeling` | SAM 기반 세그먼트 라벨링 도구(PySide6) — 라벨링·YOLO/COCO 내보내기·학습 GUI |
 | 루트 파일 | `workspace_paths.py`, `workspace_layout.json`, `workspace_trainers.py`(경로 해석), `pyproject.toml`, `uv.lock`(의존성) — 코드 실행에 필요해 함께 담았습니다 |
 
 ## 빠진 것과 용량

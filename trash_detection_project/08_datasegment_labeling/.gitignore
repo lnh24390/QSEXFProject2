@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 대용량 산출물
+weights/
+datasets/
+runs/
+projects/
+configs/settings.json
+
+# 아이콘 중간 산출물 (assets/icon.svg 에서 scripts/make_icon.py 로 생성)
+assets/icon_*.png
+
+# 빌드 산출물 (scripts/build_exe.py)
+build/
+dist/
+*.spec.bak
+
+# 프로젝트 데이터
+*/images/
+*/labels/

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>DataSegmentLabeling</title>
+  <desc>One click turns a loose detection box into a traced segment.</desc>
+
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#2c3037"/>
+      <stop offset="1" stop-color="#15161a"/>
+    </linearGradient>
+    <linearGradient id="fill" x1="0.1" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#7fb2ff"/>
+      <stop offset="1" stop-color="#3a78e6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="url(#tile)"/>
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="none"
+        stroke="#454a52" stroke-width="6"/>
+
+  <!-- Corner brackets of the detection box it started as. Only the corners,
+       so the shape underneath stays readable at small sizes. -->
+  <g fill="none" stroke="#ffb300" stroke-width="16" stroke-linecap="round"
+     stroke-opacity="0.9">
+    <path d="M104 168 V116 H156"/>
+    <path d="M356 116 H408 V168"/>
+    <path d="M408 344 V396 H356"/>
+    <path d="M156 396 H104 V344"/>
+  </g>
+
+  <!-- The traced segment: deliberately irregular so it never reads as a
+       circle, with the round joins the canvas itself uses. -->
+  <path d="M132 306
+           L 190 168
+           L 322 142
+           L 396 240
+           L 330 372
+           Z"
+        fill="url(#fill)" fill-opacity="0.38"
+        stroke="#8cbcff" stroke-width="22"
+        stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Editable vertices, drawn the way the canvas draws them. -->
+  <g fill="#ffffff" stroke="#2f6ad0" stroke-width="6">
+    <rect x="115" y="289" width="34" height="34" rx="7"/>
+    <rect x="173" y="151" width="34" height="34" rx="7"/>
+    <rect x="305" y="125" width="34" height="34" rx="7"/>
+    <rect x="379" y="223" width="34" height="34" rx="7"/>
+    <rect x="313" y="355" width="34" height="34" rx="7"/>
+  </g>
+
+  <!-- The positive SAM click that produced it. -->
+  <g transform="translate(262 254)">
+    <circle r="40" fill="#3ddc84" fill-opacity="0.22"/>
+    <circle r="24" fill="#3ddc84" stroke="#10301c" stroke-width="5"/>
+    <path d="M-10 0 H10 M0 -10 V10" stroke="#0d2716" stroke-width="8"
+          stroke-linecap="round"/>
+  </g>
+</svg>
