@@ -296,6 +296,17 @@ NeonStrike.exe                    완성된 Windows 실행 파일
 로비의 **서버 링크 복사 · Ctrl+C** 버튼을 누르면 친구에게 보낼 주소가 복사됩니다. 로비에서 입력 중이 아니고 선택된 글자가 없을 때 Ctrl+C로도 서버 링크를 복사할 수 있습니다. 주소 입력칸을 클릭하면 전체 주소가 선택되어 기본 Ctrl+C 복사를 사용할 수 있습니다. 서버 컴퓨터의 localhost 접속에서는 LAN 주소를, 다른 컴퓨터에서 접속한 경우 현재 서버 주소를 공유합니다.
 
 
+## PC EXE와 APK 연동
+
+PC 실행 파일은 `NeonStrike.exe` 하나로 통합합니다. 이 파일에 PC 게임 화면, 공통 HTTP 서버, APK용 터치 조작이 함께 포함되어 있으므로 별도 `NeonStrike-mobile*.exe`는 필요하지 않습니다.
+
+1. PC에서 `NeonStrike.exe`를 실행합니다.
+2. PC 로비의 **서버 링크 복사 · Ctrl+C**로 접속 주소를 확인합니다.
+3. 휴대폰에서 `android/NeonStrike-1.0.2-debug.apk`를 설치하고 같은 주소를 입력합니다.
+4. PC 또는 APK에서 방을 만든 뒤 다른 기기에서 같은 방 코드나 방 목록으로 참가합니다. 접속 목록·초대·방장·무기 선택·경기 상태는 같은 서버를 사용합니다.
+
+PC와 휴대폰이 같은 Wi-Fi에 있으면 PC의 LAN 주소를 사용합니다. 모바일 데이터나 다른 집에서는 외부에서 접속 가능한 공인 IP 주소가 필요합니다. 휴대폰의 `127.0.0.1`은 휴대폰 자신이므로 PC 서버에 연결되지 않습니다. 서버 PC는 플레이 중 켜두어야 합니다.
+
 ## Android APK
 
 `android/NeonStrike-1.0.2-debug.apk`는 Android 8.0 이상에서 설치할 수 있는 테스트용 APK입니다. 가로 화면으로 실행되며 첫 실행 시 PC 서버 주소를 입력합니다. 같은 서버에 접속한 PC 플레이어와 함께 플레이할 수 있습니다. 모바일 단독 서버나 오프라인 게임은 포함하지 않습니다.
@@ -314,4 +325,4 @@ NeonStrike.exe                    완성된 Windows 실행 파일
 - 가로 전체화면으로 실행하고 상태·탐색 표시줄을 숨김. 화면 가장자리를 쓸면 시스템 표시줄을 일시적으로 표시
 - 앱 종료 후 접속 목록에서 제거되며, 대기방 퇴장 규칙도 동일하게 적용
 
-APK 빌드: Python으로 `android/download-tools.py`를 실행해 공식 Android SDK를 내려받은 뒤 PowerShell에서 `android/build.ps1`을 실행합니다. JDK 경로는 `-JavaBin`, SDK 캐시는 `-ToolCache`로 지정할 수 있습니다. 서명 키는 SDK 캐시에 보관하며 GitHub에 업로드하지 않습니다. APK 서명·정렬 및 터치 입력 로직은 검증했으며, 실제 Android 기기의 터치 조작과 PC 간 플레이는 추가 확인이 필요합니다.
+APK 빌드: Python으로 `android/download-tools.py`를 실행해 공식 Android SDK를 내려받은 뒤 PowerShell에서 `android/build.ps1`을 실행합니다. JDK 경로는 `-JavaBin`, SDK 캐시는 `-ToolCache`로 지정할 수 있습니다. 서명 키는 SDK 캐시에 보관하며 GitHub에 업로드하지 않습니다. APK 서명·정렬, 터치 입력, ESC 동작과 무기 선택 후 경기 전환 로직을 검증했습니다. PC 및 Android 클라이언트를 모의한 서버 API 테스트에서 방 정보와 경기 시작 메시지 공유도 확인했습니다. 실제 Android 기기의 터치 조작과 PC 간 동시 플레이는 추가 확인이 필요합니다.
