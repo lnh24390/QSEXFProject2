@@ -36,7 +36,7 @@
     <section class="lobby main-lobby">
       <div class="live"><i></i> MULTIPLAYER LOBBY</div><h2>FIND A MATCH</h2>
       <input id="nameInput" type="hidden" maxlength="12"><div class="nickname-card"><div><small>CALLSIGN</small><b id="nicknameLabel">PLAYER</b></div><button id="changeNicknameBtn" type="button">닉네임 변경</button></div>
-      <div class="server-card"><small>접속 서버</small><b id="serverAddress"></b><button id="changeServerBtn" type="button">다른 컴퓨터 서버 접속</button><small id="serverShareAddress"></small></div>
+      <div class="server-card"><small>접속 서버</small><b id="serverAddress"></b><button id="changeServerBtn" type="button">다른 컴퓨터 서버 접속</button><small id="serverShareAddress"></small><input id="serverShareLink" type="text" readonly aria-label="공유할 서버 링크" style="width:100%;padding:10px;background:#0c2433;color:#d9f7ff;border:1px solid #245366"><button id="copyServerLinkBtn" type="button">서버 링크 복사 · Ctrl+C</button><small id="serverCopyStatus" role="status" aria-live="polite"></small></div>
       <div class="lobby-actions"><button id="createRoomBtn" class="primary">방 만들기 <span>+</span></button><button id="quickStartBtn" class="quick-btn">QUICK START <span>&rarr;</span></button></div>
       <div class="direct-join"><input id="roomInput" maxlength="8" placeholder="ENTER ROOM CODE"><button id="joinBtn">JOIN</button></div>
       <div class="room-browser"><div class="room-browser-head"><span>AVAILABLE ROOMS</span><button id="refreshRooms">REFRESH</button></div><div id="roomList" class="room-list"></div></div>

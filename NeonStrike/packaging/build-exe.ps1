@@ -1,7 +1,8 @@
+param([string]$OutputPath)
 $ErrorActionPreference = 'Stop'
 $projectRoot = Split-Path -Parent $PSScriptRoot
 $compiler = 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe'
-$output = Join-Path $projectRoot 'NeonStrike.exe'
+$output = if ($OutputPath) { $OutputPath } else { Join-Path $projectRoot 'NeonStrike.exe' }
 $source = Join-Path $PSScriptRoot 'NeonStrikeLauncher.cs'
 $serverSource = Join-Path $PSScriptRoot 'NeonStrikeServer.cs'
 $bridge = Join-Path $projectRoot 'dist\bridge.js'

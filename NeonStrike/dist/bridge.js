@@ -6,7 +6,29 @@
   const base=location.origin;
   function rpc(path,body){const request=new XMLHttpRequest();request.open(body===undefined?'GET':'POST',base+path,false);if(body!==undefined)request.setRequestHeader('Content-Type','application/json');request.send(body===undefined?null:JSON.stringify(body));if(request.status!==200)throw Error('Game server unavailable');return JSON.parse(request.responseText)}
   try{if(rpc('/api/health').service!=='neonstrike-server-v1')throw Error()}catch{connectionError('공통 게임 서버가 필요합니다. NeonStrike.exe를 실행한 뒤 http://127.0.0.1:8765/ 로 접속하세요.');return}
-  document.getElementById('serverAddress').textContent=base;document.getElementById('changeServerBtn').onclick=openServerPicker;fetch(base+'/api/server-info').then(r=>r.json()).then(info=>{document.getElementById('serverShareAddress').textContent='친구에게 공유할 주소: '+(info.addresses.join(' 또는 ')||base)}).catch(()=>{});
+  const shareInput=document.getElementById('serverShareLink'),copyStatus=document.getElementById('serverCopyStatus');
+  shareInput.value=base+'/';
+  shareInput.addEventListener('click',()=>shareInput.select());
+  async function copyServerLink(){
+    const value=shareInput.value;
+    try{if(!navigator.clipboard?.writeText)throw Error();await navigator.clipboard.writeText(value);copyStatus.textContent='서버 링크가 복사되었습니다.'}
+    catch{const previous=document.activeElement;shareInput.focus();shareInput.select();let copied=false;try{copied=document.execCommand('copy')}catch{}copyStatus.textContent=copied?'서버 링크가 복사되었습니다.':'주소가 선택되었습니다. Ctrl+C를 눌러 복사하세요.';if(copied)previous?.focus()}
+  }
+  document.getElementById('copyServerLinkBtn').onclick=copyServerLink;
+  document.addEventListener('keydown',event=>{
+    if(!(event.ctrlKey||event.metaKey)||event.key.toLowerCase()!=='c'||event.altKey||event.shiftKey)return;
+    const target=event.target;
+    if(target.closest?.('input,textarea,[contenteditable="true"]')||window.getSelection()?.toString())return;
+    if(document.getElementById('menu').classList.contains('hidden')||document.querySelector('.server-connect'))return;
+    event.preventDefault();copyServerLink();
+  });
+  document.getElementById('serverAddress').textContent=base;document.getElementById('changeServerBtn').onclick=openServerPicker;
+  fetch(base+'/api/server-info').then(r=>r.json()).then(info=>{
+    const local=['127.0.0.1','localhost','[::1]'].includes(location.hostname);
+    const addresses=local&&info.addresses.length?info.addresses:[base+'/'];
+    shareInput.value=addresses[0];
+    document.getElementById('serverShareAddress').textContent='친구에게 공유할 주소: '+addresses.join(' 또는 ');
+  }).catch(()=>{});
   const nativeStorage=window.localStorage,shared=key=>key==='neon-strike-rooms-v1'||key.startsWith('neon-strike-online-v1-');let keyCache=[],keyAt=0;
   function storageKeys(){if(Date.now()-keyAt>150){const local=[];for(let i=0;i<nativeStorage.length;i++){const key=nativeStorage.key(i);if(!shared(key))local.push(key)}keyCache=[...local,...rpc('/api/keys')];keyAt=Date.now()}return keyCache}
   window.neonStorage={getItem(key){return shared(key)?rpc('/api/store?key='+encodeURIComponent(key)):nativeStorage.getItem(key)},setItem(key,value){if(shared(key)){rpc('/api/store?key='+encodeURIComponent(key),{value:String(value)});keyAt=0}else nativeStorage.setItem(key,value)},removeItem(key){if(shared(key)){rpc('/api/store?key='+encodeURIComponent(key),{value:null});keyAt=0}else nativeStorage.removeItem(key)},get length(){return storageKeys().length},key(index){return storageKeys()[index]??null}};
