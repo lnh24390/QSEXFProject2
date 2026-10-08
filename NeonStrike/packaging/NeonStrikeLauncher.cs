@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Diagnostics;
 using System.IO;
 using System.Reflection;
@@ -48,7 +48,7 @@ namespace NeonStrikeLauncher
                 start.FileName = edge;
                 string browserProfile = Path.Combine(gameDir, "BrowserProfile");
                 Directory.CreateDirectory(browserProfile);
-                start.Arguments = "--app=\"" + page + "\" --user-data-dir=\"" + browserProfile + "\" --start-fullscreen --start-maximized --no-first-run --no-default-browser-check";
+                start.Arguments = "--app=\"" + page + "\" --user-data-dir=\"" + browserProfile + "\" --start-fullscreen --start-maximized --no-first-run --no-default-browser-check --disable-background-timer-throttling --disable-renderer-backgrounding --disable-backgrounding-occluded-windows";
                 start.UseShellExecute = true;
                 Process.Start(start);
             }
