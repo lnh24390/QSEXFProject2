@@ -16,7 +16,7 @@ namespace NeonStrikeLauncher {
         sealed class Packet { public long seq; public string sender; public object data; }
         static string Root; static int Port; static Timer MatchTimer;
         sealed class Session { public string id,room; public long seen; public bool connected=true; }
-        sealed class Match { public string stage="draft",map="sector9",winner,surrenderedTeam; public long startedAt,finishedAt,draftEndsAt; public int blue,red; public List<Dictionary<string,object>> roster=new List<Dictionary<string,object>>(); public Dictionary<string,object> states=new Dictionary<string,object>(); }
+        sealed class Match { public string stage="draft",map="sector9",winner,surrenderedTeam; public long startedAt,finishedAt,draftEndsAt; public int blue,red; public bool desertion; public List<Dictionary<string,object>> roster=new List<Dictionary<string,object>>(); public Dictionary<string,object> states=new Dictionary<string,object>(); }
         static readonly Dictionary<string,Session> Sessions=new Dictionary<string,Session>();
         static readonly Dictionary<string,Match> Matches=new Dictionary<string,Match>();
         static long Now() { return DateTimeOffset.UtcNow.ToUnixTimeMilliseconds(); }
@@ -32,7 +32,7 @@ namespace NeonStrikeLauncher {
             if(type=="countdowncancel"&&m.stage=="draft")m.stage="lobby";
             if(type=="state"||type=="join"||type=="death") { d["stateAt"]=Now();m.states[pid]=new Dictionary<string,object>(d); }
             if(type=="score"||type=="coopBots"||type=="matchend") {object v;if(d.TryGetValue("blue",out v))m.blue=Convert.ToInt32(v);if(d.TryGetValue("red",out v))m.red=Convert.ToInt32(v);}
-            if(type=="matchend") {m.stage="ended";m.winner=Str(d,"winner");m.surrenderedTeam=Str(d,"surrenderedTeam");m.finishedAt=Now();}
+            if(type=="matchend") {m.stage="ended";m.winner=Str(d,"winner");m.surrenderedTeam=Str(d,"surrenderedTeam");m.finishedAt=Now();object reason;m.desertion=d.TryGetValue("desertion",out reason)&&reason is bool&&(bool)reason;}
             if(type=="leave") {Session s;if(Sessions.TryGetValue(pid,out s)){s.connected=false;s.seen=Now();}if(m.stage=="draft")AbortDraft(room,m);}
         }
         static bool Online(string pid,long now) { Session s;return Sessions.TryGetValue(pid,out s)&&s.connected&&now-s.seen<30000; }
@@ -43,7 +43,7 @@ namespace NeonStrikeLauncher {
                 if(removed>0) {dirty=true;r["members"]=members;r["players"]=members.Count;if(m!=null&&m.stage=="draft")AbortDraft(code,m);}
                 if(m!=null&&m.stage=="draft"&&m.draftEndsAt>0&&now>=m.draftEndsAt){m.stage="running";m.startedAt=now+3000;r["inMatch"]=true;dirty=true;Emit(code,new{type="matchstart",id="server",map=m.map});}
                 if(m!=null&&m.stage=="running") {bool bg=m.roster.Exists(p=>Str(p,"team")=="blue")&&m.roster.FindAll(p=>Str(p,"team")=="blue").TrueForAll(p=>Gone(Str(p,"id"),now));bool rg=Str(r,"mode")!="coop"&&m.roster.Exists(p=>Str(p,"team")=="red")&&m.roster.FindAll(p=>Str(p,"team")=="red").TrueForAll(p=>Gone(Str(p,"id"),now));
-                    if(bg||rg||now>=m.startedAt+1500000) {m.stage="ended";m.finishedAt=now;m.winner=bg&&rg?"DRAW":bg?"RED":rg?"BLUE":m.blue==m.red?"DRAW":m.blue>m.red?"BLUE":"RED";m.surrenderedTeam=bg&&!rg?"blue":rg&&!bg?"red":null;Emit(code,new{type="matchend",id="server",winner=m.winner,blue=m.blue,red=m.red,surrenderedTeam=m.surrenderedTeam,desertion=bg||rg});}
+                    if(bg||rg||now>=m.startedAt+1500000) {m.desertion=bg||rg;m.stage="ended";m.finishedAt=now;m.winner=bg&&rg?"DRAW":bg?"RED":rg?"BLUE":m.blue==m.red?"DRAW":m.blue>m.red?"BLUE":"RED";m.surrenderedTeam=bg&&!rg?"blue":rg&&!bg?"red":null;Emit(code,new{type="matchend",id="server",winner=m.winner,blue=m.blue,red=m.red,surrenderedTeam=m.surrenderedTeam,desertion=bg||rg});}
                 }
                 if(m!=null&&m.stage=="ended"&&now-m.finishedAt>=3000) {r["inMatch"]=false;dirty=true;}
                 if(members.Count>0&&!members.Exists(p=>Str(p,"id")==Str(r,"hostId"))) {r["hostId"]=Str(members[0],"id");r["host"]=Str(members[0],"name");dirty=true;}
