@@ -35,7 +35,7 @@
     </section>
     <section class="lobby main-lobby">
       <div class="live"><i></i> MULTIPLAYER LOBBY</div><h2>FIND A MATCH</h2>
-      <input id="nameInput" type="hidden" maxlength="12"><div class="nickname-card"><div><small>CALLSIGN</small><b id="nicknameLabel">PLAYER</b></div><button id="changeNicknameBtn" type="button">닉네임 변경</button></div>
+      <input id="nameInput" type="hidden" maxlength="20"><div class="nickname-card"><div><small>CALLSIGN</small><b id="nicknameLabel">PLAYER</b></div><button id="changeNicknameBtn" type="button">닉네임 변경</button></div>
       <div class="server-card"><small>접속 서버</small><b id="serverAddress"></b><button id="changeServerBtn" type="button">다른 컴퓨터 서버 접속</button><small id="serverShareAddress"></small><input id="serverShareLink" type="text" readonly aria-label="공유할 서버 링크" style="width:100%;padding:10px;background:#0c2433;color:#d9f7ff;border:1px solid #245366"><button id="copyServerLinkBtn" type="button">서버 링크 복사 · Ctrl+C</button><small id="serverCopyStatus" role="status" aria-live="polite"></small></div>
       <div class="lobby-actions"><button id="createRoomBtn" class="primary">방 만들기 <span>+</span></button><button id="quickStartBtn" class="quick-btn">QUICK START <span>&rarr;</span></button></div>
       <div class="direct-join"><input id="roomInput" maxlength="8" placeholder="ENTER ROOM CODE"><button id="joinBtn">JOIN</button></div>
@@ -49,7 +49,7 @@
       <p class="hint">같은 서버에 접속한 컴퓨터끼리 함께 플레이할 수 있습니다.</p>
     </section>
   </main>
-  <section id="nicknameDialog" class="modal social-dialog hidden" role="dialog" aria-modal="true" aria-labelledby="nicknameTitle"><div><small>PLAYER PROFILE</small><h2 id="nicknameTitle">닉네임 변경</h2><label>닉네임 (최대 12자)<input id="nicknameEditInput" maxlength="12" autocomplete="off"></label><p id="nicknameError" class="social-error"></p><button id="saveNicknameBtn" class="primary" type="button">저장</button><button id="cancelNicknameBtn" class="secondary" type="button">취소</button></div></section>
+  <section id="nicknameDialog" class="modal social-dialog hidden" role="dialog" aria-modal="true" aria-labelledby="nicknameTitle"><div><small>PLAYER PROFILE</small><h2 id="nicknameTitle">닉네임 변경</h2><label>닉네임 (최대 12자)<input id="nicknameEditInput" maxlength="20" autocomplete="off"></label><p id="nicknameError" class="social-error"></p><button id="saveNicknameBtn" class="primary" type="button">저장</button><button id="cancelNicknameBtn" class="secondary" type="button">취소</button></div></section>
   <section id="inviteDialog" class="modal social-dialog hidden" role="dialog" aria-modal="true" aria-labelledby="inviteTitle"><div><small>ROOM INVITATION</small><h2 id="inviteTitle">방 초대</h2><p id="inviteMessage"></p><small id="inviteExpiry"></small><button id="acceptInviteBtn" class="primary" type="button">초대 수락</button><button id="declineInviteBtn" class="secondary" type="button">거절</button></div></section>
   <div id="socialNotice" class="social-notice hidden" role="status"></div>
   <section id="invitePlayersDialog" class="modal social-dialog hidden" role="dialog" aria-modal="true" aria-labelledby="invitePlayersTitle"><div><small>INVITE FROM THIS ROOM</small><h2 id="invitePlayersTitle">로비 플레이어 초대</h2><p>현재 로비에 있는 플레이어를 이 방으로 초대합니다.</p><div class="room-browser-head"><span id="invitePlayersRoom"></span><b id="invitePlayersCount"></b></div><div class="online-player-list" data-lobby-only="true" data-invite="true"></div><button id="closeInvitePlayersBtn" class="secondary" type="button">닫기</button></div></section>
