@@ -21,9 +21,9 @@ $aligned=Join-Path $run 'aligned.apk'
 Run (Join-Path $tools 'zipalign.exe') @('-f','-p','4',$unsigned,$aligned)
 $key=Join-Path $ToolCache 'neonstrike-debug.keystore'
 if(-not(Test-Path $key)){Run (Join-Path $JavaBin 'keytool.exe') @('-genkeypair','-keystore',$key,'-storetype','JKS','-alias','androiddebugkey','-storepass','android','-keypass','android','-keyalg','RSA','-keysize','2048','-validity','10000','-dname','CN=Neon Strike Development,O=Neon Strike,C=KR','-noprompt')}
-$apk=Join-Path $PSScriptRoot 'NeonStrike-1.0.4-debug.apk';$signer=Join-Path $tools 'lib\apksigner.jar'
+$apk=Join-Path $PSScriptRoot 'NeonStrike-1.0.5-debug.apk';$signer=Join-Path $tools 'lib\apksigner.jar'
 Run (Join-Path $JavaBin 'java.exe') @('-jar',$signer,'sign','--ks',$key,'--ks-key-alias','androiddebugkey','--ks-pass','pass:android','--key-pass','pass:android','--out',$apk,$aligned)
 Run (Join-Path $JavaBin 'java.exe') @('-jar',$signer,'verify','--verbose',$apk)
 Run (Join-Path $tools 'zipalign.exe') @('-c','4',$apk)
-(Get-FileHash $apk -Algorithm SHA256).Hash | Set-Content (Join-Path $PSScriptRoot 'NeonStrike-1.0.4-debug.apk.sha256')
+(Get-FileHash $apk -Algorithm SHA256).Hash | Set-Content (Join-Path $PSScriptRoot 'NeonStrike-1.0.5-debug.apk.sha256')
 Write-Output "APK ready: $apk"
