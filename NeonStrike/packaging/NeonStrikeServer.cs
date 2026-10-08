@@ -9,6 +9,7 @@ using System.Web.Script.Serialization;
 namespace NeonStrikeLauncher {
     static class LocalServer {
         static readonly object Gate = new object();
+        static readonly string InstanceId = Guid.NewGuid().ToString("N");
         static readonly Dictionary<string,string> Store = new Dictionary<string,string>();
         static readonly Dictionary<string,List<Packet>> Topics = new Dictionary<string,List<Packet>>();
         static readonly Dictionary<string,long> Cursors = new Dictionary<string,long>();
@@ -41,7 +42,7 @@ namespace NeonStrikeLauncher {
                 JavaScriptSerializer json=new JavaScriptSerializer(); json.MaxJsonLength=4194304;
                 Dictionary<string,object> input=length==0?new Dictionary<string,object>():json.Deserialize<Dictionary<string,object>>(Encoding.UTF8.GetString(body));
                 Dictionary<string,string> query=Query(uri.Query); object output=null; string path=uri.AbsolutePath;
-                if(health) output=new { service="neonstrike-server-v1" };
+                if(health) output=new { service="neonstrike-server-v1",instanceId=InstanceId };
                 else if(path=="/api/server-info"&&method=="GET") { List<string> addresses=new List<string>(); foreach(IPAddress address in Dns.GetHostAddresses(Dns.GetHostName())) if(address.AddressFamily==AddressFamily.InterNetwork&&!IPAddress.IsLoopback(address)) addresses.Add("http://"+address+":"+Port+"/"); output=new { port=Port,addresses=addresses }; }
                 else if(path=="/api/keys"&&method=="GET") { lock(Gate) output=new List<string>(Store.Keys); }
                 else if(path=="/api/store") { string key=Get(query,"key"); if(key!="neon-strike-rooms-v1"&&!key.StartsWith("neon-strike-online-v1-")) { Reply(stream,403,"text/plain",Encoding.UTF8.GetBytes("Key denied"),false); return; } lock(Gate) { if(method=="POST") { object value; if(!input.TryGetValue("value",out value)||value==null) Store.Remove(key); else Store[key]=Convert.ToString(value); } string saved; Store.TryGetValue(key,out saved); output=saved; } }
