@@ -36,6 +36,7 @@
     <section class="lobby main-lobby">
       <div class="live"><i></i> MULTIPLAYER LOBBY</div><h2>FIND A MATCH</h2>
       <input id="nameInput" type="hidden" maxlength="12"><div class="nickname-card"><div><small>CALLSIGN</small><b id="nicknameLabel">PLAYER</b></div><button id="changeNicknameBtn" type="button">닉네임 변경</button></div>
+      <div class="server-card"><small>접속 서버</small><b id="serverAddress"></b><button id="changeServerBtn" type="button">다른 컴퓨터 서버 접속</button><small id="serverShareAddress"></small></div>
       <div class="lobby-actions"><button id="createRoomBtn" class="primary">방 만들기 <span>+</span></button><button id="quickStartBtn" class="quick-btn">QUICK START <span>&rarr;</span></button></div>
       <div class="direct-join"><input id="roomInput" maxlength="8" placeholder="ENTER ROOM CODE"><button id="joinBtn">JOIN</button></div>
       <div class="room-browser"><div class="room-browser-head"><span>AVAILABLE ROOMS</span><button id="refreshRooms">REFRESH</button></div><div id="roomList" class="room-list"></div></div>
@@ -45,7 +46,7 @@
       <button id="soloBtn" class="secondary practice-entry">연습용 P1+B4 VS B5</button>
       <div class="range-entry"><div><small>SEPARATE TRAINING FACILITY</small><b>COMBAT TRAINING RANGE</b><span>8 REACTIVE TARGETS · ESC MENU</span></div><button id="trainingBtn">ENTER RANGE <span>&rarr;</span></button></div>
       <button id="exitGameBtn" class="exit-game">EXIT GAME</button>
-      <p class="hint">Rooms are shared between open browser tabs.</p>
+      <p class="hint">같은 서버에 접속한 컴퓨터끼리 함께 플레이할 수 있습니다.</p>
     </section>
   </main>
   <section id="nicknameDialog" class="modal social-dialog hidden" role="dialog" aria-modal="true" aria-labelledby="nicknameTitle"><div><small>PLAYER PROFILE</small><h2 id="nicknameTitle">닉네임 변경</h2><label>닉네임 (최대 12자)<input id="nicknameEditInput" maxlength="12" autocomplete="off"></label><p id="nicknameError" class="social-error"></p><button id="saveNicknameBtn" class="primary" type="button">저장</button><button id="cancelNicknameBtn" class="secondary" type="button">취소</button></div></section>
@@ -79,6 +80,6 @@
   </section>
   <div id="pause" class="modal hidden"><div><small>MULTIPLAYER TACTICAL PAUSE</small><h2 id="pauseHeading">PAUSED</h2><p id="pauseMessage">Paused by an operator.</p><button id="resumeBtn" class="primary">RESUME</button><button id="trainingExitBtn" class="secondary hidden">훈련장 나가기</button></div></div>
   <div id="surrenderModal" class="modal surrender-modal hidden"><div><small>TEAM DECISION</small><h2>SURRENDER VOTE</h2><p id="surrenderMessage">Surrender voting unlocks after 05:00 of active match time.</p><div id="surrenderTally" class="vote-count"><b id="surrenderVotes">0</b><span>/</span><b id="surrenderNeeded">1</b><small>TEAM VOTES</small></div><div id="surrenderModalActions" class="surrender-modal-actions hidden"><p>남은 시간 <b id="surrenderModalSeconds">15</b>초</p><div><button id="surrenderModalYes" type="button" class="vote-yes-button">찬성 /sp</button><button id="surrenderModalNo" type="button" class="vote-no-button">반대 /nsp</button></div></div><button id="surrenderVoteBtn" class="danger" disabled>LOCKED 05:00</button><button id="surrenderCancelBtn" class="secondary">RETURN TO MATCH</button></div></div>
-  <script src="game.js"></script>
+  <script src="bridge.js"></script>
 </body>
 </html>

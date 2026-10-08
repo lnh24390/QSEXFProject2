@@ -2,6 +2,8 @@ using System;
 using System.Diagnostics;
 using System.IO;
 using System.Reflection;
+using System.Net;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace NeonStrikeLauncher
@@ -9,8 +11,13 @@ namespace NeonStrikeLauncher
     static class Program
     {
         [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
+            if (args.Length > 0 && args[0] == "--server") {
+                string serverRoot = args.Length > 1 ? args[1] : Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "NeonStrikeGame");
+                int port = args.Length > 2 ? Int32.Parse(args[2]) : 8765;
+                LocalServer.Run(serverRoot, port); return;
+            }
             try
             {
                 string gameDir = Path.Combine(
@@ -21,6 +28,7 @@ namespace NeonStrikeLauncher
                 Extract("index.html", Path.Combine(gameDir, "index.html"));
                 Extract("styles.css", Path.Combine(gameDir, "styles.css"));
                 Extract("game.js", Path.Combine(gameDir, "game.js"));
+                Extract("bridge.js", Path.Combine(gameDir, "bridge.js"));
                 Extract("NeonStrike.ico", Path.Combine(gameDir, "NeonStrike.ico"));
 
                 string edge = FindEdge();
@@ -34,7 +42,8 @@ namespace NeonStrikeLauncher
                     return;
                 }
 
-                string page = new Uri(Path.Combine(gameDir, "index.html")).AbsoluteUri;
+                string page = "http://127.0.0.1:8765/";
+                EnsureServer(gameDir);
                 ProcessStartInfo start = new ProcessStartInfo();
                 start.FileName = edge;
                 string browserProfile = Path.Combine(gameDir, "BrowserProfile");
@@ -51,6 +60,16 @@ namespace NeonStrikeLauncher
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error);
             }
+        }
+
+        static bool ServerRunning() { try { HttpWebRequest request=(HttpWebRequest)WebRequest.Create("http://127.0.0.1:8765/api/health");request.Timeout=500;request.ReadWriteTimeout=500;using(WebResponse response=request.GetResponse())using(StreamReader reader=new StreamReader(response.GetResponseStream()))return reader.ReadToEnd().Contains("neonstrike-server-v1"); } catch { return false; } }
+        static void EnsureServer(string gameDir) {
+            if(ServerRunning()) return;
+            ProcessStartInfo server=new ProcessStartInfo(Assembly.GetExecutingAssembly().Location);
+            server.Arguments="--server \""+gameDir+"\""; server.UseShellExecute=false;server.CreateNoWindow=true;server.WindowStyle=ProcessWindowStyle.Hidden;
+            Process.Start(server);
+            for(int i=0;i<50;i++) { Thread.Sleep(100); if(ServerRunning())return; }
+            throw new InvalidOperationException("Cannot start local game server on 127.0.0.1:8765. Check if the port is already in use.");
         }
 
         static void Extract(string resourceName, string outputPath)
