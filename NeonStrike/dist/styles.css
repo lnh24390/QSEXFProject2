@@ -105,3 +105,12 @@ body.match-playing #mobileEscape{display:block}
 .touch-controls .draft-weapon-select{margin-top:5px}.touch-controls .draft-weapon-select .weapon{min-width:0;min-height:44px;padding:5px}.touch-controls .draft-weapon-select .weapon .rifle-design{height:clamp(28px,9vh,60px)}.touch-controls .draft-weapon-select .weapon b{font-size:clamp(12px,3.5vh,19px)}.touch-controls .draft-footer{margin:0;padding-top:4px;font-size:clamp(8px,2vh,10px);flex-wrap:wrap;gap:4px}
 @media(max-height:420px){.touch-controls .draft-header small{font-size:8px}.touch-controls .draft-details p{display:none}.touch-controls .draft-stage-label{font-size:8px}.touch-controls .draft-ally{padding:5px;margin-bottom:4px}.touch-controls .draft-squad h3{margin:4px 0 6px}.touch-controls .draft-private{padding-top:5px;font-size:8px}}
 @media(max-width:480px){.touch-controls .draft-layout{grid-template-columns:minmax(0,1fr)}.touch-controls .draft-squad{display:none}}
+.modal:is(#pause,#surrenderModal){box-sizing:border-box;height:var(--draft-viewport-height,100dvh);min-height:0;padding:max(10px,env(safe-area-inset-top)) max(12px,env(safe-area-inset-right)) max(10px,env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left));overflow:hidden}
+.modal:is(#pause,#surrenderModal)>div{box-sizing:border-box;width:min(100%,clamp(280px,58vw,540px));max-height:100%;min-height:0;padding:clamp(12px,3vh,32px) clamp(14px,4vw,36px);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;overflow-wrap:anywhere}
+.modal:is(#pause,#surrenderModal) small{font-size:clamp(9px,2.4vh,12px);letter-spacing:.12em}
+.modal:is(#pause,#surrenderModal) h2{font-size:clamp(20px,6vh,32px);line-height:1.15;margin:clamp(8px,2vh,20px) 0}
+.modal:is(#pause,#surrenderModal) p{font-size:clamp(11px,3vh,14px);line-height:1.45;margin:8px 0 clamp(10px,2.5vh,22px)}
+.modal:is(#pause,#surrenderModal) button{box-sizing:border-box;width:100%;min-height:44px;padding:10px 12px;font-size:clamp(11px,3vh,14px);white-space:normal;touch-action:manipulation}
+#surrenderModal .vote-count{width:min(180px,100%);gap:6px;margin:clamp(8px,2vh,18px) auto}
+#surrenderModal .vote-count b{font-size:clamp(24px,7vh,35px)}
+#surrenderModal .surrender-modal-actions>div{grid-template-columns:repeat(2,minmax(0,1fr))}
