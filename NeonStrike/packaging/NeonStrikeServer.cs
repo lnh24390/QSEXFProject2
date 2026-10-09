@@ -28,6 +28,18 @@ namespace NeonStrikeLauncher {
             string room=topic.Substring("neon-strike-".Length),type=Str(d,"type"),pid=Str(d,"id"); Match m;Matches.TryGetValue(room,out m);
             if(type=="countdown"&&(m==null||m.stage!="draft"&&m.stage!="running")) { var r=Rooms().Find(x=>Str(x,"code")==room);if(r==null||Str(r,"hostId")!=pid)return;m=new Match();m.map=Str(d,"map");object deadline;if(d.TryGetValue("endsAt",out deadline))m.draftEndsAt=Convert.ToInt64(deadline);object members;if(r.TryGetValue("members",out members))m.roster=new JavaScriptSerializer().Deserialize<List<Dictionary<string,object>>>(new JavaScriptSerializer().Serialize(members));Matches[room]=m; }
             if(m==null)return;
+            if(type=="surrenderState"&&m.stage=="running") {
+                var roomInfo=Rooms().Find(x=>Str(x,"code")==room);object rawVote;
+                if(roomInfo!=null&&Str(roomInfo,"hostId")==pid&&d.TryGetValue("vote",out rawVote)) {
+                    var vote=rawVote as Dictionary<string,object>;object rawMembers,rawBallots;
+                    if(vote!=null&&Str(vote,"result")=="passed"&&(Str(vote,"side")=="blue"||Str(vote,"side")=="red")&&vote.TryGetValue("members",out rawMembers)&&vote.TryGetValue("ballots",out rawBallots)) {
+                        var serializer=new JavaScriptSerializer();var members=serializer.Deserialize<List<string>>(serializer.Serialize(rawMembers));var ballots=rawBallots as Dictionary<string,object>;var unique=new HashSet<string>(members);int yes=0;bool valid=members.Count>0&&unique.Count==members.Count;
+                        foreach(string member in members) {if(!m.roster.Exists(p=>Str(p,"id")==member&&Str(p,"team")==Str(vote,"side")))valid=false;object choice;if(ballots!=null&&ballots.TryGetValue(member,out choice)&&Convert.ToString(choice)=="yes")yes++;}
+                        if(valid&&yes>=members.Count/2+1) {m.stage="ended";m.finishedAt=Now();m.desertion=false;m.surrenderedTeam=Str(vote,"side");m.winner=m.surrenderedTeam=="blue"?"RED":"BLUE";Emit(room,new{type="matchend",id="server",winner=m.winner,blue=m.blue,red=m.red,surrenderedTeam=m.surrenderedTeam,desertion=false});}
+                    }
+                }
+            }
+
             if(type=="matchstart"&&m.stage=="draft") { m.stage="running";m.map=Str(d,"map");m.startedAt=Now()+3000; }
             if(type=="countdowncancel"&&m.stage=="draft")m.stage="lobby";
             if(type=="state"||type=="join"||type=="death") { d["stateAt"]=Now();m.states[pid]=new Dictionary<string,object>(d); }
@@ -56,6 +68,7 @@ namespace NeonStrikeLauncher {
             Root=Path.GetFullPath(root); Port=port;
             TcpListener listener=new TcpListener(IPAddress.Any,port);
             try { listener.Start(); } catch(SocketException) { return; }
+            int workers,io,maxWorkers,maxIo;ThreadPool.GetMinThreads(out workers,out io);ThreadPool.GetMaxThreads(out maxWorkers,out maxIo);ThreadPool.SetMinThreads(Math.Max(workers,Math.Min(32,maxWorkers)),io);
             MatchTimer=new Timer(delegate { try { Tick(); } catch {} },null,1000,1000);
             while(true) { TcpClient client=listener.AcceptTcpClient(); ThreadPool.QueueUserWorkItem(delegate { Handle(client); }); }
         }
@@ -66,7 +79,7 @@ namespace NeonStrikeLauncher {
         }
         static void Handle(TcpClient client) {
             using(client) { try {
-                client.ReceiveTimeout=5000; client.SendTimeout=5000;
+                client.NoDelay=true; client.ReceiveTimeout=5000; client.SendTimeout=5000;
                 NetworkStream stream=client.GetStream(); string first=ReadLine(stream); string[] parts=first.Split(' ');
                 if(parts.Length<2) return; string method=parts[0]; Uri uri=new Uri("http://127.0.0.1:"+Port+parts[1]);
                 int length=0,totalHeaders=0; string origin="",host=""; string line;
@@ -94,6 +107,6 @@ namespace NeonStrikeLauncher {
         }
         static Dictionary<string,string> Query(string query) { Dictionary<string,string> values=new Dictionary<string,string>(); foreach(string part in query.TrimStart('?').Split('&')) { int equal=part.IndexOf('='); if(equal>=0) values[Uri.UnescapeDataString(part.Substring(0,equal))]=Uri.UnescapeDataString(part.Substring(equal+1)); } return values; }
         static string Get(Dictionary<string,string> values,string key) { string value; return values.TryGetValue(key,out value)?value:""; }
-        static void Reply(Stream stream,int status,string mime,byte[] body,bool cors) { string header="HTTP/1.1 "+status+" "+(status==200?"OK":"Error")+"\r\nContent-Type: "+mime+"\r\nContent-Length: "+body.Length+"\r\nCache-Control: no-store\r\nX-Content-Type-Options: nosniff\r\nConnection: close\r\n"+(cors?"Access-Control-Allow-Origin: *\r\n":"")+"\r\n"; byte[] bytes=Encoding.ASCII.GetBytes(header);stream.Write(bytes,0,bytes.Length);stream.Write(body,0,body.Length);stream.Flush(); }
+        static void Reply(Stream stream,int status,string mime,byte[] body,bool cors) { string header="HTTP/1.1 "+status+" "+(status==200?"OK":"Error")+"\r\nContent-Type: "+mime+"\r\nContent-Length: "+body.Length+"\r\nCache-Control: no-store\r\nX-Content-Type-Options: nosniff\r\nConnection: close\r\n"+(cors?"Access-Control-Allow-Origin: *\r\n":"")+"\r\n"; byte[] bytes=Encoding.ASCII.GetBytes(header);byte[] response=new byte[bytes.Length+body.Length];Buffer.BlockCopy(bytes,0,response,0,bytes.Length);Buffer.BlockCopy(body,0,response,bytes.Length,body.Length);stream.Write(response,0,response.Length);stream.Flush(); }
     }
 }
