@@ -116,3 +116,5 @@ body.match-playing #mobileEscape{display:block}
 #surrenderModal .surrender-modal-actions>div{grid-template-columns:repeat(2,minmax(0,1fr))}
 
 #mobileZoomControls{position:absolute;right:max(16px,env(safe-area-inset-right));top:30%;display:flex;gap:8px;pointer-events:auto}#mobileZoomControls button{width:48px;height:44px;border:1px solid #28e7ff;background:#06121cdd;color:#d9f7ff;font-size:24px;touch-action:none}body:not(.aiming) #mobileZoomControls{display:none}
+
+#mobileFireMode{position:absolute;right:max(16px,env(safe-area-inset-right));top:calc(30% - 52px);width:104px;min-height:44px;padding:8px;border:1px solid #28e7ff;background:#092837e8;color:#d9f7ff;pointer-events:auto;touch-action:manipulation;font-size:14px}#mobileFireMode[aria-pressed="true"]{border-color:#ffb23e;color:#ffb23e}
