@@ -114,3 +114,5 @@ body.match-playing #mobileEscape{display:block}
 #surrenderModal .vote-count{width:min(180px,100%);gap:6px;margin:clamp(8px,2vh,18px) auto}
 #surrenderModal .vote-count b{font-size:clamp(24px,7vh,35px)}
 #surrenderModal .surrender-modal-actions>div{grid-template-columns:repeat(2,minmax(0,1fr))}
+
+#mobileZoomControls{position:absolute;right:max(16px,env(safe-area-inset-right));top:30%;display:flex;gap:8px;pointer-events:auto}#mobileZoomControls button{width:48px;height:44px;border:1px solid #28e7ff;background:#06121cdd;color:#d9f7ff;font-size:24px;touch-action:none}body:not(.aiming) #mobileZoomControls{display:none}
