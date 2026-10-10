@@ -2,7 +2,12 @@
 
 현재 버전: **1.1.1 / Android 빌드 20** · [PC·APK 통합 ZIP](NeonStrike-1.1.1-PC-APK.zip) · [Android APK](android/NeonStrike-1.1.1-debug.apk)
 
-최신 APK는 **1.1.1 / Android 빌드 20**입니다. 이전 1.0.6 APK는 보관하며, 1.0.0~1.0.5 APK와 해당 서명·해시 파일은 삭제했습니다. 아래 이전 버전 변경 사항은 업데이트 이력입니다.
+최신 APK는 **1.1.1 / Android 빌드 20**입니다. 배포 파일은 **1.1.0과 1.1.1만 유지**합니다. 1.0.x APK·통합 ZIP과 해당 서명·해시 파일은 삭제했습니다. 현재 실행 파일과 공통 소스·빌드 스크립트는 1.1.1 실행 및 빌드를 위해 유지합니다. 아래 이전 버전 변경 사항은 업데이트 이력입니다.
+
+| 버전 | APK | PC·APK 통합 ZIP |
+| --- | --- | --- |
+| 1.1.1 (최신) | [설치 파일](android/NeonStrike-1.1.1-debug.apk) | [통합 배포 파일](NeonStrike-1.1.1-PC-APK.zip) |
+| 1.1.0 (보관) | [설치 파일](android/NeonStrike-1.1.0-debug.apk) | [통합 배포 파일](NeonStrike-1.1.0-PC-APK.zip) |
 
 브라우저 레이캐스팅 방식으로 제작된 팀 기반 FPS 게임입니다. 멀티플레이 로비, 봇전, 과녁 훈련장, 6개의 전장, 3종 소총과 Windows 실행 파일을 제공합니다.
 
