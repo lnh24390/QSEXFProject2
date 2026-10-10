@@ -297,8 +297,8 @@ function advanceLoading(){if(!loading||playing||matchEnding)return;const seconds
 async function registerServerDraft(){if(botLobby||solo||!window.NeonStrikeServerConnected||!currentRoom)return;try{const response=await fetch('/api/session',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id,room:currentRoom,action:'draft',map:currentMap}),signal:AbortSignal.timeout(3000)});if(response.ok)pollMatchSession()}catch{}}
 addEventListener('focus',()=>{advanceLoading();pollMatchSession()});
 addEventListener('visibilitychange',()=>{if(!document.hidden)advanceLoading()});
-function resizeDraftViewport(){const viewport=window.visualViewport;document.documentElement.style.setProperty('--draft-viewport-height',(viewport?.height||innerHeight)+'px')}
-addEventListener('resize',resizeDraftViewport);window.visualViewport?.addEventListener('resize',resizeDraftViewport);resizeDraftViewport();
+function resizeDraftViewport(){const viewport=window.visualViewport,style=document.documentElement.style;style.setProperty('--draft-viewport-height',(viewport?.height||innerHeight)+'px');style.setProperty('--ui-height',(viewport?.height||innerHeight)+'px');style.setProperty('--ui-width',(viewport?.width||innerWidth)+'px');style.setProperty('--ui-left',(viewport?.offsetLeft||0)+'px');style.setProperty('--ui-top',(viewport?.offsetTop||0)+'px')}
+addEventListener('resize',resizeDraftViewport);window.visualViewport?.addEventListener('resize',resizeDraftViewport);window.visualViewport?.addEventListener('scroll',resizeDraftViewport);resizeDraftViewport();
 
 function roomListKey(rooms){return JSON.stringify(rooms.map(r=>[r.code,r.mode,r.host,r.players,!!r.inMatch]))}
 
