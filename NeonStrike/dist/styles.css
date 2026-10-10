@@ -141,3 +141,6 @@ body.match-playing #mobileEscape{display:block}
 @media(max-width:760px){#menu,.touch-controls #menu{grid-template-columns:minmax(0,1fr)}.hero{position:static}.lobby-grid,.touch-controls .lobby-grid{grid-template-columns:minmax(0,1fr)}.lobby-grid aside{display:block}.lobby-shell footer,.touch-controls .lobby-shell footer{grid-template-columns:1fr}.lobby-shell footer p{grid-column:1/-1}}
 @media(max-width:560px){.draft-layout,.touch-controls .draft-layout{grid-template-columns:minmax(0,1fr);overflow:auto;grid-auto-rows:max-content}.draft-stage,.draft-squad{overflow:visible}.board-columns,.touch-controls .board-columns{grid-template-columns:minmax(0,1fr)}.versus-panel{grid-template-columns:minmax(0,1fr)}.versus-panel>b{font-size:16px}.draft-header{gap:5px}.draft-header>div:first-child{flex:1;min-width:0}.draft-timer{min-width:65px}}
 @media(max-height:420px){.loading-map h2{font-size:clamp(24px,8vh,40px)}.loading-screen footer b{font-size:26px}.load-team #loadAllies,.load-team #loadEnemies{font-size:11px}.draft-details p{margin:4px 0}.draft-stats{margin:6px 0}.draft-weapon-select{margin-top:6px}.hero .stats{margin-top:10px}}
+
+/* Show every unoccupied place in the five-player team roster. */
+.lobby-team .empty-slot{min-height:44px;display:grid;place-items:center;letter-spacing:.12em}
