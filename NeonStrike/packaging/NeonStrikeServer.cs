@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -25,7 +25,7 @@ namespace NeonStrikeLauncher {
         static List<Dictionary<string,object>> Rooms() { string s; return Store.TryGetValue("neon-strike-rooms-v1",out s)?new JavaScriptSerializer().Deserialize<List<Dictionary<string,object>>>(s):new List<Dictionary<string,object>>(); }
         static string NormalizeRoomStore(string value) {
             var json=new JavaScriptSerializer();var rooms=json.Deserialize<List<Dictionary<string,object>>>(value);if(rooms==null)return "[]";
-            foreach(var room in rooms) {object raw;if(!room.TryGetValue("members",out raw))continue;var members=json.Deserialize<List<Dictionary<string,object>>>(json.Serialize(raw));var ids=new HashSet<string>();var unique=new List<Dictionary<string,object>>();if(members!=null)foreach(var member in members) {string id=Str(member,"id");Session session;bool departed=Sessions.TryGetValue(id,out session)&&!session.connected&&session.room==Str(room,"code");if(id.Length>0&&!departed&&ids.Add(id))unique.Add(member);}room["members"]=unique;room["players"]=unique.Count;}
+            foreach(var room in rooms) {object raw;if(!room.TryGetValue("members",out raw))continue;var members=json.Deserialize<List<Dictionary<string,object>>>(json.Serialize(raw));var ids=new HashSet<string>();var unique=new List<Dictionary<string,object>>();if(members!=null)foreach(var member in members) {string id=Str(member,"id");Session session;bool departed=Sessions.TryGetValue(id,out session)&&!session.connected&&session.room==Str(room,"code");if(id.Length>0&&!departed&&ids.Add(id))unique.Add(member);}if(Str(room,"mode")!="coop"&&(unique.Count>10||unique.FindAll(p=>Str(p,"team")=="blue").Count>5||unique.FindAll(p=>Str(p,"team")=="red").Count>5))throw new InvalidDataException("PVP team capacity exceeded");room["members"]=unique;room["players"]=unique.Count;}
             return json.Serialize(rooms);
         }
         static void Emit(string room,object data) { string topic="neon-strike-"+room;if(!Topics.ContainsKey(topic)){Topics[topic]=new List<Packet>();Cursors[topic]=0;}Topics[topic].Add(new Packet{seq=++Cursors[topic],sender="server",data=data}); }
@@ -41,6 +41,7 @@ namespace NeonStrikeLauncher {
             string room=topic.Substring("neon-strike-".Length),type=Str(d,"type"),pid=Str(d,"id"); Match m;Matches.TryGetValue(room,out m);
             if(type=="countdown"&&(m==null||m.stage!="draft"&&m.stage!="running")) { var r=Rooms().Find(x=>Str(x,"code")==room);if(r==null||Str(r,"hostId")!=pid)return;m=new Match();m.map=Str(d,"map");object deadline;if(d.TryGetValue("endsAt",out deadline))m.draftEndsAt=Convert.ToInt64(deadline);object members;if(r.TryGetValue("members",out members))m.roster=new JavaScriptSerializer().Deserialize<List<Dictionary<string,object>>>(new JavaScriptSerializer().Serialize(members));Matches[room]=m; }
             if(m==null)return;
+            if((type=="ready"||type=="lobbyjoin")&&(m.stage=="draft"||m.stage=="running"&&Now()<m.startedAt)) { string weapon=Str(d,"weapon");var member=m.roster.Find(p=>Str(p,"id")==pid);if(member!=null&&(weapon=="k2"||weapon=="ak47"||weapon=="m16"))member["weapon"]=weapon; }
             if(type=="surrenderState"&&m.stage=="running") {
                 var roomInfo=Rooms().Find(x=>Str(x,"code")==room);object rawVote;
                 if(roomInfo!=null&&Str(roomInfo,"hostId")==pid&&d.TryGetValue("vote",out rawVote)) {
