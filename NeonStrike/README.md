@@ -14,6 +14,31 @@
 
 ## 빠른 실행
 
+Windows에서는 루트 폴더의 `NeonStrike.exe`를 실행하면 게임 창과 서버가 함께 시작됩니다. 서버만 운영하려면 아래 실행 방법을 사용하세요. 수정본은 기본 EXE에 통합되어 별도의 `updated` 폴더가 필요하지 않습니다.
+
+### 서버 PC에서 다른 작업을 계속하기
+
+수정본은 루트 폴더의 `NeonStrike.exe`와 최신 1.1.2 PC·APK 통합 ZIP에 반영되어 있습니다. 게임 창 없이 서버만 실행하려면 프로젝트 폴더에서 `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Start-Server.ps1`을 실행하세요. 또는 `NeonStrike.exe --host-only`를 사용하세요. 서버는 백그라운드에서 실행되며 게임 창을 닫아도 유지됩니다. 서버 PC에서는 일반 작업과 인터넷 사용을 계속할 수 있습니다.
+
+방화벽 설정은 **관리자 PowerShell**에서 `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\packaging\allow-network.ps1`을 실행하세요. 기본값은 개인 네트워크의 같은 서브넷에서 **현재 위치의 NeonStrike.exe / TCP 8765**에만 접속을 허용합니다. 기존 NeonStrike 규칙도 이 범위로 갱신합니다. EXE를 이동하면 설정을 다시 실행하세요.
+
+인터넷에서 지정한 컴퓨터만 허용하려면 실제 접속자의 공인 IP를 사용하여 `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\packaging\allow-network.ps1 -RemoteAddress 203.0.113.10 -Profile Private`처럼 실행하세요(예시 IP는 실제 IP로 교체). 네트워크가 공용 프로필이면 `-Profile Public`을 사용합니다. 공유기 사용 시 TCP 8765만 서버 PC로 포트 전달해야 합니다. 접속자는 `http://서버주소:8765/`로 게임에 접속합니다.
+
+이 스크립트는 방화벽을 끄거나 다른 서비스의 규칙을 변경하지 않습니다. 따라서 기존 원격 데스크톱·파일 공유 등 별도 허용 규칙이 있으면 해당 서비스는 여전히 접속 가능하며, PC 전체에서 게임만 허용하는 정책을 보장하지 않습니다. 게임 HTTP 서버는 게임 파일 5개와 게임 API만 제공하며 PC의 임의 파일이나 데스크톱을 제공하지 않습니다. 실제 PC 방화벽 설정은 위 스크립트를 실행할 때 적용됩니다.
+
+### 서버 종료
+
+게임 창을 닫는 것만으로 백그라운드 서버가 종료되지는 않습니다. 작업 관리자에서 `NeonStrike.exe`의 서버 프로세스를 종료하거나, 프로젝트 폴더에서 아래 PowerShell 명령을 실행하세요. 이 명령은 현재 폴더의 EXE로 실행된 `--server` 프로세스만 종료합니다.
+
+```powershell
+$serverExe = (Resolve-Path .\NeonStrike.exe).Path
+Get-CimInstance Win32_Process -Filter "Name='NeonStrike.exe'" |
+    Where-Object { $_.ExecutablePath -eq $serverExe -and $_.CommandLine -match '\s--server\s' } |
+    ForEach-Object { Stop-Process -Id $_.ProcessId }
+```
+
+### 일반 게임 실행
+
 Windows에서는 루트 폴더의 `NeonStrike.exe`를 실행하세요.
 
 - Microsoft Edge 전용 저장 프로필의 앱 창으로 실행하고 전체화면 전환

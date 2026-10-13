@@ -31,6 +31,12 @@ namespace NeonStrikeLauncher
                 Extract("bridge.js", Path.Combine(gameDir, "bridge.js"));
                 Extract("NeonStrike.ico", Path.Combine(gameDir, "NeonStrike.ico"));
 
+                if (Array.IndexOf(args, "--host-only") >= 0)
+                {
+                    EnsureServer(gameDir);
+                    return;
+                }
+
                 string edge = FindEdge();
                 if (edge == null)
                 {
