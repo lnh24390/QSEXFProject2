@@ -144,3 +144,7 @@ body.match-playing #mobileEscape{display:block}
 
 /* Show every unoccupied place in the five-player team roster. */
 .lobby-team .empty-slot{min-height:44px;display:grid;place-items:center;letter-spacing:.12em}
+
+#confirmWeaponBtn{min-width:130px;min-height:44px;padding:10px 24px;background:#28e7ff;color:#03141c;border:1px solid #91f4ff;font-weight:800;font-size:16px;cursor:pointer}#confirmWeaponBtn:disabled{opacity:.65;cursor:default}.draft-footer{align-items:center}.draft-weapon-select .weapon:disabled{cursor:default}
+
+#confirmWeaponBtn{min-width:130px;min-height:44px;padding:10px 24px;background:#28e7ff;color:#03141c;font-weight:800;font-size:16px;cursor:pointer}#confirmWeaponBtn:disabled{opacity:.65;cursor:default}.draft-footer{align-items:center}
